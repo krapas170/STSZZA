@@ -28,7 +28,7 @@ class PassengerView(QWidget):
         self._setup_ui()
 
     def _setup_ui(self) -> None:
-        self.setStyleSheet("background-color: #0a1628;")
+        self.setStyleSheet("background-color: #001199;")
         outer = QHBoxLayout(self)
         outer.setContentsMargins(0, 0, 0, 0)
 
@@ -38,10 +38,10 @@ class PassengerView(QWidget):
             Qt.ScrollBarPolicy.ScrollBarAsNeeded)
         self._scroll.setVerticalScrollBarPolicy(
             Qt.ScrollBarPolicy.ScrollBarAlwaysOff)
-        self._scroll.setStyleSheet("border: none; background-color: #0a1628;")
+        self._scroll.setStyleSheet("border: none; background-color: #001199;")
 
         self._container = QWidget()
-        self._container.setStyleSheet("background-color: #0a1628;")
+        self._container.setStyleSheet("background-color: #001199;")
         self._layout = QHBoxLayout(self._container)
         self._layout.setContentsMargins(8, 8, 8, 8)
         self._layout.setSpacing(4)

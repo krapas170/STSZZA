@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import List
 
-from PyQt6.QtCore import Qt
+from PyQt6.QtCore import Qt, QTimer
 from PyQt6.QtWidgets import (
     QFrame,
     QHBoxLayout,
@@ -15,83 +15,78 @@ from PyQt6.QtWidgets import (
 from ...logic.train_manager import DisplayEntry
 from ...utils.time_utils import delay_str, ms_to_hhmm
 
-# ── Klassische ZZA-Farbpalette (amber auf dunkelblau) ────────────────────────
-_BG_BOARD    = "#0a0e1a"
-_BG_HEADER   = "#0d1520"
-_BG_MAIN     = "#0d1520"
-_BG_NEXT     = "#080c14"
-_BG_DIVIDER  = "#1a2a40"
-
-_FG_AMBER    = "#ffb300"   # Hauptfarbe: amber/orange
-_FG_AMBER_DIM = "#996800"  # gedämpft für Nebeninfos
-_FG_WHITE    = "#e8eaf0"
-_FG_GLEIS    = "#00c8ff"   # helles Cyan für Gleisanzeige
-_FG_DELAY    = "#ff4444"   # Rot für Verspätung
-_FG_DIM      = "#3a4a5a"
-_FG_NEW      = "#44ff88"   # Grün für unbekannte Züge
+# ── Klassische ZuDis-Farbpalette ─────────────────────────────────────────────
+_BG_BLUE      = "#0033cc"   # Kobaltblau — Haupthintergrund
+_BG_DARK      = "#002299"   # etwas dunkler für Header / Trennzeile
+_BG_NEXT      = "#002aaa"   # Folge-Züge-Bereich
+_FG_WHITE     = "#ffffff"
+_FG_DIM       = "#8899dd"   # gedämpft für Nebeninfos
+_FG_DELAY     = "#ffdd00"   # Gelb für Verspätung (gut sichtbar auf Blau)
+_SEP          = "#001888"   # Trennlinie
 
 
-def _lbl(text: str, color: str, size: int = 11, bold: bool = False,
+def _lbl(text: str,
+         color: str = _FG_WHITE,
+         size: int = 11,
+         bold: bool = False,
          align=Qt.AlignmentFlag.AlignVCenter | Qt.AlignmentFlag.AlignLeft,
          wrap: bool = False) -> QLabel:
     lbl = QLabel(text)
     lbl.setAlignment(align)
-    style = f"color:{color}; font-size:{size}pt; background:transparent;"
+    s = f"color:{color}; font-size:{size}pt; background:transparent;"
     if bold:
-        style += " font-weight:bold;"
-    lbl.setStyleSheet(style)
+        s += " font-weight:bold;"
+    lbl.setStyleSheet(s)
     lbl.setWordWrap(wrap)
     lbl.setContentsMargins(0, 0, 0, 0)
     return lbl
 
 
-class _Divider(QFrame):
+class _HSep(QFrame):
     def __init__(self, parent=None):
         super().__init__(parent)
         self.setFrameShape(QFrame.Shape.HLine)
         self.setFixedHeight(1)
-        self.setStyleSheet(f"background-color:{_BG_DIVIDER}; border:none;")
+        self.setStyleSheet(f"background-color:{_SEP}; border:none;")
 
 
 class _MainTrainWidget(QWidget):
-    """Zeigt den nächsten Zug groß an — klassische ZZA-Hauptanzeige."""
+    """Nächster Zug — große Zieldarstellung im ZuDis-Stil."""
 
     def __init__(self, entry: DisplayEntry, parent=None) -> None:
         super().__init__(parent)
-        self.setStyleSheet(f"background-color:{_BG_MAIN};")
+        self.setStyleSheet(f"background-color:{_BG_BLUE};")
+
         layout = QVBoxLayout(self)
-        layout.setContentsMargins(12, 10, 12, 10)
-        layout.setSpacing(4)
+        layout.setContentsMargins(10, 8, 10, 8)
+        layout.setSpacing(3)
 
         # ── Zeile 1: Abfahrtszeit + Zugname ──────────────────────────────────
         row1 = QHBoxLayout()
-        row1.setSpacing(10)
+        row1.setSpacing(12)
 
-        ab = ms_to_hhmm(entry.ab)
-        time_lbl = _lbl(ab, _FG_AMBER, size=22, bold=True)
-        time_lbl.setFixedWidth(80)
+        time_lbl = _lbl(ms_to_hhmm(entry.ab), size=18, bold=True)
+        time_lbl.setFixedWidth(72)
         row1.addWidget(time_lbl)
 
-        name_color = _FG_NEW if entry.is_new else _FG_WHITE
-        name_lbl = _lbl(entry.name, name_color, size=15, bold=True)
+        name_lbl = _lbl(entry.name, size=14, bold=True)
         row1.addWidget(name_lbl, stretch=1)
 
-        # Verspätung
         if entry.verspaetung > 0:
-            delay_lbl = _lbl(delay_str(entry.verspaetung), _FG_DELAY,
-                             size=11, bold=True)
-            row1.addWidget(delay_lbl)
+            d_lbl = _lbl(delay_str(entry.verspaetung), _FG_DELAY,
+                         size=11, bold=True)
+            row1.addWidget(d_lbl)
 
         layout.addLayout(row1)
 
-        # ── Zeile 2: Ziel ─────────────────────────────────────────────────────
+        # ── Zeile 2: Ziel (groß) ──────────────────────────────────────────────
         nach = entry.nach or "–"
-        nach_lbl = _lbl(f"▶  {nach}", _FG_AMBER, size=14, bold=True)
+        nach_lbl = _lbl(nach, size=20, bold=True, wrap=True)
         layout.addWidget(nach_lbl)
 
-        # ── Zeile 3: Von (Herkunft) ───────────────────────────────────────────
+        # ── Zeile 3: Von ──────────────────────────────────────────────────────
         if entry.von:
-            von_lbl = _lbl(f"   von {entry.von}", _FG_AMBER_DIM, size=10)
+            von_lbl = _lbl(f"von {entry.von}", _FG_DIM, size=9)
             layout.addWidget(von_lbl)
 
 
@@ -101,54 +96,89 @@ class _NextTrainRow(QWidget):
     def __init__(self, entry: DisplayEntry, parent=None) -> None:
         super().__init__(parent)
         self.setStyleSheet(f"background-color:{_BG_NEXT};")
-        self.setFixedHeight(26)
+        self.setFixedHeight(24)
 
         layout = QHBoxLayout(self)
-        layout.setContentsMargins(12, 0, 12, 0)
+        layout.setContentsMargins(10, 0, 10, 0)
         layout.setSpacing(8)
 
-        time_lbl = _lbl(ms_to_hhmm(entry.ab), _FG_AMBER_DIM, size=10, bold=True)
-        time_lbl.setFixedWidth(44)
-        layout.addWidget(time_lbl)
+        t = _lbl(ms_to_hhmm(entry.ab), _FG_DIM, size=9, bold=True)
+        t.setFixedWidth(40)
+        layout.addWidget(t)
 
-        name_lbl = _lbl(entry.name, _FG_DIM, size=10)
-        name_lbl.setFixedWidth(80)
-        layout.addWidget(name_lbl)
+        n = _lbl(entry.name, _FG_DIM, size=9)
+        n.setFixedWidth(72)
+        layout.addWidget(n)
 
-        nach_lbl = _lbl(entry.nach or "–", _FG_DIM, size=10)
-        layout.addWidget(nach_lbl, stretch=1)
+        z = _lbl(entry.nach or "–", _FG_DIM, size=9)
+        layout.addWidget(z, stretch=1)
 
         if entry.verspaetung > 0:
-            d = _lbl(delay_str(entry.verspaetung), _FG_DELAY, size=9)
-            layout.addWidget(d)
+            layout.addWidget(_lbl(delay_str(entry.verspaetung), _FG_DELAY, size=8))
+
+
+class _TickerWidget(QWidget):
+    """Scrollender Infoband am unteren Rand — wie beim echten ZuDis."""
+
+    _STEP_MS  = 30    # Pixel-Schritt-Intervall
+    _STEP_PX  = 1     # Pixel pro Schritt
+    _PAUSE_MS = 3000  # Pause am Anfang
+
+    def __init__(self, parent=None) -> None:
+        super().__init__(parent)
+        self.setFixedHeight(22)
+        self.setStyleSheet(f"background-color:{_BG_DARK}; overflow:hidden;")
+
+        self._container = QWidget(self)
+        self._container.setStyleSheet("background:transparent;")
+        row = QHBoxLayout(self._container)
+        row.setContentsMargins(8, 0, 8, 0)
+        row.setSpacing(40)
+
+        self._lbl = QLabel()
+        self._lbl.setStyleSheet(
+            f"color:{_FG_DIM}; font-size:9pt; background:transparent;")
+        row.addWidget(self._lbl)
+
+        self._offset = 0
+        self._timer = QTimer(self)
+        self._timer.timeout.connect(self._scroll)
+
+    def set_text(self, text: str) -> None:
+        self._lbl.setText(text)
+        self._container.adjustSize()
+        self._offset = 0
+        self._container.move(0, 1)
+        self._timer.stop()
+        QTimer.singleShot(self._PAUSE_MS, self._timer.start)
+        self._timer.setInterval(self._STEP_MS)
+
+    def _scroll(self) -> None:
+        self._offset += self._STEP_PX
+        w = self._container.width()
+        if self._offset > w + self.width():
+            self._offset = -self.width()
+        self._container.move(-self._offset, 1)
 
 
 class DepartureBoardWidget(QWidget):
     """
-    Klassische Zugzielanzeige für ein einzelnes Gleis.
+    Klassische ZuDis-Zugzielanzeige für ein einzelnes Gleis.
 
-    Layout:
-    ┌─────────────────────────────┐
-    │  GLEIS X                    │  ← Kopfzeile
-    ├─────────────────────────────┤
-    │  08:42  IC 2012             │
-    │  ▶  München Hbf             │  ← Nächster Zug (groß)
-    │     von Oberstdorf          │
-    ├─────────────────────────────┤
-    │  09:15  RE 57  Ulm Hbf      │  ← Folgende Züge (klein)
-    │  10:03  ALX    Oberstdorf   │
-    └─────────────────────────────┘
+    Kobaltblauer Hintergrund, weißer Text, große Zieldarstellung.
+    Folge-Züge werden kompakt darunter aufgelistet.
+    Am unteren Rand scrollt ein Infoband.
     """
 
-    _MAX_NEXT = 4  # max. Folge-Züge anzeigen
+    _MAX_NEXT = 3
 
     def __init__(self, platform: str, parent=None) -> None:
-        super().__init__(parent)
+        super().__init__(platform)
         self._platform = platform
-        self.setMinimumWidth(260)
+        self.setMinimumWidth(240)
         self.setSizePolicy(
             QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Expanding)
-        self.setStyleSheet(f"background-color:{_BG_BOARD};")
+        self.setStyleSheet(f"background-color:{_BG_BLUE};")
         self._setup_ui()
 
     def _setup_ui(self) -> None:
@@ -156,38 +186,41 @@ class DepartureBoardWidget(QWidget):
         self._outer.setContentsMargins(0, 0, 0, 0)
         self._outer.setSpacing(0)
 
-        # ── Kopfzeile ─────────────────────────────────────────────────────────
+        # ── Kopfzeile: Gleis ──────────────────────────────────────────────────
         header = QWidget()
-        header.setStyleSheet(f"background-color:{_BG_HEADER};")
-        header.setFixedHeight(36)
+        header.setStyleSheet(f"background-color:{_BG_DARK};")
+        header.setFixedHeight(30)
         h_row = QHBoxLayout(header)
-        h_row.setContentsMargins(12, 0, 12, 0)
-        h_row.addWidget(_lbl("GLEIS", _FG_DIM, size=9))
-        h_row.addWidget(_lbl(f" {self._platform}", _FG_GLEIS, size=14, bold=True))
+        h_row.setContentsMargins(10, 0, 10, 0)
+        h_row.addWidget(_lbl("Gleis", _FG_DIM, size=9))
+        h_row.addWidget(_lbl(f" {self._platform}", size=12, bold=True))
         h_row.addStretch()
         self._outer.addWidget(header)
-        self._outer.addWidget(_Divider())
+        self._outer.addWidget(_HSep())
 
         # ── Hauptbereich (nächster Zug) ───────────────────────────────────────
         self._main_area = QWidget()
-        self._main_area.setStyleSheet(f"background-color:{_BG_MAIN};")
+        self._main_area.setStyleSheet(f"background-color:{_BG_BLUE};")
         self._main_layout = QVBoxLayout(self._main_area)
         self._main_layout.setContentsMargins(0, 0, 0, 0)
         self._main_layout.setSpacing(0)
         self._outer.addWidget(self._main_area)
 
-        # ── "Keine Züge"-Label ────────────────────────────────────────────────
+        # ── "Kein Zug" placeholder ───────────────────────────────────────────
         self._empty_lbl = _lbl(
-            "Kein Zug angekündigt", _FG_DIM, size=10,
+            "Kein Zug angekündigt", _FG_DIM, size=9,
             align=Qt.AlignmentFlag.AlignCenter,
         )
-        self._empty_lbl.setContentsMargins(0, 20, 0, 20)
+        self._empty_lbl.setContentsMargins(0, 16, 0, 16)
         self._outer.addWidget(self._empty_lbl)
-
         self._outer.addStretch()
 
+        # ── Ticker ────────────────────────────────────────────────────────────
+        self._outer.addWidget(_HSep())
+        self._ticker = _TickerWidget()
+        self._outer.addWidget(self._ticker)
+
     def refresh(self, entries: List[DisplayEntry]) -> None:
-        # Alten Inhalt entfernen
         while self._main_layout.count():
             item = self._main_layout.takeAt(0)
             if item.widget():
@@ -196,20 +229,30 @@ class DepartureBoardWidget(QWidget):
         if not entries:
             self._main_area.hide()
             self._empty_lbl.show()
+            self._ticker.set_text(
+                f"Gleis {self._platform}  –  Kein Zug angekündigt")
             return
 
         self._empty_lbl.hide()
         self._main_area.show()
 
-        # Nächster Zug — groß
-        main_widget = _MainTrainWidget(entries[0])
-        self._main_layout.addWidget(main_widget)
+        # Nächster Zug
+        self._main_layout.addWidget(_MainTrainWidget(entries[0]))
 
-        # Folgende Züge — kompakt
+        # Folgende Züge
         following = entries[1:1 + self._MAX_NEXT]
         if following:
-            self._main_layout.addWidget(_Divider())
-            for entry in following:
-                self._main_layout.addWidget(_NextTrainRow(entry))
+            self._main_layout.addWidget(_HSep())
+            for e in following:
+                self._main_layout.addWidget(_NextTrainRow(e))
 
         self._main_layout.addStretch()
+
+        # Ticker-Text aus Einträgen zusammenstellen
+        parts = []
+        for e in entries:
+            parts.append(
+                f"{ms_to_hhmm(e.ab)}  {e.name}  {e.nach or '–'}"
+                + (f"  {delay_str(e.verspaetung)}" if e.verspaetung > 0 else "")
+            )
+        self._ticker.set_text("     ·     ".join(parts))
