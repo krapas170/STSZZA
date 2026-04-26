@@ -95,11 +95,15 @@ class ZugManager:
     # ------------------------------------------------------------------
 
     def get_plangleis_for_display(self, zid: int) -> Optional[str]:
-        """Returns the live plangleis as reported by STS."""
+        """
+        Returns the track to show on the ZZA.
+        Uses the actual live gleis (dispatcher assignment) and falls back to
+        plangleis only if gleis is not set.
+        """
         record = self._zuege.get(zid)
         if record is None:
             return None
-        return record.details.plangleis or None
+        return record.details.gleis or record.details.plangleis or None
 
     def get_display_data_for_platform(self, platform: str) -> List[DisplayEntry]:
         """
