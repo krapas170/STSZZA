@@ -53,7 +53,7 @@ class EditorDialog(QDialog):
         info = QLabel(
             "Die folgenden Züge wurden im Spiel erkannt, "
             "sind aber noch nicht in der Konfiguration.\n"
-            "Fehlende Angaben ergänzen und auf „Speichern" klicken."
+            'Fehlende Angaben ergänzen und auf "Speichern" klicken.'
         )
         info.setWordWrap(True)
         layout.addWidget(info)

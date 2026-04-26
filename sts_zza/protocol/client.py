@@ -223,14 +223,13 @@ class STSClient(QObject):
                 return
             zid = int(zid_str)
             plan = ZugFahrplan(zid=zid)
+            from ..utils.time_utils import hhmm_to_ms
             for gl in elem.findall("gleis"):
-                an_str = gl.get("an")
-                ab_str = gl.get("ab")
                 plan.zeilen.append(FahrplanZeile(
                     plan=gl.get("plan", ""),
                     name=gl.get("name", ""),
-                    an=int(an_str) if an_str else None,
-                    ab=int(ab_str) if ab_str else None,
+                    an=hhmm_to_ms(gl.get("an")),
+                    ab=hhmm_to_ms(gl.get("ab")),
                     flags=gl.get("flags", ""),
                     hinweistext=gl.get("hinweistext", ""),
                 ))
