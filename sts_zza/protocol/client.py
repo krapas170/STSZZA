@@ -197,6 +197,11 @@ class STSClient(QObject):
             if zid_str is None:
                 return
             zid = int(zid_str)
+            logger.debug(
+                "zugdetails zid=%s name=%r plangleis=%r gleis=%r sichtbar=%r attrs=%s",
+                zid_str, elem.get("name"), elem.get("plangleis"),
+                elem.get("gleis"), elem.get("sichtbar"), dict(elem.attrib),
+            )
             details = ZugDetails(
                 zid=zid,
                 name=elem.get("name", ""),
