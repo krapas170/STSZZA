@@ -153,7 +153,7 @@ class ZZAMainWindow(QMainWindow):
 
     def _on_bahnsteigliste(self, bahnsteige: List[BahnsteigInfo]) -> None:
         from .platform_selector import PlatformSelectorDialog
-        dlg = PlatformSelectorDialog(bahnsteige, self)
+        dlg = PlatformSelectorDialog(bahnsteige, self._config.bahnsteige, self)
         if not dlg.exec():
             self.statusBar().showMessage("Keine Bahnsteige ausgewählt.")
             return

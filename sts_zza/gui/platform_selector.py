@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import List
+from typing import List, Set
 
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import (
@@ -22,28 +22,44 @@ class PlatformSelectorDialog(QDialog):
     Startup dialog that lets the user choose which platforms (Bahnsteige)
     should appear on the ZZA boards.
 
-    Platforms with haltepunkt=True are pre-checked.
+    Pre-selection priority:
+    1. Saved config (config_bahnsteige) if not empty → restore last selection
+    2. Otherwise nothing pre-selected → user decides from scratch
+
+    Note: STS sends haltepunkt=true for *neighbouring* stops outside the
+    station (e.g. "A - Biessenhofen"), NOT for the numbered station tracks.
+    We therefore ignore the haltepunkt flag for pre-selection.
     """
 
-    def __init__(self, bahnsteige: List[BahnsteigInfo], parent=None) -> None:
+    def __init__(self,
+                 bahnsteige: List[BahnsteigInfo],
+                 config_bahnsteige: List[str] | None = None,
+                 parent=None) -> None:
         super().__init__(parent)
         self.setWindowTitle("Bahnsteig-Auswahl")
         self.setMinimumSize(360, 480)
-        self._setup_ui(bahnsteige)
+        self._setup_ui(bahnsteige, set(config_bahnsteige or []))
 
-    def _setup_ui(self, bahnsteige: List[BahnsteigInfo]) -> None:
+    def _setup_ui(self, bahnsteige: List[BahnsteigInfo],
+                  saved: Set[str]) -> None:
         layout = QVBoxLayout(self)
 
+        if saved:
+            hint = "Vorausgewählt: zuletzt gespeicherte Auswahl."
+        else:
+            hint = "Erstauswahl — bitte die anzuzeigenden Gleise wählen."
+
         layout.addWidget(QLabel(
-            "Bitte die anzuzeigenden Bahnsteige auswählen.\n"
-            "Vorausgewählt sind alle Haltepunkte."
+            "Bitte die anzuzeigenden Bahnsteige auswählen.\n" + hint
         ))
 
         self._list = QListWidget()
         for b in sorted(bahnsteige, key=lambda x: x.name):
             item = QListWidgetItem(b.name)
             item.setFlags(item.flags() | Qt.ItemFlag.ItemIsUserCheckable)
-            state = Qt.CheckState.Checked if b.haltepunkt else Qt.CheckState.Unchecked
+            state = (Qt.CheckState.Checked
+                     if b.name in saved
+                     else Qt.CheckState.Unchecked)
             item.setCheckState(state)
             self._list.addItem(item)
         layout.addWidget(self._list)
