@@ -1,10 +1,16 @@
+import copy
 import xml.etree.ElementTree as ET
 from sts_zza.protocol.parser import STSStreamParser
 
 
 def _collect_elements(chunks: list[bytes]) -> list[ET.Element]:
+    """Collect deep-copied elements (parser clears originals after callback)."""
     results = []
-    parser = STSStreamParser(on_element=results.append)
+
+    def collect(elem: ET.Element) -> None:
+        results.append(copy.deepcopy(elem))
+
+    parser = STSStreamParser(on_element=collect)
     for chunk in chunks:
         parser.feed(chunk)
     return results
