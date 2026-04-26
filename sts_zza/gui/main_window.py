@@ -37,7 +37,7 @@ class _PlaceholderView(QWidget):
         label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         label.setStyleSheet("color: #8899aa; font-size: 13pt;")
         layout.addWidget(label)
-        self.setStyleSheet("background-color: #0a1628;")
+        self.setStyleSheet("background-color: #000000;")
 
 
 class ZZAMainWindow(QMainWindow):
@@ -119,7 +119,7 @@ class ZZAMainWindow(QMainWindow):
 
         status_bar = QStatusBar()
         status_bar.setStyleSheet(
-            "QStatusBar { background-color: #1b2838; color: #8899aa; }")
+            "QStatusBar { background-color: #111111; color: #8899aa; }")
         self.setStatusBar(status_bar)
         self.statusBar().showMessage("Verbinde …")
 

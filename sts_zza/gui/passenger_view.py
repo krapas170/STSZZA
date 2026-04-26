@@ -33,7 +33,7 @@ class PassengerView(QWidget):
         self._setup_ui()
 
     def _setup_ui(self) -> None:
-        self.setStyleSheet("background-color: #001199;")
+        self.setStyleSheet("background-color: #000000;")
 
         from PyQt6.QtWidgets import QVBoxLayout
         outer = QVBoxLayout(self)
@@ -45,13 +45,13 @@ class PassengerView(QWidget):
             Qt.ScrollBarPolicy.ScrollBarAlwaysOff)
         self._scroll.setVerticalScrollBarPolicy(
             Qt.ScrollBarPolicy.ScrollBarAsNeeded)
-        self._scroll.setStyleSheet("border: none; background-color: #001199;")
+        self._scroll.setStyleSheet("border: none; background-color: #000000;")
 
         self._container = QWidget()
-        self._container.setStyleSheet("background-color: #001199;")
+        self._container.setStyleSheet("background-color: #000000;")
         self._grid = QGridLayout(self._container)
-        self._grid.setContentsMargins(4, 4, 4, 4)
-        self._grid.setSpacing(4)
+        self._grid.setContentsMargins(8, 8, 8, 8)
+        self._grid.setSpacing(8)
 
         self._scroll.setWidget(self._container)
         outer.addWidget(self._scroll)
@@ -99,11 +99,9 @@ class PassengerView(QWidget):
             if item.widget():
                 item.widget().setParent(None)  # type: ignore[arg-type]
 
-        # Clear stretch factors
+        # Clear old column stretch factors
         for c in range(self._grid.columnCount() + n_cols + 1):
             self._grid.setColumnStretch(c, 0)
-        for r in range(self._grid.rowCount() + 10):
-            self._grid.setRowStretch(r, 0)
 
         # (Re)create boards and populate grid
         for i, platform in enumerate(self._platforms):
@@ -115,11 +113,6 @@ class PassengerView(QWidget):
             row, col = divmod(i, n_cols)
             self._grid.addWidget(self._boards[platform], row, col)
 
-        # Equal column widths
+        # Equal column widths; rows take natural height (vertical scroll handles overflow)
         for c in range(n_cols):
             self._grid.setColumnStretch(c, 1)
-
-        # Equal row heights
-        n_rows = max(1, (len(self._platforms) + n_cols - 1) // n_cols)
-        for r in range(n_rows):
-            self._grid.setRowStretch(r, 1)
