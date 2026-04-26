@@ -171,10 +171,15 @@ class STSClient(QObject):
             result = []
             for b in elem.findall("bahnsteig"):
                 nachbarn = {n.get("name", "") for n in b.findall("n")}
+                hp_raw = b.get("haltepunkt", "")
+                logger.debug(
+                    "Bahnsteig '%s': haltepunkt=%r attrs=%s",
+                    b.get("name"), hp_raw, b.attrib,
+                )
                 result.append(BahnsteigInfo(
                     name=b.get("name", ""),
                     nachbarn=nachbarn,
-                    haltepunkt=b.get("haltepunkt", "false").lower() == "true",
+                    haltepunkt=hp_raw.lower() in ("true", "1"),
                 ))
             self.sig_bahnsteigliste.emit(result)
 

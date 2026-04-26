@@ -19,6 +19,20 @@ class ZugRecord:
     is_new: bool = False
 
 
+@dataclass
+class DisplayEntry:
+    """Ready-to-render data for one train on a ZZA board."""
+    zid: int
+    name: str
+    von: str
+    nach: str
+    plangleis: str
+    verspaetung: int
+    ab: Optional[int]   # departure ms since midnight
+    an: Optional[int]   # arrival ms since midnight
+    is_new: bool = False
+
+
 class ZugManager:
     """
     Central in-memory state for all active trains.
@@ -45,9 +59,7 @@ class ZugManager:
         for zid in list(self._zuege):
             if zid not in current_zids:
                 del self._zuege[zid]
-
-        new_zids = [zid for zid in current_zids if zid not in self._zuege]
-        return new_zids
+        return [zid for zid in current_zids if zid not in self._zuege]
 
     def update_details(self, zid: int, details: ZugDetails) -> bool:
         """
@@ -67,6 +79,11 @@ class ZugManager:
 
         old_plangleis = self._zuege[zid].details.plangleis
         self._zuege[zid].details = details
+        # Update config entry in case config was updated since last seen
+        if details.name in self._config.zuege:
+            self._zuege[zid].config_eintrag = self._config.zuege[details.name]
+            self._zuege[zid].is_new = False
+            self._capture_list.pop(details.name, None)
         return old_plangleis != details.plangleis
 
     def update_fahrplan(self, zid: int, plan: ZugFahrplan) -> None:
@@ -79,10 +96,9 @@ class ZugManager:
 
     def get_plangleis_for_display(self, zid: int) -> Optional[str]:
         """
-        Returns the planned track to show on the ZZA board.
-
-        Priority: XML-config plangleis (stable even after in-game rerouting)
-        > live plangleis from STS.
+        Returns the planned track for ZZA display.
+        Config plangleis takes priority over live plangleis so rerouted
+        trains still show their originally scheduled platform.
         """
         record = self._zuege.get(zid)
         if record is None:
@@ -91,16 +107,58 @@ class ZugManager:
             return record.config_eintrag.plangleis
         return record.details.plangleis or None
 
+    def get_display_data_for_platform(self, platform: str) -> List[DisplayEntry]:
+        """
+        Returns display-ready entries for trains scheduled to stop at platform,
+        sorted by departure time (trains without a time come last).
+        """
+        entries: List[DisplayEntry] = []
+        for zid, record in self._zuege.items():
+            display_plangleis = self.get_plangleis_for_display(zid)
+            if display_plangleis != platform:
+                continue
+            if not record.details.sichtbar:
+                continue
+
+            ab_time: Optional[int] = None
+            an_time: Optional[int] = None
+            if record.fahrplan:
+                for zeile in record.fahrplan.zeilen:
+                    if zeile.plan == platform or zeile.name == platform:
+                        ab_time = zeile.ab
+                        an_time = zeile.an
+                        break
+
+            # Prefer config von/nach for display if available
+            cfg = record.config_eintrag
+            von = cfg.von if cfg and cfg.von else record.details.von
+            nach = cfg.nach if cfg and cfg.nach else record.details.nach
+
+            entries.append(DisplayEntry(
+                zid=zid,
+                name=record.details.name,
+                von=von,
+                nach=nach,
+                plangleis=display_plangleis,
+                verspaetung=record.details.verspaetung,
+                ab=ab_time,
+                an=an_time,
+                is_new=record.is_new,
+            ))
+
+        entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
+        return entries
+
+    def get_all_display_data(self, platforms: List[str]) -> List[DisplayEntry]:
+        """All entries for the given platforms, sorted by departure time."""
+        entries: List[DisplayEntry] = []
+        for p in platforms:
+            entries.extend(self.get_display_data_for_platform(p))
+        entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
+        return entries
+
     def get_capture_list(self) -> Dict[str, ZugDetails]:
         return dict(self._capture_list)
-
-    def get_trains_for_platform(self, platform_name: str) -> List[ZugRecord]:
-        """All trains whose display plangleis matches platform_name."""
-        result = []
-        for zid, record in self._zuege.items():
-            if self.get_plangleis_for_display(zid) == platform_name:
-                result.append(record)
-        return result
 
     def get_all_records(self) -> List[ZugRecord]:
         return list(self._zuege.values())
