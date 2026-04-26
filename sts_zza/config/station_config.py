@@ -14,12 +14,15 @@ ENCODING = "iso-8859-1"
 
 @dataclass
 class ZugEintrag:
-    """One train entry stored in the station config XML."""
+    """One train entry stored in the station config XML.
+
+    Only holds display overrides (von/nach/via). The platform assignment
+    always comes from live STS data, never from this config.
+    """
     name: str
     von: str = ""
     nach: str = ""
     via: List[str] = field(default_factory=list)
-    plangleis: str = ""
 
 
 @dataclass
@@ -68,7 +71,6 @@ class StationConfig:
                 von=z.get("von", ""),
                 nach=z.get("nach", ""),
                 via=via,
-                plangleis=z.get("plangleis", ""),
             )
         logger.info("Loaded config for '%s': %d Bahnsteige, %d Züge",
                     self.station_name, len(self.bahnsteige), len(self.zuege))
@@ -87,7 +89,6 @@ class StationConfig:
                 name=zug.name,
                 von=zug.von,
                 nach=zug.nach,
-                plangleis=zug.plangleis,
             )
             for v in zug.via:
                 ET.SubElement(z_elem, "via", name=v)

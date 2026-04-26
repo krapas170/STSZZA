@@ -21,13 +21,12 @@ from ..protocol.models import ZugDetails
 
 logger = logging.getLogger(__name__)
 
-_COLS = ["Zugname", "Gleis (plan)", "Von", "Nach", "Via (kommagetrennt)"]
+_COLS = ["Zugname", "Von", "Nach", "Via (kommagetrennt)"]
 
 _COL_NAME   = 0
-_COL_GLEIS  = 1
-_COL_VON    = 2
-_COL_NACH   = 3
-_COL_VIA    = 4
+_COL_VON    = 1
+_COL_NACH   = 2
+_COL_VIA    = 3
 
 
 class EditorDialog(QDialog):
@@ -67,6 +66,7 @@ class EditorDialog(QDialog):
         hdr = self._table.horizontalHeader()
         hdr.setSectionResizeMode(QHeaderView.ResizeMode.ResizeToContents)
         hdr.setSectionResizeMode(_COL_NACH, QHeaderView.ResizeMode.Stretch)
+        hdr.setSectionResizeMode(_COL_VIA,  QHeaderView.ResizeMode.Stretch)
 
         layout.addWidget(self._table)
 
@@ -88,23 +88,20 @@ class EditorDialog(QDialog):
             name_item.setFlags(name_item.flags() & ~Qt.ItemFlag.ItemIsEditable)
             self._table.setItem(row, _COL_NAME, name_item)
 
-            self._table.setItem(row, _COL_GLEIS, QTableWidgetItem(details.plangleis or ""))
-            self._table.setItem(row, _COL_VON,   QTableWidgetItem(details.von))
-            self._table.setItem(row, _COL_NACH,  QTableWidgetItem(details.nach))
-            self._table.setItem(row, _COL_VIA,   QTableWidgetItem(""))
+            self._table.setItem(row, _COL_VON,  QTableWidgetItem(details.von))
+            self._table.setItem(row, _COL_NACH, QTableWidgetItem(details.nach))
+            self._table.setItem(row, _COL_VIA,  QTableWidgetItem(""))
 
     def _save_selected(self) -> None:
         saved = 0
         for row in range(self._table.rowCount()):
-            name      = self._table.item(row, _COL_NAME).text()
-            plangleis = self._table.item(row, _COL_GLEIS).text().strip()
-            von       = self._table.item(row, _COL_VON).text().strip()
-            nach      = self._table.item(row, _COL_NACH).text().strip()
-            via_raw   = self._table.item(row, _COL_VIA).text()
-            via       = [v.strip() for v in via_raw.split(",") if v.strip()]
+            name    = self._table.item(row, _COL_NAME).text()
+            von     = self._table.item(row, _COL_VON).text().strip()
+            nach    = self._table.item(row, _COL_NACH).text().strip()
+            via_raw = self._table.item(row, _COL_VIA).text()
+            via     = [v.strip() for v in via_raw.split(",") if v.strip()]
 
-            entry = ZugEintrag(
-                name=name, von=von, nach=nach, via=via, plangleis=plangleis)
+            entry = ZugEintrag(name=name, von=von, nach=nach, via=via)
             self._zug_manager._config.zuege[name] = entry
             saved += 1
 

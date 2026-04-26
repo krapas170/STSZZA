@@ -95,16 +95,10 @@ class ZugManager:
     # ------------------------------------------------------------------
 
     def get_plangleis_for_display(self, zid: int) -> Optional[str]:
-        """
-        Returns the planned track for ZZA display.
-        Config plangleis takes priority over live plangleis so rerouted
-        trains still show their originally scheduled platform.
-        """
+        """Returns the live plangleis as reported by STS."""
         record = self._zuege.get(zid)
         if record is None:
             return None
-        if record.config_eintrag and record.config_eintrag.plangleis:
-            return record.config_eintrag.plangleis
         return record.details.plangleis or None
 
     def get_display_data_for_platform(self, platform: str) -> List[DisplayEntry]:

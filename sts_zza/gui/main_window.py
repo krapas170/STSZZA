@@ -185,12 +185,27 @@ class ZZAMainWindow(QMainWindow):
             self._client.request_zugdetails(zid)
 
     def _on_zugdetails(self, zid: int, details) -> None:
+        logger.debug(
+            "[STS] zugdetails  zid=%-6s name=%-18s gleis=%-6s plangleis=%-6s "
+            "sichtbar=%-5s amgleis=%-5s vsp=%+d  von=%r  nach=%r  "
+            "usertext=%r  hinweistext=%r",
+            zid, details.name, details.gleis, details.plangleis,
+            details.sichtbar, details.amgleis, details.verspaetung,
+            details.von, details.nach, details.usertext, details.hinweistext,
+        )
         changed = self._zug_manager.update_details(zid, details)
         if changed:
             self._client.request_zugfahrplan(zid)
         self._refresh_views()
 
     def _on_zugfahrplan(self, zid: int, plan) -> None:
+        for z in plan.zeilen:
+            logger.debug(
+                "[STS] fahrplan    zid=%-6s  plan=%-8s  name=%-8s  "
+                "an=%-7s  ab=%-7s  flags=%r  hinweis=%r",
+                plan.zid, z.plan, z.name,
+                z.an, z.ab, z.flags, z.hinweistext,
+            )
         self._zug_manager.update_fahrplan(zid, plan)
         self._refresh_views()
 
