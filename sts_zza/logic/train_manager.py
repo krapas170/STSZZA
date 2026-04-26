@@ -117,8 +117,6 @@ class ZugManager:
             display_plangleis = self.get_plangleis_for_display(zid)
             if display_plangleis != platform:
                 continue
-            if not record.details.sichtbar:
-                continue
 
             ab_time: Optional[int] = None
             an_time: Optional[int] = None

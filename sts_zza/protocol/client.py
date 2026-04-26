@@ -172,10 +172,6 @@ class STSClient(QObject):
             for b in elem.findall("bahnsteig"):
                 nachbarn = {n.get("name", "") for n in b.findall("n")}
                 hp_raw = b.get("haltepunkt", "")
-                logger.debug(
-                    "Bahnsteig '%s': haltepunkt=%r attrs=%s",
-                    b.get("name"), hp_raw, b.attrib,
-                )
                 result.append(BahnsteigInfo(
                     name=b.get("name", ""),
                     nachbarn=nachbarn,
@@ -197,11 +193,8 @@ class STSClient(QObject):
             if zid_str is None:
                 return
             zid = int(zid_str)
-            logger.debug(
-                "zugdetails zid=%s name=%r plangleis=%r gleis=%r sichtbar=%r attrs=%s",
-                zid_str, elem.get("name"), elem.get("plangleis"),
-                elem.get("gleis"), elem.get("sichtbar"), dict(elem.attrib),
-            )
+            if zid < 0:
+                return
             details = ZugDetails(
                 zid=zid,
                 name=elem.get("name", ""),
