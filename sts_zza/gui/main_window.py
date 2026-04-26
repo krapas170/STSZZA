@@ -163,7 +163,6 @@ class ZZAMainWindow(QMainWindow):
         self._config.save()
 
         self._passenger_view.set_platforms(self._selected_platforms)
-        self._dispatcher_view.set_platforms(self._selected_platforms)
 
         self._action_fahrgast.setEnabled(True)
         self._action_fdl.setEnabled(True)

@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-from typing import List
-
 from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QColor
 from PyQt6.QtWidgets import (
@@ -33,13 +31,12 @@ _COLOR_NORMAL = QColor("#1e2d3d")
 
 class DispatcherView(QWidget):
     """
-    Fdl-Ansicht — strukturierte Tabellenansicht aller Züge
-    auf den ausgewählten Gleisen, sortiert nach Abfahrtszeit.
+    Fdl-Ansicht — strukturierte Tabellenansicht aller Züge im Simulator,
+    sortiert nach Abfahrtszeit.
     """
 
     def __init__(self, parent=None) -> None:
         super().__init__(parent)
-        self._platforms: List[str] = []
         self._setup_ui()
 
     def _setup_ui(self) -> None:
@@ -81,11 +78,8 @@ class DispatcherView(QWidget):
 
         layout.addWidget(self._table)
 
-    def set_platforms(self, platforms: List[str]) -> None:
-        self._platforms = platforms
-
     def refresh(self, zug_manager: ZugManager) -> None:
-        entries = zug_manager.get_all_display_data(self._platforms)
+        entries = zug_manager.get_all_trains_display()
 
         self._table.setSortingEnabled(False)
         self._table.setRowCount(len(entries))

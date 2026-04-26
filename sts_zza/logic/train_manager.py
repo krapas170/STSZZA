@@ -155,6 +155,40 @@ class ZugManager:
         entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
         return entries
 
+    def get_all_trains_display(self) -> List[DisplayEntry]:
+        """All known trains regardless of platform, sorted by departure time."""
+        entries: List[DisplayEntry] = []
+        for zid, record in self._zuege.items():
+            display_plangleis = self.get_plangleis_for_display(zid) or record.details.plangleis or "?"
+
+            ab_time: Optional[int] = None
+            an_time: Optional[int] = None
+            if record.fahrplan:
+                for zeile in record.fahrplan.zeilen:
+                    if zeile.plan == display_plangleis or zeile.name == display_plangleis:
+                        ab_time = zeile.ab
+                        an_time = zeile.an
+                        break
+
+            cfg = record.config_eintrag
+            von = cfg.von if cfg and cfg.von else record.details.von
+            nach = cfg.nach if cfg and cfg.nach else record.details.nach
+
+            entries.append(DisplayEntry(
+                zid=zid,
+                name=record.details.name,
+                von=von,
+                nach=nach,
+                plangleis=display_plangleis,
+                verspaetung=record.details.verspaetung,
+                ab=ab_time,
+                an=an_time,
+                is_new=record.is_new,
+            ))
+
+        entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
+        return entries
+
     def get_capture_list(self) -> Dict[str, ZugDetails]:
         return dict(self._capture_list)
 

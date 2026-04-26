@@ -127,7 +127,7 @@ class _TickerWidget(QWidget):
     def __init__(self, parent=None) -> None:
         super().__init__(parent)
         self.setFixedHeight(22)
-        self.setStyleSheet(f"background-color:{_BG_DARK}; overflow:hidden;")
+        self.setStyleSheet(f"background-color:{_BG_DARK};")
 
         self._container = QWidget(self)
         self._container.setStyleSheet("background:transparent;")
