@@ -61,8 +61,8 @@ class STSClient(QObject):
     # ------------------------------------------------------------------
 
     def connect_to_sim(self) -> None:
-        """Start the background connection thread."""
-        if self._running:
+        """Start the background connection thread. Safe to call repeatedly."""
+        if self._thread is not None and self._thread.is_alive():
             return
         self._running = True
         self._registered = False
