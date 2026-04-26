@@ -9,7 +9,7 @@ from typing import Dict, List
 logger = logging.getLogger(__name__)
 
 CONFIGS_DIR = Path(__file__).parent.parent.parent / "configs"
-ENCODING = "iso-8859-1"
+ENCODING = "utf-8"
 
 
 @dataclass
@@ -97,7 +97,7 @@ class StationConfig:
         ET.indent(tree, space="  ")
 
         with open(self.config_path, "wb") as fh:
-            fh.write(b'<?xml version="1.0" encoding="ISO-8859-1"?>\n')
+            fh.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
             tree.write(fh, encoding=ENCODING, xml_declaration=False)
 
         logger.info("Saved config for '%s' → %s", self.station_name, self.config_path)
