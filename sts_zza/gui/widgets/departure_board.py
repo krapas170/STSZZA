@@ -173,7 +173,7 @@ class DepartureBoardWidget(QWidget):
     _MAX_NEXT = 3
 
     def __init__(self, platform: str, parent=None) -> None:
-        super().__init__(platform)
+        super().__init__(parent)
         self._platform = platform
         self.setMinimumWidth(240)
         self.setSizePolicy(
