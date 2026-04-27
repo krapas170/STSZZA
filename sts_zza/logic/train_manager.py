@@ -531,39 +531,48 @@ class ZugManager:
 
             ab_time: Optional[int] = None
             an_time: Optional[int] = None
-            matched = False
             is_terminating = False
             is_durchfahrt = False
 
-            # Primary match: fahrplan entry for this platform
-            if record.fahrplan and record.fahrplan.zeilen:
-                zeilen = record.fahrplan.zeilen
-                for idx, zeile in enumerate(zeilen):
-                    if zeile.plan == platform or zeile.name == platform:
-                        ab_time = zeile.ab
-                        an_time = zeile.an
-                        matched = True
-                        if "D" in (zeile.flags or ""):
-                            is_durchfahrt = True
-                        # Endstation nur, wenn KEINE Abfahrtszeit mehr
-                        # eingetragen ist — der Zug rollt also wirklich
-                        # nicht weiter. Ein „letzter im Fahrplan"-Halt mit
-                        # gesetztem `ab` heißt typischerweise nur, dass der
-                        # Zug aus dem Sim-Bereich heraus weiter fährt
-                        # (z. B. RE/RB, deren Strecke nach München Hbf
-                        # endet, der Zug aber Richtung „Fernbahn" austritt).
-                        if not is_durchfahrt and zeile.ab is None:
-                            is_terminating = True
-                        break
-
-            # Fallback: dispatcher has put the train on this platform live
-            if not matched:
-                live = record.details.gleis or record.details.plangleis
-                if live == platform:
-                    matched = True
-
-            if not matched:
+            # Effektives Gleis = live (Fdl-Zuweisung) > Plan. So zeigt sich
+            # eine Gleis-Umleitung sofort: der Zug verschwindet vom alten
+            # Gleis und erscheint auf dem neuen, statt auf beiden zu stehen.
+            effective_gleis = (record.details.gleis
+                               or record.details.plangleis or "")
+            if effective_gleis != platform:
                 continue
+
+            # Zeit-Daten aus dem Fahrplan: bevorzugt die Zeile zum
+            # ursprünglichen Plangleis (so bleiben An-/Abfahrt korrekt,
+            # auch wenn der Fdl auf ein Gleis ohne eigenen Fahrplan-Eintrag
+            # umgeleitet hat). Fallback: Zeile zum effektiven Gleis.
+            if record.fahrplan and record.fahrplan.zeilen:
+                pgleis = record.details.plangleis or effective_gleis
+                target = None
+                for zeile in record.fahrplan.zeilen:
+                    if zeile.plan == pgleis or zeile.name == pgleis:
+                        target = zeile
+                        break
+                if target is None:
+                    for zeile in record.fahrplan.zeilen:
+                        if (zeile.plan == effective_gleis
+                                or zeile.name == effective_gleis):
+                            target = zeile
+                            break
+                if target is not None:
+                    ab_time = target.ab
+                    an_time = target.an
+                    if "D" in (target.flags or ""):
+                        is_durchfahrt = True
+                    # Endstation nur, wenn KEINE Abfahrtszeit mehr
+                    # eingetragen ist — der Zug rollt also wirklich
+                    # nicht weiter. Ein „letzter im Fahrplan"-Halt mit
+                    # gesetztem `ab` heißt typischerweise nur, dass der
+                    # Zug aus dem Sim-Bereich heraus weiter fährt
+                    # (z. B. RE/RB, deren Strecke nach München Hbf
+                    # endet, der Zug aber Richtung „Fernbahn" austritt).
+                    if not is_durchfahrt and target.ab is None:
+                        is_terminating = True
 
             # Prefer config von/nach for display if available
             cfg = record.config_eintrag
