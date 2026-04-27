@@ -264,6 +264,17 @@ _TTS_REPLACEMENTS = [
 ]
 
 
+def _short_platform(platform: str) -> str:
+    """Reduziert "MM 2" → "2", "Gl.3a" → "3a" für die Sprachausgabe."""
+    p = (platform or "").strip()
+    if " " in p:
+        p = p.rsplit(" ", 1)[-1]
+    i = 0
+    while i < len(p) and not p[i].isdigit():
+        i += 1
+    return p[i:] if i < len(p) else p
+
+
 def _normalize_for_tts(text: str) -> str:
     for pat, rep in _TTS_REPLACEMENTS:
         text = pat.sub(rep, text)
@@ -283,7 +294,8 @@ def text_einfahrt(platform: str, name: str, nach: str,
     Gleis, Zug, Ziel, Via, Vorsicht-Hinweis.
     """
     via_part = f" über {', '.join(via)}" if via else ""
-    return (f"Gleis {platform} — Einfahrt {name} nach {nach}{via_part}. "
+    return (f"Gleis {_short_platform(platform)} — Einfahrt {name} "
+            f"nach {nach}{via_part}. "
             f"Vorsicht bei der Einfahrt. Bitte zurückbleiben.")
 
 
@@ -294,7 +306,7 @@ def text_ankunft(station: str, platform: str, name: str, von: str,
     Optional: Anschlussübersicht.
     """
     von_part = f" aus {von}" if von else ""
-    base = (f"Auf Gleis {platform}, {name}{von_part}. "
+    base = (f"Auf Gleis {_short_platform(platform)}, {name}{von_part}. "
             f"Willkommen in {station}. Wir wünschen Ihnen "
             f"einen angenehmen Aufenthalt.")
     if anschluesse:
@@ -315,18 +327,18 @@ def text_durchfahrt(platform: str, name: str, nach: str,
     Klassisch DB: Vorsicht-Hinweis + Bitte zurücktreten.
     """
     via_part = f" über {', '.join(via)}" if via else ""
-    return (f"Achtung an Gleis {platform} — Durchfahrt {name} "
-            f"nach {nach}{via_part}. "
+    return (f"Achtung an Gleis {_short_platform(platform)} — "
+            f"Durchfahrt {name} nach {nach}{via_part}. "
             f"Vorsicht bei der Durchfahrt. "
             f"Bitte vom Bahnsteig zurücktreten.")
 
 
 def text_endet_hier(platform: str, name: str) -> str:
-    return (f"Gleis {platform} — {name} endet hier. "
+    return (f"Gleis {_short_platform(platform)} — {name} endet hier. "
             f"Bitte alle aussteigen, nicht mehr einsteigen.")
 
 
 # Rückwärtskompatibilität (falls irgendwo noch text_abfahrt referenziert wird)
 def text_abfahrt(platform: str, name: str, nach: str) -> str:
-    return (f"Auf Gleis {platform} — {name} nach {nach}. "
+    return (f"Auf Gleis {_short_platform(platform)} — {name} nach {nach}. "
             f"Bitte zurückbleiben.")
