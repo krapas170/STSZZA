@@ -27,6 +27,9 @@ _DEPARTED_HIDE_AFTER_S = 30.0
 _DIENST_BASE_GATTUNGEN = {
     "DPN", "DPF", "DLr", "DLt", "DGS",
     "Lok", "Lr", "Lt", "Rf",
+    # Leerreisezug-Verband / Leerreisezug — fährt ohne Fahrgäste zum Bw
+    # oder zum Ausgangsbahnhof. Gehört nicht auf die Fahrgast-ZZA.
+    "LRV", "LRZ",
 }
 
 
@@ -62,7 +65,11 @@ def _is_internal_area(value: str) -> bool:
     """True wenn `value` ein Stellwerks-interner Bereich/Gleisname ist."""
     if not value:
         return False
-    low = value.strip().lower()
+    # Bindestriche durch Leerzeichen ersetzen, damit „München-Süd" und
+    # „München Süd" gleich behandelt werden.
+    low = value.strip().lower().replace("-", " ")
+    # Mehrfach-Leerzeichen kollabieren
+    low = " ".join(low.split())
     if low.startswith("gleis "):
         return True
     for hint in _INTERNAL_AREA_NACH:
