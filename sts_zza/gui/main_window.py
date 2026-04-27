@@ -13,6 +13,13 @@ from PyQt6.QtWidgets import (
     QVBoxLayout,
 )
 
+from ..audio.announcer import (
+    Announcer,
+    text_ankunft,
+    text_einfahrt,
+    text_endet_hier,
+    text_verspaetung,
+)
 from ..config.station_config import StationConfig
 from ..logic.train_manager import ZugManager
 from ..protocol.client import STSClient
@@ -62,6 +69,9 @@ class ZZAMainWindow(QMainWindow):
         self._zug_manager = zug_manager
         self._selected_platforms: List[str] = []
 
+        self._announcer = Announcer()
+        self._zug_manager.event_listener = self._on_train_event
+
         self._setup_ui()
         self._connect_signals()
 
@@ -106,6 +116,13 @@ class ZZAMainWindow(QMainWindow):
         tools_menu = menu_bar.addMenu("Werkzeuge")
         self._action_editor = tools_menu.addAction("Analyse && Editor")
         self._action_editor.setEnabled(False)
+
+        tools_menu.addSeparator()
+        self._action_announcements = tools_menu.addAction("Ansagen aktiv")
+        self._action_announcements.setCheckable(True)
+        self._action_announcements.setChecked(self._announcer.enabled)
+        self._action_announcements.toggled.connect(
+            self._announcer.set_enabled)
 
         self._stack = QStackedWidget()
         self._placeholder    = _PlaceholderView("Verbinde mit StellwerkSim …")
@@ -222,6 +239,72 @@ class ZZAMainWindow(QMainWindow):
             self._passenger_view.refresh(self._zug_manager)
         elif idx == _IDX_DISPATCHER:
             self._dispatcher_view.refresh(self._zug_manager)
+
+    def _on_train_event(self, event_type: str, **kwargs) -> None:
+        """
+        Wird vom ZugManager bei Statuswechseln gerufen und reicht eine
+        passende Ansage an den zentralen Announcer weiter.
+        """
+        platform = kwargs.get("platform", "")
+        # Nur Ansagen für ausgewählte Bahnsteige
+        if platform and platform not in self._selected_platforms:
+            return
+
+        if event_type == "einfahrt":
+            if kwargs.get("is_terminating"):
+                text = text_endet_hier(platform, kwargs["name"])
+            else:
+                text = text_einfahrt(platform, kwargs["name"],
+                                     kwargs["nach"], kwargs.get("via"))
+        elif event_type == "ankunft":
+            text = text_ankunft(
+                station=kwargs.get("station", ""),
+                platform=platform,
+                name=kwargs["name"],
+                von=kwargs.get("von", ""),
+                anschluesse=self._build_anschluesse(kwargs["name"]),
+            )
+        elif event_type == "endet_hier":
+            text = text_endet_hier(platform, kwargs["name"])
+        elif event_type == "verspaetung":
+            text = text_verspaetung(kwargs["name"], kwargs["nach"],
+                                    kwargs["minuten"])
+        else:
+            return
+
+        self._announcer.announce(text, platform=platform)
+
+    def _build_anschluesse(self, exclude_name: str,
+                           limit: int = 3) -> List[str]:
+        """
+        Liefert die nächsten `limit` Abfahrten von den ausgewählten Gleisen
+        als kurze Stichworte für die Willkommens-Ansage.
+        """
+        if not self._selected_platforms:
+            return []
+        entries = self._zug_manager.get_all_display_data(
+            self._selected_platforms)
+        out: List[str] = []
+        for e in entries:
+            if e.name == exclude_name:
+                continue
+            if e.ab is None:
+                continue
+            hh = (e.ab // 3_600_000) % 24
+            mm = (e.ab % 3_600_000) // 60_000
+            out.append(
+                f"{e.name} nach {e.nach} um {hh:02d}:{mm:02d} "
+                f"von Gleis {e.plangleis}")
+            if len(out) >= limit:
+                break
+        return out
+
+    def closeEvent(self, event) -> None:
+        try:
+            self._announcer.shutdown()
+        except Exception:
+            pass
+        super().closeEvent(event)
 
     def _open_editor(self) -> None:
         from .editor_dialog import EditorDialog

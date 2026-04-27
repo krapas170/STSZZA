@@ -19,3 +19,4 @@ configs/
 *_files/
 .idea/
 .vscode/
+sts_zza/audio/sounds/*.wav

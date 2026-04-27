@@ -13,7 +13,8 @@ from PyQt6.QtWidgets import (
 from ..logic.train_manager import ZugManager
 from .widgets.departure_board import DepartureBoardWidget
 
-_MIN_BOARD_WIDTH = 260
+_MIN_BOARD_WIDTH = 800   # entspricht DepartureBoardWidget._BOARD_W
+_BOARD_GAP = 8
 
 
 class PassengerView(QWidget):
@@ -86,8 +87,11 @@ class PassengerView(QWidget):
                 self._rebuild_grid()
 
     def _desired_cols(self) -> int:
-        avail = self._scroll.viewport().width() if self._scroll.viewport() else self.width()
-        return max(1, min(avail // _MIN_BOARD_WIDTH, len(self._platforms)))
+        avail = (self._scroll.viewport().width()
+                 if self._scroll.viewport() else self.width())
+        # Verfügbare Breite ÷ (Boardbreite + Spalt) — min. 1 Spalte
+        per_col = _MIN_BOARD_WIDTH + _BOARD_GAP
+        return max(1, min(avail // per_col, len(self._platforms)))
 
     def _rebuild_grid(self) -> None:
         n_cols = self._desired_cols()
@@ -99,20 +103,24 @@ class PassengerView(QWidget):
             if item.widget():
                 item.widget().setParent(None)  # type: ignore[arg-type]
 
-        # Clear old column stretch factors
+        # Alle Spalten-/Zeilen-Stretches zurücksetzen
         for c in range(self._grid.columnCount() + n_cols + 1):
             self._grid.setColumnStretch(c, 0)
+        for r in range(self._grid.rowCount() + 1):
+            self._grid.setRowStretch(r, 0)
 
-        # (Re)create boards and populate grid
+        # Boards anlegen / wiederverwenden — feste Größe, keine Streckung
         for i, platform in enumerate(self._platforms):
             if platform not in self._boards:
                 board = DepartureBoardWidget(platform)
-                board.setSizePolicy(
-                    QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Expanding)
                 self._boards[platform] = board
             row, col = divmod(i, n_cols)
-            self._grid.addWidget(self._boards[platform], row, col)
+            self._grid.addWidget(
+                self._boards[platform], row, col,
+                Qt.AlignmentFlag.AlignTop | Qt.AlignmentFlag.AlignLeft)
 
-        # Equal column widths; rows take natural height (vertical scroll handles overflow)
-        for c in range(n_cols):
-            self._grid.setColumnStretch(c, 1)
+        # Letzte (leere) Spalte/Zeile dehnt sich, damit Kacheln links-oben
+        # bleiben statt zentriert zu schweben.
+        self._grid.setColumnStretch(n_cols, 1)
+        n_rows = (len(self._platforms) + n_cols - 1) // n_cols
+        self._grid.setRowStretch(n_rows, 1)
