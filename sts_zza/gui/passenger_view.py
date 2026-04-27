@@ -87,9 +87,10 @@ class PassengerView(QWidget):
         # *Abfahrtszeit* ermitteln (nur ab, kein an-Fallback — terminierende
         # Züge dürfen ihren Bahnsteig nicht nach vorne ziehen).
         next_dep: Dict[str, int] = {}
+        sim_now = zug_manager.sim_now_ms()
         for platform, board in self._boards.items():
             entries = zug_manager.get_display_data_for_platform(platform)
-            board.refresh(entries)
+            board.refresh(entries, sim_now_ms=sim_now)
             soonest = None
             for e in entries:
                 if e.ab is None:

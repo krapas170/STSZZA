@@ -46,6 +46,7 @@ class STSClient(QObject):
     sig_zugdetails = pyqtSignal(int, object)
     sig_zugfahrplan = pyqtSignal(int, object)
     sig_ereignis = pyqtSignal(str, object)
+    sig_simzeit = pyqtSignal(int)   # Sim-Zeit in ms seit Mitternacht
 
     def __init__(self, host: str = "localhost", port: int = 3691, parent=None) -> None:
         super().__init__(parent)
@@ -98,6 +99,10 @@ class STSClient(QObject):
 
     def request_ereignis(self, zid: int, art: EreignisArt) -> None:
         self._send(f"<ereignis zid='{zid}' art='{art.value}' />\n")
+
+    def request_simzeit(self) -> None:
+        """Aktuelle Sim-Uhrzeit anfragen (Antwort kommt als sig_simzeit)."""
+        self._send("<simzeit sender='0' />\n")
 
     # ------------------------------------------------------------------
     # Internal — background thread
@@ -227,6 +232,26 @@ class STSClient(QObject):
                     hinweistext=gl.get("hinweistext", ""),
                 ))
             self.sig_zugfahrplan.emit(zid, plan)
+
+        elif tag == "simzeit":
+            # STS liefert die Sim-Uhrzeit entweder als ms-since-midnight
+            # (Attribut "zeit", numerisch) oder als HH:MM:SS-String. Beides
+            # akzeptieren.
+            raw = elem.get("zeit", "").strip()
+            ms: Optional[int] = None
+            if raw.isdigit():
+                ms = int(raw)
+            elif ":" in raw:
+                try:
+                    parts = raw.split(":")
+                    h = int(parts[0])
+                    m = int(parts[1]) if len(parts) > 1 else 0
+                    s = int(parts[2]) if len(parts) > 2 else 0
+                    ms = ((h * 60 + m) * 60 + s) * 1000
+                except ValueError:
+                    ms = None
+            if ms is not None:
+                self.sig_simzeit.emit(ms)
 
         elif tag == "ereignis":
             art_str = elem.get("art", "")

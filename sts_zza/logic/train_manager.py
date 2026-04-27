@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import logging
 import re
+import time
 from dataclasses import dataclass, field
 from typing import Callable, Dict, List, Optional
 
@@ -16,6 +17,10 @@ _INTERNAL_DEPOT_NAMES = {
     "abstellung", "abstellanlage", "abstellgleis",
     "bw", "betriebswerk",
 }
+
+# Wie lange ein abgefahrener Zug noch auf der ZZA bleiben darf, bevor wir
+# ihn ausblenden (Sekunden ab amgleis 1→0).
+_DEPARTED_HIDE_AFTER_S = 30.0
 
 # Dienst-/Leerfahrten-Gattungen, die niemals in der Capture-Liste landen
 # sollen. Suffix -D/-G/-E (Diesel/Güter/Elektro) wird automatisch toleriert.
@@ -167,6 +172,11 @@ class ZugRecord:
     fahrplan: Optional[ZugFahrplan] = None
     config_eintrag: Optional[ZugEintrag] = None
     is_new: bool = False
+    # Monotone Sekunden-Marke, ab der dieser Zug das Gleis verlassen hat
+    # (amgleis-Flanke True→False). 30 s danach blenden wir den Eintrag
+    # auf der ZZA aus, damit „durchgefahrene" Züge nicht ewig stehen
+    # bleiben, bis der nächste Zugliste-Poll sie offiziell löscht.
+    departed_at_monotonic: Optional[float] = None
 
 
 @dataclass
@@ -207,6 +217,13 @@ class ZugManager:
         #   "endet_hier" → name, platform
         #   "verspaetung"→ name, nach, minuten, platform
         self.event_listener: Optional[Callable[..., None]] = None
+
+        # Sim-Zeit-Tracking. Wir merken uns den letzten vom Server gemeldeten
+        # Sim-ms-Wert zusammen mit dem monotonen Zeitpunkt der Antwort und
+        # interpolieren von dort linear weiter — so haben wir auch zwischen
+        # zwei <simzeit/>-Anfragen eine sekundengenaue Sim-Uhr für die ZZA.
+        self._sim_anchor_ms: Optional[int] = None
+        self._sim_anchor_monotonic: Optional[float] = None
 
     @property
     def _station_display(self) -> str:
@@ -319,6 +336,11 @@ class ZugManager:
 
         # Zug steht am Bahnsteig: amgleis 0 → 1
         if old is not None and not old.amgleis and new.amgleis and platform:
+            # Ankunft = Reset eines evtl. vorher gemerkten Abfahrt-Markers
+            # (selten — z. B. Wendezug, der wieder am gleichen Gleis steht).
+            record = self._zuege.get(new.zid)
+            if record is not None:
+                record.departed_at_monotonic = None
             try:
                 if is_terminating:
                     self.event_listener(
@@ -330,6 +352,25 @@ class ZugManager:
                         station=self._station_display)
             except Exception as exc:
                 logger.warning("event_listener ankunft: %s", exc)
+
+        # Zug verlässt das Gleis: amgleis 1 → 0
+        # Wir merken uns den Zeitpunkt; die Anzeige-Filter unten blenden
+        # den Eintrag _DEPARTED_HIDE_AFTER_S Sekunden später aus.
+        if old is not None and old.amgleis and not new.amgleis:
+            record = self._zuege.get(new.zid)
+            if record is not None:
+                record.departed_at_monotonic = time.monotonic()
+                logger.debug(
+                    "Zug %s [zid=%d] hat Gleis verlassen — wird in %.0fs ausgeblendet",
+                    new.name, new.zid, _DEPARTED_HIDE_AFTER_S,
+                )
+            try:
+                self.event_listener(
+                    "abfahrt", name=new.name, platform=(old.gleis
+                                                        or old.plangleis
+                                                        or platform))
+            except Exception as exc:
+                logger.warning("event_listener abfahrt: %s", exc)
 
         # Verspätung: 0 → >0 oder signifikante Änderung (≥ 2 min)
         if old is not None:
@@ -455,9 +496,17 @@ class ZugManager:
             reassignments not yet reflected in fahrplan)
         """
         entries: List[DisplayEntry] = []
+        now_mono = time.monotonic()
         for zid, record in self._zuege.items():
             # Dienst-/Leerfahrten gehören nicht auf die Fahrgast-ZZA
             if _is_dienstfahrt(record.details.name):
+                continue
+
+            # Zug hat das Gleis vor mehr als _DEPARTED_HIDE_AFTER_S
+            # verlassen → ausblenden.
+            if (record.departed_at_monotonic is not None
+                    and now_mono - record.departed_at_monotonic
+                        >= _DEPARTED_HIDE_AFTER_S):
                 continue
 
             ab_time: Optional[int] = None
@@ -560,8 +609,13 @@ class ZugManager:
     def get_all_trains_display(self) -> List[DisplayEntry]:
         """All known trains regardless of platform, sorted by departure time."""
         entries: List[DisplayEntry] = []
+        now_mono = time.monotonic()
         for zid, record in self._zuege.items():
             if _is_dienstfahrt(record.details.name):
+                continue
+            if (record.departed_at_monotonic is not None
+                    and now_mono - record.departed_at_monotonic
+                        >= _DEPARTED_HIDE_AFTER_S):
                 continue
             display_plangleis = self.get_plangleis_for_display(zid) or record.details.plangleis or "?"
 
@@ -611,6 +665,28 @@ class ZugManager:
 
         entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
         return entries
+
+    # ------------------------------------------------------------------
+    # Sim-Zeit
+    # ------------------------------------------------------------------
+
+    def set_sim_time(self, sim_ms: int) -> None:
+        """Wird vom MainWindow aufgerufen, sobald <simzeit/> beantwortet wird."""
+        self._sim_anchor_ms = sim_ms
+        self._sim_anchor_monotonic = time.monotonic()
+
+    def sim_now_ms(self) -> Optional[int]:
+        """
+        Aktuell geschätzte Sim-Uhrzeit (ms seit Mitternacht).
+
+        Liefert None, solange noch keine <simzeit/>-Antwort eingetrudelt
+        ist — Aufrufer (z. B. die Blink-Logik im Board) müssen das
+        akzeptieren und in dem Fall einfach nichts tun.
+        """
+        if self._sim_anchor_ms is None or self._sim_anchor_monotonic is None:
+            return None
+        elapsed_ms = int((time.monotonic() - self._sim_anchor_monotonic) * 1000)
+        return (self._sim_anchor_ms + elapsed_ms) % (24 * 3_600_000)
 
     def get_capture_list(self) -> Dict[str, ZugDetails]:
         return dict(self._capture_list)

@@ -84,6 +84,12 @@ class ZZAMainWindow(QMainWindow):
         self._refresh_timer.setInterval(_REFRESH_INTERVAL_MS)
         self._refresh_timer.timeout.connect(self._poll_zugliste)
 
+        # Sim-Uhrzeit alle 5 s nachsynchronisieren — der ZugManager
+        # interpoliert dazwischen sekundengenau weiter.
+        self._simzeit_timer = QTimer(self)
+        self._simzeit_timer.setInterval(5_000)
+        self._simzeit_timer.timeout.connect(self._client.request_simzeit)
+
         # Debounce-Timer für UI-Refresh: bündelt viele schnell aufeinander
         # folgende Detail-Antworten (München Hbf: hunderte Züge gleichzeitig)
         # zu einem einzigen UI-Rebuild.
@@ -165,6 +171,7 @@ class ZZAMainWindow(QMainWindow):
         self._client.sig_zugliste.connect(self._on_zugliste)
         self._client.sig_zugdetails.connect(self._on_zugdetails)
         self._client.sig_zugfahrplan.connect(self._on_zugfahrplan)
+        self._client.sig_simzeit.connect(self._on_simzeit)
 
         self._action_fahrgast.triggered.connect(
             lambda: self._stack.setCurrentIndex(_IDX_PASSENGER))
@@ -210,6 +217,9 @@ class ZZAMainWindow(QMainWindow):
 
         self._poll_zugliste()
         self._refresh_timer.start()
+        # Sim-Uhrzeit-Loop starten + sofort einmal anfragen
+        self._client.request_simzeit()
+        self._simzeit_timer.start()
 
     def _on_zugliste(self, zl: dict) -> None:
         new_zids = self._zug_manager.update_zugliste(zl)
@@ -241,6 +251,9 @@ class ZZAMainWindow(QMainWindow):
         if changed:
             self._client.request_zugfahrplan(zid)
         self._refresh_views()
+
+    def _on_simzeit(self, sim_ms: int) -> None:
+        self._zug_manager.set_sim_time(sim_ms)
 
     def _on_zugfahrplan(self, zid: int, plan) -> None:
         if logger.isEnabledFor(logging.DEBUG):
@@ -303,6 +316,12 @@ class ZZAMainWindow(QMainWindow):
             )
         elif event_type == "endet_hier":
             text = text_endet_hier(platform, kwargs["name"])
+        elif event_type == "abfahrt":
+            # Keine Sprachansage — wir nutzen das Event nur als Trigger,
+            # um 30 s später den UI-Refresh zu erzwingen, damit der Zug
+            # pünktlich aus der Anzeige verschwindet.
+            QTimer.singleShot(31_000, self._refresh_views)
+            return
         elif event_type == "verspaetung":
             text = text_verspaetung(kwargs["name"], kwargs["nach"],
                                     kwargs["minuten"])

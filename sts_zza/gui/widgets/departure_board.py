@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-import datetime
-from typing import List
+import time
+from typing import List, Optional
 
 from PyQt6.QtCore import Qt, QTimer
 from PyQt6.QtWidgets import (
@@ -351,6 +351,12 @@ class DepartureBoardWidget(QWidget):
         self._alert_active = False
         self._blink_on = False
         self._last_entries: List[DisplayEntry] = []
+        # Sim-Zeit-Anker: zuletzt vom ZugManager gemeldete Sim-ms +
+        # monotonen Empfangszeitpunkt — daraus extrapolieren wir die
+        # aktuelle Sim-Uhrzeit zwischen zwei refresh()-Aufrufen.
+        self._sim_anchor_ms: Optional[int] = None
+        self._sim_anchor_monotonic: Optional[float] = None
+
         self._blink_timer = QTimer(self)
         self._blink_timer.setInterval(self._BLINK_INTERVAL_MS)
         self._blink_timer.timeout.connect(self._on_blink)
@@ -364,15 +370,19 @@ class DepartureBoardWidget(QWidget):
 
         self._setup_ui()
 
-    @staticmethod
-    def _now_ms() -> int:
-        n = datetime.datetime.now()
-        return ((n.hour * 3600 + n.minute * 60 + n.second) * 1000
-                + n.microsecond // 1000)
+    def _sim_now_ms(self) -> Optional[int]:
+        """Aktuell extrapolierte Sim-Uhrzeit, oder None wenn noch nie gesetzt."""
+        if self._sim_anchor_ms is None or self._sim_anchor_monotonic is None:
+            return None
+        elapsed = int((time.monotonic() - self._sim_anchor_monotonic) * 1000)
+        return (self._sim_anchor_ms + elapsed) % (24 * 3_600_000)
 
     def _evaluate_alert(self, entries: List[DisplayEntry]) -> bool:
         """True, wenn der nächste echte Abfahrer in <= 1 min losfährt."""
-        now = self._now_ms()
+        now = self._sim_now_ms()
+        if now is None:
+            # Solange noch keine Sim-Zeit eingetroffen ist: nicht blinken.
+            return False
         soonest_delta = None
         for e in entries:
             if e.ab is None or e.is_durchfahrt:
@@ -471,9 +481,16 @@ class DepartureBoardWidget(QWidget):
             elif item.layout():
                 self._clear_layout(item.layout())
 
-    def refresh(self, entries: List[DisplayEntry]) -> None:
+    def refresh(self,
+                entries: List[DisplayEntry],
+                sim_now_ms: Optional[int] = None) -> None:
         self._clear_layout(self._main_layout)
         self._clear_layout(self._next_layout)
+
+        # Sim-Zeit-Anker auffrischen, falls vom ZugManager mitgegeben.
+        if sim_now_ms is not None:
+            self._sim_anchor_ms = sim_now_ms
+            self._sim_anchor_monotonic = time.monotonic()
 
         # Rot-blinkende Vorwarnung neu bewerten — auch wenn die Liste leer
         # ist (dann blinkt nichts). Snapshot speichern, damit der
