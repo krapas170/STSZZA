@@ -603,6 +603,13 @@ class ZugManager:
                 nach = ""
                 is_terminating = False
 
+            # Stellwerks-interne Bereiche („Stammstrecke", „Pasing AuLiDo",
+            # „München Süd" …) sind ebenfalls keine echten Reise-Quellen.
+            # Wenn der Zug von dort kommt, leeren wir das Feld, damit kein
+            # „Aus Stammstrecke" auf der ZZA steht.
+            if _is_internal_area(von):
+                von = ""
+
             # Stellwerks-interne Endpunkte (Pasing AuLiDo, München Süd, …)
             # gehören nicht auf die Fahrgast-ZZA. Wenn die Config kein
             # echtes Reise-Ziel liefert und live-nach intern ist, ausblenden.
@@ -701,6 +708,11 @@ class ZugManager:
             virtual_nach = _is_virtual_edge(nach)
             if virtual_nach:
                 nach = ""
+
+            # Stellwerks-interne Quellen („Stammstrecke" o. ä.) als von
+            # ebenfalls leeren — kein „Aus Stammstrecke" anzeigen.
+            if _is_internal_area(von):
+                von = ""
 
             if _is_internal_area(nach):
                 continue
