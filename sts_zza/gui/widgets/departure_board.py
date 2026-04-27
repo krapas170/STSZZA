@@ -7,7 +7,7 @@ from typing import List, Optional
 logger = logging.getLogger(__name__)
 
 from PyQt6.QtCore import Qt, QTimer
-from PyQt6.QtGui import QColor, QPainter, QPen
+from PyQt6.QtGui import QColor, QFont, QFontMetrics, QPainter, QPen
 from PyQt6.QtWidgets import (
     QFrame,
     QHBoxLayout,
@@ -117,20 +117,106 @@ class _HSep(QFrame):
         self.setStyleSheet(f"background-color:{color}; border:none;")
 
 
-class _InfoBanner(QLabel):
-    """Weißer Info-Banner mit blauem Text — z. B. 'Hält nicht in …'."""
+class _InfoBanner(QWidget):
+    """Weißer Info-Banner mit blauem Text — z. B. 'Hält nicht in …'.
+
+    Wenn der Text breiter ist als das verfügbare Feld, läuft er
+    horizontal als DB-typisches Laufband durch (mit Lücke und Wiederholung).
+    Statisches Rendern, sobald der Text passt.
+    """
+
+    _PAD_X = 8
+    _PAD_Y = 1
+    _SCROLL_PX_PER_TICK = 1
+    _SCROLL_INTERVAL_MS = 30   # ~33 fps → ca. 33 px/s
+    _SCROLL_GAP_PX = 60        # Lücke zwischen den Wiederholungen
 
     def __init__(self, text: str, parent=None) -> None:
-        super().__init__(text, parent)
-        self.setAlignment(Qt.AlignmentFlag.AlignVCenter
-                          | Qt.AlignmentFlag.AlignLeft)
-        self.setStyleSheet(
-            f"background-color:{_INFO_BG}; color:{_INFO_FG}; "
-            f"font-size:10pt; font-weight:600; "
-            f"padding:1px 8px; font-family:{_FONT};"
-        )
+        super().__init__(parent)
+        self._text = text
+        self._offset = 0
+
+        # Schrift wie der bisherige Stylesheet-Banner: 10 pt, DemiBold,
+        # Familien-Stack passend zum Rest des Boards.
+        font = QFont()
+        font.setFamilies(
+            ["Segoe UI", "Helvetica Neue", "Helvetica", "Arial"])
+        font.setPointSize(10)
+        font.setWeight(QFont.Weight.DemiBold)
+        self.setFont(font)
+
+        # Höhe an der Schrift orientieren — etwa wie vorher per Stylesheet.
+        fm = QFontMetrics(font)
+        self.setFixedHeight(fm.height() + 2 * self._PAD_Y + 2)
         self.setSizePolicy(QSizePolicy.Policy.Expanding,
                            QSizePolicy.Policy.Fixed)
+
+        self._timer = QTimer(self)
+        self._timer.setInterval(self._SCROLL_INTERVAL_MS)
+        self._timer.timeout.connect(self._tick)
+
+    def _text_width(self) -> int:
+        return QFontMetrics(self.font()).horizontalAdvance(self._text)
+
+    def _needs_scroll(self) -> bool:
+        return self._text_width() > self.width() - 2 * self._PAD_X
+
+    def _update_scroll_state(self) -> None:
+        if self._needs_scroll():
+            if not self._timer.isActive():
+                self._timer.start()
+        else:
+            if self._timer.isActive():
+                self._timer.stop()
+            self._offset = 0
+
+    def _tick(self) -> None:
+        period = self._text_width() + self._SCROLL_GAP_PX
+        if period <= 0:
+            return
+        self._offset = (self._offset + self._SCROLL_PX_PER_TICK) % period
+        self.update()
+
+    def resizeEvent(self, event) -> None:  # type: ignore[override]
+        super().resizeEvent(event)
+        self._update_scroll_state()
+        self.update()
+
+    def showEvent(self, event) -> None:  # type: ignore[override]
+        super().showEvent(event)
+        self._update_scroll_state()
+
+    def hideEvent(self, event) -> None:  # type: ignore[override]
+        super().hideEvent(event)
+        if self._timer.isActive():
+            self._timer.stop()
+
+    def paintEvent(self, event) -> None:  # type: ignore[override]
+        painter = QPainter(self)
+        try:
+            painter.fillRect(self.rect(), QColor(_INFO_BG))
+            painter.setPen(QColor(_INFO_FG))
+            painter.setFont(self.font())
+            fm = QFontMetrics(self.font())
+            baseline = (self.height() + fm.ascent() - fm.descent()) // 2
+
+            if self._needs_scroll():
+                # Laufband: Text wiederholt mit Lücke — sieht stetig aus,
+                # weil der nächste Durchlauf einsetzt, bevor der vorige
+                # rechts vom Sichtfeld verschwindet.
+                painter.setClipRect(
+                    self._PAD_X, 0,
+                    self.width() - 2 * self._PAD_X, self.height())
+                tw = self._text_width()
+                period = tw + self._SCROLL_GAP_PX
+                x = self._PAD_X - self._offset
+                while x < self.width():
+                    painter.drawText(x, baseline, self._text)
+                    x += period
+            else:
+                painter.drawText(self._PAD_X, baseline, self._text)
+        finally:
+            painter.end()
 
 
 class _WarnBanner(QLabel):
