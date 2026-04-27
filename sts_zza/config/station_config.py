@@ -32,6 +32,7 @@ class StationConfig:
     configs/[Bahnhofsname].xml (ISO-8859-1).
     """
     station_name: str
+    anzeige_name: str = ""   # Echter Bahnhofsname für Anzeige & Ansagen
     bahnsteige: List[str] = field(default_factory=list)
     zuege: Dict[str, ZugEintrag] = field(default_factory=dict)
 
@@ -56,6 +57,8 @@ class StationConfig:
             logger.error("Failed to parse config %s: %s", self.config_path, exc)
             return
 
+        self.anzeige_name = root.get("anzeige", "")
+
         for b in root.findall("bahnsteig"):
             name = b.get("name", "")
             if name:
@@ -78,7 +81,10 @@ class StationConfig:
     def save(self) -> None:
         """Write the config to disk as ISO-8859-1 XML."""
         CONFIGS_DIR.mkdir(parents=True, exist_ok=True)
-        root = ET.Element("zza", station=self.station_name)
+        attrs = {"station": self.station_name}
+        if self.anzeige_name:
+            attrs["anzeige"] = self.anzeige_name
+        root = ET.Element("zza", attrs)
 
         for b_name in sorted(self.bahnsteige):
             ET.SubElement(root, "bahnsteig", name=b_name)

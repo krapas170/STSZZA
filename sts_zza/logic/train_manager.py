@@ -71,7 +71,6 @@ class ZugManager:
         self._config = config
         self._zuege: Dict[int, ZugRecord] = {}
         self._capture_list: Dict[str, ZugDetails] = {}
-        self._station_display = _clean_station_name(config.station_name)
         # event_listener(event_type: str, **kwargs) wird vom MainWindow gesetzt
         # und an den Announcer weitergeleitet. Mögliche Events:
         #   "einfahrt"   → name, nach, via, platform, is_terminating
@@ -81,6 +80,14 @@ class ZugManager:
         #   "endet_hier" → name, platform
         #   "verspaetung"→ name, nach, minuten, platform
         self.event_listener: Optional[Callable[..., None]] = None
+
+    @property
+    def _station_display(self) -> str:
+        """Anzeige-/Ansagename: bevorzugt aus Config, sonst aus station_name."""
+        return (
+            self._config.anzeige_name.strip()
+            or _clean_station_name(self._config.station_name)
+        )
 
     # ------------------------------------------------------------------
     # Updates from STS signals
