@@ -29,6 +29,26 @@ _WARN_FG      = "#ffffff"   # weißer Text auf Rot
 _FONT = "'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif"
 
 
+def _short_platform(platform: str) -> str:
+    """
+    Reduziert STS-Gleisnamen auf die reine Bahnsteig-Nummer für die
+    Großanzeige. Beispiele:
+      "MM 1"   → "1"
+      "Gl. 3a" → "3a"
+      "5"      → "5"
+    Strategie: bei Leerzeichen den letzten Teil nehmen, sonst führende
+    Buchstaben/Punkte abschneiden.
+    """
+    p = platform.strip()
+    if " " in p:
+        p = p.rsplit(" ", 1)[-1]
+    # führende Nicht-Ziffern abschneiden ("Gl.3" → "3")
+    i = 0
+    while i < len(p) and not p[i].isdigit():
+        i += 1
+    return p[i:] if i < len(p) else p
+
+
 def _style(color: str = _FG_WHITE,
            size: int = 11,
            bold: bool = False) -> str:
@@ -295,7 +315,7 @@ class DepartureBoardWidget(QWidget):
         h_root.setContentsMargins(0, 0, 0, 0)
         h_root.setSpacing(0)
 
-        gleis_lbl = QLabel(self._platform)
+        gleis_lbl = QLabel(_short_platform(self._platform))
         gleis_lbl.setAlignment(Qt.AlignmentFlag.AlignCenter)
         gleis_lbl.setFixedWidth(100)
         gleis_lbl.setStyleSheet(
