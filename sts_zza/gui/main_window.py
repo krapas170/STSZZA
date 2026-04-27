@@ -80,6 +80,14 @@ class ZZAMainWindow(QMainWindow):
         self._refresh_timer.setInterval(_REFRESH_INTERVAL_MS)
         self._refresh_timer.timeout.connect(self._poll_zugliste)
 
+        # Debounce-Timer für UI-Refresh: bündelt viele schnell aufeinander
+        # folgende Detail-Antworten (München Hbf: hunderte Züge gleichzeitig)
+        # zu einem einzigen UI-Rebuild.
+        self._view_refresh_timer = QTimer(self)
+        self._view_refresh_timer.setSingleShot(True)
+        self._view_refresh_timer.setInterval(250)
+        self._view_refresh_timer.timeout.connect(self._do_refresh_views)
+
     # ------------------------------------------------------------------
     # Public API (called from app.py)
     # ------------------------------------------------------------------
@@ -196,11 +204,20 @@ class ZZAMainWindow(QMainWindow):
 
     def _on_zugliste(self, zl: dict) -> None:
         new_zids = self._zug_manager.update_zugliste(zl)
+        # 1) Neue Züge: vollständige Details holen.
         for zid in new_zids:
             self._client.request_zugdetails(zid)
-        # Refresh all known trains too
-        for zid in zl:
-            self._client.request_zugdetails(zid)
+        # 2) Bekannte Züge: nur die auf ausgewählten Gleisen refreshen
+        #    (für Verspätungs-/Gleisänderungen). Alles andere zu pollen
+        #    skaliert nicht bei großen Stellwerken (München Hbf).
+        if self._selected_platforms:
+            sel = set(self._selected_platforms)
+            for zid, record in self._zug_manager._zuege.items():
+                if zid in new_zids:
+                    continue
+                d = record.details
+                if d and (d.gleis in sel or d.plangleis in sel):
+                    self._client.request_zugdetails(zid)
 
     def _on_zugdetails(self, zid: int, details) -> None:
         logger.debug(
@@ -217,13 +234,14 @@ class ZZAMainWindow(QMainWindow):
         self._refresh_views()
 
     def _on_zugfahrplan(self, zid: int, plan) -> None:
-        for z in plan.zeilen:
-            logger.debug(
-                "[STS] fahrplan    zid=%-6s  plan=%-8s  name=%-8s  "
-                "an=%-7s  ab=%-7s  flags=%r  hinweis=%r",
-                plan.zid, z.plan, z.name,
-                z.an, z.ab, z.flags, z.hinweistext,
-            )
+        if logger.isEnabledFor(logging.DEBUG):
+            for z in plan.zeilen:
+                logger.debug(
+                    "[STS] fahrplan    zid=%-6s  plan=%-8s  name=%-8s  "
+                    "an=%-7s  ab=%-7s  flags=%r  hinweis=%r",
+                    plan.zid, z.plan, z.name,
+                    z.an, z.ab, z.flags, z.hinweistext,
+                )
         self._zug_manager.update_fahrplan(zid, plan)
         self._refresh_views()
 
@@ -235,6 +253,12 @@ class ZZAMainWindow(QMainWindow):
         self._client.request_zugliste()
 
     def _refresh_views(self) -> None:
+        # Statt sofort zu rebuilden: 250ms-Debounce, damit beim Initial-Load
+        # nicht hunderte Refreshes hintereinander laufen.
+        if not self._view_refresh_timer.isActive():
+            self._view_refresh_timer.start()
+
+    def _do_refresh_views(self) -> None:
         idx = self._stack.currentIndex()
         if idx == _IDX_PASSENGER:
             self._passenger_view.refresh(self._zug_manager)
