@@ -22,6 +22,8 @@ _FG_WHITE     = "#ffffff"
 _FG_DIM       = "#cfdcff"   # leicht abgesetztes Weiß für Nebentext
 _INFO_BG      = "#ffffff"   # weißer Info-Banner-Hintergrund
 _INFO_FG      = "#1a3a8e"   # blauer Text auf Weiß
+_WARN_BG      = "#d11317"   # DB-Rot für Durchfahrt-Warnung
+_WARN_FG      = "#ffffff"   # weißer Text auf Rot
 
 # Schrift wie auf echten DB-Monitoren — geometrische Sans-Serif
 _FONT = "'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif"
@@ -71,6 +73,22 @@ class _InfoBanner(QLabel):
             f"background-color:{_INFO_BG}; color:{_INFO_FG}; "
             f"font-size:10pt; font-weight:600; "
             f"padding:1px 8px; font-family:{_FONT};"
+        )
+        self.setSizePolicy(QSizePolicy.Policy.Expanding,
+                           QSizePolicy.Policy.Fixed)
+
+
+class _WarnBanner(QLabel):
+    """Roter Warn-Banner — Zugdurchfahrt."""
+
+    def __init__(self, text: str, parent=None) -> None:
+        super().__init__(text, parent)
+        self.setAlignment(Qt.AlignmentFlag.AlignVCenter
+                          | Qt.AlignmentFlag.AlignLeft)
+        self.setStyleSheet(
+            f"background-color:{_WARN_BG}; color:{_WARN_FG}; "
+            f"font-size:11pt; font-weight:700; "
+            f"padding:2px 8px; font-family:{_FONT};"
         )
         self.setSizePolicy(QSizePolicy.Policy.Expanding,
                            QSizePolicy.Policy.Fixed)
@@ -147,20 +165,32 @@ class _MainTrainWidget(QWidget):
         right.setSpacing(4)
         right.setContentsMargins(0, 0, 0, 0)
 
-        # 1) Info-Banner (Verspätung / „Nicht einsteigen")
-        info_text = self._build_info_text(entry)
-        if info_text:
-            right.addWidget(_InfoBanner(info_text))
+        # 1) Info-Banner (Verspätung / „Nicht einsteigen" / Durchfahrt)
+        if entry.is_durchfahrt:
+            right.addWidget(_WarnBanner(
+                "+ + + Vorsicht — Zugdurchfahrt + + +"))
+        else:
+            info_text = self._build_info_text(entry)
+            if info_text:
+                right.addWidget(_InfoBanner(info_text))
 
-        # 2) Via-Halte
-        if entry.via:
+        # 2) Via-Halte (bei Durchfahrt entfällt Via — Zug hält ja nicht)
+        if entry.via and not entry.is_durchfahrt:
             via_text = " · ".join(entry.via)
             right.addWidget(_lbl(via_text, _FG_DIM, size=10, wrap=True))
 
-        # 3) Ziel — groß
-        nach_lbl = _lbl(entry.nach or "–", _FG_WHITE,
-                        size=24, bold=True, wrap=True)
-        right.addWidget(nach_lbl)
+        # 3) Hauptzeile: Durchfahrt → "Zugdurchfahrt", sonst → Ziel
+        if entry.is_durchfahrt:
+            right.addWidget(_lbl("Zugdurchfahrt", _FG_WHITE,
+                                 size=24, bold=True))
+            # Ziel als Sekundärinfo (kleiner, gedimmt)
+            if entry.nach:
+                right.addWidget(_lbl(f"Richtung {entry.nach}", _FG_DIM,
+                                     size=11, wrap=True))
+        else:
+            nach_lbl = _lbl(entry.nach or "–", _FG_WHITE,
+                            size=24, bold=True, wrap=True)
+            right.addWidget(nach_lbl)
         right.addStretch(1)
 
         content.addLayout(right, stretch=1)
@@ -209,7 +239,15 @@ class _NextTrainRow(QWidget):
                         QSizePolicy.Policy.Preferred)
         layout.addWidget(z, stretch=1)
 
-        if entry.is_terminating:
+        if entry.is_durchfahrt:
+            tag = QLabel("Durchfahrt")
+            tag.setStyleSheet(
+                f"background-color:{_WARN_BG}; color:{_WARN_FG}; "
+                f"font-size:9pt; font-weight:700; padding:1px 6px; "
+                f"font-family:{_FONT};"
+            )
+            layout.addWidget(tag)
+        elif entry.is_terminating:
             tag = QLabel("Nicht einsteigen")
             tag.setStyleSheet(
                 f"background-color:{_INFO_BG}; color:{_INFO_FG}; "

@@ -56,6 +56,7 @@ class DisplayEntry:
     via: List[str] = field(default_factory=list)
     is_new: bool = False
     is_terminating: bool = False  # endet hier → "Nicht einsteigen!"
+    is_durchfahrt: bool = False   # fährt ohne Halt durch → "Zugdurchfahrt"
 
 
 class ZugManager:
@@ -145,12 +146,23 @@ class ZugManager:
         is_terminating = (
             nach.strip().lower() == self._station_display.strip().lower())
 
+        # Durchfahrt? — aus Fahrplan-Flag "D" für genau diesen Halt ableiten
+        is_durchfahrt = False
+        record = self._zuege.get(new.zid)
+        if record and record.fahrplan:
+            for zeile in record.fahrplan.zeilen:
+                if zeile.plan == platform or zeile.name == platform:
+                    if "D" in (zeile.flags or ""):
+                        is_durchfahrt = True
+                    break
+
         # Einfahrt-Ansage (~1 min vor Ankunft): sichtbar 0 → 1
         if (old is None or not old.sichtbar) and new.sichtbar and platform:
             try:
                 self.event_listener(
                     "einfahrt", name=new.name, nach=nach, via=via,
-                    platform=platform, is_terminating=is_terminating)
+                    platform=platform, is_terminating=is_terminating,
+                    is_durchfahrt=is_durchfahrt)
             except Exception as exc:
                 logger.warning("event_listener einfahrt: %s", exc)
 
@@ -216,6 +228,7 @@ class ZugManager:
             an_time: Optional[int] = None
             matched = False
             is_terminating = False
+            is_durchfahrt = False
 
             # Primary match: fahrplan entry for this platform
             if record.fahrplan and record.fahrplan.zeilen:
@@ -225,9 +238,13 @@ class ZugManager:
                         ab_time = zeile.ab
                         an_time = zeile.an
                         matched = True
+                        if "D" in (zeile.flags or ""):
+                            is_durchfahrt = True
                         # Wenn dieser Halt der letzte im Fahrplan ist
                         # ODER keine Abfahrtszeit gesetzt ist → Endstation
-                        if idx == len(zeilen) - 1 or zeile.ab is None:
+                        # (Durchfahrten haben kein ab → nicht als End behandeln)
+                        if not is_durchfahrt and (
+                                idx == len(zeilen) - 1 or zeile.ab is None):
                             is_terminating = True
                         break
 
@@ -268,6 +285,7 @@ class ZugManager:
                 via=via,
                 is_new=record.is_new,
                 is_terminating=is_terminating,
+                is_durchfahrt=is_durchfahrt,
             ))
 
         entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
@@ -289,11 +307,14 @@ class ZugManager:
 
             ab_time: Optional[int] = None
             an_time: Optional[int] = None
+            is_durchfahrt = False
             if record.fahrplan:
                 for zeile in record.fahrplan.zeilen:
                     if zeile.plan == display_plangleis or zeile.name == display_plangleis:
                         ab_time = zeile.ab
                         an_time = zeile.an
+                        if "D" in (zeile.flags or ""):
+                            is_durchfahrt = True
                         break
 
             cfg = record.config_eintrag
@@ -320,6 +341,7 @@ class ZugManager:
                 via=via,
                 is_new=record.is_new,
                 is_terminating=is_terminating,
+                is_durchfahrt=is_durchfahrt,
             ))
 
         entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))

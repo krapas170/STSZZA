@@ -16,6 +16,7 @@ from PyQt6.QtWidgets import (
 from ..audio.announcer import (
     Announcer,
     text_ankunft,
+    text_durchfahrt,
     text_einfahrt,
     text_endet_hier,
     text_verspaetung,
@@ -251,7 +252,10 @@ class ZZAMainWindow(QMainWindow):
             return
 
         if event_type == "einfahrt":
-            if kwargs.get("is_terminating"):
+            if kwargs.get("is_durchfahrt"):
+                text = text_durchfahrt(platform, kwargs["name"],
+                                       kwargs["nach"], kwargs.get("via"))
+            elif kwargs.get("is_terminating"):
                 text = text_endet_hier(platform, kwargs["name"])
             else:
                 text = text_einfahrt(platform, kwargs["name"],

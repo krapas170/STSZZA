@@ -308,6 +308,19 @@ def text_verspaetung(name: str, nach: str, minuten: int) -> str:
             f"Verspätung. Wir bitten um Verständnis.")
 
 
+def text_durchfahrt(platform: str, name: str, nach: str,
+                    via: Optional[list] = None) -> str:
+    """
+    Durchfahrt-Ansage: Zug fährt ohne Halt durch.
+    Klassisch DB: Vorsicht-Hinweis + Bitte zurücktreten.
+    """
+    via_part = f" über {', '.join(via)}" if via else ""
+    return (f"Achtung an Gleis {platform} — Durchfahrt {name} "
+            f"nach {nach}{via_part}. "
+            f"Vorsicht bei der Durchfahrt. "
+            f"Bitte vom Bahnsteig zurücktreten.")
+
+
 def text_endet_hier(platform: str, name: str) -> str:
     return (f"Gleis {platform} — {name} endet hier. "
             f"Bitte alle aussteigen, nicht mehr einsteigen.")

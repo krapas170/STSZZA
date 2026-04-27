@@ -107,7 +107,14 @@ class DispatcherView(QWidget):
                 delay_item.setForeground(_COLOR_DELAY)
             self._table.setItem(row, _COL_DELAY, delay_item)
 
-            status = "Neu (unbekannt)" if e.is_new else ""
+            if e.is_new:
+                status = "Neu (unbekannt)"
+            elif e.is_durchfahrt:
+                status = "Durchfahrt"
+            elif e.is_terminating:
+                status = "Endet hier"
+            else:
+                status = ""
             self._table.setItem(row, _COL_STATUS, cell(status))
 
         self._table.setSortingEnabled(True)
