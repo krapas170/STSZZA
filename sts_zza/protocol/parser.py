@@ -1,12 +1,22 @@
 from __future__ import annotations
 
+import codecs
 import logging
+import re
 import xml.etree.ElementTree as ET
 from typing import Callable
 
 logger = logging.getLogger(__name__)
 
 ParseCallback = Callable[[ET.Element], None]
+
+# STS schickt teilweise einen <?xml … encoding="ISO-8859-1" ?>-Prolog,
+# obwohl die tatsächlichen Bytes UTF-8-kodiert sind. Wenn wir die Bytes
+# direkt an expat geben, befolgt es die Deklaration und produziert
+# Mojibake (z. B. „Hält" → „HÃ¤lt"). Wir dekodieren deshalb selbst zu
+# Unicode-Strings und entfernen XML-Deklarationen aus dem Stream — bei
+# str-Input ignoriert expat sie ohnehin, der Vollständigkeit halber.
+_XML_DECL_RE = re.compile(r"<\?xml\b[^?]*\?>")
 
 
 class STSStreamParser:
@@ -26,14 +36,26 @@ class STSStreamParser:
         self._on_element = on_element
         self._parser = ET.XMLPullParser(events=["start", "end"])
         self._depth = 0
-        self._parser.feed(b"<stream>")
+        # Inkrementeller UTF-8-Decoder — fängt Multibyte-Zeichen ab, die
+        # über die TCP-Chunk-Grenze hinweg zerrissen werden ("ä" = c3 a4
+        # könnte z. B. mit c3 in Chunk 1 und a4 in Chunk 2 ankommen).
+        # `errors="replace"` schluckt seltene Fehl-Bytes lieber, als den
+        # ganzen Stream sterben zu lassen.
+        self._decoder = codecs.getincrementaldecoder("utf-8")(errors="replace")
+        self._parser.feed("<stream>")
         self._drain()
 
     def feed(self, data: bytes) -> None:
         """Feed raw bytes received from the TCP socket."""
         try:
-            self._parser.feed(data)
-            self._drain()
+            text = self._decoder.decode(data)
+            # XML-Deklarationen mitten im Stream rauswerfen — sie würden
+            # XMLPullParser mit str zwar nicht stören, sehen aber im Log
+            # bei einem ParseError wenigstens nach echtem Inhalt aus.
+            text = _XML_DECL_RE.sub("", text)
+            if text:
+                self._parser.feed(text)
+                self._drain()
         except ET.ParseError as exc:
             logger.error("XML parse error: %s — data: %r", exc, data[:200])
 
