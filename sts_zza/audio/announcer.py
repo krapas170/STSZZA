@@ -308,15 +308,44 @@ def _normalize_for_tts(text: str) -> str:
 # ── Textbausteine ────────────────────────────────────────────────────────────
 
 def text_einfahrt(platform: str, name: str, nach: str,
-                  via: Optional[list] = None) -> str:
+                  via: Optional[list] = None,
+                  verspaetung: int = 0) -> str:
     """
     Einfahrt-Ansage ~1 min vor planmäßiger Ankunft:
-    Gleis, Zug, Ziel, Via, Vorsicht-Hinweis.
+    Gleis, Zug, Ziel, Via, Vorsicht-Hinweis. Bei Verspätung wird der
+    DB-typische Zusatz „heute voraussichtlich N Minuten später" angehängt.
     """
     via_part = f" über {', '.join(via)}" if via else ""
+    delay_part = (f" Heute voraussichtlich circa {verspaetung} Minuten später."
+                  if verspaetung > 0 else "")
     return (f"Gleis {_short_platform(platform)} — Einfahrt {name} "
-            f"nach {nach}{via_part}. "
+            f"nach {nach}{via_part}.{delay_part} "
             f"Vorsicht bei der Einfahrt. Bitte zurückbleiben.")
+
+
+def text_gleisaenderung(name: str, nach: str, platform_neu: str,
+                        platform_alt: str = "",
+                        abfahrt_hhmm: str = "") -> str:
+    """
+    Gleisänderung-Ansage im DB-Stil. Wird einmal pro Wechsel ausgespielt,
+    sobald der Fdl ein anderes Gleis zugeordnet hat.
+    """
+    abfahrt_part = (f", planmäßige Abfahrt {abfahrt_hhmm} Uhr"
+                    if abfahrt_hhmm else "")
+    neu = _short_platform(platform_neu)
+    return (f"Achtung, eine Durchsage zu {name} nach {nach}{abfahrt_part}. "
+            f"Dieser Zug fährt heute ausnahmsweise von Gleis {neu} ab. "
+            f"Ich wiederhole: Gleis {neu}. "
+            f"Wir bitten um Beachtung.")
+
+
+def text_einsteigen(platform: str, name: str, nach: str) -> str:
+    """
+    Vor-Abfahrt-Ansage ~30 s vor planmäßiger Abfahrt: klassisch DB.
+    """
+    return (f"Auf Gleis {_short_platform(platform)} — {name} nach {nach}. "
+            f"Bitte einsteigen, Türen schließen selbsttätig, "
+            f"Vorsicht bei der Abfahrt!")
 
 
 def text_ankunft(station: str, platform: str, name: str, von: str,

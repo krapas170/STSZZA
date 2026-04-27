@@ -236,13 +236,22 @@ class ZugManager:
         self._capture_list: Dict[str, ZugDetails] = {}
         # event_listener(event_type: str, **kwargs) wird vom MainWindow gesetzt
         # und an den Announcer weitergeleitet. Mögliche Events:
-        #   "einfahrt"   → name, nach, via, platform, is_terminating
-        #                  (gefeuert bei sichtbar 0→1, ≈ 1 min vor Ankunft)
-        #   "ankunft"    → name, von, platform, station
-        #                  (gefeuert bei amgleis 0→1, Zug steht am Bahnsteig)
-        #   "endet_hier" → name, platform
-        #   "verspaetung"→ name, nach, minuten, platform
+        #   "einfahrt"      → name, nach, via, platform, verspaetung,
+        #                     is_terminating, is_durchfahrt
+        #                     (gefeuert bei sichtbar 0→1, ≈ 1 min vor Ankunft)
+        #   "ankunft"       → name, von, platform, station
+        #                     (gefeuert bei amgleis 0→1, Zug steht am Bahnsteig)
+        #   "endet_hier"    → name, platform
+        #   "verspaetung"   → name, nach, minuten, platform
+        #   "abfahrt"       → name, platform (amgleis 1→0; nur für UI-Refresh)
+        #   "gleisaenderung"→ name, nach, platform_neu, platform_alt,
+        #                     abfahrt_hhmm
+        #   "einsteigen"    → name, nach, platform
+        #                     (~30 s vor planmäßiger Abfahrt, einmal pro Zug)
         self.event_listener: Optional[Callable[..., None]] = None
+
+        # Pro zid: wurde die „Bitte einsteigen"-Ansage schon gemacht?
+        self._einsteigen_announced: set[int] = set()
 
         # Sim-Zeit-Tracking. Wir merken uns den letzten vom Server gemeldeten
         # Sim-ms-Wert zusammen mit dem monotonen Zeitpunkt der Antwort und
@@ -272,6 +281,7 @@ class ZugManager:
         for zid in list(self._zuege):
             if zid not in current_zids:
                 del self._zuege[zid]
+                self._einsteigen_announced.discard(zid)
         return [zid for zid in current_zids if zid not in self._zuege]
 
     def update_details(self, zid: int, details: ZugDetails) -> bool:
@@ -356,10 +366,27 @@ class ZugManager:
             try:
                 self.event_listener(
                     "einfahrt", name=new.name, nach=nach, via=via,
-                    platform=platform, is_terminating=is_terminating,
+                    platform=platform, verspaetung=new.verspaetung,
+                    is_terminating=is_terminating,
                     is_durchfahrt=is_durchfahrt)
             except Exception as exc:
                 logger.warning("event_listener einfahrt: %s", exc)
+
+        # Gleisänderung: live `gleis` weicht vom Plan ab UND hat sich
+        # gegenüber dem vorigen `gleis` geändert. Beim allerersten Auftauchen
+        # mit Mismatch (old is None) ebenfalls feuern — der Fdl hat den Zug
+        # quasi schon vor unserem Einstieg umgeleitet.
+        if (new.gleis and new.plangleis and new.gleis != new.plangleis
+                and (old is None or old.gleis != new.gleis)
+                and not is_durchfahrt):
+            ab_hhmm = self._planmaessige_abfahrt_hhmm(new)
+            try:
+                self.event_listener(
+                    "gleisaenderung", name=new.name, nach=nach,
+                    platform_neu=new.gleis, platform_alt=new.plangleis,
+                    abfahrt_hhmm=ab_hhmm)
+            except Exception as exc:
+                logger.warning("event_listener gleisaenderung: %s", exc)
 
         # Zug steht am Bahnsteig: amgleis 0 → 1
         if old is not None and not old.amgleis and new.amgleis and platform:
@@ -410,6 +437,79 @@ class ZugManager:
                         minuten=new_v, platform=platform)
                 except Exception as exc:
                     logger.warning("event_listener verspaetung: %s", exc)
+
+    def _planmaessige_abfahrt_hhmm(self, details: ZugDetails) -> str:
+        """HH:MM-String der planmäßigen Abfahrt am aktuellen Halt — leer
+        wenn kein Fahrplan-Eintrag oder keine ab-Zeit vorhanden ist."""
+        from ..utils.time_utils import ms_to_hhmm
+        record = self._zuege.get(details.zid)
+        if record is None or record.fahrplan is None:
+            return ""
+        pgleis = details.plangleis or details.gleis
+        for zeile in record.fahrplan.zeilen:
+            if zeile.plan == pgleis or zeile.name == pgleis:
+                return ms_to_hhmm(zeile.ab) or ""
+        return ""
+
+    def tick_announcements(self) -> None:
+        """
+        Wird vom Hauptfenster im 1-Sekunden-Takt aufgerufen. Prüft, ob
+        einer der aktuell am Bahnsteig stehenden Züge in den nächsten
+        ~30 Sekunden abfährt → einmalige „Bitte einsteigen"-Ansage.
+        """
+        if self.event_listener is None:
+            return
+        sim_now = self.sim_now_ms()
+        if sim_now is None:
+            return
+        for zid, record in self._zuege.items():
+            if zid in self._einsteigen_announced:
+                continue
+            d = record.details
+            if not d.amgleis:
+                continue
+            if _is_dienstfahrt(d.name):
+                continue
+            platform = d.gleis or d.plangleis or ""
+            if not platform:
+                continue
+            # Abfahrts-Zeit + Verspätung aus dem Fahrplan ziehen.
+            if record.fahrplan is None:
+                continue
+            pgleis = d.plangleis or platform
+            ab_ms: Optional[int] = None
+            is_durchfahrt = False
+            for zeile in record.fahrplan.zeilen:
+                if zeile.plan == pgleis or zeile.name == pgleis:
+                    ab_ms = zeile.ab
+                    if "D" in (zeile.flags or ""):
+                        is_durchfahrt = True
+                    break
+            if ab_ms is None or is_durchfahrt:
+                continue
+            ab_eff = ab_ms + (d.verspaetung or 0) * 60_000
+            delta = ab_eff - sim_now
+            if not (0 <= delta <= 30_000):
+                continue
+            # Endstation? Dann statt „Bitte einsteigen" lieber nichts —
+            # die Endet-hier-Ansage hat bereits gesagt, dass man aussteigen
+            # soll.
+            cfg = self._config.zuege.get(d.name)
+            nach = (cfg.nach if cfg and cfg.nach else d.nach) or ""
+            nach = _replace_depot(nach, self._station_display)
+            is_terminating = (
+                nach.strip().lower() == self._station_display.strip().lower()
+                or _is_betriebsbahnhof(nach)
+                or _is_virtual_edge(nach))
+            self._einsteigen_announced.add(zid)
+            if is_terminating:
+                continue
+            try:
+                self.event_listener(
+                    "einsteigen", name=d.name, nach=nach,
+                    platform=platform)
+            except Exception as exc:
+                logger.warning("event_listener einsteigen: %s", exc)
 
     def update_fahrplan(self, zid: int, plan: ZugFahrplan) -> None:
         if zid not in self._zuege:

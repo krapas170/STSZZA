@@ -22,7 +22,9 @@ from ..audio.announcer import (
     text_ankunft,
     text_durchfahrt,
     text_einfahrt,
+    text_einsteigen,
     text_endet_hier,
+    text_gleisaenderung,
     text_verspaetung,
 )
 from ..config.station_config import StationConfig
@@ -97,6 +99,13 @@ class ZZAMainWindow(QMainWindow):
         self._view_refresh_timer.setSingleShot(True)
         self._view_refresh_timer.setInterval(250)
         self._view_refresh_timer.timeout.connect(self._do_refresh_views)
+
+        # 1-Sekunden-Tick für „Bitte einsteigen"-Ansage kurz vor Abfahrt
+        self._announce_tick = QTimer(self)
+        self._announce_tick.setInterval(1_000)
+        self._announce_tick.timeout.connect(
+            self._zug_manager.tick_announcements)
+        self._announce_tick.start()
 
     # ------------------------------------------------------------------
     # Public API (called from app.py)
@@ -293,6 +302,9 @@ class ZZAMainWindow(QMainWindow):
         passende Ansage an den zentralen Announcer weiter.
         """
         platform = kwargs.get("platform", "")
+        # Bei Gleisänderung kommt das (neue) Gleis als platform_neu rein.
+        if not platform and event_type == "gleisaenderung":
+            platform = kwargs.get("platform_neu", "")
         # Nur Ansagen für ausgewählte Bahnsteige
         if platform and platform not in self._selected_platforms:
             return
@@ -305,7 +317,19 @@ class ZZAMainWindow(QMainWindow):
                 text = text_endet_hier(platform, kwargs["name"])
             else:
                 text = text_einfahrt(platform, kwargs["name"],
-                                     kwargs["nach"], kwargs.get("via"))
+                                     kwargs["nach"], kwargs.get("via"),
+                                     verspaetung=kwargs.get("verspaetung", 0))
+        elif event_type == "gleisaenderung":
+            text = text_gleisaenderung(
+                name=kwargs["name"],
+                nach=kwargs.get("nach", ""),
+                platform_neu=kwargs.get("platform_neu", ""),
+                platform_alt=kwargs.get("platform_alt", ""),
+                abfahrt_hhmm=kwargs.get("abfahrt_hhmm", ""),
+            )
+        elif event_type == "einsteigen":
+            text = text_einsteigen(platform, kwargs["name"],
+                                   kwargs.get("nach", ""))
         elif event_type == "ankunft":
             text = text_ankunft(
                 station=kwargs.get("station", ""),
