@@ -17,6 +17,133 @@ _INTERNAL_DEPOT_NAMES = {
     "bw", "betriebswerk",
 }
 
+# Dienst-/Leerfahrten-Gattungen, die niemals in der Capture-Liste landen
+# sollen. Suffix -D/-G/-E (Diesel/Güter/Elektro) wird automatisch toleriert.
+_DIENST_BASE_GATTUNGEN = {
+    "DPN", "DPF", "DLr", "DLt", "DGS",
+    "Lok", "Lr", "Lt", "Rf",
+}
+
+
+def _is_dienstfahrt(zugname: str) -> bool:
+    """True wenn der Zugname eine Dienst-/Leerfahrt-Gattung trägt.
+
+    Erkennt nur die echten Dienst-Bases (DPN, DPF, DLr, DLt, DGS, Lok, Lr,
+    Lt, Rf), auch mit Suffix wie -D/-G/-E.
+
+    Hinweis: Suffixe `-D`/`-G`/`-E` an regulären Gattungen (RE-D, RB-G, …)
+    bedeuten Doppeltraktion / Sandbox-Variante, NICHT Dienstfahrt — diese
+    Züge fahren regulären Linienverkehr und werden nicht gefiltert.
+    """
+    if not zugname:
+        return False
+    gat = zugname.split(" ", 1)[0]
+    base = gat.split("-", 1)[0]
+    return base in _DIENST_BASE_GATTUNGEN
+
+
+# Stellwerks-interne Bereichs-/Gleis-/Hilfsnamen, die als Reise-Ziel
+# unbrauchbar sind. Wenn ein Zug nach Config-Anwendung immer noch dorthin
+# fährt, blenden wir ihn auf der Fahrgast-ZZA aus.
+_INTERNAL_AREA_NACH = (
+    "stammstrecke", "pasing aulido", "pasing fernbahn",
+    "kanal landshut", "kanal ingolstadt",
+    "laim rbf", "münchen süd", "muenchen sued",
+    "vn", "vs ",
+)
+
+
+def _is_internal_area(value: str) -> bool:
+    """True wenn `value` ein Stellwerks-interner Bereich/Gleisname ist."""
+    if not value:
+        return False
+    low = value.strip().lower()
+    if low.startswith("gleis "):
+        return True
+    for hint in _INTERNAL_AREA_NACH:
+        if hint == low or low.startswith(hint):
+            return True
+    return False
+
+
+def _is_betriebsbahnhof(value: str) -> bool:
+    """
+    True wenn `value` ein Betriebsbahnhof (Bbf) / Abstellbahnhof ist.
+
+    Solche Ziele sind keine echten Fahrgast-Bahnhöfe — der Zug rollt nur
+    zur Abstellung weiter. Auf der ZZA muss daher „Nicht einsteigen!"
+    stehen, auch wenn der Zug formal noch nicht endet.
+    """
+    if not value:
+        return False
+    low = value.strip().lower()
+    # Endet auf "Bbf" / "Betriebsbahnhof" oder enthält " Bbf" als Wort.
+    if low.endswith(" bbf") or low == "bbf":
+        return True
+    if "betriebsbahnhof" in low:
+        return True
+    return False
+
+
+# STS-Hinweistext liefert oft einen Streckenstring der Form
+#   "Zuglänge: 156 m | RE 70 München Hbf - Lindau-Reutin via Kempten"
+#   "Zuglänge: 278 m | Saarbrücken Hbf - Graz Hbf (AT)"
+#   "Betriebliche Abfahrtszeit: 10:47 Uhr | Zuglänge: 346 m | Innsbruck - Berlin Gesundbrunnen via Frankfurt"
+# Pipes trennen Segmente; das Strecken-Segment enthält " - " zwischen
+# zwei Bahnhofsnamen, evtl. mit führender Linien-Kennung und
+# nachgestelltem "via <Ort>[, <Ort>]".
+_RE_LINIE_PREFIX = re.compile(
+    r"^"
+    # optional Verkehrsbetreiber-Kürzel ("BRB", "BOB", "BLB", "VIA" …)
+    r"(?:(?:BRB|BOB|BEX|BLB|MEX|ALX|VIA|FLX|FEX|GoA|DLB|WFB)\s+)?"
+    # Linien-Gattung + Nummer(n)
+    r"(?:RE|RB|R|S|IRE|IC|ICE|EC|ECE|RJ|RJX|NJ|EN|TGV)\s*\d+(?:[/]\d+)*"
+    r"\s+",
+    re.IGNORECASE,
+)
+_RE_VIA = re.compile(r"\s+via\s+", re.IGNORECASE)
+
+
+def _parse_hinweistext(text: str) -> Optional[tuple[str, str, list[str]]]:
+    """Parst STS-Hinweistext → (von, nach, via_list).
+
+    Liefert None, wenn kein Strecken-Segment erkannt wurde.
+    """
+    if not text or " - " not in text:
+        return None
+    for raw_seg in text.split("|"):
+        seg = raw_seg.strip()
+        if " - " not in seg:
+            continue
+        # Segmente, die nur Zusatzinfo enthalten, ausschließen.
+        low = seg.lower()
+        if (low.startswith("zuglänge")
+                or low.startswith("betriebliche")
+                or low.startswith("zuglaenge")
+                or "km/h" in low
+                or low.startswith("bemerkung")):
+            continue
+        # Optionale Linien-Kennung am Anfang abschneiden ("RE 70 ", "RB 40 …")
+        seg2 = _RE_LINIE_PREFIX.sub("", seg, count=1)
+        # via abtrennen
+        via_parts: list[str] = []
+        m = _RE_VIA.search(seg2)
+        if m:
+            via_str = seg2[m.end():].strip()
+            seg2 = seg2[:m.start()].strip()
+            via_parts = [v.strip() for v in via_str.split(",") if v.strip()]
+        if " - " not in seg2:
+            continue
+        von, _, nach = seg2.rpartition(" - ")
+        von = von.strip()
+        nach = nach.strip()
+        if not von or not nach:
+            continue
+        # Trailing Land-Kürzel "(AT)", "(IT)" am Ziel entfernen
+        nach = re.sub(r"\s*\([A-Z]{2}\)\s*$", "", nach).strip()
+        return (von, nach, via_parts)
+    return None
+
 
 def _clean_station_name(raw: str) -> str:
     """Entfernt typische Suffixe wie '2010', '(Sandbox)' aus dem Stations-Namen."""
@@ -114,12 +241,28 @@ class ZugManager:
 
         if zid not in self._zuege:
             record = ZugRecord(details=details)
+            # Kommentare/Hinweise immer ins DEBUG-File loggen — STS-
+            # Stellwerke schreiben hier oft Wegstrecke und Reise-Ziel hinein,
+            # die zur späteren Auswertung nützlich sein können.
+            if details.usertext or details.hinweistext:
+                logger.debug(
+                    "ZugDetails first-seen %s [zid=%d] von=%r nach=%r "
+                    "gleis=%r plangleis=%r usertext=%r hinweistext=%r",
+                    details.name, zid, details.von, details.nach,
+                    details.gleis, details.plangleis,
+                    details.usertext, details.hinweistext,
+                )
             if details.name in self._config.zuege:
                 record.config_eintrag = self._config.zuege[details.name]
+            elif _is_dienstfahrt(details.name):
+                # Dienst-/Leerfahrten nicht in Capture-Liste aufnehmen.
+                logger.debug("Ignoring Dienstfahrt for capture: %s",
+                             details.name)
             else:
                 record.is_new = True
                 self._capture_list[details.name] = details
-                logger.info("Captured new train: %s", details.name)
+                logger.info("Captured new train: %s  (von=%r, nach=%r)",
+                            details.name, details.von, details.nach)
             self._zuege[zid] = record
             self._emit_state_events(old_details, details)
             return True
@@ -151,7 +294,8 @@ class ZugManager:
         via = list(cfg.via) if cfg and cfg.via else []
         via = [_replace_depot(v, self._station_display) for v in via]
         is_terminating = (
-            nach.strip().lower() == self._station_display.strip().lower())
+            nach.strip().lower() == self._station_display.strip().lower()
+            or _is_betriebsbahnhof(nach))
 
         # Durchfahrt? — aus Fahrplan-Flag "D" für genau diesen Halt ableiten
         is_durchfahrt = False
@@ -200,8 +344,89 @@ class ZugManager:
                     logger.warning("event_listener verspaetung: %s", exc)
 
     def update_fahrplan(self, zid: int, plan: ZugFahrplan) -> None:
-        if zid in self._zuege:
-            self._zuege[zid].fahrplan = plan
+        if zid not in self._zuege:
+            return
+        previous = self._zuege[zid].fahrplan
+        self._zuege[zid].fahrplan = plan
+
+        # Hinweistexte aus den Fahrplanzeilen einmalig ins Debug-File und
+        # in den Auto-Parser füttern, der Capture-Liste pre-populiert.
+        if previous is None:
+            hints = [
+                (z.plan or z.name, z.hinweistext)
+                for z in plan.zeilen if z.hinweistext
+            ]
+            record = self._zuege[zid]
+            name = record.details.name
+            if hints:
+                logger.debug(
+                    "ZugFahrplan first-seen %s [zid=%d] hinweistexte=%s",
+                    name, zid, hints,
+                )
+            self._auto_parse_route(record, plan)
+
+    def _auto_parse_route(self,
+                          record: ZugRecord,
+                          plan: ZugFahrplan) -> None:
+        """Versucht aus den hinweistext-Feldern Strecke + Ziel zu parsen.
+
+        Bei Erfolg wird der Capture-Listen-Eintrag mit sauberen Werten
+        überschrieben (von/nach/via), so dass der Editor pre-populiert ist
+        und die Fahrgast-ZZA bereits korrekte Ziele zeigt.
+        """
+        # Wenn der Zug schon eine echte Config-Zuordnung hat: nicht überschreiben.
+        if record.config_eintrag is not None:
+            return
+
+        parsed: Optional[tuple[str, str, list[str]]] = None
+        for zeile in plan.zeilen:
+            parsed = _parse_hinweistext(zeile.hinweistext or "")
+            if parsed:
+                break
+        # Auch im Zug-eigenen Hinweistext nachsehen
+        if parsed is None:
+            parsed = _parse_hinweistext(record.details.hinweistext or "")
+            if parsed is None:
+                parsed = _parse_hinweistext(record.details.usertext or "")
+
+        if parsed is None:
+            return
+
+        von, nach, via = parsed
+        # Sicherheits-Check: wenn beide Endpunkte stellwerks-intern sind,
+        # nicht übernehmen.
+        if _is_internal_area(von) and _is_internal_area(nach):
+            return
+
+        name = record.details.name
+        # Capture-Listen-Eintrag aktualisieren (oder neu anlegen, falls
+        # zuvor wegen Dienst-Filter ausgeschlossen).
+        new_details = ZugDetails(
+            zid=record.details.zid,
+            name=name,
+            verspaetung=record.details.verspaetung,
+            gleis=record.details.gleis,
+            plangleis=record.details.plangleis,
+            von=von,
+            nach=nach,
+            sichtbar=record.details.sichtbar,
+            amgleis=record.details.amgleis,
+            usertext=record.details.usertext,
+            hinweistext=record.details.hinweistext,
+            via=list(via),
+        )
+        # Live-Daten im record auch durch geparste Werte ergänzen, damit
+        # die Fahrgast-ZZA sofort echte Ziele zeigt — ohne Config-Schreiben.
+        record.details.von = von
+        record.details.nach = nach
+        record.details.via = list(via)
+
+        if not _is_dienstfahrt(name):
+            self._capture_list[name] = new_details
+            logger.info(
+                "Auto-parsed %s: von=%r nach=%r via=%s",
+                name, von, nach, via,
+            )
 
     # ------------------------------------------------------------------
     # Queries
@@ -231,6 +456,10 @@ class ZugManager:
         """
         entries: List[DisplayEntry] = []
         for zid, record in self._zuege.items():
+            # Dienst-/Leerfahrten gehören nicht auf die Fahrgast-ZZA
+            if _is_dienstfahrt(record.details.name):
+                continue
+
             ab_time: Optional[int] = None
             an_time: Optional[int] = None
             matched = False
@@ -247,11 +476,14 @@ class ZugManager:
                         matched = True
                         if "D" in (zeile.flags or ""):
                             is_durchfahrt = True
-                        # Wenn dieser Halt der letzte im Fahrplan ist
-                        # ODER keine Abfahrtszeit gesetzt ist → Endstation
-                        # (Durchfahrten haben kein ab → nicht als End behandeln)
-                        if not is_durchfahrt and (
-                                idx == len(zeilen) - 1 or zeile.ab is None):
+                        # Endstation nur, wenn KEINE Abfahrtszeit mehr
+                        # eingetragen ist — der Zug rollt also wirklich
+                        # nicht weiter. Ein „letzter im Fahrplan"-Halt mit
+                        # gesetztem `ab` heißt typischerweise nur, dass der
+                        # Zug aus dem Sim-Bereich heraus weiter fährt
+                        # (z. B. RE/RB, deren Strecke nach München Hbf
+                        # endet, der Zug aber Richtung „Fernbahn" austritt).
+                        if not is_durchfahrt and zeile.ab is None:
                             is_terminating = True
                         break
 
@@ -273,8 +505,18 @@ class ZugManager:
             von = _replace_depot(von, self._station_display)
             nach = _replace_depot(nach, self._station_display)
 
+            # Stellwerks-interne Endpunkte (Pasing AuLiDo, München Süd, …)
+            # gehören nicht auf die Fahrgast-ZZA. Wenn die Config kein
+            # echtes Reise-Ziel liefert und live-nach intern ist, ausblenden.
+            if _is_internal_area(nach):
+                continue
+
             # Endet der Zug am aktuellen Bahnhof (nach == station)?
             if nach.strip().lower() == self._station_display.strip().lower():
+                is_terminating = True
+            # Fährt der Zug nur weiter ins Betriebswerk/Bbf? Für Fahrgäste
+            # ist das Endstation — "Nicht einsteigen!" gilt auch hier.
+            elif _is_betriebsbahnhof(nach):
                 is_terminating = True
 
             via = list(cfg.via) if cfg and cfg.via else []
@@ -295,7 +537,16 @@ class ZugManager:
                 is_durchfahrt=is_durchfahrt,
             ))
 
-        entries.sort(key=lambda e: e.ab if e.ab is not None else float("inf"))
+        # Innerhalb eines Bahnsteigs: terminierende Züge (ab=None) anhand
+        # ihrer Ankunftszeit einsortieren, damit „Aus …" am richtigen Platz
+        # in der Chronologie erscheint und nicht ans Listen-Ende rutscht.
+        def _sort_key(e: DisplayEntry) -> float:
+            if e.ab is not None:
+                return e.ab
+            if e.an is not None:
+                return e.an
+            return float("inf")
+        entries.sort(key=_sort_key)
         return entries
 
     def get_all_display_data(self, platforms: List[str]) -> List[DisplayEntry]:
@@ -310,6 +561,8 @@ class ZugManager:
         """All known trains regardless of platform, sorted by departure time."""
         entries: List[DisplayEntry] = []
         for zid, record in self._zuege.items():
+            if _is_dienstfahrt(record.details.name):
+                continue
             display_plangleis = self.get_plangleis_for_display(zid) or record.details.plangleis or "?"
 
             ab_time: Optional[int] = None
@@ -329,8 +582,13 @@ class ZugManager:
             nach = cfg.nach if cfg and cfg.nach else record.details.nach
             von = _replace_depot(von, self._station_display)
             nach = _replace_depot(nach, self._station_display)
+
+            if _is_internal_area(nach):
+                continue
+
             is_terminating = (
                 nach.strip().lower() == self._station_display.strip().lower()
+                or _is_betriebsbahnhof(nach)
             )
 
             via = list(cfg.via) if cfg and cfg.via else []

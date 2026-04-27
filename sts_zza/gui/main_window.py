@@ -1,12 +1,16 @@
 from __future__ import annotations
 
 import logging
+import os
+import sys
 from typing import List
 
 from PyQt6.QtCore import Qt, QTimer
 from PyQt6.QtWidgets import (
+    QApplication,
     QLabel,
     QMainWindow,
+    QMessageBox,
     QStackedWidget,
     QStatusBar,
     QWidget,
@@ -132,6 +136,11 @@ class ZZAMainWindow(QMainWindow):
         self._action_announcements.setChecked(self._announcer.enabled)
         self._action_announcements.toggled.connect(
             self._announcer.set_enabled)
+
+        tools_menu.addSeparator()
+        self._action_restart = tools_menu.addAction("Neustart")
+        self._action_restart.setShortcut("Ctrl+R")
+        self._action_restart.triggered.connect(self._restart_app)
 
         self._stack = QStackedWidget()
         self._placeholder    = _PlaceholderView("Verbinde mit StellwerkSim …")
@@ -333,6 +342,52 @@ class ZZAMainWindow(QMainWindow):
         except Exception:
             pass
         super().closeEvent(event)
+
+    def _restart_app(self) -> None:
+        """
+        Startet das Plugin neu — ohne dass der Nutzer es vorher schließen
+        muss. Schritte:
+          1) kurze Bestätigung,
+          2) STS-Verbindung sauber trennen, Announcer stoppen,
+          3) den Python-Interpreter mit denselben Argumenten erneut
+             starten und das aktuelle Fenster schließen.
+
+        Auf Windows ist `os.execv` zickig (Pfade mit Leerzeichen, frozen
+        exes), deshalb wird ein neuer Prozess via `QProcess.startDetached`
+        gestartet und der aktuelle danach via `quit()` beendet.
+        """
+        if QMessageBox.question(
+            self, "Neustart",
+            "Programm neu starten? Aktuelle Verbindung wird getrennt.",
+            QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No,
+            QMessageBox.StandardButton.Yes,
+        ) != QMessageBox.StandardButton.Yes:
+            return
+
+        # Sauberes Herunterfahren — Announcer-Worker, STS-Socket
+        try:
+            self._announcer.shutdown()
+        except Exception as exc:
+            logger.debug("announcer shutdown failed: %s", exc)
+        try:
+            self._client.disconnect()
+        except Exception as exc:
+            logger.debug("client disconnect failed: %s", exc)
+
+        # Neuen Prozess starten
+        from PyQt6.QtCore import QProcess
+        prog = sys.executable
+        args = sys.argv[:]
+        # Wenn das Skript direkt ausgeführt wurde (python main.py), liegt
+        # das Skript in args[0]. Wenn als „frozen" exe (PyInstaller),
+        # ist sys.argv[0] die exe — dann genügt prog = exe-Pfad ohne args.
+        if getattr(sys, "frozen", False):
+            QProcess.startDetached(prog, args[1:])
+        else:
+            QProcess.startDetached(prog, args)
+
+        logger.info("Restart requested — quitting current process")
+        QApplication.instance().quit()
 
     def _open_editor(self) -> None:
         from .editor_dialog import EditorDialog

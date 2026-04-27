@@ -257,10 +257,30 @@ class Announcer:
 # die Sprachausgabe natürlich klingt.
 
 _TTS_REPLACEMENTS = [
+    # Bahnhofs-Abkürzungen
     (re.compile(r"\bHbf\b", re.IGNORECASE), "Hauptbahnhof"),
     (re.compile(r"\bBhf\b", re.IGNORECASE), "Bahnhof"),
     (re.compile(r"\bHp\b"), "Haltepunkt"),
     (re.compile(r"\bBw\b"), "Betriebswerk"),
+    # Zug-Gattungen — die deutsche TTS-Stimme spricht "ICE" sonst als
+    # Wort ("Eis"), "IC" als "Ick", "EC" als "Eck" usw. Wir ersetzen die
+    # Kürzel deshalb durch ihre offiziellen DB-Langformen, wenn sie als
+    # Zug-Gattung (vor einer Nummer) auftreten.
+    (re.compile(r"\bICE\b(?=\s*\d)"), "Intercity-Express"),
+    (re.compile(r"\bIC\b(?=\s*\d)"),  "Intercity"),
+    (re.compile(r"\bEC\b(?=\s*\d)"),  "Eurocity"),
+    (re.compile(r"\bECE\b(?=\s*\d)"), "Eurocity-Express"),
+    (re.compile(r"\bIRE\b(?=\s*\d)"), "Interregio-Express"),
+    (re.compile(r"\bRE\b(?=\s*\d)"),  "Regional-Express"),
+    (re.compile(r"\bRB\b(?=\s*\d)"),  "Regionalbahn"),
+    (re.compile(r"\bRJ\b(?=\s*\d)"),  "Railjet"),
+    (re.compile(r"\bRJX\b(?=\s*\d)"), "Railjet-Express"),
+    (re.compile(r"\bNJ\b(?=\s*\d)"),  "Nightjet"),
+    (re.compile(r"\bEN\b(?=\s*\d)"),  "EuroNight"),
+    (re.compile(r"\bCNL\b(?=\s*\d)"), "CityNightLine"),
+    (re.compile(r"\bTGV\b(?=\s*\d)"), "T G V"),
+    # S-Bahn explizit als "S-Bahn", nicht als Buchstabe "Es"
+    (re.compile(r"\bS\b(?=\s*\d)"),   "S-Bahn"),
 ]
 
 

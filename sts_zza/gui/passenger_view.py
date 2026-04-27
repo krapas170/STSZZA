@@ -29,8 +29,10 @@ class PassengerView(QWidget):
     def __init__(self, parent=None) -> None:
         super().__init__(parent)
         self._boards: Dict[str, DepartureBoardWidget] = {}
-        self._platforms: List[str] = []
+        self._platforms: List[str] = []          # ursprüngliche Reihenfolge
+        self._display_order: List[str] = []      # aktuell angezeigte Reihenfolge
         self._current_cols: int = 0
+        self._sort_by_next_departure: bool = True
         self._setup_ui()
 
     def _setup_ui(self) -> None:
@@ -67,13 +69,52 @@ class PassengerView(QWidget):
             board.deleteLater()
         self._boards.clear()
         self._platforms = list(platforms)
+        self._display_order = list(platforms)
         self._current_cols = 0   # force rebuild
         self._rebuild_grid()
 
+    def set_sort_by_next_departure(self, enabled: bool) -> None:
+        """Schaltet die dynamische Sortierung nach nächster Abfahrt um."""
+        if enabled == self._sort_by_next_departure:
+            return
+        self._sort_by_next_departure = enabled
+        if not enabled:
+            self._display_order = list(self._platforms)
+            self._rebuild_grid()
+
     def refresh(self, zug_manager: ZugManager) -> None:
+        # Pro Plattform die Einträge holen und gleichzeitig die nächste
+        # *Abfahrtszeit* ermitteln (nur ab, kein an-Fallback — terminierende
+        # Züge dürfen ihren Bahnsteig nicht nach vorne ziehen).
+        next_dep: Dict[str, int] = {}
         for platform, board in self._boards.items():
             entries = zug_manager.get_display_data_for_platform(platform)
             board.refresh(entries)
+            soonest = None
+            for e in entries:
+                if e.ab is None:
+                    continue
+                if soonest is None or e.ab < soonest:
+                    soonest = e.ab
+            # Plattformen ohne aktive Abfahrt landen am Ende.
+            next_dep[platform] = soonest if soonest is not None else 10**12
+
+        if self._sort_by_next_departure:
+            # Sekundär-Sortierung numerisch (Gleis "5" vor "10"),
+            # mit Fallback auf String, falls kein Zahlname.
+            def _name_key(p: str):
+                try:
+                    return (0, int(p))
+                except ValueError:
+                    return (1, p)
+
+            new_order = sorted(
+                self._platforms,
+                key=lambda p: (next_dep.get(p, 10**12), _name_key(p)),
+            )
+            if new_order != self._display_order:
+                self._display_order = new_order
+                self._rebuild_grid()
 
     # ------------------------------------------------------------------
     # Resize handling
@@ -110,7 +151,8 @@ class PassengerView(QWidget):
             self._grid.setRowStretch(r, 0)
 
         # Boards anlegen / wiederverwenden — feste Größe, keine Streckung
-        for i, platform in enumerate(self._platforms):
+        order = self._display_order or self._platforms
+        for i, platform in enumerate(order):
             if platform not in self._boards:
                 board = DepartureBoardWidget(platform)
                 self._boards[platform] = board
@@ -122,5 +164,5 @@ class PassengerView(QWidget):
         # Letzte (leere) Spalte/Zeile dehnt sich, damit Kacheln links-oben
         # bleiben statt zentriert zu schweben.
         self._grid.setColumnStretch(n_cols, 1)
-        n_rows = (len(self._platforms) + n_cols - 1) // n_cols
+        n_rows = (len(order) + n_cols - 1) // n_cols
         self._grid.setRowStretch(n_rows, 1)

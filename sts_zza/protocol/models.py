@@ -45,6 +45,7 @@ class ZugDetails:
     amgleis: bool = False
     usertext: str = ""
     hinweistext: str = ""
+    via: List[str] = field(default_factory=list)   # aus Hinweistext geparst
 
 
 @dataclass

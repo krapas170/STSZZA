@@ -1,8 +1,9 @@
 from __future__ import annotations
 
+import datetime
 from typing import List
 
-from PyQt6.QtCore import Qt
+from PyQt6.QtCore import Qt, QTimer
 from PyQt6.QtWidgets import (
     QFrame,
     QHBoxLayout,
@@ -145,6 +146,14 @@ class _MainTrainWidget(QWidget):
         self.setSizePolicy(QSizePolicy.Policy.Expanding,
                            QSizePolicy.Policy.Expanding)
 
+        # Bei terminierenden Zügen mit bekanntem Startort: als Ankunft
+        # darstellen ("Aus …" + Ankunftszeit). Der Folgezug-Bereich darunter
+        # zeigt dann den nächsten Abfahrer ("Nicht einsteigen").
+        as_arrival = (entry.is_terminating
+                      and not entry.is_durchfahrt
+                      and bool(entry.von))
+        primary_time = entry.an if as_arrival and entry.an is not None else entry.ab
+
         # Querformat — zweispaltig wie auf großen DB-Bahnsteig-Monitoren:
         #   Links: Zugnummer (oben) · Zeit groß (unten) · Ist-Zeit-Kasten
         #   Rechts: Info-Banner (optional) · Via-Halte · Ziel RIESIG
@@ -162,12 +171,12 @@ class _MainTrainWidget(QWidget):
         time_row = QHBoxLayout()
         time_row.setContentsMargins(0, 0, 0, 0)
         time_row.setSpacing(6)
-        time_lbl = _lbl(ms_to_hhmm(entry.ab) or "--:--",
+        time_lbl = _lbl(ms_to_hhmm(primary_time) or "--:--",
                         size=26, bold=True)
         time_row.addWidget(time_lbl)
-        if entry.verspaetung > 0 and entry.ab is not None:
-            ist_ab = entry.ab + entry.verspaetung * 60_000
-            time_row.addWidget(_DelayBox(ms_to_hhmm(ist_ab) or ""))
+        if entry.verspaetung > 0 and primary_time is not None:
+            ist_t = primary_time + entry.verspaetung * 60_000
+            time_row.addWidget(_DelayBox(ms_to_hhmm(ist_t) or ""))
         time_row.addStretch(1)
         left.addLayout(time_row)
         left.addStretch(1)
@@ -185,28 +194,41 @@ class _MainTrainWidget(QWidget):
         right.setSpacing(4)
         right.setContentsMargins(0, 0, 0, 0)
 
-        # 1) Info-Banner (Verspätung / „Nicht einsteigen" / Durchfahrt)
+        # 1) Info-Banner (Verspätung / „Nicht einsteigen" / Durchfahrt /
+        #    Ankunft — terminierende Züge bekommen einen eigenen Banner
+        #    "Ankunft" statt "Nicht einsteigen!", damit klar erkennbar ist,
+        #    dass dieser Zug HIER ENDET und nicht weiterfährt.)
         if entry.is_durchfahrt:
             right.addWidget(_WarnBanner(
                 "+ + + Vorsicht — Zugdurchfahrt + + +"))
         else:
-            info_text = self._build_info_text(entry)
+            info_text = self._build_info_text(entry, as_arrival)
             if info_text:
                 right.addWidget(_InfoBanner(info_text))
 
-        # 2) Via-Halte (bei Durchfahrt entfällt Via — Zug hält ja nicht)
+        # 2) Via-Halte
+        #    – Durchfahrt: entfällt (Zug hält nicht)
+        #    – Ankunft (Endstation): Via zeigt die Strecke, AUS der der Zug
+        #      kommt — informativ für wartende Fahrgäste, die ihn empfangen.
         if entry.via and not entry.is_durchfahrt:
             via_text = " · ".join(entry.via)
             right.addWidget(_lbl(via_text, _FG_DIM, size=10, wrap=True))
 
-        # 3) Hauptzeile: Durchfahrt → "Zugdurchfahrt", sonst → Ziel
+        # 3) Hauptzeile:
+        #    – Durchfahrt:    "Zugdurchfahrt" (Richtung … klein darunter)
+        #    – Endstation:    "Aus <Startort>"  (klar als Ankunft erkennbar)
+        #    – Normal:         <Ziel> (Abfahrt)
         if entry.is_durchfahrt:
             right.addWidget(_lbl("Zugdurchfahrt", _FG_WHITE,
                                  size=24, bold=True))
-            # Ziel als Sekundärinfo (kleiner, gedimmt)
             if entry.nach:
                 right.addWidget(_lbl(f"Richtung {entry.nach}", _FG_DIM,
                                      size=11, wrap=True))
+        elif as_arrival:
+            # "Aus" als kleiner Vorsatz, dann Startort RIESIG
+            right.addWidget(_lbl("Aus", _FG_DIM, size=11, bold=False))
+            right.addWidget(_lbl(entry.von, _FG_WHITE,
+                                 size=24, bold=True, wrap=True))
         else:
             nach_lbl = _lbl(entry.nach or "–", _FG_WHITE,
                             size=24, bold=True, wrap=True)
@@ -216,12 +238,16 @@ class _MainTrainWidget(QWidget):
         content.addLayout(right, stretch=1)
 
     @staticmethod
-    def _build_info_text(entry: DisplayEntry) -> str:
+    def _build_info_text(entry: DisplayEntry, as_arrival: bool = False) -> str:
         parts = []
         if entry.verspaetung > 0:
             parts.append(f"+ + + ca. {entry.verspaetung} Minuten "
                          f"Verspätung + + +")
-        if entry.is_terminating:
+        if as_arrival:
+            # Endstation mit erkanntem Startort → klar als Ankunft markieren
+            parts.append("Ankunft — Zug endet hier")
+        elif entry.is_terminating:
+            # Endstation, Startort unbekannt → wenigstens nicht einsteigen
             parts.append("Nicht einsteigen!")
         return "   ".join(parts)
 
@@ -300,14 +326,95 @@ class DepartureBoardWidget(QWidget):
     _BOARD_W = 800
     _BOARD_H = 200
 
+    # Vorwarnzeit für die rot-blinkende Umrandung: wenn der nächste Abfahrer
+    # innerhalb dieses Fensters losrollt (Sollabfahrt + Verspätung minus
+    # System-Uhr), pulsiert der Rand. Hilfreich für den Fdl als visuelle
+    # "gleich gehts los"-Erinnerung.
+    _ALERT_LEAD_MS = 60_000      # 1 min vor Abfahrt
+    _BLINK_INTERVAL_MS = 500     # 2 Hz Pulsfrequenz
+    _ALERT_BORDER = "4px solid #ff1010"
+
     def __init__(self, platform: str, parent=None) -> None:
         super().__init__(parent)
         self._platform = platform
+        self.setObjectName("ZzaBoard")
         self.setFixedSize(self._BOARD_W, self._BOARD_H)
         self.setSizePolicy(
             QSizePolicy.Policy.Fixed, QSizePolicy.Policy.Fixed)
-        self.setStyleSheet(f"background-color:{_BG_BLUE};")
+        # Wichtig: #ZzaBoard-Selektor — sonst erbt das Border alle Kinder
+        # und wir bekommen Rahmen um jedes Label.
+        self.setStyleSheet(
+            f"#ZzaBoard {{ background-color:{_BG_BLUE}; border: 4px solid "
+            f"transparent; }}"
+        )
+
+        self._alert_active = False
+        self._blink_on = False
+        self._last_entries: List[DisplayEntry] = []
+        self._blink_timer = QTimer(self)
+        self._blink_timer.setInterval(self._BLINK_INTERVAL_MS)
+        self._blink_timer.timeout.connect(self._on_blink)
+        # Sekündlicher Tick — wertet den Alert auch zwischen STS-Updates
+        # neu aus (sonst würde der Rand erst beim nächsten Server-Event
+        # rot werden).
+        self._watch_timer = QTimer(self)
+        self._watch_timer.setInterval(1000)
+        self._watch_timer.timeout.connect(self._tick_alert)
+        self._watch_timer.start()
+
         self._setup_ui()
+
+    @staticmethod
+    def _now_ms() -> int:
+        n = datetime.datetime.now()
+        return ((n.hour * 3600 + n.minute * 60 + n.second) * 1000
+                + n.microsecond // 1000)
+
+    def _evaluate_alert(self, entries: List[DisplayEntry]) -> bool:
+        """True, wenn der nächste echte Abfahrer in <= 1 min losfährt."""
+        now = self._now_ms()
+        soonest_delta = None
+        for e in entries:
+            if e.ab is None or e.is_durchfahrt:
+                continue
+            t_eff = e.ab + (e.verspaetung or 0) * 60_000
+            delta = t_eff - now
+            if delta < -30_000:
+                # schon mehr als 30 s überfällig → Zug ist eigentlich weg,
+                # nicht mehr blinken.
+                continue
+            if soonest_delta is None or delta < soonest_delta:
+                soonest_delta = delta
+        return soonest_delta is not None and soonest_delta <= self._ALERT_LEAD_MS
+
+    def _set_alert(self, on: bool) -> None:
+        if on == self._alert_active:
+            return
+        self._alert_active = on
+        if on:
+            self._blink_on = True
+            self._apply_border(True)
+            self._blink_timer.start()
+        else:
+            self._blink_timer.stop()
+            self._blink_on = False
+            self._apply_border(False)
+
+    def _on_blink(self) -> None:
+        self._blink_on = not self._blink_on
+        self._apply_border(self._blink_on)
+
+    def _tick_alert(self) -> None:
+        """Re-bewertet den Alert jede Sekunde anhand der zuletzt bekannten
+        Einträge — damit der Rahmen pünktlich rot wird, ohne auf das
+        nächste STS-Event warten zu müssen."""
+        self._set_alert(self._evaluate_alert(self._last_entries))
+
+    def _apply_border(self, red: bool) -> None:
+        border = self._ALERT_BORDER if red else "4px solid transparent"
+        self.setStyleSheet(
+            f"#ZzaBoard {{ background-color:{_BG_BLUE}; border: {border}; }}"
+        )
 
     def _setup_ui(self) -> None:
         # Äußere Aufteilung: Gleisnummer links · Zugbereich rechts
@@ -367,6 +474,12 @@ class DepartureBoardWidget(QWidget):
     def refresh(self, entries: List[DisplayEntry]) -> None:
         self._clear_layout(self._main_layout)
         self._clear_layout(self._next_layout)
+
+        # Rot-blinkende Vorwarnung neu bewerten — auch wenn die Liste leer
+        # ist (dann blinkt nichts). Snapshot speichern, damit der
+        # Watch-Timer sekündlich nachprüft.
+        self._last_entries = list(entries)
+        self._set_alert(self._evaluate_alert(entries))
 
         if not entries:
             empty = _lbl("Kein Zug angekündigt", _FG_DIM, size=12,
