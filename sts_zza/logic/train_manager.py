@@ -165,6 +165,22 @@ def _replace_depot(value: str, station_name: str) -> str:
     return value
 
 
+# „Fernbahn", „Fernverkehr" etc. sind keine Bahnhöfe, sondern STS-Sprech
+# für „irgendwo außerhalb der simulierten Gleise". Wenn ein Zug von dort
+# kommt oder dorthin fährt, ist die genaue Strecke unbekannt — wir blenden
+# den Wert aus, damit auf der ZZA kein „Aus Fernbahn" / „Richtung Fernbahn"
+# steht.
+_VIRTUAL_EDGE_NAMES = {
+    "fernbahn", "fernverkehr",
+}
+
+
+def _is_virtual_edge(value: str) -> bool:
+    if not value:
+        return False
+    return value.strip().lower() in _VIRTUAL_EDGE_NAMES
+
+
 @dataclass
 class ZugRecord:
     """Live state for one train, combined with config data."""
@@ -558,6 +574,16 @@ class ZugManager:
             von = _replace_depot(von, self._station_display)
             nach = _replace_depot(nach, self._station_display)
 
+            # „Fernbahn" / „Fernverkehr" sind keine Bahnhöfe — leer setzen,
+            # damit kein „Aus Fernbahn" auf der ZZA erscheint. Wenn der Zug
+            # nur dorthin „endet", endet er in Wirklichkeit gar nicht — er
+            # rollt aus dem Sim-Bereich raus.
+            if _is_virtual_edge(von):
+                von = ""
+            if _is_virtual_edge(nach):
+                nach = ""
+                is_terminating = False
+
             # Stellwerks-interne Endpunkte (Pasing AuLiDo, München Süd, …)
             # gehören nicht auf die Fahrgast-ZZA. Wenn die Config kein
             # echtes Reise-Ziel liefert und live-nach intern ist, ausblenden.
@@ -641,10 +667,18 @@ class ZugManager:
             von = _replace_depot(von, self._station_display)
             nach = _replace_depot(nach, self._station_display)
 
+            # Virtuelle Sim-Außenränder ausblenden (vgl. get_display_data_for_platform).
+            if _is_virtual_edge(von):
+                von = ""
+            virtual_nach = _is_virtual_edge(nach)
+            if virtual_nach:
+                nach = ""
+
             if _is_internal_area(nach):
                 continue
 
             is_terminating = (
+                not virtual_nach and
                 nach.strip().lower() == self._station_display.strip().lower()
                 or _is_betriebsbahnhof(nach)
             )
