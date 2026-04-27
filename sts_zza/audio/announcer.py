@@ -195,14 +195,8 @@ class Announcer:
             target=self._worker_loop, name="Announcer", daemon=True)
         self._worker.start()
 
-    def _worker_loop(self) -> None:
-        try:
-            engine = pyttsx3.init()
-        except Exception as exc:  # pragma: no cover
-            logger.error("TTS-Engine konnte nicht gestartet werden: %s", exc)
-            return
-
-        # Deutsche Stimme bevorzugen, falls vorhanden
+    def _configure_engine(self, engine) -> None:
+        """Deutsche Stimme + Tempo/Volume setzen."""
         try:
             for v in engine.getProperty("voices"):
                 lang = (getattr(v, "languages", []) or [""])[0]
@@ -210,14 +204,20 @@ class Announcer:
                 if "german" in name or "deutsch" in name or b"de" in (
                         lang if isinstance(lang, bytes) else lang.encode()):
                     engine.setProperty("voice", v.id)
-                    logger.info("TTS-Stimme: %s", v.name)
+                    if not self._voice_logged:
+                        logger.info("TTS-Stimme: %s", v.name)
+                        self._voice_logged = True
                     break
         except Exception:
             pass
-
-        engine.setProperty("rate", 165)   # leicht ruhiger als Standard
+        engine.setProperty("rate", 165)
         engine.setProperty("volume", 1.0)
 
+    def _worker_loop(self) -> None:
+        # Pro Ansage wird die Engine neu erzeugt — vermeidet einen bekannten
+        # pyttsx3-SAPI-Bug, bei dem nach dem ersten runAndWait() folgende
+        # say()-Aufrufe stumm bleiben (queue läuft ins Leere).
+        self._voice_logged = False
         while True:
             text = self._queue.get()
             if text is None:
@@ -226,15 +226,17 @@ class Announcer:
                 continue
             try:
                 _play_gong()
+                engine = pyttsx3.init()
+                self._configure_engine(engine)
                 engine.say(_normalize_for_tts(text))
                 engine.runAndWait()
+                try:
+                    engine.stop()
+                except Exception:
+                    pass
+                del engine
             except Exception as exc:
                 logger.warning("TTS-Fehler: %s", exc)
-
-        try:
-            engine.stop()
-        except Exception:
-            pass
 
     def _drain_queue(self) -> None:
         try:
