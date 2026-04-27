@@ -293,6 +293,7 @@ class ZugManager:
             self._capture_list.pop(details.name, None)
 
         self._emit_state_events(old_details, details)
+        self._maybe_seed_sim_time_from_train(self._zuege[zid])
         return old_plangleis != details.plangleis
 
     def _emit_state_events(self,
@@ -389,6 +390,9 @@ class ZugManager:
             return
         previous = self._zuege[zid].fahrplan
         self._zuege[zid].fahrplan = plan
+        # Mit dem neu eingetroffenen Fahrplan eventuell den Sim-Zeit-Anker
+        # aus einem aktuell stehenden Zug ableiten.
+        self._maybe_seed_sim_time_from_train(self._zuege[zid])
 
         # Hinweistexte aus den Fahrplanzeilen einmalig ins Debug-File und
         # in den Auto-Parser füttern, der Capture-Liste pre-populiert.
@@ -674,6 +678,47 @@ class ZugManager:
         """Wird vom MainWindow aufgerufen, sobald <simzeit/> beantwortet wird."""
         self._sim_anchor_ms = sim_ms
         self._sim_anchor_monotonic = time.monotonic()
+        logger.debug("Sim-Zeit-Anker gesetzt (Server-Antwort): %d ms", sim_ms)
+
+    def _maybe_seed_sim_time_from_train(self, record: ZugRecord) -> None:
+        """
+        Fallback-Ableitung der Sim-Zeit, falls der Server nicht auf
+        <simzeit/> antwortet (manche PluginTester / ältere STS-Builds).
+
+        Wenn ein Zug gerade mit amgleis=True gemeldet wird und der
+        Fahrplan eine Ankunfts- bzw. Abfahrtszeit für sein aktuelles
+        Gleis enthält, dann ist sim_now ≈ (an+Verspätung) bis
+        (ab+Verspätung). Wir nehmen die Mitte als pragmatischen Schätzer.
+        """
+        if self._sim_anchor_ms is not None:
+            return  # echter Server-Wert hat Vorrang
+        d = record.details
+        if not d.amgleis:
+            return
+        plan = record.fahrplan
+        if plan is None:
+            return
+        gleis = d.gleis or d.plangleis
+        for zeile in plan.zeilen:
+            if zeile.plan != gleis and zeile.name != gleis:
+                continue
+            base: Optional[int] = None
+            if zeile.an is not None and zeile.ab is not None:
+                base = (zeile.an + zeile.ab) // 2
+            elif zeile.ab is not None:
+                base = zeile.ab
+            elif zeile.an is not None:
+                base = zeile.an
+            if base is None:
+                continue
+            sim_ms = base + (d.verspaetung or 0) * 60_000
+            self._sim_anchor_ms = sim_ms % (24 * 3_600_000)
+            self._sim_anchor_monotonic = time.monotonic()
+            logger.info(
+                "Sim-Zeit-Anker per Fallback aus Zug %s am Gleis %s: %d ms",
+                d.name, gleis, self._sim_anchor_ms,
+            )
+            return
 
     def sim_now_ms(self) -> Optional[int]:
         """

@@ -102,6 +102,7 @@ class STSClient(QObject):
 
     def request_simzeit(self) -> None:
         """Aktuelle Sim-Uhrzeit anfragen (Antwort kommt als sig_simzeit)."""
+        logger.debug("[STS] -> simzeit request")
         self._send("<simzeit sender='0' />\n")
 
     # ------------------------------------------------------------------
@@ -234,24 +235,39 @@ class STSClient(QObject):
             self.sig_zugfahrplan.emit(zid, plan)
 
         elif tag == "simzeit":
-            # STS liefert die Sim-Uhrzeit entweder als ms-since-midnight
-            # (Attribut "zeit", numerisch) oder als HH:MM:SS-String. Beides
-            # akzeptieren.
-            raw = elem.get("zeit", "").strip()
+            # STS liefert die Sim-Uhrzeit in unterschiedlichen Dialekten:
+            # entweder als ms-since-midnight (Attribut "zeit"/"time"/"wert",
+            # numerisch) oder als HH:MM:SS-String. Wir prüfen alle gängigen
+            # Attributnamen und beide Formate.
+            logger.debug("[STS] simzeit raw: %r",
+                         dict(elem.attrib))
             ms: Optional[int] = None
-            if raw.isdigit():
-                ms = int(raw)
-            elif ":" in raw:
-                try:
-                    parts = raw.split(":")
-                    h = int(parts[0])
-                    m = int(parts[1]) if len(parts) > 1 else 0
-                    s = int(parts[2]) if len(parts) > 2 else 0
-                    ms = ((h * 60 + m) * 60 + s) * 1000
-                except ValueError:
-                    ms = None
+            for key in ("zeit", "time", "wert", "value"):
+                raw = elem.get(key, "").strip()
+                if not raw:
+                    continue
+                if raw.lstrip("-").isdigit():
+                    ms = int(raw)
+                    break
+                if ":" in raw:
+                    try:
+                        parts = raw.split(":")
+                        h = int(parts[0])
+                        m = int(parts[1]) if len(parts) > 1 else 0
+                        s = float(parts[2]) if len(parts) > 2 else 0
+                        ms = int(((h * 60 + m) * 60 + s) * 1000)
+                        break
+                    except ValueError:
+                        continue
             if ms is not None:
+                logger.debug("[STS] simzeit -> %d ms (%02d:%02d:%02d)",
+                             ms, ms // 3_600_000,
+                             (ms % 3_600_000) // 60_000,
+                             (ms % 60_000) // 1000)
                 self.sig_simzeit.emit(ms)
+            else:
+                logger.warning("simzeit-Antwort ohne brauchbares Zeitfeld: %r",
+                               dict(elem.attrib))
 
         elif tag == "ereignis":
             art_str = elem.get("art", "")
