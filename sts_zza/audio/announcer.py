@@ -136,8 +136,20 @@ class Announcer:
         self._enabled: bool = _PYTTSX3_AVAILABLE
         self._enabled_platforms: Optional[Set[str]] = None  # None = alle
 
+        # Spiegel-Liste der noch wartenden Ansagen + aktuell laufende
+        # Ansage, damit ein UI-Viewer den Stand abfragen kann, ohne die
+        # Queue zu konsumieren.
+        self._lock = threading.Lock()
+        self._pending: List[str] = []
+        self._current: Optional[str] = None
+
         if _PYTTSX3_AVAILABLE:
             self._start_worker()
+
+    def snapshot(self) -> tuple[Optional[str], List[str]]:
+        """(aktuell laufende Ansage, Liste der wartenden) — thread-sicher."""
+        with self._lock:
+            return self._current, list(self._pending)
 
     # ------------------------------------------------------------------
     # Public API
@@ -178,6 +190,8 @@ class Announcer:
             return
         if platform is not None and not self.is_platform_enabled(platform):
             return
+        with self._lock:
+            self._pending.append(text)
         self._queue.put(text)
 
     def shutdown(self) -> None:
@@ -222,7 +236,16 @@ class Announcer:
             text = self._queue.get()
             if text is None:
                 break
+            with self._lock:
+                # die zugehörige Eingangs-Position aus _pending entfernen
+                try:
+                    self._pending.remove(text)
+                except ValueError:
+                    pass
+                self._current = text
             if not self._enabled:
+                with self._lock:
+                    self._current = None
                 continue
             try:
                 _play_gong()
@@ -237,6 +260,9 @@ class Announcer:
                 del engine
             except Exception as exc:
                 logger.warning("TTS-Fehler: %s", exc)
+            finally:
+                with self._lock:
+                    self._current = None
 
     def _drain_queue(self) -> None:
         try:
@@ -244,6 +270,8 @@ class Announcer:
                 self._queue.get_nowait()
         except queue.Empty:
             pass
+        with self._lock:
+            self._pending.clear()
 
 
 # ── TTS-Normalisierung ───────────────────────────────────────────────────────

@@ -152,6 +152,11 @@ class ZZAMainWindow(QMainWindow):
         self._action_announcements.toggled.connect(
             self._announcer.set_enabled)
 
+        self._action_queue_viewer = tools_menu.addAction(
+            "Ansage-Warteschlange …")
+        self._action_queue_viewer.triggered.connect(self._open_queue_viewer)
+        self._queue_viewer = None  # lazy
+
         tools_menu.addSeparator()
         self._action_restart = tools_menu.addAction("Neustart")
         self._action_restart.setShortcut("Ctrl+R")
@@ -431,6 +436,16 @@ class ZZAMainWindow(QMainWindow):
 
         logger.info("Restart requested — quitting current process")
         QApplication.instance().quit()
+
+    def _open_queue_viewer(self) -> None:
+        from .queue_viewer import AnnouncementQueueViewer
+        if self._queue_viewer is None or not self._queue_viewer.isVisible():
+            self._queue_viewer = AnnouncementQueueViewer(
+                self._announcer, self)
+            self._queue_viewer.show()
+        else:
+            self._queue_viewer.raise_()
+            self._queue_viewer.activateWindow()
 
     def _open_editor(self) -> None:
         from .editor_dialog import EditorDialog
