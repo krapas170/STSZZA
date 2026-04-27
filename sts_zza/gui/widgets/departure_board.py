@@ -1,9 +1,13 @@
 from __future__ import annotations
 
+import logging
 import time
 from typing import List, Optional
 
+logger = logging.getLogger(__name__)
+
 from PyQt6.QtCore import Qt, QTimer
+from PyQt6.QtGui import QColor, QPainter, QPen
 from PyQt6.QtWidgets import (
     QFrame,
     QHBoxLayout,
@@ -72,6 +76,36 @@ def _lbl(text: str,
     lbl.setWordWrap(wrap)
     lbl.setContentsMargins(0, 0, 0, 0)
     return lbl
+
+
+class _BorderOverlay(QWidget):
+    """Transparentes Overlay, das einen farbigen Rahmen über alle anderen
+    Kinder des Boards zeichnet. Dient als rote Vorwarn-Umrandung 1 Min vor
+    Abfahrt — muss als Overlay umgesetzt werden, weil ein Stylesheet-
+    `border` oder ein `paintEvent` auf dem Parent von den Layout-Kindern
+    überzeichnet würde."""
+
+    def __init__(self, color: str, width: int, parent=None) -> None:
+        super().__init__(parent)
+        self._color = QColor(color)
+        self._width = width
+        self.setAttribute(Qt.WidgetAttribute.WA_TransparentForMouseEvents)
+        self.setAttribute(Qt.WidgetAttribute.WA_NoSystemBackground)
+        self.setAttribute(Qt.WidgetAttribute.WA_TranslucentBackground)
+        self.hide()
+
+    def paintEvent(self, event) -> None:  # type: ignore[override]
+        painter = QPainter(self)
+        try:
+            pen = QPen(self._color)
+            pen.setWidth(self._width)
+            pen.setJoinStyle(Qt.PenJoinStyle.MiterJoin)
+            painter.setPen(pen)
+            half = self._width // 2
+            rect = self.rect().adjusted(half, half, -half - 1, -half - 1)
+            painter.drawRect(rect)
+        finally:
+            painter.end()
 
 
 class _HSep(QFrame):
@@ -332,7 +366,8 @@ class DepartureBoardWidget(QWidget):
     # "gleich gehts los"-Erinnerung.
     _ALERT_LEAD_MS = 60_000      # 1 min vor Abfahrt
     _BLINK_INTERVAL_MS = 500     # 2 Hz Pulsfrequenz
-    _ALERT_BORDER = "4px solid #ff1010"
+    _ALERT_BORDER_WIDTH = 4
+    _ALERT_BORDER_COLOR = "#ff1010"
 
     def __init__(self, platform: str, parent=None) -> None:
         super().__init__(parent)
@@ -341,16 +376,16 @@ class DepartureBoardWidget(QWidget):
         self.setFixedSize(self._BOARD_W, self._BOARD_H)
         self.setSizePolicy(
             QSizePolicy.Policy.Fixed, QSizePolicy.Policy.Fixed)
-        # Wichtig: #ZzaBoard-Selektor — sonst erbt das Border alle Kinder
-        # und wir bekommen Rahmen um jedes Label.
         self.setStyleSheet(
-            f"#ZzaBoard {{ background-color:{_BG_BLUE}; border: 4px solid "
-            f"transparent; }}"
+            f"#ZzaBoard {{ background-color:{_BG_BLUE}; }}"
         )
 
         self._alert_active = False
         self._blink_on = False
         self._last_entries: List[DisplayEntry] = []
+        self._overlay = _BorderOverlay(
+            self._ALERT_BORDER_COLOR, self._ALERT_BORDER_WIDTH, self)
+        self._overlay.setGeometry(0, 0, self._BOARD_W, self._BOARD_H)
         # Sim-Zeit-Anker: zuletzt vom ZugManager gemeldete Sim-ms +
         # monotonen Empfangszeitpunkt — daraus extrapolieren wir die
         # aktuelle Sim-Uhrzeit zwischen zwei refresh()-Aufrufen.
@@ -400,6 +435,8 @@ class DepartureBoardWidget(QWidget):
     def _set_alert(self, on: bool) -> None:
         if on == self._alert_active:
             return
+        logger.info("[ALERT %s] state change: %s -> %s",
+                    self._platform, self._alert_active, on)
         self._alert_active = on
         if on:
             self._blink_on = True
@@ -421,10 +458,20 @@ class DepartureBoardWidget(QWidget):
         self._set_alert(self._evaluate_alert(self._last_entries))
 
     def _apply_border(self, red: bool) -> None:
-        border = self._ALERT_BORDER if red else "4px solid transparent"
-        self.setStyleSheet(
-            f"#ZzaBoard {{ background-color:{_BG_BLUE}; border: {border}; }}"
-        )
+        # Overlay-Widget wird als Letztes gezeichnet (raise_), liegt damit
+        # über allen Layout-Kindern. Stylesheet-Border auf dem Parent würde
+        # von den Kindern überzeichnet — Overlay umgeht das sauber.
+        if red:
+            self._overlay.setGeometry(self.rect())
+            self._overlay.raise_()
+            self._overlay.show()
+        else:
+            self._overlay.hide()
+
+    def resizeEvent(self, event) -> None:  # type: ignore[override]
+        super().resizeEvent(event)
+        if hasattr(self, "_overlay"):
+            self._overlay.setGeometry(self.rect())
 
     def _setup_ui(self) -> None:
         # Äußere Aufteilung: Gleisnummer links · Zugbereich rechts

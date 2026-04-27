@@ -12,6 +12,16 @@ CONFIGS_DIR = Path(__file__).parent.parent.parent / "configs"
 ENCODING = "utf-8"
 
 
+def _fix_mojibake(s: str) -> str:
+    """Repariert UTF-8-doppelt-kodierte Strings (z. B. ``HÃ¤lt`` → ``Hält``)."""
+    if not s or ("Ã" not in s and "Â" not in s):
+        return s
+    try:
+        return s.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return s
+
+
 @dataclass
 class ZugEintrag:
     """One train entry stored in the station config XML.
@@ -57,22 +67,22 @@ class StationConfig:
             logger.error("Failed to parse config %s: %s", self.config_path, exc)
             return
 
-        self.anzeige_name = root.get("anzeige", "")
+        self.anzeige_name = _fix_mojibake(root.get("anzeige", ""))
 
         for b in root.findall("bahnsteig"):
-            name = b.get("name", "")
+            name = _fix_mojibake(b.get("name", ""))
             if name:
                 self.bahnsteige.append(name)
 
         for z in root.findall("zug"):
-            zname = z.get("name", "")
+            zname = _fix_mojibake(z.get("name", ""))
             if not zname:
                 continue
-            via = [v.get("name", "") for v in z.findall("via") if v.get("name")]
+            via = [_fix_mojibake(v.get("name", "")) for v in z.findall("via") if v.get("name")]
             self.zuege[zname] = ZugEintrag(
                 name=zname,
-                von=z.get("von", ""),
-                nach=z.get("nach", ""),
+                von=_fix_mojibake(z.get("von", "")),
+                nach=_fix_mojibake(z.get("nach", "")),
                 via=via,
             )
         logger.info("Loaded config for '%s': %d Bahnsteige, %d Züge",

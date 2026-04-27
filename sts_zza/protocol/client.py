@@ -20,6 +20,25 @@ from .parser import STSStreamParser
 
 logger = logging.getLogger(__name__)
 
+
+def _fix_mojibake(s: str) -> str:
+    """Heuristic: repair UTF-8-bytes-read-as-Latin-1 mojibake.
+
+    Some STS-Server liefern Texte bereits doppelt-kodiert: das Original
+    ``Hält`` (UTF-8 c3 a4) wurde irgendwo als Latin-1 gelesen und ergab
+    ``Hält``, das dann erneut als UTF-8 kodiert wurde (c3 83 c2 a4).
+    Unser Parser dekodiert sauber UTF-8 und bekommt deshalb ``HÃ¤lt`` als
+    Python-String. Wir machen das hier rückgängig.
+    """
+    if not s or ("Ã" not in s and "Â" not in s):
+        return s
+    try:
+        fixed = s.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return s
+    return fixed
+
+
 PLUGIN_NAME = "STSZZA"
 PLUGIN_AUTHOR = "krapas170"
 PLUGIN_VERSION = "0.1"
@@ -165,10 +184,10 @@ class STSClient(QObject):
 
         elif tag == "anlageninfo":
             info = AnlagenInfo(
-                name=elem.get("name", ""),
+                name=_fix_mojibake(elem.get("name", "")),
                 aid=int(elem.get("aid", "0")),
                 simbuild=elem.get("simbuild", ""),
-                region=elem.get("region", ""),
+                region=_fix_mojibake(elem.get("region", "")),
                 online=elem.get("online", "False").lower() == "true",
             )
             self.sig_anlageninfo.emit(info)
@@ -176,10 +195,10 @@ class STSClient(QObject):
         elif tag == "bahnsteigliste":
             result = []
             for b in elem.findall("bahnsteig"):
-                nachbarn = {n.get("name", "") for n in b.findall("n")}
+                nachbarn = {_fix_mojibake(n.get("name", "")) for n in b.findall("n")}
                 hp_raw = b.get("haltepunkt", "")
                 result.append(BahnsteigInfo(
-                    name=b.get("name", ""),
+                    name=_fix_mojibake(b.get("name", "")),
                     nachbarn=nachbarn,
                     haltepunkt=hp_raw.lower() in ("true", "1"),
                 ))
@@ -189,7 +208,7 @@ class STSClient(QObject):
             zl = {}
             for z in elem.findall("zug"):
                 zid_str = z.get("zid")
-                name = z.get("name", "")
+                name = _fix_mojibake(z.get("name", ""))
                 if zid_str is not None:
                     zl[int(zid_str)] = name
             self.sig_zugliste.emit(zl)
@@ -203,16 +222,16 @@ class STSClient(QObject):
                 return
             details = ZugDetails(
                 zid=zid,
-                name=elem.get("name", ""),
+                name=_fix_mojibake(elem.get("name", "")),
                 verspaetung=int(elem.get("verspaetung", "0")),
-                gleis=elem.get("gleis", ""),
-                plangleis=elem.get("plangleis", ""),
-                von=elem.get("von", ""),
-                nach=elem.get("nach", ""),
+                gleis=_fix_mojibake(elem.get("gleis", "")),
+                plangleis=_fix_mojibake(elem.get("plangleis", "")),
+                von=_fix_mojibake(elem.get("von", "")),
+                nach=_fix_mojibake(elem.get("nach", "")),
                 sichtbar=elem.get("sichtbar", "True").lower() == "true",
                 amgleis=elem.get("amgleis", "False").lower() == "true",
-                usertext=elem.get("usertext", ""),
-                hinweistext=elem.get("hinweistext", ""),
+                usertext=_fix_mojibake(elem.get("usertext", "")),
+                hinweistext=_fix_mojibake(elem.get("hinweistext", "")),
             )
             self.sig_zugdetails.emit(zid, details)
 
@@ -225,12 +244,12 @@ class STSClient(QObject):
             from ..utils.time_utils import hhmm_to_ms
             for gl in elem.findall("gleis"):
                 plan.zeilen.append(FahrplanZeile(
-                    plan=gl.get("plan", ""),
-                    name=gl.get("name", ""),
+                    plan=_fix_mojibake(gl.get("plan", "")),
+                    name=_fix_mojibake(gl.get("name", "")),
                     an=hhmm_to_ms(gl.get("an")),
                     ab=hhmm_to_ms(gl.get("ab")),
                     flags=gl.get("flags", ""),
-                    hinweistext=gl.get("hinweistext", ""),
+                    hinweistext=_fix_mojibake(gl.get("hinweistext", "")),
                 ))
             self.sig_zugfahrplan.emit(zid, plan)
 
@@ -277,11 +296,11 @@ class STSClient(QObject):
             zid = int(zid_str)
             details = ZugDetails(
                 zid=zid,
-                name=elem.get("name", ""),
+                name=_fix_mojibake(elem.get("name", "")),
                 verspaetung=int(elem.get("verspaetung", "0")),
-                gleis=elem.get("gleis", ""),
-                plangleis=elem.get("plangleis", ""),
-                von=elem.get("von", ""),
-                nach=elem.get("nach", ""),
+                gleis=_fix_mojibake(elem.get("gleis", "")),
+                plangleis=_fix_mojibake(elem.get("plangleis", "")),
+                von=_fix_mojibake(elem.get("von", "")),
+                nach=_fix_mojibake(elem.get("nach", "")),
             )
             self.sig_ereignis.emit(art_str, details)
