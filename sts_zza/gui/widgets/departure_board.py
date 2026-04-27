@@ -277,6 +277,11 @@ class _MainTrainWidget(QWidget):
         if entry.verspaetung > 0:
             parts.append(f"+ + + ca. {entry.verspaetung} Minuten "
                          f"Verspätung + + +")
+        if entry.gleis_changed_from:
+            # DB-üblich: „Gleisänderung — sonst Gleis 5". Nummer ohne
+            # Stellwerks-Präfix („MM 5" → „5") für Lesbarkeit.
+            orig = _short_platform(entry.gleis_changed_from)
+            parts.append(f"Gleisänderung — sonst Gleis {orig}")
         if as_arrival:
             # Endstation mit erkanntem Startort → klar als Ankunft markieren
             parts.append("Ankunft — Zug endet hier")

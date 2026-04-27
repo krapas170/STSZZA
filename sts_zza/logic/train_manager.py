@@ -210,6 +210,9 @@ class DisplayEntry:
     is_new: bool = False
     is_terminating: bool = False  # endet hier → "Nicht einsteigen!"
     is_durchfahrt: bool = False   # fährt ohne Halt durch → "Zugdurchfahrt"
+    # Ursprünglich geplantes Gleis, wenn der Fdl umgeleitet hat. Leer,
+    # wenn der Zug auf seinem geplanten Gleis steht.
+    gleis_changed_from: str = ""
 
 
 class ZugManager:
@@ -610,6 +613,14 @@ class ZugManager:
             via = list(cfg.via) if cfg and cfg.via else []
             via = [_replace_depot(v, self._station_display) for v in via]
 
+            # Gleis-Umleitung erkennen: nur wenn beide Werte gesetzt sind
+            # und sich unterscheiden (sonst meldet STS oft plangleis="" für
+            # neu auftauchende Züge, was wir nicht als Änderung werten).
+            orig_plan = record.details.plangleis or ""
+            gleis_changed_from = (
+                orig_plan if orig_plan and orig_plan != platform else ""
+            )
+
             entries.append(DisplayEntry(
                 zid=zid,
                 name=record.details.name,
@@ -623,6 +634,7 @@ class ZugManager:
                 is_new=record.is_new,
                 is_terminating=is_terminating,
                 is_durchfahrt=is_durchfahrt,
+                gleis_changed_from=gleis_changed_from,
             ))
 
         # Innerhalb eines Bahnsteigs: terminierende Züge (ab=None) anhand
