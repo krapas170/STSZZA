@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bützow-Güstrow">
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Berlin Hbf" />
+    <via name="Schwaan" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB17 4334" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 1144" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 1179" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 13196" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Hbf" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 1577" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Hbf" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 1599" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Hbf" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 1671" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 1678" von="Schwarzenbek" nach="Schwaan" />
+  <zug name="RE1 2413" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwaan" />
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwaan" />
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 4307" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwaan" />
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 4310" von="Schwaan" nach="Lübeck St Jürgen">
+    <via name="Schwerin Hbf" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4323" von="Schwarzenbek" nach="Schwaan" />
+  <zug name="RE1 4330" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 4331" von="Schwarzenbek" nach="Schwaan" />
+  <zug name="RE1 4332" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE1 4333" von="Schwarzenbek" nach="Schwaan" />
+  <zug name="RE1 4338" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13081" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13082" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13083" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13084" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Berlin Hbf" />
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13192" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13194" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13197" von="Schwarzenbek" nach="Schwaan" />
+  <zug name="RE4 13200" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13201" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13202" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13203" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13204" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13205" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13206" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13207" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13270" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13271" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13273" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13275" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 13277" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 4302" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Hbf" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 5350" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5351" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
+    <via name="Bützow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5353" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 5355" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+  <zug name="RE4 5357" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Güstrow" />
+    <via name="Priemerburg" />
+    <via name="Lalendorf" />
+  </zug>
+</zza>

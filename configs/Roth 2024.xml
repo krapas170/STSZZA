@@ -1,0 +1,4292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Roth 2024">
+  <zug name="RB11 39228" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RB11 58411" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RB12 39112" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RB12 39113" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RB12 39119" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RB12 39122" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RB12 4784" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RB12 58209" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RB12 58407" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RB12 58790" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RB16 39500" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 39501" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 39502" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 39503" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 39504" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 39508" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 4001" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 4009" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 4019" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RB16 4696" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 59064" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 59066" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 59067" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RB16 59072" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RB16 59073" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 59075" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RB16 59081" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RB16 59086" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RB16 59089" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf ia" />
+  </zug>
+  <zug name="RB16 59091" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RB16 59108" von="Roth" nach="Nürnberg Hbf ia" />
+  <zug name="RB16 59140" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Nürnberg Hbf ia" />
+  </zug>
+  <zug name="RB16 59141" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RB16 59142" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RB16 59144" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RB16 59145" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RB16 59151" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
+    <via name="Kinding (Altmühltal)" />
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RB16 59168" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RB16 59170" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RB16 59171" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RB16 59173" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RB16 59174" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RB16 59175" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 59176" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RB16 59177" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 59179" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 59181" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RB16 59190" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RB16 59198" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RB20 10904" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 10905" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 20000" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20002" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20004" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20006" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20007" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 20008" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20009" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 20010" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 20012" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 20050" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20052" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20054" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20056" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20057" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 20058" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 20059" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 20060" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 20062" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30002" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30009" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30010" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30011" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30012" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30014" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30016" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30054" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30056" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30058" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30060" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30062" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30064" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30066" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30500" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30509" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30511" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30513" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30536" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30538" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30540" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30542" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30543" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30544" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30545" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30546" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30550" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30552" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30554" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30556" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30558" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 30559" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30560" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30561" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30562" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30563" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30588" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 31002" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 31004" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 32057" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 32800" von="Köln Messe/Deutz" nach="Eschweiler-St.Jöris">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Aachen Hbf" />
+    <via name="Eschweiler-Weisweiler" />
+  </zug>
+  <zug name="RB20 32801" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 32802" von="Köln Messe/Deutz" nach="Eschweiler-St.Jöris">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Aachen Hbf" />
+    <via name="Eschweiler-Weisweiler" />
+  </zug>
+  <zug name="RB20 32804" von="Köln Messe/Deutz" nach="Eschweiler-St.Jöris">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Aachen Hbf" />
+    <via name="Eschweiler-Weisweiler" />
+  </zug>
+  <zug name="RB20 32805" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 32806" von="Düren" nach="Eschweiler-St.Jöris">
+    <via name="Aachen Hbf" />
+    <via name="Aachen Schanz" />
+    <via name="Aachen West" />
+  </zug>
+  <zug name="RB20 32808" von="Köln Messe/Deutz" nach="Eilendorf">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eschweiler-Weisweiler" />
+    <via name="Eschweiler-Nothberg" />
+  </zug>
+  <zug name="RB20 32810" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 32812" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74607" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB20 74609" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74611" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74613" von="Rudolstadt-Schwarza" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74615" von="Rudolstadt-Schwarza" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74617" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74619" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74621" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74623" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74625" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74627" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74629" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74631" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74633" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74635" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74637" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74639" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74643" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB22 79879" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB24 84593" von="Würzburg Hbf" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RB24 84595" von="Würzburg Hbf" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RB24 84596" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB24 84597" von="Würzburg Hbf" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RB24 84598" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB24 84599" von="Würzburg Hbf" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RB24 84600" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB24 84602" von="Nürnberg Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RB24 84604" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RB24 84606" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RB24 84632" von="Seulbitz" nach="Michelau (Oberfr)">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RB24 84634" von="Seulbitz" nach="Michelau (Oberfr)">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RB25 2063" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RB25 4971" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RB25 4985" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RB25 59330" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB25 59331" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RB25 59332" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RB25 59333" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RB25 59334" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RB25 59335" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RB25 59336" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RB25 59337" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RB25 74547" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74652" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74654" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74655" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74656" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74657" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74658" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74659" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74660" von="Leipzig Hbf" nach="Jena-Zwätzen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+  </zug>
+  <zug name="RB25 74661" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74662" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74663" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74664" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74665" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74666" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74667" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74668" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74669" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74670" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74671" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74672" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74673" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74674" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74675" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74676" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74677" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74678" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74679" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74680" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74681" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74682" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74683" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74684" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74685" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74686" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74687" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74688" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74689" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74690" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB25 74691" von="Rudolstadt-Schwarza" nach="Leipzig Hbf qg">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74693" von="Rudolstadt-Schwarza" nach="Leipzig Hbf qg">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74695" von="Rudolstadt-Schwarza" nach="Leipzig Hbf qg">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB25 74697" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB26 79679" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB28 80796" von="Rudolstadt-Schwarza" nach="Rothenstein (Saale)" />
+  <zug name="RB28 80798" von="Rudolstadt-Schwarza" nach="Rothenstein (Saale)" />
+  <zug name="RB28 80800" von="Saalfeld (Saale)" nach="Rothenstein (Saale)" />
+  <zug name="RB28 80801" von="Rothenstein (Saale)" nach="Saalfeld (Saale)" />
+  <zug name="RB28 80802" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80803" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80804" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80805" von="Rothenstein (Saale)" nach="Saalfeld (Saale)" />
+  <zug name="RB28 80806" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80807" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80808" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80809" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80810" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80811" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80812" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80813" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80814" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80815" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80816" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Zeutsch" />
+  </zug>
+  <zug name="RB28 80817" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80818" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80819" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80820" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80821" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80822" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80823" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80824" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80825" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80826" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 80827" von="Rothenstein (Saale)" nach="Rudolstadt-Schwarza" />
+  <zug name="RB28 80828" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Zeutsch" />
+  </zug>
+  <zug name="RB28 80829" von="Rothenstein (Saale)" nach="Rudolstadt-Schwarza" />
+  <zug name="RB28 81061" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 81062" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 81063" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 81064" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RB28 81065" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 81067" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB30 2270" von="Muldenhütten" nach="Freiberg (Sachs) ia">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 62272" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 62273" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74005" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74030" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74034" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74040" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74041" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74042" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74043" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74044" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74045" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74046" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74047" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74048" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74050" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74051" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74052" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74053" von="Muldenhütten" nach="Freiberg (Sachs) ia">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74054" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74055" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74056" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74057" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74058" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74059" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74060" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74061" von="Muldenhütten" nach="Tharandt">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74062" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74063" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74064" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74065" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74066" von="Dresden Hbf" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74067" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74068" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74069" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74070" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74071" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74073" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74074" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74078" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74082" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74084" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74085" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74086" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74087" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74088" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74089" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74090" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74091" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74092" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB30 74093" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB30 74094" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74095" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RB53 81403" von="Bad Bergzabern" nach="Strasbourg">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Winden (Pfalz)" />
+    <via name="Schaidt (Pfalz)" />
+  </zug>
+  <zug name="RB54 12450" von="Landau (Pfalz) Hbf" nach="Karlsruhe Hbf">
+    <via name="Kapellen-Drusweiler" />
+    <via name="Bad Bergzabern" />
+    <via name="Neustadt (Weinstr) Süd" />
+  </zug>
+  <zug name="RB54 12451" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12452" von="Landau (Pfalz) Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Karlsruhe Hbf" />
+    <via name="Kapellen-Drusweiler" />
+    <via name="Bad Bergzabern" />
+  </zug>
+  <zug name="RB54 12453" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12454" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12455" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12456" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12457" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12458" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12459" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12460" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12461" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12462" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12463" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12464" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12465" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12466" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12467" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12468" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12469" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12470" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12471" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12472" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12473" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12474" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12475" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12476" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12477" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12478" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12480" von="Landau (Pfalz) Hbf" nach="Bad Bergzabern">
+    <via name="Kapellen-Drusweiler" />
+  </zug>
+  <zug name="RB54 12489" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB61 58923" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58924" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58925" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58926" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58927" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58928" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58929" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58930" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58931" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58932" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58933" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58934" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58935" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58936" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58937" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58938" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58939" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58940" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58941" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58942" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58943" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58944" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB61 58945" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58948" von="Hilpoltstein" nach="Roth" />
+  <zug name="RB68 62701" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB68 62703" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58111" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58112" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RB74 58113" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58115" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58117" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58119" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58121" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58123" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB74 58129" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RB74 62741" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RB77 62720" von="Bobingen" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RB77 62721" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB77 62723" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB77 62724" von="Bobingen" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RB77 62725" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB77 62729" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB77 62731" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB77 62733" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB77 62739" von="Sontheim (Schwab)" nach="Günzach">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RB80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RB80 57026" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RB80 57161" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB80 57221" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB80 57224" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RB80 58152" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RB80 58153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RB80 58154" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RB80 58158" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RB80 58163" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RB80 70171" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB80 70229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RB81 58651" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58652" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58653" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58654" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58657" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58658" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58659" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58660" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58661" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58662" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58663" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58664" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58665" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58666" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58667" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58668" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58669" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58670" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58671" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58672" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58673" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58674" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58675" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58676" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58677" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58678" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58680" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58682" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB81 58684" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RB82 58881" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58882" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58883" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58884" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58886" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58887" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58888" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58889" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58890" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58891" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58892" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58893" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58894" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58895" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58896" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58897" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58898" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58899" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58900" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58901" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58902" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58903" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58904" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58905" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58906" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58907" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58908" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58909" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58910" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58911" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
+  <zug name="RB82 58912" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 10968" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 24551" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 52780" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 52782" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 52783" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Staffel" />
+  </zug>
+  <zug name="RB90 52784" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 52785" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Staffel" />
+  </zug>
+  <zug name="RB90 52786" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 52788" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 52790" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61550" von="Elz (Limburg/Lahn)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 61551" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61552" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61553" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61554" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61555" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61556" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 61557" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61561" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Rosbach (Sieg)" />
+  </zug>
+  <zug name="RB90 61582" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61584" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61586" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61587" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61588" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61589" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61701" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61702" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61703" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61704" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61705" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61706" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61707" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61708" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61709" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61710" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61711" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61712" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61713" von="Lützel" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61714" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61715" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Staffel" />
+  </zug>
+  <zug name="RB90 61717" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Rosbach (Sieg)" />
+  </zug>
+  <zug name="RB90 61744" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RB90 61746" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61748" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61756" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61757" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB90 61800" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB90 61804" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 100" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB93 52781" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB93 61801" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB93 61803" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Frickhofen" />
+  </zug>
+  <zug name="RB93 61806" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Rosbach (Sieg)" />
+  </zug>
+  <zug name="RB93 61808" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61810" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61812" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61814" von="Elz (Limburg/Lahn)" nach="Unnau-Korb">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61816" von="Elz (Limburg/Lahn)" nach="Unnau-Korb">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61840" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Rosbach (Sieg)" />
+  </zug>
+  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Rosbach (Sieg)" />
+  </zug>
+  <zug name="RB93 61846" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB94 23197" von="Elz (Limburg/Lahn)" nach="Unnau-Korb">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RB94 57620" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB94 57622" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RB94 57630" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RB95 20870" von="Hof-Neuhof" nach="Bad Steben">
+    <via name="Selbitz" />
+    <via name="Naila" />
+    <via name="Marxgrün" />
+  </zug>
+  <zug name="RB96 24364" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 24365" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 24369" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 24370" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61760" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61761" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61762" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61763" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61764" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61765" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61766" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61767" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61768" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61769" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61770" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61771" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61772" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61773" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61774" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61775" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61776" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61777" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61778" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61779" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61780" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61781" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61782" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61784" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61786" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61787" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61788" von="Dillenburg" nach="Grünebacherhütte">
+    <via name="Grünebach Ort" />
+  </zug>
+  <zug name="RB96 61838" von="Grünebacherhütte" nach="Dillenburg">
+    <via name="Königsstollen" />
+    <via name="Herdorf" />
+    <via name="Struthütten" />
+  </zug>
+  <zug name="RB96 61847" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RB96 79669" von="Rothenbürg" nach="Plzen hl.n." />
+  <zug name="RB96 79673" von="Rothenbürg" nach="Plzen hl.n." />
+  <zug name="RB96 79675" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB96 79876" von="Marktredwitz" nach="Rothenbürg" />
+  <zug name="RB96 79878" von="Marktredwitz" nach="Rothenbürg" />
+  <zug name="RB96 84695" von="Bad Steben" nach="Usti nad Labem hl.n.">
+    <via name="Hof Hbf" />
+    <via name="Stegenwaldhaus" />
+    <via name="Köditz" />
+  </zug>
+  <zug name="RB96 84697" von="Bad Steben" nach="Hof Hbf">
+    <via name="Stegenwaldhaus" />
+    <via name="Köditz" />
+    <via name="Hof-Neuhof" />
+  </zug>
+  <zug name="RB96 84698" von="Hof-Neuhof" nach="Bad Steben">
+    <via name="Selbitz" />
+    <via name="Naila" />
+    <via name="Marxgrün" />
+  </zug>
+  <zug name="RB97 20873" von="Bad Steben" nach="Hof Hbf">
+    <via name="Stegenwaldhaus" />
+    <via name="Köditz" />
+    <via name="Hof-Neuhof" />
+  </zug>
+  <zug name="RB97 20886" von="Marktredwitz" nach="Rothenbürg" />
+  <zug name="RB97 20893" von="Bad Steben" nach="Hof Hbf">
+    <via name="Stegenwaldhaus" />
+    <via name="Köditz" />
+    <via name="Hof-Neuhof" />
+  </zug>
+  <zug name="RB97 79877" von="Hof-Neuhof" nach="Cheb">
+    <via name="München Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB97 84537" von="Hof-Neuhof" nach="Bad Steben">
+    <via name="Selbitz" />
+    <via name="Naila" />
+    <via name="Marxgrün" />
+  </zug>
+  <zug name="RB97 84541" von="Hof-Neuhof" nach="Bad Steben">
+    <via name="Selbitz" />
+    <via name="Naila" />
+    <via name="Marxgrün" />
+  </zug>
+  <zug name="RB97 84545" von="Hof-Neuhof" nach="Bad Steben">
+    <via name="Selbitz" />
+    <via name="Naila" />
+    <via name="Marxgrün" />
+  </zug>
+  <zug name="RB97 84548" von="Bad Steben" nach="Hof Hbf">
+    <via name="Stegenwaldhaus" />
+    <via name="Köditz" />
+    <via name="Hof-Neuhof" />
+  </zug>
+  <zug name="RB97 84549" von="Hof-Neuhof" nach="Hof Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Selbitz" />
+  </zug>
+  <zug name="RB97 84551" von="Hof-Neuhof" nach="Cheb">
+    <via name="München Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB97 84552" von="Bad Steben" nach="Nürnberg Hbf">
+    <via name="Hof Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Dresden Hbf" />
+  </zug>
+  <zug name="RB97 84553" von="Hof-Neuhof" nach="Neusorg">
+    <via name="München Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB97 84556" von="Bad Steben" nach="Nürnberg Hbf">
+    <via name="Hof Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Dresden Hbf" />
+  </zug>
+  <zug name="RB97 84558" von="Bad Steben" nach="Wunsiedel-Holenbrunn">
+    <via name="Hof Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RB97 84560" von="Bad Steben" nach="Schirnding">
+    <via name="Hof Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RB97 84567" von="Marktredwitz" nach="Weiden (Oberpf)">
+    <via name="Regensburg Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RB97 84569" von="Marktredwitz" nach="Weiden (Oberpf)">
+    <via name="Regensburg Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RB97 84571" von="Marktredwitz" nach="Weiden (Oberpf)">
+    <via name="Regensburg Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RB97 84573" von="Marktredwitz" nach="Weiden (Oberpf)">
+    <via name="Regensburg Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RB97 84574" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84575" von="Marktredwitz" nach="Weiden (Oberpf)">
+    <via name="Regensburg Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RB97 84576" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84577" von="Marktredwitz" nach="Rothenbürg" />
+  <zug name="RB97 84578" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84580" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84582" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84583" von="Hof-Neuhof" nach="Bad Steben">
+    <via name="Selbitz" />
+    <via name="Naila" />
+    <via name="Marxgrün" />
+  </zug>
+  <zug name="RB97 84584" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84586" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB97 84592" von="Bad Steben" nach="Hof Hbf">
+    <via name="Stegenwaldhaus" />
+    <via name="Köditz" />
+    <via name="Hof-Neuhof" />
+  </zug>
+  <zug name="RB98 79872" von="Seulbitz" nach="Michelau (Oberfr)">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RB98 84492" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RB98 84493" von="Helmbrechts" nach="Plauen (Vogtl) ob Bf">
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+    <via name="Untersteinach (b Stadtsteinach)" />
+  </zug>
+  <zug name="RB98 84499" von="Helmbrechts" nach="Plauen (Vogtl) ob Bf">
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+    <via name="Untersteinach (b Stadtsteinach)" />
+  </zug>
+  <zug name="RB98 84500" von="Hof Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RB98 84542" von="Hof Hbf" nach="Michelau (Oberfr)">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RB99 78990" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB99 84486" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RB99 84489" von="Hof-Neuhof" nach="Plauen (Vogtl) ob Bf">
+    <via name="Würzburg Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Selbitz" />
+  </zug>
+  <zug name="RB99 84495" von="Hof-Neuhof" nach="Plauen (Vogtl) ob Bf">
+    <via name="Würzburg Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Selbitz" />
+  </zug>
+  <zug name="RB99 84498" von="Bad Steben" nach="Würzburg Hbf">
+    <via name="Hof Hbf" />
+    <via name="Dresden Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB99 84501" von="Marktredwitz" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RB99 84504" von="Bad Steben" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Dresden Hbf" />
+    <via name="Stegenwaldhaus" />
+  </zug>
+  <zug name="RB99 84521" von="Marktredwitz" nach="Rothenbürg" />
+  <zug name="RB99 84527" von="Marktredwitz" nach="Rothenbürg" />
+  <zug name="RB99 84532" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RB99 84538" von="Rothenbürg" nach="Marktredwitz" />
+  <zug name="RE1 39505" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RE1 39509" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RE1 39510" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RE1 39511" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RE1 4000" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RE1 4004" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RE1 4005" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RE1 4007" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RE1 4008" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RE1 4010" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RE1 4013" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Kinding (Altmühltal)" />
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 4015" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Kinding (Altmühltal)" />
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 4019" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
+    <via name="Kinding (Altmühltal)" />
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 4046" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RE1 4048" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RE1 4697" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Allersberg (Rothsee)" />
+  </zug>
+  <zug name="RE1 4699" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RE1 57874" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RE1 59068" von="München Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Roth" />
+    <via name="Ingolstadt Audi" />
+  </zug>
+  <zug name="RE1 59084" von="Roth" nach="Nürnberg Hbf" />
+  <zug name="RE1 59085" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RE1 59089" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RE1 59090" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RE1 59092" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RE1 59093" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RE1 59095" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RE1 59135" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
+    <via name="Kinding (Altmühltal)" />
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 59143" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RE1 59144" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RE1 59147" von="Nürnberg Hbf" nach="Kinding (Altmühltal)" />
+  <zug name="RE1 59148" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Roth" />
+  </zug>
+  <zug name="RE1 59155" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Allersberg (Rothsee)" />
+    <via name="Kinding (Altmühltal)" />
+  </zug>
+  <zug name="RE10 39102" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE10 39112" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE10 39120" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE10 39128" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE10 4781" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE10 4901" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE10 4904" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE10 4907" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RE10 4943" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE10 4961" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE10 57850" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE10 58435" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE10 58845" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RE14 2068" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RE14 39110" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE14 39121" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE14 4942" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RE14 4945" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE14 4960" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RE14 4962" von="Nürnberg Hbf" nach="Strullendorf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RE14 4963" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RE14 4964" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RE14 4965" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RE14 4967" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RE14 4969" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RE14 4980" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RE14 4981" von="Leipzig Hbf" nach="Fürth (Bay) Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Stockheim (Oberfr)" />
+  </zug>
+  <zug name="RE14 4982" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RE14 4983" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Gera Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Kahla (Thür)" />
+  </zug>
+  <zug name="RE14 4984" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RE14 4986" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RE14 57851" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE14 59338" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RE14 59339" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Stockheim (Oberfr)" />
+    <via name="Gundelsdorf" />
+    <via name="Kronach" />
+  </zug>
+  <zug name="RE14 59390" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Gera Hbf" />
+    <via name="Förtschendorf" />
+  </zug>
+  <zug name="RE15 74696" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74699" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74819" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74820" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74821" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74822" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74823" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74824" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74825" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74826" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74827" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74828" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74829" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74830" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74831" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74832" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE15 74833" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE15 74834" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Zeutsch" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RE16 74501" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74503" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74505" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74507" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74509" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74511" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74513" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74515" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74517" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74519" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74521" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74523" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74525" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74527" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74529" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE16 74531" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE17 2271" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE17 2272" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE17 2273" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE17 3289" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE17 3380" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE17 3381" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE17 3385" von="Augsburg Hbf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Günzach" />
+  </zug>
+  <zug name="RE17 3387" von="Augsburg Hbf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Günzach" />
+  </zug>
+  <zug name="RE17 74007" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE19 16902" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 16903" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE19 16908" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 16932" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 16935" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE19 2235" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE19 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE19 39020" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 39022" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 39029" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE19 39044" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 39111" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE19 39115" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE19 39130" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE19 39131" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RE19 4786" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE19 4906" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE19 4907" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RE19 58430" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE19 58782" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE19 58836" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE19 58841" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE20 16904" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16909" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16910" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16920" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Stendal Hbf" />
+    <via name="Wolmirstedt" />
+    <via name="Zielitz Ort" />
+  </zug>
+  <zug name="RE20 16929" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16931" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16933" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16941" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16942" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16943" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16944" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16945" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 16946" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 16955" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg-Buckau" />
+  </zug>
+  <zug name="RE20 16958" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Stendal Hbf" />
+    <via name="Wolmirstedt" />
+    <via name="Zielitz Ort" />
+  </zug>
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39013" von="Soltendieck" nach="Magdeburg Südost">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39015" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39017" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39019" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39027" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39038" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39040" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39041" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg-Buckau" />
+  </zug>
+  <zug name="RE20 39042" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39044" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 39046" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Barleber See" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE20 507" von="Soltendieck" nach="Magdeburg Südost">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 58202" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE20 58791" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Stendal Hbf" />
+    <via name="Wolmirstedt" />
+    <via name="Zielitz Ort" />
+  </zug>
+  <zug name="RE28 58781" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE29 39104" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE29 39129" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RE29 58208" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE3 62271" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE3 74000" von="Dresden-Plauen" nach="Bad Brambach">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74001" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74002" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74003" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74004" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74006" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74008" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74009" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74010" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74011" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE3 74013" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE3 74015" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74018" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74019" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74020" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74021" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74022" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74023" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74025" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74026" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74027" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74028" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74029" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74030" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74031" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74032" von="Dresden-Plauen" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74033" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74072" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE3 74076" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Zwickau-Pölbitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74085" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE3 74087" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Mosel" />
+    <via name="Glauchau-Schönbörnchen" />
+  </zug>
+  <zug name="RE30 3080" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Nürnberg Hbf" />
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+  </zug>
+  <zug name="RE30 3081" von="Würzburg Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RE30 3082" von="Plauen (Vogtl) ob Bf" nach="Nürnberg Ost">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RE30 3083" von="Würzburg Hbf" nach="Velden (b Hersbruck)">
+    <via name="Hof Hbf" />
+    <via name="Dresden Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RE30 3084" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Nürnberg Hbf" />
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RE30 3085" von="Würzburg Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Dresden Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE30 3086" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Nürnberg Hbf" />
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RE30 3088" von="Würzburg Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Dresden Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RE30 3099" von="Seulbitz" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+  </zug>
+  <zug name="RE30 3436" von="Seulbitz" nach="Michelau (Oberfr)">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RE30 3481" von="Plauen (Vogtl) ob Bf" nach="Cheb">
+    <via name="Würzburg Hbf" />
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+  </zug>
+  <zug name="RE30 3483" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RE30 3583" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RE32 3481" von="Plauen (Vogtl) ob Bf" nach="Neuhaus (Pegnitz)">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RE32 3488" von="Würzburg Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE35 3459" von="Erfurt Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RE35 3460" von="Würzburg Hbf" nach="Plauen (Vogtl) ob Bf">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RE35 3461" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RE35 3478" von="Dresden Hbf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Lichtenfels" />
+    <via name="Bad Staffelstein" />
+  </zug>
+  <zug name="RE35 3566" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RE38 3419" von="Plauen (Vogtl) ob Bf" nach="Cheb">
+    <via name="Würzburg Hbf" />
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+  </zug>
+  <zug name="RE38 3485" von="Dresden Hbf" nach="Velden (b Hersbruck)">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Burgkunstadt" />
+  </zug>
+  <zug name="RE38 3486" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Hof Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RE38 3490" von="Würzburg Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Mainleus" />
+    <via name="Kulmbach" />
+  </zug>
+  <zug name="RE40 3541" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Weiherhammer" />
+    <via name="Weiden (Oberpf)" />
+  </zug>
+  <zug name="RE40 3543" von="Plauen (Vogtl) ob Bf" nach="Neuhaus (Pegnitz)">
+    <via name="Weiherhammer" />
+    <via name="Altenstadt (Waldnaab)" />
+    <via name="Neustadt (Waldnaab)" />
+  </zug>
+  <zug name="RE40 3545" von="Gera Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+    <via name="Altenstadt (Waldnaab)" />
+  </zug>
+  <zug name="RE40 3547" von="Gera Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+    <via name="Altenstadt (Waldnaab)" />
+  </zug>
+  <zug name="RE40 3549" von="Gera Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+    <via name="Altenstadt (Waldnaab)" />
+  </zug>
+  <zug name="RE40 3821" von="Hersbruck (r Pegnitz)" nach="Regensburg Hbf">
+    <via name="Weiherhammer" />
+    <via name="Weiden (Oberpf)" />
+    <via name="Altenstadt (Waldnaab)" />
+  </zug>
+  <zug name="RE40 3825" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+  </zug>
+  <zug name="RE41 3001" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Weiherhammer" />
+    <via name="Weiden (Oberpf)" />
+  </zug>
+  <zug name="RE41 3003" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Weiherhammer" />
+    <via name="Weiden (Oberpf)" />
+  </zug>
+  <zug name="RE41 3005" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+  </zug>
+  <zug name="RE41 3007" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+  </zug>
+  <zug name="RE41 3009" von="Hersbruck (r Pegnitz)" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+  </zug>
+  <zug name="RE41 3011" von="Hersbruck (r Pegnitz)" nach="Neunkirchen">
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Weiherhammer" />
+  </zug>
+  <zug name="RE41 3823" von="Hersbruck (r Pegnitz)" nach="Regensburg Hbf">
+    <via name="Weiherhammer" />
+    <via name="Weiden (Oberpf)" />
+    <via name="Altenstadt (Waldnaab)" />
+  </zug>
+  <zug name="RE43 39572" von="Pommelsbrunn" nach="Büchenbach">
+    <via name="Nürnberg Hbf" />
+    <via name="Röthenbach-Steinberg" />
+    <via name="Röthenbach (Pegnitz)" />
+  </zug>
+  <zug name="RE43 57852" von="Pommelsbrunn" nach="Büchenbach">
+    <via name="Nürnberg Hbf" />
+    <via name="Röthenbach-Steinberg" />
+    <via name="Röthenbach (Pegnitz)" />
+  </zug>
+  <zug name="RE50 39100" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE50 39101" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE50 39103" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE50 39121" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE50 4904" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE50 4942" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Fürth-Klinikum" />
+    <via name="Vach" />
+  </zug>
+  <zug name="RE50 58203" von="Strullendorf" nach="Pölling">
+    <via name="Nürnberg Hbf" />
+    <via name="Nürnberg-Steinbühl" />
+    <via name="Feucht" />
+  </zug>
+  <zug name="RE50 58407" von="Nürnberg Hbf" nach="München-Moosach">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE50 58795" von="Strullendorf" nach="Nürnberg Hbf">
+    <via name="Nürnberg-Steinbühl" />
+  </zug>
+  <zug name="RE54 4608" von="Bebra" nach="Bad Staffelstein">
+    <via name="Burgkunstadt" />
+    <via name="Michelau (Oberfr)" />
+    <via name="Lichtenfels" />
+  </zug>
+  <zug name="RE7 3280" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE7 3281" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE7 3282" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE7 3283" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE7 3285" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE7 58131" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE70 198" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE70 3687" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE70 3871" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE70 3873" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE70 3875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE70 3877" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE72 3389" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE72 78900" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE72 78902" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE72 78904" von="Sigmaringendorf" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE72 78906" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE72 78912" von="Sontheim (Schwab)" nach="Augsburg Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Günzach" />
+  </zug>
+  <zug name="RE72 78915" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE72 78968" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE72 78972" von="Wangen (Allgäu)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE75 2012" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 3680" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE75 3681" von="München Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 3682" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE75 3683" von="München Hbf" nach="Kempten (Allgäu) Ost">
+    <via name="Ulm Hbf" />
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE75 3684" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+  </zug>
+  <zug name="RE75 3685" von="München Hbf" nach="Leipheim">
+    <via name="Ulm Hbf" />
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE75 3686" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE75 57404" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE75 57600" von="Bregenz" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+  </zug>
+  <zug name="RE75 57601" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57602" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57608" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57619" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57640" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+  </zug>
+  <zug name="RE75 57641" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57648" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE75 57670" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57671" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57673" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57750" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57751" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57752" von="Oberstdorf" nach="Neu-Ulm">
+    <via name="Ulm Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+  </zug>
+  <zug name="RE75 57753" von="Ulm Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 57754" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57758" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57768" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+  </zug>
+  <zug name="RE75 57770" von="Oberstdorf" nach="Nersingen">
+    <via name="Ulm Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Kempten (Allgäu) Ost" />
+  </zug>
+  <zug name="RE76 7875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE76 7877" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE76 7897" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE79 3689" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE79 57401" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE79 57402" von="München Hbf" nach="Oberstdorf">
+    <via name="Heimenkirch" />
+    <via name="Hergatz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE79 57403" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE79 57405" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE79 57407" von="Oberstdorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE79 57409" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE79 57411" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE79 57413" von="Sontheim (Schwab)" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE79 78918" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 1285" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 1586" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 1595" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 2082" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 2083" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 2084" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57006" von="München Hbf wl" nach="Gessertshausen">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57008" von="Augsburg Hbf" nach="Gessertshausen">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57078" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57090" von="Augsburg Hbf" nach="Gessertshausen">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57118" von="München Hbf eg" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Uffenheim" />
+  </zug>
+  <zug name="RE80 57125" von="Würzburg-Heidingsfeld Ost" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RE80 57127" von="Würzburg-Heidingsfeld Ost" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RE80 57137" von="Schwabach" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RE80 57145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57153" von="Schwabach" nach="Augsburg-Hochzoll">
+    <via name="Ingolstadt Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57171" von="Würzburg-Heidingsfeld Ost" nach="Augsburg-Hochzoll">
+    <via name="Ingolstadt Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57185" von="Schwabach" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57204" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57206" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57207" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57209" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57210" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57212" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57214" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57216" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57219" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 57220" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57222" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57223" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 57234" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 57236" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 58155" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 58156" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 58159" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 58165" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70008" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70026" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70078" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70090" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70118" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70127" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70137" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 70179" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70185" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf qk" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70214" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70216" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70221" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Burgbernheim-Wildbad" />
+    <via name="Oberdachstetten" />
+    <via name="Ansbach" />
+  </zug>
+  <zug name="RE80 70222" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 70225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Burgbernheim-Wildbad" />
+  </zug>
+  <zug name="RE80 70236" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE80 76164" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
+    <via name="Uffenheim" />
+    <via name="Marktbreit" />
+    <via name="Ochsenfurt" />
+  </zug>
+  <zug name="RE9 10900" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 10901" von="Betzdorf (Sieg)" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RE9 10902" von="Lützel" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Frickhofen" />
+  </zug>
+  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Eschweiler Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Eschweiler Hbf" />
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+  </zug>
+  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 10907" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10908" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Frickhofen" />
+  </zug>
+  <zug name="RE9 10909" von="Elz (Limburg/Lahn)" nach="Unnau-Korb">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10911" von="Elz (Limburg/Lahn)" nach="Unnau-Korb">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10937" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE9 10952" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE9 10953" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE9 10955" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10956" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Frickhofen" />
+  </zug>
+  <zug name="RE9 10957" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10959" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Berzhahn" />
+    <via name="Willmenrod" />
+    <via name="Westerburg" />
+  </zug>
+  <zug name="RE9 10966" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE9 10968" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE9 32061" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 32064" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RE9 32803" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RE9 32806" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 61559" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Frickhofen" />
+    <via name="Niederzeuzheim" />
+    <via name="Hadamar" />
+  </zug>
+  <zug name="RE96 57415" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstaufen" />
+    <via name="Martinszell (Allgäu)" />
+  </zug>
+  <zug name="RE96 78910" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE96 78914" von="Sigmaringendorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+  <zug name="RE96 78982" von="Sigmaringendorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstaufen" />
+  </zug>
+</zza>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Dortmund-Dorstfeld">
+  <zug name="RB32 30200" von="Essen-Kray Nord" nach="Dortmund-Dorstfeld" />
+  <zug name="RB32 30201" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord" />
+  <zug name="RB32 30202" von="Essen-Kray Nord" nach="Dortmund-Dorstfeld" />
+  <zug name="RB32 30203" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord" />
+  <zug name="RB32 30205" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord" />
+  <zug name="RB32 30207" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord" />
+  <zug name="RB32 30285" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord" />
+</zza>

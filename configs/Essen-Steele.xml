@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Essen-Steele">
+  <zug name="RE49 30294" von="Arnhem Centraal" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30296" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Recklinghausen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal Hbf" />
+  </zug>
+  <zug name="RE49 30297" von="Düsseldorf Hbf" nach="Mülheim (Ruhr) Styrum">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen-Steele" />
+  </zug>
+  <zug name="RE49 30298" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Überruhr" />
+    <via name="Essen-Holthausen" />
+  </zug>
+  <zug name="RE49 30299" von="Düsseldorf Hbf" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Gevelsberg Hbf" />
+  </zug>
+  <zug name="RE49 30300" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30301" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30303" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30305" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30307" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30316" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30317" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30318" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30319" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30320" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30321" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30322" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30323" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30380" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30381" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE49 30382" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30384" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+    <via name="Bochum-Dahlhausen" />
+  </zug>
+  <zug name="RE49 30901" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30903" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30918" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Überruhr" />
+    <via name="Essen-Holthausen" />
+  </zug>
+  <zug name="RE49 30920" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Überruhr" />
+    <via name="Essen-Holthausen" />
+  </zug>
+  <zug name="RE49 30921" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30922" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Überruhr" />
+    <via name="Essen-Holthausen" />
+  </zug>
+  <zug name="RE49 30923" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30925" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30927" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30983" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30985" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+</zza>

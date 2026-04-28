@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Günzburg">
+  <zug name="RB16 236" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB16 460" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB16 57002" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB16 57054" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB16 57120" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB16 57136" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB78 57680" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57684" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57685" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57686" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57688" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57690" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57691" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57702" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57704" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57706" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57708" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57710" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57712" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57714" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57715" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57716" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57718" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57719" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57720" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57721" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57722" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57723" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57724" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57725" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57726" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57727" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57728" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57729" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57730" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57732" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57734" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57735" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57736" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57737" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57738" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57739" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57741" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57742" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57743" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57744" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57745" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57746" von="Memmingen" nach="Günzburg" />
+  <zug name="RB78 57748" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57749" von="Günzburg" nach="Memmingen" />
+  <zug name="RB86 1204" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 1586" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 218" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 2400" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 2410" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 560" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 57066" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 57074" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 57128" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 57138" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 59116" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 912" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 916" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 1012" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 1500" von="Augsburg Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 1502" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 216" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 510" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57012" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57028" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57036" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57038" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57052" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57056" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57064" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57068" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57090" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57108" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57122" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57130" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57166" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57168" von="Augsburg Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 590" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 702" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 714" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 918" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 9506" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57014" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57034" von="Gersthofen" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57062" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57076" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57102" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57104" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 57118" von="München Hbf eg" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE80 610" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 1098" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 112" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 1296" von="Leipheim" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+  </zug>
+  <zug name="RE9 2406" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 512" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57004" von="Mering" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57010" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57020" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57026" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57078" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57128" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57136" von="Mammendorf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57152" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57154" von="Augsburg-Hochzoll" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57164" von="München Hbf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57176" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 59110" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 59114" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 616" von="Münster (Westf) Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 692" von="München Hbf" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 910" von="Mammendorf" nach="Nersingen">
+    <via name="Leipheim" />
+  </zug>
+</zza>

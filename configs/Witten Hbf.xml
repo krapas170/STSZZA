@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Witten Hbf">
+  <zug name="RB40 100" von="Schandelah" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 29964" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB40 30750" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+  </zug>
+  <zug name="RB40 30751" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Bochum Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 30752" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 30753" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB40 30754" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 30755" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB40 30756" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 30757" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB40 30758" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+  </zug>
+  <zug name="RB40 30759" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB40 30763" von="Dortmund-Barop" nach="Welschen Ennest">
+    <via name="Essen Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RB40 30764" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 31303" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 31307" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 31342" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB40 31344" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB40 31387" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 31500" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 31501" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 31512" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 31515" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 31518" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 31521" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 31524" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 33081" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 33083" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 33085" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB40 524" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RB40 525" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 840" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 2227" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 2328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 24374" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 29961" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 29962" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 29965" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 29966" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 29994" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 30760" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 30762" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 30764" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 30766" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 30768" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31305" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31308" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 31311" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31313" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31332" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31334" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31336" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 31338" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 31340" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 31345" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31349" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31374" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31376" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31378" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31380" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31382" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 31383" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31385" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31387" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31391" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31397" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 31399" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 33086" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 52223" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB91 52225" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RB91 52328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RB91 61597" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RE16 1548" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 208" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE16 2326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE16 2445" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE16 29968" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 29970" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 30761" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 31300" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 31301" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE16 31302" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 31305" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE16 31306" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 31309" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE16 31347" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE16 31351" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE16 31392" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE16 31393" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE16 515" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 52225" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 656" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 1905" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 2223" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RE34 2225" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Essen Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE34 2326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE34 2328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE34 2443" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE34 29967" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE34 29971" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE34 30753" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 30757" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 30765" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE34 31304" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE34 31330" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE34 31511" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE34 31513" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE34 31523" von="Hagen-Vorhalle" nach="Dortmund-Barop">
+    <via name="Witten-Annen Nord" />
+    <via name="Dortmund-Kruckel" />
+  </zug>
+  <zug name="RE34 33080" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RE34 33081" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE34 33082" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+    <via name="Hagen-Vorhalle" />
+  </zug>
+  <zug name="RE34 52326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+  </zug>
+  <zug name="RE34 52328" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Bochum Hbf" />
+  </zug>
+  <zug name="RE34 815" von="Dortmund-Barop" nach="Hagen-Vorhalle">
+    <via name="Wetter (Ruhr)" />
+  </zug>
+</zza>

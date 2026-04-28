@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Werdau">
+  <zug name="RB13 81011" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB13 81013" von="Zeitz" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB13 81015" von="Zeitz" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB13 81016" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB13 81017" von="Zeitz" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB13 81018" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB13 81019" von="Zeitz" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB13 81020" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB13 81021" von="Zeitz" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB13 81022" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB13 81023" von="Zeitz" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB13 81024" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB13 81026" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB13 81028" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20821" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20980" von="Cheb wl" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20981" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 20982" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20983" von="Gera Hbf" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 20984" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20985" von="Gera Hbf" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 20986" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20987" von="Greiz" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 20988" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 20989" von="Greiz" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 20990" von="Frantiskovy Lazne" nach="Adorf (Vogtl)">
+    <via name="Zwickau Stadthalle" />
+    <via name="Cheb" />
+  </zug>
+  <zug name="RB2 20992" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51209" von="Zwickau Stadthalle" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 51219" von="Zwickau Stadthalle" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB2 51230" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51980" von="Cheb wl" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51981" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 51982" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51983" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 51984" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51985" von="Zwickau Stadthalle" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB2 51986" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51987" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 51988" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 51989" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 51990" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 74023" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80200" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80201" von="Kraslice" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80203" von="Falkenstein (Vogtl)" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80204" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80205" von="Zwickau Stadthalle" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80206" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80207" von="Zwickau Stadthalle" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80208" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80209" von="Gera Hbf" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80210" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80211" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80212" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80213" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80214" von="Cheb wl" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80215" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80216" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80217" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80218" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80219" von="Gera Hbf" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB2 80220" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80221" von="Zwickau Stadthalle" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB2 80222" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80223" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80224" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80225" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80226" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80227" von="Zwickau Stadthalle" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB2 80228" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80229" von="Zwickau Stadthalle" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB2 80230" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80231" von="Zwickau Stadthalle" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80233" von="Zwickau Stadthalle" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80235" von="Zwickau Stadthalle" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80240" von="Cheb wl" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80241" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80242" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80243" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80244" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80245" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80246" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80247" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80248" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB2 80249" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB2 80250" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB4 51279" von="Zwickau Stadthalle" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB4 80260" von="Cheb qf" nach="Zwickau Stadthalle" />
+  <zug name="RB4 80266" von="Cheb qf" nach="Zwickau Stadthalle" />
+  <zug name="RB4 80268" von="Cheb qf" nach="Zwickau Stadthalle" />
+  <zug name="RB4 80270" von="Cheb qf" nach="Zwickau Stadthalle" />
+  <zug name="RB4 80272" von="Cheb qf" nach="Zwickau Stadthalle" />
+  <zug name="RB4 80275" von="Greiz" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB4 80278" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB4 80279" von="Greiz" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB4 80280" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RB5 20803" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20804" von="Kraslice" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 20808" von="Kraslice" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 20809" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20812" von="Kraslice" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 20813" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20816" von="Kraslice" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB5 20817" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20820" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 20824" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 20825" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB5 512" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+  <zug name="RB5 80180" von="Kraslice" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80182" von="Kraslice" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80183" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 80184" von="Kraslice" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80185" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 80186" von="Kraslice" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80187" von="Jocketa" nach="Werdau" />
+  <zug name="RB5 80188" von="Kraslice" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB5 80189" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB5 80190" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80191" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB5 80192" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80193" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB5 80194" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80195" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB5 80196" von="Falkenstein (Vogtl)" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB5 80197" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB5 80199" von="Jocketa" nach="Zwickau Stadthalle" />
+  <zug name="RB95 20890" von="Cheb" nach="Selb-Plößberg">
+    <via name="Zwickau Stadthalle" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB95 21850" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21851" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21852" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21853" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21854" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21855" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21856" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21857" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21858" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21859" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21860" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21861" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21862" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21863" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21864" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21865" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21866" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21867" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21868" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21869" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21870" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21871" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21872" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21873" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21874" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21875" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21876" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21877" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21878" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21879" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21880" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21881" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB96 79660" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
+  <zug name="RB96 79661" von="Zeitz" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RB96 79666" von="Hof Hbf qg" nach="Selb-Plößberg">
+    <via name="Zwickau Stadthalle" />
+    <via name="Usti nad Labem hl.n." />
+    <via name="Cheb" />
+  </zug>
+  <zug name="RB96 79671" von="Zeitz" nach="Plzen hl.n.">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB96 84494" von="Zeitz" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB99 84485" von="Hof Hbf qg" nach="Oberkotzau">
+    <via name="Würzburg Hbf" />
+    <via name="Zwickau Stadthalle" />
+    <via name="Bamberg" />
+  </zug>
+  <zug name="RE3 74000" von="Dresden-Plauen" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74002" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74003" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74004" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74005" von="Cheb" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74006" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74007" von="Cheb" nach="Adorf (Vogtl)">
+    <via name="Zwickau Stadthalle" />
+    <via name="Cheb wl" />
+    <via name="Bad Elster" />
+  </zug>
+  <zug name="RE3 74008" von="Dresden-Plauen" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74009" von="Muldenhütten" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74010" von="Dresden-Plauen" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74011" von="Marktredwitz" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74013" von="Marktredwitz" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74015" von="Marktredwitz" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74018" von="Dresden-Plauen" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74019" von="Marktredwitz" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74020" von="Dresden-Plauen" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74021" von="Muldenhütten" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74022" von="Dresden-Plauen" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74023" von="Hof Hbf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74025" von="Hof Hbf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74026" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74027" von="Hof Hbf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74028" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74029" von="Hof Hbf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74030" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74031" von="Hof Hbf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74032" von="Dresden-Plauen" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74033" von="Hof Hbf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 74035" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle" />
+  <zug name="RE3 80220" von="Frantiskovy Lazne" nach="Zwickau Stadthalle" />
+</zza>

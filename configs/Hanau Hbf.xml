@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Hanau Hbf">
+  <zug name="FLX10 2421" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB40 15137" von="Bebra" nach="Frankfurt (Main) West">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB41 15036" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB41 15037" von="Bebra" nach="Frankfurt (Main) West">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB41 15038" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB41 76920" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB49 76922" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB5 24202" von="Hünfeld" nach="Neuhof (Kr Fulda)">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB5 24215" von="Friedland (Han)" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB5 24263" von="Kassel Hbf (tief)" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15500" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB51 15501" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15504" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB51 15505" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15506" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB51 15507" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15537" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15539" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15541" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15543" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15560" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB51 15561" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB56 23600" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23601" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23602" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23603" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23604" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23605" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23606" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23607" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23608" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23609" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23610" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23611" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23612" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23614" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23615" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB56 23616" von="Schöllkrippen" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB56 23639" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RB58 28600" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28601" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28602" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28603" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28604" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28605" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+  </zug>
+  <zug name="RB58 28606" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28607" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28608" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28609" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+  </zug>
+  <zug name="RB58 28610" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+  </zug>
+  <zug name="RB58 28612" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28613" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28614" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28615" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28616" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28618" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28619" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28620" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28621" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28623" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28624" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28625" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28626" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28628" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28630" von="Laufach" nach="Frankfurt (Main) Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Darmstadt Hbf" />
+    <via name="Hanau West" />
+  </zug>
+  <zug name="RB58 28632" von="Bebra" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28634" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+    <via name="Maintal Ost" />
+  </zug>
+  <zug name="RB58 28636" von="Bebra" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28638" von="Laufach" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28640" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+    <via name="Maintal Ost" />
+  </zug>
+  <zug name="RB58 28642" von="Laufach" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28646" von="Laufach" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28673" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28675" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28676" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RB58 28677" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RB58 28679" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE30 4169" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE5 2426" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE5 24262" von="Fulda" nach="Neuhof (Kr Fulda)">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE5 2429" von="Langenselbold" nach="Offenbach (Main) Hbf" />
+  <zug name="RE5 4591" von="Fulda ia" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 15545" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 15549" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 15569" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 4500" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 4501" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4503" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4504" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 4506" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE50 4507" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4509" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4541" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4543" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4545" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RE50 4547" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE54 155" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RE54 4607" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RE54 4608" von="Bebra" nach="Bad Staffelstein">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="RE54 4609" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE54 4612" von="Laufach" nach="Rottendorf">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RE54 4613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE54 4616" von="Laufach" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RE54 4636" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE54 4639" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RE54 4644" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE55 4601" von="Rüsselsheim Opelwerk" nach="Oberhaid">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="RE55 4603" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+  </zug>
+  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE55 4606" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="RE55 4610" von="Bebra" nach="Heigenbrücken">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="RE55 4611" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE55 4614" von="Laufach" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RE55 4640" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hanau West" />
+  </zug>
+  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE55 4647" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE59 28680" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RE59 28681" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE59 28682" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RE59 28683" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE59 28684" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+  </zug>
+  <zug name="RE59 28685" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE59 28686" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+    <via name="Maintal Ost" />
+  </zug>
+  <zug name="RE59 28687" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
+  <zug name="RE59 28688" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+    <via name="Maintal Ost" />
+  </zug>
+  <zug name="RE59 28690" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau West" />
+    <via name="Hanau-Wilhelmsbad" />
+    <via name="Maintal Ost" />
+  </zug>
+  <zug name="RE85 25120" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE85 25123" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE85 25321" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Wolfgang (Kr Hanau)" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+</zza>

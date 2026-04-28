@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Riesa">
+  <zug name="RB31 1654" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18001" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Nünchritz" />
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+  </zug>
+  <zug name="RB31 18009" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Nünchritz" />
+    <via name="Großenhain Cottb Bf wj" />
+    <via name="Radebeul-Zitzschewig" />
+  </zug>
+  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18018" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18030" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18041" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Nünchritz" />
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+  </zug>
+  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18296" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18400" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 2440" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 30717" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 30720" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31700" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31702" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31705" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 31708" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31713" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 31716" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31718" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31768" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31781" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 31788" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB31 31794" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RB45 2171" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 2271" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 2272" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 69918" von="Mittweida" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 69920" von="Mittweida" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 69922" von="Mittweida" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 69925" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 74110" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 74111" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 74112" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 74113" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 74114" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 74115" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 74116" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 74117" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 80040" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 80047" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 80049" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 80051" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 80064" von="Mittweida" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 80066" von="Mittweida" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 80068" von="Mittweida" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RB45 80075" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 80077" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RB45 80081" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RE15 1652" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE15 18008" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE15 18410" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE15 31707" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE15 31715" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE15 31724" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE15 458" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE17 62271" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RE17 69923" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Döbeln Hbf" />
+    <via name="Tiefenau" />
+    <via name="Wülknitz" />
+  </zug>
+  <zug name="RE17 80042" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zeithain" />
+    <via name="Wülknitz" />
+    <via name="Tiefenau" />
+  </zug>
+  <zug name="RE18 18002" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE18 18282" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE18 2446" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE18 30719" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE18 31703" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE18 31710" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE18 31726" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE50 1552" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 1557" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+    <via name="Weinböhla Hp" />
+  </zug>
+  <zug name="RE50 16500" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Coswig (b Dresden)" />
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 16501" von="Glaubitz (Riesa)" nach="Dresden Mitte" />
+  <zug name="RE50 16502" von="Dresden Freiberger Str." nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 16503" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 16504" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16505" von="Glaubitz (Riesa)" nach="Riesa" />
+  <zug name="RE50 16506" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16507" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 16514" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Radebeul Ost" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16517" von="Radebeul-Naundorf" nach="Bennewitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 16519" von="Leipzig-Engelsdorf" nach="Bennewitz">
+    <via name="Dresden Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16526" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16528" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16529" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 16530" von="Dresden Mitte" nach="Leipzig Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 16532" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16534" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16536" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 16537" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE50 1654" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16542" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16548" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 1657" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE50 16644" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16648" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 18007" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE50 18014" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 18280" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 18284" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE50 18403" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE50 18416" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 1944" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Coswig (b Dresden)" />
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 1947" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 1949" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 2044" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 2048" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 2049" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 2249" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 2443" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+    <via name="Weinböhla Hp" />
+  </zug>
+  <zug name="RE50 2445" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+    <via name="Weinböhla Hp" />
+  </zug>
+  <zug name="RE50 2446" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 2448" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Riesa" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 2449" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 31728" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE50 31752" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 31770" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 31778" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)" />
+  <zug name="RE50 31779" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE50 31789" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str." />
+  <zug name="RE50 449" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 459" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+    <via name="Niederau" />
+  </zug>
+</zza>

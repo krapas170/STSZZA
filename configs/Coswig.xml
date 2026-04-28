@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Coswig">
+  <zug name="RB18 18417" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 1651" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 16511" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 1654" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18000" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18001" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18002" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18003" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18004" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18005" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18006" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18007" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18008" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18009" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18011" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18013" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18015" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18016" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18029" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 18030" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18041" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18296" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18400" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 18405" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 30717" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 30720" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 30739" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 31700" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31702" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31705" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 31708" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31713" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 31716" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31718" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31768" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31781" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RB31 31788" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 31794" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 43010" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB31 43014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB49 18422" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18423" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB49 18424" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18425" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18430" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RB49 18445" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RB51 16160" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16161" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16162" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16163" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16164" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16165" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16166" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16167" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16168" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16169" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16170" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16171" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16172" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16173" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16174" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16175" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16176" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16177" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16178" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16179" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16180" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16182" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16184" von="Lu. Wittenberg Altstadt" nach="Leipzig Hbf (tief)">
+    <via name="Dessau Hbf" />
+    <via name="Klieken" />
+    <via name="Meinsdorf" />
+  </zug>
+  <zug name="RB51 16185" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16186" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16188" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16190" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16191" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16192" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16193" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16194" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16196" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16198" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16470" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16471" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16472" von="Fermerswalde" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16474" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16476" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16478" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16480" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16482" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16484" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RB51 16495" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16497" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 16499" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 37224" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 37232" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 37256" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RB51 37264" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RE11 18180" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE13 18062" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE14 16140" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RE14 16187" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RE14 16189" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RE14 16490" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RE14 16492" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RE14 16493" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RE14 16494" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RE14 16498" von="Lu. Wittenberg Altstadt" nach="Meinsdorf">
+    <via name="Klieken" />
+  </zug>
+  <zug name="RE14 37248" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Griebo" />
+    <via name="Lu. Wittenb.-Piesteritz" />
+  </zug>
+  <zug name="RE15 1652" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE15 18008" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE15 18015" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE15 18280" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE15 18281" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE15 18282" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE15 18283" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE15 18285" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE15 18298" von="Leipzig Hbf" nach="Leuthen (Cottbus)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE15 31707" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE15 31715" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE15 458" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 16525" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE18 18002" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 18282" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 18401" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE18 18403" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Radebeul-Naundorf" />
+    <via name="Niederwartha" />
+    <via name="Cossebaude" />
+  </zug>
+  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 18408" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 2446" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 2447" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE18 30719" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE18 31703" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE18 31710" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE18 31723" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 1552" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 1557" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden Mitte" />
+  </zug>
+  <zug name="RE50 16500" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 16501" von="Glaubitz (Riesa)" nach="Dresden Mitte">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 16502" von="Dresden Freiberger Str." nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 16503" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 16504" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16505" von="Glaubitz (Riesa)" nach="Riesa">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 16506" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 16507" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 16517" von="Radebeul-Naundorf" nach="Bennewitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 16519" von="Leipzig-Engelsdorf" nach="Bennewitz">
+    <via name="Dresden Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Radebeul Ost" />
+  </zug>
+  <zug name="RE50 16526" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 16528" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16529" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 16530" von="Dresden Mitte" nach="Leipzig Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+  </zug>
+  <zug name="RE50 16532" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16534" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16536" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 16537" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 1654" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16542" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 16548" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 1657" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 16644" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Nünchritz" />
+    <via name="Glaubitz (Riesa)" />
+  </zug>
+  <zug name="RE50 16648" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 18007" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 18014" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 18029" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 18280" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 18403" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 18416" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 1944" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 1947" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 1949" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 2044" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 2048" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 2049" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 2249" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 2443" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden Mitte" />
+  </zug>
+  <zug name="RE50 2445" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden Mitte" />
+  </zug>
+  <zug name="RE50 2446" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 2448" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RE50 2449" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 2561" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 31725" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 31727" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 31752" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 31770" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 31778" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Weinböhla Hp" />
+    <via name="Niederau" />
+    <via name="Priestewitz" />
+  </zug>
+  <zug name="RE50 31779" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 31789" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+    <via name="Radebeul-Weintraube" />
+  </zug>
+  <zug name="RE50 449" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+  <zug name="RE50 459" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Radebeul Ost" />
+    <via name="Dresden-Neustadt" />
+  </zug>
+</zza>

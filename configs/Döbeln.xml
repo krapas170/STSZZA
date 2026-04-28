@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Döbeln">
+  <zug name="RB110 27701" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27703" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27705" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27707" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27709" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27711" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27713" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27715" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27717" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27719" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27721" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27723" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27725" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27727" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27729" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27761" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB45 2171" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 2271" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 2272" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69902" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69904" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69906" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69908" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69918" von="Mittweida" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69920" von="Mittweida" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69922" von="Mittweida" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 69925" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 74110" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 74111" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 74112" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 74113" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 74114" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 74115" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 74116" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 74117" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 80040" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80047" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 80049" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 80050" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80051" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 80052" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80054" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80056" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80064" von="Mittweida" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80066" von="Mittweida" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80068" von="Mittweida" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RB45 80075" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 80077" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RB45 80081" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RE17 62170" von="Chemnitz Hbf" nach="Seerhausen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+  <zug name="RE17 62271" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RE17 69923" von="Prösen" nach="Chemnitz Hbf">
+    <via name="Limmritz (Sachs)" />
+    <via name="Steina" />
+    <via name="Waldheim" />
+  </zug>
+  <zug name="RE17 80042" von="Chemnitz Hbf" nach="Prösen">
+    <via name="Zschaitz" />
+    <via name="Ostrau" />
+    <via name="Stauchitz" />
+  </zug>
+</zza>

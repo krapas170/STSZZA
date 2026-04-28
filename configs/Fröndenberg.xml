@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Fröndenberg">
+  <zug name="RB54 14800" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14801" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14802" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14803" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14804" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14805" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14806" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14807" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14808" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14809" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14810" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14811" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14812" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14813" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14814" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14815" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14816" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14817" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14818" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14819" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14820" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14821" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14822" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14823" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14824" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14825" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14826" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14827" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14828" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14829" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14830" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14831" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14832" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14833" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14834" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14835" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14836" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14837" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14838" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14839" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 14875" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14877" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14878" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 14879" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 14978" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5400" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5401" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 5402" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5403" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 5404" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5405" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 5406" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5407" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Ardey" />
+    <via name="Bösperde" />
+  </zug>
+  <zug name="RB54 5408" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5409" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 5410" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5411" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 5412" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5413" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 5414" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5415" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 5416" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB54 5417" von="Unna" nach="Neuenrade">
+    <via name="Fröndenberg" />
+    <via name="Bösperde" />
+    <via name="Menden (Sauerland)" />
+  </zug>
+  <zug name="RB54 5444" von="Neuenrade" nach="Unna">
+    <via name="Fröndenberg-Frömern" />
+  </zug>
+  <zug name="RB97 23208" von="Schwerte (Ruhr)" nach="Willingen">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RB97 23211" von="Warburg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Schwerte (Ruhr)" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23212" von="Schwerte (Ruhr)" nach="Willingen">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE17 10700" von="Warburg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE17 10702" von="Warburg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE17 10704" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Schwerte (Ruhr)" />
+    <via name="Usseln" />
+  </zug>
+  <zug name="RE17 10706" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Schwerte (Ruhr)" />
+    <via name="Usseln" />
+  </zug>
+  <zug name="RE17 10708" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Schwerte (Ruhr)" />
+    <via name="Usseln" />
+  </zug>
+  <zug name="RE17 10710" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Schwerte (Ruhr)" />
+    <via name="Usseln" />
+  </zug>
+  <zug name="RE17 10711" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Wickede (Ruhr)" />
+  </zug>
+  <zug name="RE17 10713" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Wickede (Ruhr)" />
+  </zug>
+  <zug name="RE17 10715" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Wickede (Ruhr)" />
+  </zug>
+  <zug name="RE17 10717" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Wickede (Ruhr)" />
+  </zug>
+  <zug name="RE17 10719" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Wickede (Ruhr)" />
+  </zug>
+  <zug name="RE17 10721" von="Schwerte (Ruhr)" nach="Marsberg">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10750" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10751" von="Dortmund Hbf" nach="Scherfede">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10752" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10753" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE57 10754" von="Winterberg (Westf)" nach="Olsberg">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10755" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10756" von="Winterberg (Westf)" nach="Olsberg">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10757" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE57 10758" von="Winterberg (Westf)" nach="Olsberg">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10759" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10761" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10776" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10777" von="Dortmund Hbf" nach="Winterberg (Westf)">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10778" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Hörde" />
+    <via name="Warburg (Westf)" />
+  </zug>
+  <zug name="RE57 10780" von="Warburg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Schwerte (Ruhr)" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE57 10782" von="Winterberg (Westf)" nach="Dortmund Hbf">
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RE57 10787" von="Dortmund Hbf" nach="Scherfede">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10789" von="Dortmund Hbf" nach="Scherfede">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10791" von="Dortmund Hbf" nach="Winterberg (Westf)">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10970" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RE57 10971" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE57 10972" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RE57 10973" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE57 10974" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RE57 10975" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+    <via name="Arnsberg (Westf)" />
+  </zug>
+  <zug name="RE57 10976" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RE57 10978" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+</zza>

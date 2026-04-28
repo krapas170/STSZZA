@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Karow (Meckl)">
+  <zug name="RB14 68923" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68927" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68931" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68935" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68939" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62271" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62272" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62273" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62274" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62275" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62276" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62278" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62280" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62282" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62283" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62284" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62286" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB19 62288" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62290" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62292" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62294" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62295" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB19 62296" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62297" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB19 62298" von="Karow (Meckl)" nach="Hagenow Land" />
+</zza>

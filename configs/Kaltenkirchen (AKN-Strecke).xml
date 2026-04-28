@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Kaltenkirchen (AKN-Strecke)">
+  <zug name="RB90 10901" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 10910" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 10949" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 10968" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 24551" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 31022" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 31037" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 32056" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32064" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32208" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32224" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32234" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 52780" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52782" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52783" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 52784" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52785" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 52786" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52787" von="Siegen Hbf" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 52789" von="Siegen Hbf" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61550" von="Elz (Limburg/Lahn)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61551" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61552" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61553" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61554" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61555" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61556" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61557" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61559" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61561" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61582" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61584" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61586" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61587" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61588" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61589" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61700" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61701" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61702" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61703" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61704" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61705" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61706" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61707" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61708" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61709" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61710" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61711" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61713" von="Lützel" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61715" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61717" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61719" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61721" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61723" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB90 61744" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61746" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61748" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61756" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61757" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61800" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61804" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61808" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61840" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61846" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 100" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 10951" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 10955" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 10968" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 31057" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32060" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 32219" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32221" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32239" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32247" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32251" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 52781" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61552" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61700" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61715" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61755" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61800" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61801" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61802" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61803" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61806" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61808" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61809" von="Bad Berleburg" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61810" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61811" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB93 61812" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61813" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB93 61815" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB93 61836" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61840" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Bad Berleburg" />
+    <via name="Berghausen (b Wittgenstein)" />
+  </zug>
+  <zug name="RB93 61842" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61844" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61846" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB94 23196" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB96 32071" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB96 61805" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB96 61847" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB96 61849" von="Lützel" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10901" von="Betzdorf (Sieg)" nach="Köln Messe/Deutz">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+  </zug>
+  <zug name="RE9 10902" von="Lützel" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Freusburg Siedlung" />
+  </zug>
+  <zug name="RE9 10904" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Freusburg Siedlung" />
+  </zug>
+  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RE9 10907" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10908" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10910" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10912" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10914" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10935" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10937" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10949" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10951" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10952" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10953" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10955" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10956" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10957" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10959" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10966" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10968" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 31011" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 31014" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 31029" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 32052" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 32075" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 32201" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61554" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 61559" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61704" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 61719" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61807" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61809" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61832" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 61847" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+</zza>

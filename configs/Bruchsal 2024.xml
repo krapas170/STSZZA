@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bruchsal 2024">
+  <zug name="IRE1 19000" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="IRE1 19001" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19002" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="IRE1 19003" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19005" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19007" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19009" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19011" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19038" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="IRE1 19550" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="IRE1 19554" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="IRE1 19671" von="Karlsruhe-Durlach" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19673" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19675" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 19689" von="Karlsruhe-Durlach" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="IRE1 9508" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19006" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19362" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19369" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19500" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19501" von="Karlsruhe-Durlach )" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19502" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19503" von="Karlsruhe-Durlach" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19505" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19507" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19509" von="Karlsruhe-Durlach" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19511" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19513" von="Karlsruhe-Durlach" nach="Bretten">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19515" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19536" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19539" von="Karlsruhe-Durlach )" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19540" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19541" von="Karlsruhe-Durlach )" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19542" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19543" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19544" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19545" von="Karlsruhe-Durlach )" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19546" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19547" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19548" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19549" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19551" von="Karlsruhe-Durlach" nach="Bretten">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19553" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19575" von="Karlsruhe-Durlach )" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19583" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17a 19584" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19604" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19642" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17a 19670" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17c 19601" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19602" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="MEX17c 19603" von="Karlsruhe-Durlach" nach="Ötisheim">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19605" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19607" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19609" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19611" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19613" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 19615" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="MEX17c 89458" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19246" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19248" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19285" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 19287" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 19600" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19625" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 19636" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19638" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19640" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19641" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 19660" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19664" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 19669" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 26128" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 89452" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 89453" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 89454" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 89455" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB17c 89456" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RB17c 89457" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RB68 1172" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RB68 15308" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RB68 15802" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RB68 2181" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RB68 38326" von="Weingarten (Baden)" nach="Wiesloch-Walldorf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RB68 38331" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RB68 85110" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RB68 897" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE1 19036" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE17b 19004" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE17b 19289" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE17b 19598" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE17b 19643" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE4 38111" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38171" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38321" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38333" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38380" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum" />
+  <zug name="RE4 38400" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum" />
+  <zug name="RE4 38417" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38431" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38435" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38436" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum" />
+  <zug name="RE4 38437" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE40 1571" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE40 15802" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE40 38329" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE40 38405" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE40 38415" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 15816" von="Weingarten (Baden)" nach="Heidelberg Hbf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 19504" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE73 19506" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE73 26120" von="Weingarten (Baden)" nach="Heidelberg Hbf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 26121" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+  </zug>
+  <zug name="RE73 26122" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE73 26123" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26124" von="Weingarten (Baden)" nach="Heidelberg Hbf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 26125" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26126" von="Weingarten (Baden)" nach="Heidelberg Hbf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 26127" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+  </zug>
+  <zug name="RE73 26129" von="Heidelberg-Kirchheim/Rohrbach" nach="Mühlacker Rößlesweg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+  </zug>
+  <zug name="RE73 26131" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26133" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26160" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE73 26161" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26162" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal" />
+    <via name="Bad Schönborn-Kronau" />
+  </zug>
+  <zug name="RE73 26163" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26165" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 26167" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+  </zug>
+  <zug name="RE73 26169" von="Heidelberg Hbf" nach="Mühlacker Rößlesweg">
+    <via name="Bruchsal Tunnelstraße" />
+    <via name="Bruchsal Schlachthof" />
+    <via name="Heidelsheim Nord" />
+  </zug>
+  <zug name="RE73 38200" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 38302" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 38307" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 38317" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 38318" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 38331" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 38387" von="Ludwigshafen (Rhein) Mitte" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 85114" von="Weingarten (Baden)" nach="Wiesloch-Walldorf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 85177" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 85210" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 85213" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 85214" von="Weingarten (Baden)" nach="Wiesloch-Walldorf">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+  <zug name="RE73 85217" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
+    <via name="Bruchsal Bildungszentrum" />
+    <via name="Untergrombach" />
+    <via name="Weingarten (Baden)" />
+  </zug>
+  <zug name="RE73 85550" von="Weingarten (Baden)" nach="Heidelberg-Kirchheim/Rohrbach">
+    <via name="Bruchsal" />
+    <via name="Ubstadt-Weiher" />
+    <via name="Stettfeld-Weiher" />
+  </zug>
+</zza>

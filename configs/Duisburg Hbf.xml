@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Duisburg Hbf">
+  <zug name="RB32 31239" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31240" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31241" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31242" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31243" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31244" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31245" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31246" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31247" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31248" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31249" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31250" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31251" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31252" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RB32 31253" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31254" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RB32 31256" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RB32 31282" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31283" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31284" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31285" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31286" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31287" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB32 31288" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB32 31289" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB33 10300" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10301" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10302" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10303" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10304" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10305" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10306" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10307" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10308" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10310" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10311" von="Dortmund Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10312" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10313" von="Dortmund Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10315" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10317" von="Dortmund Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10319" von="Dortmund Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10321" von="Dortmund Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10323" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10325" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10327" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10329" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB33 10346" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB35 1545" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB35 52240" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB35 52241" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 52242" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB35 52243" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB35 52244" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB35 52245" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB35 52246" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RB35 52247" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB35 52248" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RB35 52249" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB35 52251" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RB35 52270" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB35 52272" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB35 89672" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB35 89674" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB35 89675" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 89677" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 89679" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 89681" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 89683" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 89685" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RB35 89687" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RE19 20000" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE19 20002" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE19 20004" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE19 20005" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Düsseldorf Flughafen" />
+    <via name="Emmerich" />
+  </zug>
+  <zug name="RE19 20006" von="Duisburg Hbf" nach="Düsseldorf Flughafen" />
+  <zug name="RE19 20007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Düsseldorf Flughafen" />
+    <via name="Emmerich" />
+  </zug>
+  <zug name="RE19 20008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 20009" von="Dortmund Hbf" nach="Emmerich-Elten">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 20010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 20011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 20012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 20013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 20014" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 20015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 20016" von="Düsseldorf Hbf" nach="Oberhausen-Holten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 20045" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Düsseldorf Flughafen" />
+    <via name="Emmerich" />
+  </zug>
+  <zug name="RE19 20047" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 20049" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 20056" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE19 77007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Düsseldorf Flughafen" />
+    <via name="Bocholt" />
+  </zug>
+  <zug name="RE19 77008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 77009" von="Dortmund Hbf" nach="Emmerich-Elten">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 77010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 77011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 77012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 77013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 77014" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 77015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE19 77016" von="Düsseldorf Hbf" nach="Oberhausen-Holten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE19 77018" von="Düsseldorf Hbf" nach="Bocholt">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10202" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10203" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10204" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10206" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10207" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10208" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10209" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10210" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10211" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10213" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RE2 10215" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RE2 10238" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE2 10241" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10243" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10244" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE3 89865" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89867" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89869" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89871" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89873" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89875" von="Düsseldorf Hbf" nach="Oberhausen-Holten">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+  </zug>
+  <zug name="RE3 89903" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89905" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89907" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89909" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89911" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE42 10100" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10101" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10102" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10103" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10104" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10105" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10106" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10107" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE42 10108" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10109" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10110" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10111" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE42 10112" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10113" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10114" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10115" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE42 10116" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10117" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10118" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10119" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE42 10120" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10121" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10122" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10123" von="Düsseldorf Hbf" nach="Duisburg-Hochfeld Süd">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE42 10126" von="Münster-Albachten" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RE42 10127" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Essen-Dellwig" />
+  </zug>
+  <zug name="RE42 10130" von="Münster-Albachten" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RE42 10134" von="Essen Hbf" nach="Viersen">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+    <via name="Rheinhausen Ost" />
+  </zug>
+  <zug name="RE42 10180" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10183" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10184" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10187" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10191" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10192" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 89676" von="Viersen" nach="Essen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE44 75210" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75211" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75212" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75213" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75214" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75215" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75216" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75217" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75218" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75219" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75220" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75221" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75222" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75223" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75224" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75225" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75226" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75227" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75228" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75229" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75230" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75231" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75232" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75233" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75234" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75235" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75236" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75237" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75238" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75239" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE44 75240" von="Bottrop-Vonderort" nach="Rheinhausen" />
+  <zug name="RE44 75241" von="Rheinhausen" nach="Bottrop-Vonderort">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Osterfeld Süd" />
+  </zug>
+  <zug name="RE49 30291" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE49 30293" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE49 30295" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE49 30297" von="Düsseldorf Hbf" nach="Mülheim (Ruhr) Styrum">
+    <via name="Oberhausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE49 30299" von="Düsseldorf Hbf" nach="Recklinghausen Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE49 30391" von="Düsseldorf Hbf" nach="Oberhausen-Holten">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+  </zug>
+</zza>

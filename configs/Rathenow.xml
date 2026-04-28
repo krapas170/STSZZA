@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Rathenow">
+  <zug name="RB21 18240" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB21 18241" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+  </zug>
+  <zug name="RB21 18242" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB21 18243" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+  </zug>
+  <zug name="RB21 18244" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB21 18245" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+  </zug>
+  <zug name="RB21 18246" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB21 18247" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+  </zug>
+  <zug name="RB21 18248" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB21 18249" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+  </zug>
+  <zug name="RB21 18250" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB21 18251" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+  </zug>
+  <zug name="RB34 76447" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RB34 76448" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB34 76449" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RB34 76450" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RB34 76451" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RB34 76452" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3144" von="Stendal Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3145" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RE4 3146" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3147" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RE4 3148" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3149" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RE4 3150" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3164" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3165" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RE4 3166" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3167" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RE4 3168" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Hbf" />
+    <via name="Nennhausen" />
+    <via name="Buschow" />
+  </zug>
+  <zug name="RE4 3169" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+  <zug name="RE4 3171" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Großwudicke" />
+    <via name="Schönhausen (Elbe)" />
+    <via name="Hämerten" />
+  </zug>
+</zza>

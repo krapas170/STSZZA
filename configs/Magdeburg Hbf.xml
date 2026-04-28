@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Magdeburg Hbf">
+  <zug name="RB36 80340" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80341" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80342" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80343" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80344" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80345" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80346" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80347" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80348" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80349" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80351" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80352" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80353" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80354" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80355" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80356" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80357" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80358" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80359" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80360" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80362" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80364" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80366" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80368" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80370" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80372" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80374" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80376" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80378" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80380" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80382" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80384" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RB36 80386" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RB36 80387" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80389" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB40 100" von="Schandelah" nach="Dortmund-Barop">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Witten Hbf" />
+    <via name="Magdeburg-Neustadt" />
+  </zug>
+  <zug name="RB40 101" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 14140" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 14141" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 14148" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16400" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16401" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16402" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16403" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16405" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16407" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16408" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16410" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16412" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16413" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16415" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16417" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16419" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16421" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16428" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16430" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16432" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16442" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16447" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16448" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16449" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16452" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16453" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16454" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 16455" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 16462" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 1944" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 1945" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 1946" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2030" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2032" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2035" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 2037" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 2042" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2044" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2046" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2400" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 2401" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2432" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2436" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB40 2443" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 2445" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg-Neustadt" />
+    <via name="Magdeburg Herrenkrug" />
+  </zug>
+  <zug name="RB40 2446" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+  </zug>
+  <zug name="RB41 80388" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80390" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80392" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80394" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80396" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB59 74551" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Kassel Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Vellmar-Niedervellmar" />
+  </zug>
+  <zug name="RB59 74581" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RB59 74583" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Kassel Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Vellmar-Niedervellmar" />
+  </zug>
+  <zug name="RE10 74836" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74838" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74840" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74842" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Kassel Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Vellmar-Niedervellmar" />
+  </zug>
+  <zug name="RE19 16902" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE19 16903" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE19 16908" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE19 16932" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE19 16935" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE19 2235" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE19 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE19 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE19 39001" von="Stederdorf (Kr Uelzen)" nach="Schönebeck (Elbe)" />
+  <zug name="RE19 39020" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE19 39022" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE19 39029" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE19 39044" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16904" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16909" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16910" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16920" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16929" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16931" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16933" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16936" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 16937" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE20 16938" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 16939" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16941" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16942" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16943" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16944" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16945" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 16946" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 16952" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 16954" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 16958" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39013" von="Soltendieck" nach="Magdeburg Südost">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 39014" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 39015" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 39016" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 39017" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39019" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 39023" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE20 39025" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE20 39027" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 39030" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 39032" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 39038" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39040" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39042" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39044" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+    <via name="Magdeburg-Eichenweiler ia" />
+  </zug>
+  <zug name="RE20 39045" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 39046" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE20 39047" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 39049" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 39051" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 502" von="Schönebeck-Bad Salzelmen if" nach="Pretzier (Altm)">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 507" von="Soltendieck" nach="Magdeburg Südost">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE20 603" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE20 709" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE20 800" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Barleber See" />
+    <via name="Zielitz" />
+    <via name="Angern-Rogätz" />
+  </zug>
+  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Neustadt is" />
+  </zug>
+  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 16301" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 16303" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 16305" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 16307" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16309" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16311" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16313" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 2031" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 2447" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE30 2449" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE6 80292" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RE6 80293" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RE6 80294" von="Magdeburg Hbf ia" nach="Oebisfelde" />
+  <zug name="RE6 80295" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RE6 80296" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RE6 80298" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+</zza>

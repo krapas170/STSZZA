@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Berlin Hbf (Stadtbahn) 2024">
+  <zug name="RB10 18500" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB10 18501" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB10 18502" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB10 18503" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB10 18504" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB10 18505" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB10 18506" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB10 18507" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB10 18508" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB10 18509" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB10 18510" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB10 18512" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 18600" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 18601" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB14 18602" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 18603" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB14 18604" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 18605" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB14 18606" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 18607" von="Nauen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB14 18608" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 18610" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RB14 68923" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB14 68927" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB14 68931" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB14 68935" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB14 68939" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62271" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62272" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62273" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62274" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62275" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62276" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62278" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62280" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62282" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62283" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62284" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB15 62286" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB17 13150" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB17 13151" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 13152" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB17 13153" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RB17 13158" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB17 13184" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB17 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB17 52926" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 52928" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 52929" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB17 62010" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 870" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB18 13156" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB18 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB18 62007" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RB19 62288" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62290" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62292" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62294" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62295" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB19 62296" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62297" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Inselstadt Malchow" />
+    <via name="Lübz" />
+    <via name="Karow (Meckl)" />
+  </zug>
+  <zug name="RB19 62298" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB21 18240" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB21 18241" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB21 18242" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB21 18243" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB21 18244" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB21 18245" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB21 18246" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB21 18247" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB21 18248" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB21 18249" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB21 18250" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB21 18251" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Stendal Hbf" />
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB23 18140" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18141" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 18142" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18143" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 18144" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18145" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 18146" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18147" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 18148" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18149" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 18150" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18151" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 18656" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB23 19804" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB23 19807" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB23 19820" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB23 62002" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB23 62003" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB23 62004" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB23 62011" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB23 62044" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB24 1636" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB24 18300" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB24 18301" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18302" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB24 18303" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18304" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB24 18305" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18307" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18309" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18310" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB24 18311" von="Berlin-Hohenschönhausen" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB24 18341" von="Berlin-Hohenschönhausen" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB24 3307" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RB24 3345" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RB24 3530" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB24 974" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 1078" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 18140" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB32 18148" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB32 18200" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 18201" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18202" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 18203" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18205" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18206" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 18207" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18209" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18211" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18213" von="Berlin-Hohenschönhausen" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB32 18313" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RB32 18315" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RB32 18652" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB32 18660" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB32 19800" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB32 19816" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB32 3344" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 3532" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RB32 62009" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RB34 76447" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RB34 76448" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Potsdamer Platz" />
+  </zug>
+  <zug name="RB34 76449" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RB34 76450" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Potsdamer Platz" />
+  </zug>
+  <zug name="RB34 76451" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RB34 76452" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Potsdamer Platz" />
+  </zug>
+  <zug name="RB37 62200" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62201" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB37 62202" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62203" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB37 62204" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62205" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB37 62206" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62207" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB37 62208" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62209" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RB37 62210" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62212" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62214" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB37 62216" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB60 61346" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE2 18750" von="Nauen" nach="Sedlitz Ost">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 18751" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 18754" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 18756" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 18758" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 18759" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 18768" von="Nauen" nach="Berlin-Spandau">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3100" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3101" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3102" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3103" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3104" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3105" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3106" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3107" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3108" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3109" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3110" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3111" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3112" von="Nauen" nach="Berlin-Spandau">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3113" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3114" von="Nauen" nach="Berlin-Spandau">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3115" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3116" von="Nauen" nach="Berlin-Spandau">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3118" von="Nauen" nach="Kolkwitz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3120" von="Nauen" nach="Kolkwitz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3140" von="Nauen" nach="Sedlitz Ost">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE2 3141" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3711" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3715" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3719" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3721" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3723" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3725" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE2 3747" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE3 1071" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE3 1714" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 18204" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 18208" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 18215" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE3 18306" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 18308" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 3192" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3302" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 3303" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3304" von="Herzberg (Elster)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 3305" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3306" von="Halle (Saale) Hbf" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 3309" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE3 3321" von="Prenzlau" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3335" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE3 3340" von="Herzberg (Elster)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 3341" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE3 3342" von="Berlin Gesundbrunnen" nach="Melchow">
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+    <via name="Biesenthal" />
+  </zug>
+  <zug name="RE3 3343" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3345" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf" />
+  <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf" />
+  <zug name="RE3 3364" von="Berlin Gesundbrunnen" nach="Melchow">
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+    <via name="Biesenthal" />
+  </zug>
+  <zug name="RE3 3365" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 3366" von="Ludwigsfelde" nach="Melchow">
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+    <via name="Biesenthal" />
+  </zug>
+  <zug name="RE3 3367" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE3 3369" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Oranienburg" />
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+  </zug>
+  <zug name="RE3 3373" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 3534" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE3 37215" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 37803" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 974" von="Schönefeld (bei Berlin)" nach="Melchow">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Bernau (b Berlin)" />
+    <via name="Rüdnitz" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE4 3144" von="Stendal Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3145" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3146" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Potsdamer Platz" />
+  </zug>
+  <zug name="RE4 3147" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3148" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3149" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3150" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3152" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE4 3164" von="Stendal Hbf" nach="Berlin Südkreuz">
+    <via name="Berlin Potsdamer Platz" />
+  </zug>
+  <zug name="RE4 3165" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3166" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3167" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3168" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3169" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3170" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE4 3171" von="Berlin Südkreuz" nach="Stendal Hbf">
+    <via name="Berlin Jungfernheide" />
+    <via name="Berlin-Spandau" />
+    <via name="Berlin-Staaken" />
+  </zug>
+  <zug name="RE4 3172" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE4 3190" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE4 3365" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE4 3369" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE4 37817" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE6 3601" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE6 3602" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3603" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE6 3604" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3606" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3608" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3622" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3623" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE6 3624" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3626" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE6 3639" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE6 3640" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE7 18753" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 18754" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 18755" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 18756" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 18757" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 18758" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 18759" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 18771" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 18773" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 18776" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE7 18778" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE7 18783" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 18785" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 18787" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 2432" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3113" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3115" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3117" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3119" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3700" von="Nauen" nach="Sedlitz Ost">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3701" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3702" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3703" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3704" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3705" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3706" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3707" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3708" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3709" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3710" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3711" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3712" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3713" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3714" von="Nauen" nach="Borkheide">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3715" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3716" von="Nauen" nach="Borkheide">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3717" von="Sedlitz Ost" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE7 3718" von="Nauen" nach="Borkheide">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3719" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3720" von="Nauen" nach="Borkheide">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3721" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3722" von="Nauen" nach="Borkheide">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3723" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3742" von="Nauen" nach="Sedlitz Ost">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE7 3747" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+  </zug>
+  <zug name="RE7 3749" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Albrechtshof" />
+  </zug>
+  <zug name="RE8 13155" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 13186" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 18146" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 18650" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 18658" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 19801" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19803" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19805" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19812" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 19815" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19817" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19819" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19821" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+  </zug>
+  <zug name="RE8 19880" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 2074" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 2093" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 2238" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 52924" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 52927" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 608" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 61999" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE8 62000" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Schwerin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Berlin-Spandau )" />
+  </zug>
+  <zug name="RE8 62002" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62003" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RE8 62005" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Südkreuz" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RE8 62007" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62008" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62009" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Schwerin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Berlin-Spandau )" />
+  </zug>
+  <zug name="RE8 62013" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62015" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE8 62038" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62041" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62042" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62043" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62044" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62045" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE8 62046" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62047" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62048" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Friedrichstraße" />
+    <via name="Berlin Alexanderplatz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 701" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 908" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin-Spandau )" />
+    <via name="Wittenberge" />
+  </zug>
+</zza>

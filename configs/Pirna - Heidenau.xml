@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Pirna - Heidenau">
+  <zug name="RB71 16761" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16762" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16763" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16764" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16765" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16766" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16767" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16768" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16769" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16770" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16771" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16772" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16773" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16774" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16777" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16778" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16779" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16780" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16781" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16782" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16783" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16785" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16787" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB71 16789" von="Neustadt (Sachs)" nach="Pirna Busbf">
+    <via name="Pirna-Copitz Nord" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz" />
+  </zug>
+  <zug name="RB72 16700" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16701" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16702" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16703" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16704" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16705" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16706" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16707" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16708" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16709" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16710" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16711" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16712" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16713" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16714" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16715" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16716" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16717" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16718" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16719" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16720" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16721" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16722" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16723" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16724" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16725" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16726" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16727" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RB72 16728" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16730" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16732" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RB72 16734" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RE19 4371" von="Dresden-Strehlen" nach="Kurort Altenberg (Erzgebirge)">
+    <via name="Dohna (Sachs)" />
+    <via name="Niederschlottwitz" />
+    <via name="Glashütte (Sachs)" />
+  </zug>
+  <zug name="RE19 4372" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RE19 4376" von="Kurort Altenberg (Erzgebirge)" nach="Dresden-Strehlen">
+    <via name="Dresden-Zschachwitz" />
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+  <zug name="RE20 5275" von="Os Os" nach="Litomerice mesto">
+    <via name="Bad Schandau" />
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+  </zug>
+  <zug name="RE20 5277" von="Os Os" nach="Litomerice mesto">
+    <via name="Bad Schandau" />
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+  </zug>
+  <zug name="RE20 5279" von="Os Os" nach="Litomerice mesto">
+    <via name="Bad Schandau" />
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+  </zug>
+  <zug name="RE50 31781" von="Meißen Triebischtal" nach="Schmilka-Hirschmühle">
+    <via name="Heidenau Süd" />
+    <via name="Heidenau-Großsedlitz" />
+    <via name="Obervogelgesang" />
+  </zug>
+</zza>

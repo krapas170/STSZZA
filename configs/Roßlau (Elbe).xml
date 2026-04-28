@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Roßlau (Elbe)">
+  <zug name="RB51 16161" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16163" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16165" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16167" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16169" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16171" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16173" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16175" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16177" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16179" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16185" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16191" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16193" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16471" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16495" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16497" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 16499" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 37224" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 37232" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 37256" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB51 37264" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RB57 74550" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74567" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB57 74580" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74592" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74700" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74740" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74743" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB57 74763" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB57 74768" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74773" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB57 74776" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB57 74777" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB57 74801" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB57 74835" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 16257" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 16260" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74551" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 74552" von="Eggersdorf" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74565" von="Erfurt Ost" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 74583" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 74584" von="Eggersdorf" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74585" von="Erfurt Ost" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 74722" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74728" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74738" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74747" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 74764" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74766" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74771" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RB59 74778" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74798" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RB59 74846" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE10 16254" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE10 74572" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE10 74582" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE10 74747" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE10 74753" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE10 74764" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE10 74776" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE10 74800" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE10 74803" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE10 74805" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE10 74842" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE13 161" von="Leipzig Hbf" nach="q Roßlau (Elbe)" />
+  <zug name="RE13 16100" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16101" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16102" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16103" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16104" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16105" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16106" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16107" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16108" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16109" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16110" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16111" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16112" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16113" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16114" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16115" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16116" von="Bitterfeld qa" nach="Petersroda">
+    <via name="Lutherstadt Wittenberg Hbf qa" />
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+  </zug>
+  <zug name="RE13 16117" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16118" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16119" von="Magdeburg Herrenkrug" nach="Leipzig Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16121" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16125" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16127" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16129" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16131" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16137" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16139" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16140" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16143" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16145" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16147" von="Magdeburg Herrenkrug" nach="Leipzig Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16150" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16153" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 16154" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE13 16155" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 1931" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE13 1947" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE14 1133" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE14 16123" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE14 16135" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+  </zug>
+  <zug name="RE14 16187" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RE14 16189" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RE14 16493" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RE14 37248" von="Roßlau (Elbe)" nach="Fermerswalde" />
+  <zug name="RE14 37802" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Rodleben" />
+    <via name="Zerbst/Anhalt" />
+    <via name="Güterglück" />
+  </zug>
+  <zug name="RE2 74702" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE2 74707" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE2 74709" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE2 74710" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE2 74837" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE8 74563" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE8 74587" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE8 74701" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE8 74741" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE8 74761" von="Sangerhausen" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE8 74775" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE8 74804" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE8 74845" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE9 74566" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE9 74703" von="Hann Münden" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74705" von="Hann Münden" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74721" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74727" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74729" von="Kassel Hbf" nach="Halle-Silberhöhe">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74736" von="Halle (Saale) Hbf" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE9 74760" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE9 74765" von="Sangerhausen" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74779" von="Sangerhausen" nach="Oberröblingen">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74780" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE9 74810" von="Halle-Silberhöhe" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+  <zug name="RE9 74838" von="Kassel Hbf" nach="Halle (Saale) Hbf if">
+    <via name="Erfurt Hbf" />
+    <via name="Bennungen" />
+    <via name="Wallhausen (Helme)" />
+  </zug>
+  <zug name="RE9 74839" von="Halle Rosengarten ia" nach="Kassel Hbf">
+    <via name="Berga-Kelbra" />
+    <via name="Görsbach" />
+    <via name="Heringen (Helme)" />
+  </zug>
+</zza>

@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Gelsenkirchen Hbf">
+  <zug name="RB32 30200" von="Essen-Kray Nord" nach="Dortmund-Dorstfeld">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 30201" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Gelsenkirchen-Rotthausen" />
+  </zug>
+  <zug name="RB32 30202" von="Essen-Kray Nord" nach="Dortmund-Dorstfeld">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 30203" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Gelsenkirchen-Rotthausen" />
+  </zug>
+  <zug name="RB32 30205" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Gelsenkirchen-Rotthausen" />
+  </zug>
+  <zug name="RB32 30207" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Gelsenkirchen-Rotthausen" />
+  </zug>
+  <zug name="RB32 30285" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Gelsenkirchen-Rotthausen" />
+  </zug>
+  <zug name="RB32 31239" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31240" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31241" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31242" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31243" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31244" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31245" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31246" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31247" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31248" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31249" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31250" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31251" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31252" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RB32 31253" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31254" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RB32 31256" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RB32 31282" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31283" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31284" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31285" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31286" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31287" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB32 31288" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB32 31289" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB35 52240" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB35 52242" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB35 52243" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RB35 52244" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB35 52245" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB35 52246" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RB35 52247" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB35 52248" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RB35 52249" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB35 52251" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RB35 52270" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB35 52272" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Herne" />
+  </zug>
+  <zug name="RB46 31397" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31399" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31421" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31423" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31425" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31427" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31429" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31431" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31433" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31487" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31491" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31493" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31495" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB90 10901" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 10910" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 10949" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 10968" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 24551" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 31022" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 31037" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 32056" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32064" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32208" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32224" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32234" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 52780" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52782" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52783" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 52784" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52785" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 52786" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52787" von="Siegen Hbf" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 52789" von="Siegen Hbf" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61550" von="Elz (Limburg/Lahn)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61551" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61552" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61553" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61554" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61555" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61556" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61557" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61559" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61561" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61582" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61584" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61586" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61587" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61588" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61589" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61700" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61701" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61702" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61703" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61704" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61705" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61706" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61707" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61708" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61709" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61710" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61711" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61713" von="Lützel" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61715" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61717" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61719" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61721" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61723" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB90 61744" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61746" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61748" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61756" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61757" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61800" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61804" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61808" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61840" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61846" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 100" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 10951" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 10955" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 10968" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 31057" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32060" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 32219" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32221" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32239" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32247" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32251" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 52781" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61552" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61700" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61715" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61755" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61800" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61801" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61802" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61803" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61806" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61808" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61809" von="Bad Berleburg" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61810" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61811" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB93 61812" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61813" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB93 61815" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB93 61836" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61840" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Bad Berleburg" />
+    <via name="Berghausen (b Wittgenstein)" />
+  </zug>
+  <zug name="RB93 61842" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61844" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61846" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB94 23196" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB96 32071" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB96 61805" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB96 61847" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB96 61849" von="Lützel" nach="Betzdorf (Sieg)" />
+  <zug name="RE19 20005" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE19 20009" von="Dortmund Hbf" nach="Emmerich-Elten">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE19 20011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE19 20013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20014" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE19 20015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20016" von="Düsseldorf Hbf" nach="Oberhausen-Holten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+  </zug>
+  <zug name="RE19 20045" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20047" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 20049" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 77007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 77008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE19 77009" von="Dortmund Hbf" nach="Emmerich-Elten">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 77010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE19 77011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 77012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE19 77013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 77014" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
+  <zug name="RE19 77015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE19 77016" von="Düsseldorf Hbf" nach="Oberhausen-Holten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
+  <zug name="RE19 77018" von="Düsseldorf Hbf" nach="Bocholt">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
+  <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10202" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10203" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE2 10204" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE2 10206" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10207" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE2 10208" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10209" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE2 10210" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10211" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE2 10213" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RE2 10215" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RE2 10238" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Essen-Zollverein Nord" />
+  </zug>
+  <zug name="RE2 10241" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE2 10243" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE2 10244" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE41 16212" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16214" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16216" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
+  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE42 10100" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10101" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10102" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE42 10103" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10104" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10105" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10106" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE42 10107" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE42 10108" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10109" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10110" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE42 10111" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE42 10112" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10113" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10114" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE42 10115" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE42 10116" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10117" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10118" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE42 10119" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+  </zug>
+  <zug name="RE42 10120" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10121" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10122" von="Dortmund Hbf" nach="Viersen">
+    <via name="Oberhausen Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE42 10123" von="Düsseldorf Hbf" nach="Duisburg-Hochfeld Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RE42 10127" von="Düsseldorf Hbf" nach="Wanne-Eickel Hbf" />
+  <zug name="RE42 10180" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10183" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10184" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE42 10187" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10191" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10192" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+  </zug>
+  <zug name="RE9 10901" von="Betzdorf (Sieg)" nach="Köln Messe/Deutz">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+  </zug>
+  <zug name="RE9 10902" von="Lützel" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Freusburg Siedlung" />
+  </zug>
+  <zug name="RE9 10904" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Freusburg Siedlung" />
+  </zug>
+  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RE9 10907" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10908" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10910" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10912" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10914" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10935" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10937" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10949" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10951" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10952" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10953" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10955" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10956" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10957" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10959" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10966" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10968" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 31011" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 31014" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 31029" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 32052" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 32075" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 32201" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61554" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 61559" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61704" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 61719" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61807" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61809" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61832" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 61847" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+</zza>

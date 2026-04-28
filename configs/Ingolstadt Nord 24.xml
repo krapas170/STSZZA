@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Ingolstadt Nord 24">
+  <zug name="RB14 84035" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84036" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84037" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RB14 84038" von="Ingolstadt Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84039" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84040" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84041" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RB14 84042" von="Ingolstadt Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84043" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84044" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84045" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RB14 84046" von="Ingolstadt Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84047" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84048" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84049" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84050" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84051" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84052" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84053" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84054" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84055" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84056" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84057" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84058" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84059" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84060" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84061" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84062" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84063" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84064" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB14 84065" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB14 84066" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Eichstätt Bahnhof" />
+    <via name="Treuchtlingen" />
+  </zug>
+  <zug name="RB15 84244" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84248" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84252" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84253" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84254" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84255" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84257" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84258" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84259" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB15 84260" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84261" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB15 84266" von="Leipheim" nach="Gundelfingen (Bay)">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84267" von="Ingolstadt Hbf" nach="München Flughafen Terminal">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Ernsgaden" />
+  </zug>
+  <zug name="RB15 84268" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84269" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84270" von="Leipheim" nach="Donauwörth">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84271" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84272" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84273" von="Ulm Hbf" nach="Gundelshausen" />
+  <zug name="RB15 84274" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84275" von="Ulm Hbf" nach="Gundelshausen" />
+  <zug name="RB15 84276" von="Leipheim" nach="Donauwörth">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84277" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB15 84278" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84279" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB15 84280" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB15 84281" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB15 84283" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB15 84300" von="München Flughafen Terminal" nach="Ingolstadt Nord" />
+  <zug name="RB15 84302" von="München Flughafen Terminal" nach="Ingolstadt Nord" />
+  <zug name="RB17 84150" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84151" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Ernsgaden" />
+    <via name="Vohburg" />
+  </zug>
+  <zug name="RB17 84152" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84153" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84154" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84155" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB17 84159" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB17 84308" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84309" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84310" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84311" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84312" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84313" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84314" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84315" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Ernsgaden" />
+    <via name="Vohburg" />
+  </zug>
+  <zug name="RB17 84316" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84317" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Ernsgaden" />
+    <via name="Vohburg" />
+  </zug>
+  <zug name="RB17 84318" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84319" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Ernsgaden" />
+    <via name="Vohburg" />
+  </zug>
+  <zug name="RB17 84320" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84321" von="Treuchtlingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84322" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84323" von="Nürnberg Hbf" nach="Gundelshausen" />
+  <zug name="RB17 84324" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84325" von="Treuchtlingen" nach="Gundelshausen" />
+  <zug name="RB17 84326" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84327" von="Treuchtlingen" nach="Gundelshausen" />
+  <zug name="RB17 84328" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84329" von="Treuchtlingen" nach="Gundelshausen" />
+  <zug name="RB17 84330" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Weichering" />
+    <via name="Rohrenfeld" />
+    <via name="Neuburg (Donau)" />
+  </zug>
+  <zug name="RB17 84331" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB17 84333" von="Nersingen" nach="Gundelshausen" />
+  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord" />
+  <zug name="RB17 84352" von="München Flughafen Terminal" nach="Ingolstadt Nord" />
+</zza>

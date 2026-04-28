@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Gaschwitz">
+  <zug name="RE10 18185" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 18380" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Markkleeberg-Großstädteln" />
+    <via name="Markkleeberg" />
+  </zug>
+  <zug name="RE10 37401" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 37418" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37421" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 37422" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37481" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 37596" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37598" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 18385" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37400" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37402" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37419" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37420" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37423" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37424" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37479" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37483" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+</zza>

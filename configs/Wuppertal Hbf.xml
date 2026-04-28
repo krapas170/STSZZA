@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Wuppertal Hbf">
+  <zug name="RB33 10300" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10308" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10309" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10310" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10311" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB33 10312" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10313" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB33 10314" von="Aachen Schanz" nach="Duisburg-Hochfeld Süd">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10317" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB33 10319" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB33 10321" von="Dortmund Hbf" nach="Viersen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Essen Hbf" />
+  </zug>
+  <zug name="RB33 10349" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10350" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 10351" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10353" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10360" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 10361" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10362" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 10363" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10365" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10367" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10369" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10371" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 10373" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 1059" von="Lindern" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 10807" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 1545" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 524" von="Lindern" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 525" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 840" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 853" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 915" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 920" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB33 921" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RB33 956" von="Dortmund Hbf" nach="Aachen Schanz">
+    <via name="Düsseldorf Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Wickrath" />
+  </zug>
+  <zug name="RE49 30296" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Wuppertal-Unterbarmen" />
+    <via name="Wuppertal-Barmen" />
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30298" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Wuppertal-Unterbarmen" />
+    <via name="Wuppertal-Barmen" />
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30299" von="Düsseldorf Hbf" nach="Recklinghausen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal-Steinbeck" />
+    <via name="Wuppertal-Zoologischer Garten" />
+  </zug>
+  <zug name="RE49 30900" von="Marl-Hamm" nach="Schwelm">
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30901" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30903" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30918" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal-Unterbarmen" />
+    <via name="Wuppertal-Barmen" />
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30920" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal-Unterbarmen" />
+    <via name="Wuppertal-Barmen" />
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30921" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal-Steinbeck" />
+  </zug>
+  <zug name="RE49 30922" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal-Unterbarmen" />
+    <via name="Wuppertal-Barmen" />
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30923" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal-Steinbeck" />
+  </zug>
+  <zug name="RE49 30925" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal-Steinbeck" />
+  </zug>
+  <zug name="RE49 30927" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal-Steinbeck" />
+  </zug>
+  <zug name="RE49 30982" von="Marl-Hamm" nach="Schwelm">
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE49 30983" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30985" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Essen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE49 30988" von="Marl-Hamm" nach="Schwelm">
+    <via name="Wuppertal-Oberbarmen" />
+  </zug>
+  <zug name="RE8 10358" von="Aachen Schanz" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="S7 29100" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29101" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29102" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29103" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29104" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29105" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29106" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29107" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29108" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29109" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29110" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29111" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29112" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29113" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29114" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29115" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29116" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29117" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29118" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29119" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29120" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29121" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29122" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29123" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29124" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29125" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29126" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29127" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29128" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29129" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29130" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29131" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29132" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29133" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29134" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29135" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29136" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29137" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29138" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29139" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29140" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29141" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29142" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29143" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29144" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29145" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29146" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29147" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29148" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29149" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29150" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29151" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29152" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29153" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29155" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 29157" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 90156" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90158" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90159" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 90160" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90161" von="Wuppertal Hbf" nach="Solingen Hbf" />
+  <zug name="S7 90162" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90187" von="Wuppertal Hbf" nach="Solingen Hbf" />
+</zza>

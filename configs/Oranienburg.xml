@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Oranienburg">
+  <zug name="RB24 18301" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18303" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18305" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18307" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18309" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB24 18311" von="Berlin-Hohenschönhausen" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB24 3307" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB24 3345" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB32 18201" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18203" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18205" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18207" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18209" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18211" von="Berlin-Hohenschönhausen" nach="Oranienburg" />
+  <zug name="RB32 18213" von="Berlin-Hohenschönhausen" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB32 18313" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB32 18315" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RB60 61346" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 1071" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 18215" von="Melchow" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3303" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3305" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3321" von="Prenzlau" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3335" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3341" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3343" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+  <zug name="RE3 3369" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin-Lichtenberg" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin-Schöneweide" />
+  </zug>
+</zza>

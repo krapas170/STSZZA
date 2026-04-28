@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Ebensfeld 2024">
+  <zug name="RB22 4961" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB22 501" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB24 1701" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB24 4783" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB24 59372" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB24 802" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB24 84594" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB24 84602" von="Nürnberg Hbf" nach="Würzburg Hbf">
+    <via name="Erfurt Hbf" />
+    <via name="Dresden Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RB25 1001" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB25 4902" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB25 4904" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB25 4906" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB25 4943" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB25 4983" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB25 59330" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Schney" />
+    <via name="Ebersdorf (b Coburg)" />
+  </zug>
+  <zug name="RB26 1101" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB26 4984" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB26 59368" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RB26 79879" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RB26 84364" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE14 1507" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE14 1604" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE14 3481" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE14 3485" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE14 3490" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE14 4901" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE14 4942" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Schney" />
+    <via name="Ebersdorf (b Coburg)" />
+  </zug>
+  <zug name="RE14 4960" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Schney" />
+    <via name="Ebersdorf (b Coburg)" />
+  </zug>
+  <zug name="RE14 4962" von="Nürnberg Hbf" nach="Strullendorf">
+    <via name="Erfurt Hbf" />
+    <via name="Bad Staffelstein" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE14 4980" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Schney" />
+    <via name="Ebersdorf (b Coburg)" />
+  </zug>
+  <zug name="RE14 4981" von="Leipzig Hbf" nach="Fürth (Bay) Hbf">
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+    <via name="Hallstadt (b Bamberg)" />
+  </zug>
+  <zug name="RE14 4982" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Schney" />
+    <via name="Ebersdorf (b Coburg)" />
+  </zug>
+  <zug name="RE14 503" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE14 59332" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE14 59334" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE14 84371" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 1008" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE19 3488" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE19 4608" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 4941" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 4964" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE19 59335" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 59367" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 59369" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 79679" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE19 804" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE20 1103" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE20 4781" von="Würzburg Hbf" nach="Fürth (Bay) Hbf">
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+    <via name="Hallstadt (b Bamberg)" />
+  </zug>
+  <zug name="RE20 4782" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE20 59336" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE20 84372" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 297" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE28 3478" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE28 3566" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE28 4900" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 4963" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE28 4982" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 59360" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 59362" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 59364" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 59365" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE28 59370" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 59392" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE28 84363" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE28 84604" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE29 3460" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE29 3484" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE29 4907" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE32 3483" von="Erfurt Hbf" nach="Velden (b Hersbruck)">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RE32 3580" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE32 3581" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE32 4784" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE32 4905" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE32 4909" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE32 602" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE32 84606" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE35 1114" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE35 3459" von="Erfurt Hbf" nach="Würzburg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Dresden Hbf" />
+  </zug>
+  <zug name="RE35 4965" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE35 59361" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE38 3486" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Erfurt Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE38 4944" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE38 59331" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE38 59366" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+  <zug name="RE38 84597" von="Erfurt Hbf" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE54 1501" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Zapfendorf" />
+    <via name="Ebing" />
+  </zug>
+  <zug name="RE54 4641" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Bad Staffelstein" />
+    <via name="Lichtenfels" />
+    <via name="Schney" />
+  </zug>
+</zza>

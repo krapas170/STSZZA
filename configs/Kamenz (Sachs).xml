@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Kamenz (Sachs)">
+  <zug name="RB33 16602" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16608" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16610" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16620" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16622" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16624" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16640" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16641" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB33 16642" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16651" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB33 16653" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB33 16740" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16746" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16960" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16966" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16968" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16970" von="Kamenz (Sachs)" nach="Dresden Hbf" />
+  <zug name="RB33 16980" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16982" von="Kamenz (Sachs)" nach="Dresden Mitte" />
+  <zug name="RB33 16999" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB34 16656" von="Kamenz (Sachs)" nach="Dresden Hbf" />
+</zza>

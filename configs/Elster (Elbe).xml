@@ -1,0 +1,2213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Elster (Elbe)">
+  <zug name="RB13 81011" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB13 81013" von="Zeitz" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB13 81015" von="Zeitz" nach="Bad Elster" />
+  <zug name="RB13 81016" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB13 81017" von="Zeitz" nach="Bad Elster" />
+  <zug name="RB13 81018" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB13 81019" von="Zeitz" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB13 81020" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB13 81021" von="Zeitz" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB13 81022" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB13 81024" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB13 81026" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB13 81028" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB2 20821" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 20980" von="Cheb wl" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 20981" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB2 20982" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 20983" von="Gera Hbf" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+  </zug>
+  <zug name="RB2 20984" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 20985" von="Gera Hbf" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+  </zug>
+  <zug name="RB2 20986" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 20987" von="Greiz" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+  </zug>
+  <zug name="RB2 20988" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 20989" von="Greiz" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+  </zug>
+  <zug name="RB2 20990" von="Frantiskovy Lazne" nach="Adorf (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB2 51209" von="Zwickau Stadthalle" nach="Bad Brambach" />
+  <zug name="RB2 51219" von="Zwickau Stadthalle" nach="Bad Elster" />
+  <zug name="RB2 51230" von="Cheb" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 51980" von="Cheb wl" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 51981" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB2 51982" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 51983" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 51984" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 51985" von="Zwickau Stadthalle" nach="Bad Elster" />
+  <zug name="RB2 51986" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 51987" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 51988" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB2 51989" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 51990" von="Cheb" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 74023" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80201" von="Kraslice" nach="Bad Brambach" />
+  <zug name="RB2 80204" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB2 80205" von="Zwickau Stadthalle" nach="Bad Brambach" />
+  <zug name="RB2 80207" von="Zwickau Stadthalle" nach="Bad Brambach" />
+  <zug name="RB2 80209" von="Gera Hbf" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+  </zug>
+  <zug name="RB2 80211" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB2 80213" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB2 80214" von="Cheb wl" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80215" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80216" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80217" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80218" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80219" von="Gera Hbf" nach="Bad Elster">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB2 80220" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80221" von="Zwickau Stadthalle" nach="Bad Elster" />
+  <zug name="RB2 80222" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80223" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80224" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80225" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80226" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB2 80228" von="Cheb" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80230" von="Cheb" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80240" von="Cheb wl" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80241" von="Zwickau Stadthalle" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB2 80242" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80243" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80244" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80245" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80246" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB2 80247" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80248" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB2 80249" von="Zwickau Stadthalle" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB2 80250" von="Cheb" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB22 80871" von="Greiz" nach="Gera-Zwötzen">
+    <via name="Leipzig Hbf" />
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+  </zug>
+  <zug name="RB31 18000" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18001" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18002" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18003" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18004" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18005" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18006" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18007" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18008" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18009" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18011" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 18013" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RB31 18015" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RB31 18016" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 43010" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RB31 43014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RB4 80260" von="Cheb qf" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80261" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80262" von="Cheb qf" nach="Gera Hbf">
+    <via name="Greiz-Dölau" />
+    <via name="Greiz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RB4 80263" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80264" von="Cheb qf" nach="Gera Hbf">
+    <via name="Greiz-Dölau" />
+    <via name="Greiz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RB4 80265" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80266" von="Cheb qf" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80267" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80268" von="Cheb qf" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80269" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80270" von="Cheb qf" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80271" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80272" von="Cheb qf" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RB4 80273" von="Greiz" nach="Cheb">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB4 80274" von="Cheb qf" nach="Gera Hbf">
+    <via name="Greiz-Dölau" />
+    <via name="Greiz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RB4 80275" von="Greiz" nach="Frantiskovy Lazne">
+    <via name="Hof Hbf" />
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+  </zug>
+  <zug name="RB4 80277" von="Greiz" nach="Cheb">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB4 80278" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB4 80279" von="Greiz" nach="Hof Hbf">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB4 80280" von="Cheb" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB4 80281" von="Greiz" nach="Cheb">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB43 18086" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 18690" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 18691" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RB43 18692" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 18693" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RB43 18694" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 18695" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RB43 18696" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 18698" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 18699" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RB43 26080" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 26082" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB43 26084" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RB43 26086" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RB43 26088" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RB43 26090" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RB43 26092" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RB43 26094" von="Taucha (Leipzig)" nach="Mockrehna">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RB43 44300" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RB49 18183" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RB49 18281" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RB49 18282" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RB49 18382" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Cottbus Hbf" />
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+  </zug>
+  <zug name="RB49 18422" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RB49 18423" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RB49 18424" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RB49 18425" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RB49 18430" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RB49 18445" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RB49 37404" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RB49 37421" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RB5 20804" von="Kraslice" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB5 20808" von="Kraslice" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 20809" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 20812" von="Kraslice" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 20813" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 20816" von="Kraslice" nach="Bad Elster" />
+  <zug name="RB5 20817" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 20820" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 20824" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 20825" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 512" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80180" von="Kraslice" nach="Bad Brambach" />
+  <zug name="RB5 80182" von="Kraslice" nach="Bad Brambach" />
+  <zug name="RB5 80183" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80184" von="Kraslice" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB5 80185" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80186" von="Kraslice" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 80187" von="Jocketa" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80188" von="Kraslice" nach="Bad Elster" />
+  <zug name="RB5 80189" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80190" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 80191" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80192" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 80193" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB5 80194" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB5 80195" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB5 80197" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB5 80199" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB51 16160" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16161" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16162" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16163" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16164" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16165" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16166" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16167" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16168" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16169" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16170" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16171" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16172" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16173" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16174" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16175" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16176" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16177" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16178" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16179" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16185" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16191" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16193" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16196" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16470" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16471" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16472" von="Fermerswalde" nach="Leipzig-Stötteritz">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+  </zug>
+  <zug name="RB51 16474" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RB51 16495" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16497" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 16499" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 37224" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 37232" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 37256" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB51 37264" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RB92 5612" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RB92 5615" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RB95 20890" von="Cheb" nach="Selb-Plößberg">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RB96 79660" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB96 79666" von="Hof Hbf qg" nach="Selb-Plößberg">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RB96 79671" von="Zeitz" nach="Plzen hl.n.">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RB96 84494" von="Zeitz" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RB99 84485" von="Hof Hbf qg" nach="Oberkotzau">
+    <via name="Würzburg Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE1 3650" von="Meerane qj" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE1 3652" von="Meerane qj" nach="Ronshausen">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RE1 3653" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3655" von="Eichenberg" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE1 3656" von="Meerane" nach="Bebra">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RE1 3658" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3659" von="Göttingen" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf ia" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE1 3661" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 3664" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Erfurt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE1 3665" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+  </zug>
+  <zug name="RE1 3667" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+  </zug>
+  <zug name="RE1 3671" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+  </zug>
+  <zug name="RE1 3672" von="Meerane qj" nach="Ronshausen">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RE1 3673" von="Eichenberg" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE1 3674" von="Meerane" nach="Bebra">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RE1 3677" von="Eichenberg" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE1 3678" von="Meerane qj" nach="Ronshausen">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RE1 3679" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3916" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE1 3917" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3918" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE1 3919" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3925" von="Eichenberg" nach="Meerane">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3931" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 3939" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3944" von="Meerane qj" nach="Arnstadt Süd">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RE1 3951" von="Göttingen" nach="Erfurt Nord">
+    <via name="Kassel Hbf ia" />
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+  </zug>
+  <zug name="RE1 3958" von="Meerane" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE1 3960" von="Meerane" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE1 3964" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE1 73713" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RE1 73716" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE1 73719" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RE1 73721" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RE1 73725" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RE1 73727" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RE1 73739" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE1 73745" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE1 73747" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE1 73750" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE1 73800" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE1 73831" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE1 73833" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE1 73835" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE10 18087" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE10 18089" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE10 18185" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 18195" von="Hoyerswerda" nach="Torgau">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE10 18280" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE10 18380" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Cottbus Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Bad Liebenwerda" />
+  </zug>
+  <zug name="RE10 18382" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+  </zug>
+  <zug name="RE10 18384" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE10 18386" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE10 18388" von="Taucha (Leipzig)" nach="Kolkwitz Süd">
+    <via name="Uebigau" />
+    <via name="Beutersitz" />
+    <via name="Schönborn (Doberl)" />
+  </zug>
+  <zug name="RE10 18389" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE10 18390" von="Taucha (Leipzig)" nach="Hoyerswerda">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Uebigau" />
+  </zug>
+  <zug name="RE10 18395" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Beilrode" />
+    <via name="Torgau" />
+  </zug>
+  <zug name="RE10 18428" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE10 37401" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37418" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Calau (Nl)" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37421" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37422" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Calau (Nl)" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37442" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37443" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE10 37445" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE10 37446" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37447" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE10 37462" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37463" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Rehfeld (Falkenberg)" />
+  </zug>
+  <zug name="RE10 37464" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37481" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37596" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+    <via name="Hoyerswerda" />
+    <via name="Calau (Nl)" />
+  </zug>
+  <zug name="RE10 37598" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+    <via name="Hoyerswerda" />
+    <via name="Calau (Nl)" />
+  </zug>
+  <zug name="RE11 18180" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Frankfurt (Oder)" />
+    <via name="Kraftwerk Finkenheerd" />
+  </zug>
+  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Frankfurt (Oder)" />
+    <via name="Kraftwerk Finkenheerd" />
+  </zug>
+  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Cottbus Hbf" />
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+  </zug>
+  <zug name="RE11 18187" von="Frankfurt (Oder)" nach="Ruhland">
+    <via name="Beilrode" />
+    <via name="Torgau" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE11 18190" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 18283" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE11 18385" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 18395" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Rehfeld (Falkenberg)" />
+  </zug>
+  <zug name="RE11 18423" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE11 37400" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+    <via name="Hoyerswerda" />
+    <via name="Calau (Nl)" />
+  </zug>
+  <zug name="RE11 37402" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+    <via name="Hoyerswerda" />
+    <via name="Calau (Nl)" />
+  </zug>
+  <zug name="RE11 37405" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE11 37419" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37420" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Calau (Nl)" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37423" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37424" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Calau (Nl)" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37441" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE11 37444" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37445" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE11 37447" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Leipzig Hbf" />
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Mockrehna" />
+  </zug>
+  <zug name="RE11 37448" von="Leipzig Hbf (tief)" nach="Hoyerswerda">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37463" von="Hoyerswerda" nach="Leipzig Hbf (tief)">
+    <via name="Rehfeld (Falkenberg)" />
+    <via name="Beilrode" />
+    <via name="Torgau" />
+  </zug>
+  <zug name="RE11 37479" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37483" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hoyerswerda" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE13 18059" von="Cottbus Hbf" nach="Bad Liebenwerda" />
+  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE13 18062" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE14 16140" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RE14 16187" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RE14 16189" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RE14 16490" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RE14 16492" von="Fermerswalde" nach="Meinsdorf">
+    <via name="Lutherstadt Wittenberg Hbf" />
+    <via name="Elster (Elbe)" />
+    <via name="Mühlanger" />
+  </zug>
+  <zug name="RE14 16493" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RE14 37248" von="Roßlau (Elbe)" nach="Fermerswalde">
+    <via name="Jessen (Elster)" />
+    <via name="Annaburg" />
+  </zug>
+  <zug name="RE15 18181" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE15 18280" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Elsterwerda-Biehla" />
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+  </zug>
+  <zug name="RE15 18281" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RE15 18282" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE15 18283" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Elsterwerda" />
+    <via name="Prösen Ost" />
+    <via name="Frauenhain" />
+  </zug>
+  <zug name="RE15 18285" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE15 18298" von="Leipzig Hbf" nach="Leuthen (Cottbus)">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE15 18384" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE15 18425" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE15 18426" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE15 37412" von="Leipzig Hbf" nach="Schwarzkollm">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda-Biehla" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE15 37413" von="Hoyerswerda" nach="Taucha (Leipzig)">
+    <via name="Bad Liebenwerda" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Beilrode" />
+  </zug>
+  <zug name="RE18 18401" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE18 18403" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Bad Liebenwerda" />
+    <via name="Hoyerswerda" />
+    <via name="Schwarzkollm" />
+  </zug>
+  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE18 18408" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Lampertswalde" />
+    <via name="Ortrand" />
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE3 3149" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 3169" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 3171" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 3192" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Holzdorf (Elster)" />
+    <via name="Herzberg (Elster)" />
+  </zug>
+  <zug name="RE3 3304" von="Herzberg (Elster)" nach="Melchow" />
+  <zug name="RE3 3308" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3310" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3312" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3314" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3330" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3340" von="Herzberg (Elster)" nach="Melchow" />
+  <zug name="RE3 3346" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3348" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3350" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE3 3362" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Holzdorf (Elster)" />
+    <via name="Herzberg (Elster)" />
+  </zug>
+  <zug name="RE3 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE3 3373" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE3 3654" von="Meerane qj" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3660" von="Meerane" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3662" von="Meerane" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3663" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 3666" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3668" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3669" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3670" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 37208" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 37215" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE3 37803" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE3 3900" von="Glauchau-Schönbörnchen" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3901" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE3 3902" von="Meerane qj" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3903" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3904" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3905" von="Eichenberg" nach="Glauchau-Schönbörnchen">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE3 3906" von="Meerane" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3907" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 3908" von="Meerane" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3909" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE3 3910" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3911" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 3912" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3913" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE3 3914" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3915" von="Göttingen" nach="Gera Süd">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3921" von="Eichenberg" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE3 3922" von="Cheb qf" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3923" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE3 3924" von="Cheb qf" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3925" von="Gera Hbf" nach="Cheb">
+    <via name="Neumühle (Elster)" />
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3926" von="Cheb qf" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3927" von="Göttingen" nach="Altenburg">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 3928" von="Cheb qf" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3929" von="Göttingen" nach="Altenburg">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 3930" von="Cheb qf" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3931" von="Greiz" nach="Cheb">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 3932" von="Cheb qf" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Greiz-Dölau" />
+    <via name="Greiz" />
+  </zug>
+  <zug name="RE3 3933" von="Greiz" nach="Altenburg">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 3934" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3935" von="Göttingen" nach="Gera Süd">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3936" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3938" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3939" von="Greiz" nach="Cheb">
+    <via name="Barthmühle" />
+    <via name="Plauen (Vogtl) Mitte" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 3940" von="Cheb qf" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Greiz-Dölau" />
+  </zug>
+  <zug name="RE3 3941" von="Eichenberg" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+  </zug>
+  <zug name="RE3 3944" von="Cheb qf" nach="Gera Hbf">
+    <via name="Greiz-Dölau" />
+    <via name="Greiz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3946" von="Meerane qj" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3949" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3952" von="Meerane qj" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3955" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3956" von="Meerane" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 3957" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE3 3959" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE3 3961" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE3 3962" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 3963" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE3 3965" von="Göttingen" nach="Gera Süd">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 52150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE3 52151" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 52152" von="Meerane" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 52155" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 52156" von="Meerane qj" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE3 52157" von="Göttingen" nach="Gera Süd">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 74000" von="Dresden-Plauen" nach="Bad Brambach" />
+  <zug name="RE3 74002" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Bad Brambach" />
+    <via name="Jößnitz" />
+    <via name="Adorf (Vogtl) qa" />
+  </zug>
+  <zug name="RE3 74004" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RE3 74006" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Bad Brambach qa" />
+    <via name="Bad Brambach ws" />
+    <via name="Vojtanov" />
+  </zug>
+  <zug name="RE3 74007" von="Cheb" nach="Adorf (Vogtl)" />
+  <zug name="RE3 74008" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RE3 74009" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74010" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RE3 74011" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster" />
+  <zug name="RE3 74013" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster" />
+  <zug name="RE3 74015" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster" />
+  <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74018" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RE3 74019" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74020" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RE3 74021" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 74022" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RE3 74023" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb">
+    <via name="Bad Brambach" />
+    <via name="Vojtanov" />
+    <via name="Frantiskovy Lazne" />
+  </zug>
+  <zug name="RE3 74025" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 74027" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 74029" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74031" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Netzschkau" />
+  </zug>
+  <zug name="RE3 74033" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
+  <zug name="RE3 74035" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE3 80220" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Adorf (Vogtl)" />
+    <via name="Oelsnitz (Vogtl)" />
+  </zug>
+  <zug name="RE4 3144" von="Stendal Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE4 3147" von="Herzberg (Elster)" nach="Stendal Hbf" />
+  <zug name="RE4 3151" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3153" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3155" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3157" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3167" von="Herzberg (Elster)" nach="Stendal Hbf" />
+  <zug name="RE4 3173" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3175" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3177" von="Herzberg (Elster)" nach="Birkengrund" />
+  <zug name="RE4 3187" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3189" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3190" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE4 3191" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3306" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3342" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3344" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE4 3369" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE4 37817" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Holzdorf (Elster)" />
+  </zug>
+  <zug name="RE51 2150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+    <via name="Wünschendorf" />
+  </zug>
+  <zug name="RE51 2151" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Neumühle (Elster)" />
+    <via name="Schmölln (Thür)" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE51 2152" von="Meerane" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE51 2155" von="Göttingen" nach="Altenburg">
+    <via name="Neumühle (Elster)" />
+    <via name="Gößnitz" />
+    <via name="Glauchau (Sachs)" />
+  </zug>
+  <zug name="RE51 2156" von="Meerane qj" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Berga (Elster)" />
+  </zug>
+  <zug name="RE51 2157" von="Göttingen" nach="Gera Süd">
+    <via name="Neumühle (Elster)" />
+    <via name="Nöbdenitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="S8 35884" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Raunheim" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="S8 35985" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+  <zug name="S8 75810" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Raunheim" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="S8 75829" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+  <zug name="S8 9986" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Raunheim" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="S9 35984" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Raunheim" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="S9 75827" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+  <zug name="S9 9983" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+</zza>

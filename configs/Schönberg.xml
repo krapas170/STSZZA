@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Schönberg">
+  <zug name="RB13 80837" von="Zeitz" nach="Unterwellenborn">
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+    <via name="Niederpöllnitz" />
+  </zug>
+  <zug name="RB13 81012" von="Hof Hbf qg" nach="Zeitz">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81013" von="Zeitz" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB13 81014" von="Hof Hbf qg" nach="Zeitz">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81015" von="Zeitz" nach="Bad Elster">
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+    <via name="Zwickau Stadthalle" />
+  </zug>
+  <zug name="RB13 81016" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81017" von="Zeitz" nach="Bad Elster">
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+    <via name="Zwickau Stadthalle" />
+  </zug>
+  <zug name="RB13 81018" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81019" von="Zeitz" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB13 81020" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81021" von="Zeitz" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB13 81022" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81023" von="Zeitz" nach="Hof Hbf">
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+    <via name="Zwickau Stadthalle" />
+  </zug>
+  <zug name="RB13 81024" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81026" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81027" von="Zeitz" nach="Feilitzsch">
+    <via name="Gutenfürst" />
+  </zug>
+  <zug name="RB13 81028" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81029" von="Zeitz" nach="Feilitzsch">
+    <via name="Gutenfürst" />
+  </zug>
+  <zug name="RB13 81030" von="Hof Hbf qg" nach="Zeitz">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB13 81032" von="Hof Hbf qg" nach="Zeitz">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB2 80200" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB2 80201" von="Kraslice" nach="Bad Brambach">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB2 80203" von="Falkenstein (Vogtl)" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB2 80204" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB96 79660" von="Hof Hbf qg" nach="Zwickau Stadthalle">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB96 79661" von="Zeitz" nach="Hof Hbf">
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+    <via name="Zwickau Stadthalle" />
+  </zug>
+  <zug name="RB96 79666" von="Hof Hbf qg" nach="Selb-Plößberg">
+    <via name="Gera Hbf qf" />
+    <via name="Mehltheuer ia" />
+    <via name="Zeulenroda unt Bf" />
+  </zug>
+  <zug name="RB96 79671" von="Zeitz" nach="Plzen hl.n.">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB96 84494" von="Zeitz" nach="Cheb ws">
+    <via name="Hof Hbf" />
+    <via name="Gutenfürst" />
+    <via name="Feilitzsch" />
+  </zug>
+  <zug name="RB99 84485" von="Hof Hbf qg" nach="Oberkotzau">
+    <via name="Gera Hbf qf" />
+    <via name="Würzburg Hbf" />
+    <via name="Mehltheuer ia" />
+  </zug>
+  <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Güstrow" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Güstrow" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4307" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Sandförde" />
+  </zug>
+  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4309" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4310" von="Schwaan" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4311" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4312" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4313" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4314" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4315" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4317" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4319" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE13 81025" von="Zeitz" nach="Feilitzsch">
+    <via name="Gutenfürst" />
+  </zug>
+  <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13081" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13082" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13083" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13084" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13085" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13086" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13087" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13088" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13089" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13090" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13091" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13092" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13093" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13095" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13097" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Berlin Hbf" />
+  </zug>
+  <zug name="RE4 13191" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13192" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13193" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 13194" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13195" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13200" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13201" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13202" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13203" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13204" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13205" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13206" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13207" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13208" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE4 13209" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13210" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE4 13211" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13212" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE4 13213" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13215" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13217" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13219" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13270" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13271" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13272" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE4 13273" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13274" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE4 13275" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13276" von="Szczecin Glowny" nach="Lübeck St Jürgen">
+    <via name="Lüdersdorf (Meckl)" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE4 13277" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13279" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13281" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13283" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 13285" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 5350" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 5351" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 5353" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE4 5354" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 5355" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 5356" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 5357" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 5358" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 5359" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 5360" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 5361" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 5363" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 5365" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Grieben (Meckl)" />
+  </zug>
+  <zug name="RE4 5367" von="Lübeck St Jürgen" nach="Ueckermünde Stadthafen">
+    <via name="Grevesmühlen" />
+    <via name="Bobitz" />
+    <via name="Ventschow" />
+  </zug>
+</zza>

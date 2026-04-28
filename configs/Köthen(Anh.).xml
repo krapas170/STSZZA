@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Köthen(Anh.)">
+  <zug name="RB41 80337" von="Dessau-Alten" nach="Erfurt Ost">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB41 80388" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+    <via name="Dessau-Alten" />
+  </zug>
+  <zug name="RB41 80390" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+    <via name="Dessau-Alten" />
+  </zug>
+  <zug name="RB41 80392" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+    <via name="Dessau-Alten" />
+  </zug>
+  <zug name="RB41 80393" von="Dessau-Alten" nach="Erfurt Ost">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB41 80394" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+    <via name="Dessau-Alten" />
+  </zug>
+  <zug name="RB41 80395" von="Dessau-Alten" nach="Erfurt Ost">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB41 80396" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+    <via name="Dessau-Alten" />
+  </zug>
+  <zug name="RB41 80398" von="Schierstedt" nach="Sangerhausen">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+    <via name="Dessau-Alten" />
+  </zug>
+  <zug name="RB44 75636" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 14443" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 14449" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 14450" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 14453" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 14458" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 15443" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 15449" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 15450" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 15453" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 80338" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80441" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 80442" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80444" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80445" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 80446" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80447" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 80448" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80451" von="Schierstedt" nach="Dessau-Alten">
+    <via name="Elsnigk (Anh)" />
+    <via name="Dessau-Mosigkau" />
+  </zug>
+  <zug name="RB50 80452" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80454" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RB50 80456" von="Dessau-Alten" nach="Schierstedt">
+    <via name="Bernburg Hbf" />
+    <via name="Frenz" />
+    <via name="Biendorf" />
+  </zug>
+  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 16301" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 16303" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 16305" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 16307" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16309" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16311" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16313" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 16314" von="Nienburg (Saale)" nach="Schönebeck (Elbe)">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+  </zug>
+  <zug name="RE30 16316" von="Nienburg (Saale)" nach="Schönebeck (Elbe)">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+  </zug>
+  <zug name="RE30 16318" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 16320" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 16321" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 16323" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 16325" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 2031" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 2037" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 2038" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 2039" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 2048" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 2430" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Köthen" />
+  </zug>
+  <zug name="RE30 2440" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Wulfen (Anh)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 2441" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 2443" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Weißandt-Gölzau" />
+    <via name="Stumsdorf" />
+    <via name="Niemberg" />
+  </zug>
+  <zug name="RE30 2447" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+  <zug name="RE30 2449" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Arensdorf (Köthen)" />
+  </zug>
+</zza>

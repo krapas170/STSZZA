@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Solingen">
+  <zug name="S7 29100" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29101" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29102" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29103" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29104" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29105" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29106" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29107" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29108" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29109" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29110" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29111" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29112" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29113" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29114" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29115" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29116" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29117" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29118" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29119" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29120" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29121" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29122" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29123" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29124" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29125" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29126" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29127" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29128" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29129" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29130" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29131" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29132" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29133" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29134" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29135" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29136" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29137" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29138" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29139" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29140" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29141" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29142" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29143" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29144" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29145" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29146" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29147" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29148" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29149" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29150" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29151" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29152" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 29153" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29155" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 29157" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 90156" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90158" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90159" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 90160" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90161" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+  <zug name="S7 90162" von="Solingen Hbf" nach="Wuppertal Hbf" />
+  <zug name="S7 90187" von="Wuppertal Hbf" nach="Solingen Hbf">
+    <via name="Solingen Mitte" />
+    <via name="Solingen Grünewald" />
+  </zug>
+</zza>

@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Weimar">
+  <zug name="RB20 3905" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB20 3933" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB20 52155" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74607" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Weimar" />
+  </zug>
+  <zug name="RB20 74609" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74611" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74617" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74619" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74621" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74623" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74631" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74633" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74635" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74643" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Rudolstadt-Schwarza" />
+  </zug>
+  <zug name="RB20 80797" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB20 80887" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 1950" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 3657" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 3663" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB21 3666" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 3668" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 3900" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 3946" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 3964" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 74613" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 74625" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB21 74629" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB21 80790" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80794" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80799" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80876" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80879" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80880" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80881" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80883" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80884" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80886" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80888" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80889" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80890" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80891" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80892" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80893" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80894" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80895" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80896" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80897" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB21 80898" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80899" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RB21 80900" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80902" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80903" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80904" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80905" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80907" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80909" von="Vieselbach" nach="Hopfgarten (Weimar)" />
+  <zug name="RB21 80911" von="Vieselbach" nach="Hopfgarten (Weimar)" />
+  <zug name="RB21 80913" von="Vieselbach" nach="Hopfgarten (Weimar)" />
+  <zug name="RB21 80914" von="Stadtroda" nach="Vieselbach" />
+  <zug name="RB21 80915" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80916" von="Stadtroda" nach="Vieselbach" />
+  <zug name="RB21 80917" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80918" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80919" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80920" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RB21 80921" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 80925" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB21 81069" von="Vieselbach" nach="Altenburg">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RB26 80926" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80927" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80928" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80929" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80930" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80931" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80932" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80933" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80934" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80935" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80936" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80937" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80938" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80939" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80940" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80941" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80942" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80943" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80944" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80945" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80959" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80961" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80962" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80963" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80964" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80965" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80966" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80967" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80968" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80969" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80970" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB26 80972" von="Kranichfeld" nach="Weimar West">
+    <via name="Nohra (Weimar)" />
+    <via name="Weimar Berkaer Bf" />
+  </zug>
+  <zug name="RB40 15100" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB40 15104" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB40 15106" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB40 15144" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15000" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15004" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15006" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15036" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15038" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15040" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15042" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15044" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15046" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15052" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 15180" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB41 76920" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB49 15074" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB49 15150" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB49 15154" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB49 15164" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB49 15170" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RB49 76922" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RE1 3650" von="Meerane qj" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3652" von="Meerane qj" nach="Ronshausen">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3653" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE1 3654" von="Glauchau-Schönbörnchen" nach="Ronshausen">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3655" von="Eichenberg" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE1 3656" von="Meerane" nach="Bebra">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3658" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Erfurt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Erfurt-Bischleben" />
+  </zug>
+  <zug name="RE1 3659" von="Göttingen" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf ia" />
+    <via name="Jena West" />
+  </zug>
+  <zug name="RE1 3660" von="Altenburg" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Vieselbach" />
+  </zug>
+  <zug name="RE1 3661" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE1 3662" von="Altenburg" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Vieselbach" />
+  </zug>
+  <zug name="RE1 3664" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Vieselbach" />
+  </zug>
+  <zug name="RE1 3665" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE1 3667" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE1 3669" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Eichenberg" />
+    <via name="Kassel-Wilhelmshöhe" />
+  </zug>
+  <zug name="RE1 3671" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Kassel-Wilhelmshöhe" />
+    <via name="Leinefelde q" />
+  </zug>
+  <zug name="RE1 3672" von="Meerane qj" nach="Ronshausen">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3674" von="Meerane" nach="Bebra">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3678" von="Meerane qj" nach="Ronshausen">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
+  <zug name="RE1 3931" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE1 3944" von="Meerane qj" nach="Arnstadt Süd">
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+    <via name="Erfurt-Bischleben" />
+  </zug>
+  <zug name="RE1 3958" von="Meerane" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3960" von="Meerane" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 80878" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 80885" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE1 80906" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 80910" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 81068" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RE21 3918" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 2156" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3652" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3654" von="Meerane qj" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3660" von="Meerane" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3662" von="Meerane" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3663" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3675" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3900" von="Glauchau-Schönbörnchen" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3901" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3902" von="Meerane qj" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3903" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3904" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3906" von="Meerane" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3907" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3908" von="Meerane" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3909" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3910" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3911" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3912" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3913" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3914" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3915" von="Göttingen" nach="Gera Süd">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3922" von="Cheb qf" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3923" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3924" von="Cheb qf" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3926" von="Cheb qf" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3927" von="Göttingen" nach="Altenburg">
+    <via name="Gera Hbf" />
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE3 3928" von="Cheb qf" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3929" von="Göttingen" nach="Altenburg">
+    <via name="Gera Hbf" />
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+  </zug>
+  <zug name="RE3 3930" von="Cheb qf" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3932" von="Cheb qf" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3933" von="Greiz" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RE3 3934" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3935" von="Göttingen" nach="Gera Süd">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3940" von="Cheb qf" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3946" von="Meerane qj" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3949" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3952" von="Meerane qj" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3954" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3955" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3956" von="Meerane" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 3957" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3958" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3959" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3960" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3961" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3962" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3963" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 3965" von="Göttingen" nach="Gera Süd">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 52150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 52151" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 52152" von="Meerane" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 52155" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE3 52156" von="Meerane qj" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE3 52157" von="Göttingen" nach="Gera Süd">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 74615" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 74627" von="Vieselbach" nach="Altenburg">
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+    <via name="Großschwabhausen" />
+  </zug>
+  <zug name="RE3 80912" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 80922" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 80924" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE30 1515" von="Kassel Hbf" nach="Gießen Oswaldsgarten">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 15370" von="Hünfeld" nach="Cölbe" />
+  <zug name="RE30 15371" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 15373" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 15381" von="Treysa" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 1575" von="Kassel Hbf" nach="Gießen Oswaldsgarten">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4150" von="Lollar" nach="Cölbe" />
+  <zug name="RE30 4151" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4152" von="Fulda" nach="Cölbe" />
+  <zug name="RE30 4153" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4155" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4157" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4159" von="Treysa" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4161" von="Treysa" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4163" von="Treysa" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4165" von="Treysa" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4171" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4173" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4175" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4177" von="Kassel Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE30 4179" von="Treysa" nach="Frankfurt (Main) Hbf">
+    <via name="Niederwalgern" />
+    <via name="Fronhausen (Lahn)" />
+    <via name="Friedelhausen" />
+  </zug>
+  <zug name="RE51 2150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE51 2151" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE51 2152" von="Meerane" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE51 2155" von="Göttingen" nach="Altenburg">
+    <via name="Jena West" />
+    <via name="Jena-Göschwitz" />
+    <via name="Gera-Zwötzen" />
+  </zug>
+  <zug name="RE51 2156" von="Meerane qj" nach="Eichenberg">
+    <via name="Erfurt Hbf" />
+    <via name="Erfurt-Bischleben" />
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE51 2157" von="Göttingen" nach="Gera Süd">
+    <via name="Weimar" />
+    <via name="Oberweimar" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE51 3902" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE51 52152" von="Altenburg" nach="Vieselbach">
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE98 24408" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RE98 24438" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RE99 24508" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+  <zug name="RE99 24558" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Marburg Süd" />
+    <via name="Marburg (Lahn)" />
+    <via name="Cölbe" />
+  </zug>
+</zza>

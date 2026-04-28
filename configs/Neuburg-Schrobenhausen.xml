@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Neuburg-Schrobenhausen">
+  <zug name="RB13 86627" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86628" von="Augsburg Haunstetterstraße ia" nach="Brunnen (Oberbay)" />
+  <zug name="RB13 86629" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86630" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86631" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86632" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86633" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86634" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86635" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86636" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86637" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86638" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86639" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86640" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86641" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86642" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86643" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86644" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86645" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86646" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86647" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86648" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86649" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86650" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86651" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86652" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86653" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86654" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86655" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86656" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86657" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+  <zug name="RB13 86658" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86659" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86660" von="Augsburg Haunstetterstraße ia" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86661" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86663" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86665" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86667" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86669" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86671" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86673" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86675" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86677" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86679" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86681" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86683" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86685" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86687" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86689" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86691" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86696" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+  </zug>
+  <zug name="RB13 86698" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+  </zug>
+  <zug name="RB13 86700" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+  </zug>
+  <zug name="RB13 86702" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+  </zug>
+  <zug name="RB13 86704" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+  </zug>
+  <zug name="RB13 86706" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86708" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86710" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86712" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86714" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86716" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86718" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86720" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86722" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86724" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86726" von="München Hbf" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Brunnen (Oberbay)" />
+    <via name="Gessertshausen" />
+  </zug>
+  <zug name="RB13 86727" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86729" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86731" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86733" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86735" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86737" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86739" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86741" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86743" von="Brunnen (Oberbay)" nach="München Hbf">
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+    <via name="Obergriesbach" />
+  </zug>
+  <zug name="RB13 86745" von="Brunnen (Oberbay)" nach="München Hbf">
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+    <via name="Obergriesbach" />
+  </zug>
+  <zug name="RB13 86747" von="Brunnen (Oberbay)" nach="München Hbf">
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+    <via name="Obergriesbach" />
+  </zug>
+  <zug name="RB13 86749" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86751" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+  </zug>
+  <zug name="RB13 86762" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Radersdorf" />
+    <via name="Aichach" />
+  </zug>
+</zza>

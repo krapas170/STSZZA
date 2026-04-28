@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Wolfgang">
+  <zug name="FLX10 2421" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB40 15137" von="Bebra" nach="Frankfurt (Main) West">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RB41 15036" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB41 15037" von="Bebra" nach="Frankfurt (Main) West">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RB41 15038" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB41 76920" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB49 76922" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB5 24202" von="Hünfeld" nach="Neuhof (Kr Fulda)">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB5 24215" von="Friedland (Han)" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB5 24263" von="Kassel Hbf (tief)" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15500" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB51 15501" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15504" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB51 15505" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15506" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB51 15507" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15537" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15539" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15541" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15543" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15560" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RB51 15561" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB58 28601" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+  </zug>
+  <zug name="RB58 28613" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RB58 28624" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB58 28673" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB58 28675" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RB58 28679" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE30 4169" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE5 2426" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE5 24262" von="Fulda" nach="Neuhof (Kr Fulda)">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE5 4591" von="Fulda ia" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 15545" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 15549" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 15569" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 4500" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 4501" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4503" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4504" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 4506" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE50 4507" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4509" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4541" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4543" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4547" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE54 155" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RE54 4607" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE54 4636" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE54 4639" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+  </zug>
+  <zug name="RE54 4644" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE85 25120" von="Bebra" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE85 25123" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+  <zug name="RE85 25321" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Rodenbach (b Hanau)" />
+    <via name="Langenselbold" />
+    <via name="Niedermittlau" />
+  </zug>
+</zza>

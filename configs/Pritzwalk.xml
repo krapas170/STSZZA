@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Pritzwalk">
+  <zug name="RB55 18550" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18551" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18552" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18553" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18554" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18555" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18556" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18557" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18558" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18559" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18561" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18563" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18565" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18567" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18569" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18571" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18573" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18575" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18586" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18587" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18588" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18589" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18590" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RB55 18591" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RB55 18593" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RB55 18595" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3600" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 3601" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3602" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 3603" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3604" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 3605" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RE6 3607" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RE6 3609" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3611" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3613" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3621" von="Weisen" nach="Berlin-Spandau">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RE6 3622" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 3623" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3624" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 3625" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+    <via name="Wittstock (Dosse)" />
+  </zug>
+  <zug name="RE6 3627" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3629" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3631" von="Weisen" nach="Wittstock (Dosse)">
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3639" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Heiligengrabe" />
+    <via name="Liebenthal (Prignitz)" />
+  </zug>
+  <zug name="RE6 3640" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 3644" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+  <zug name="RE6 40600" von="Berlin-Spandau" nach="Weisen">
+    <via name="Groß Pankow" />
+    <via name="Perleberg" />
+  </zug>
+</zza>

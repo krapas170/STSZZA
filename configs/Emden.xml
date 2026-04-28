@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Emden">
+  <zug name="RB58 1533" von="Norddeich" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RB58 533" von="Norddeich" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RB58 540" von="Bremen Hbf" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich" />
+  </zug>
+  <zug name="RB58 83323" von="Norddeich Mole" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RB58 83359" von="Norddeich Mole" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RB58 83409" von="Norddeich Mole" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RE1 4407" von="Norddeich" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RE1 82249" von="Norddeich Mole" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RE1 83352" von="Bremen Hbf" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich" />
+  </zug>
+  <zug name="RE1 83355" von="Norddeich" nach="Bremen Hbf">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Leer (Ostfriesl)" />
+    <via name="Augustfehn" />
+  </zug>
+  <zug name="RE15 2004" von="Münster (W) Zentrum Nord" nach="Norden">
+    <via name="Marienhafe" />
+  </zug>
+  <zug name="RE15 2014" von="Münster (W) Zentrum Nord" nach="Norden">
+    <via name="Marienhafe" />
+  </zug>
+  <zug name="RE15 2208" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich j(" />
+  </zug>
+  <zug name="RE15 2435" von="Norddeich Mole" nach="Münster (W) Zentrum Nord">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Bremen Hbf" />
+    <via name="Leer (Ostfriesl)" />
+  </zug>
+  <zug name="RE15 2438" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich j(" />
+  </zug>
+  <zug name="RE15 51015" von="Norddeich Mole" nach="Münster (W) Zentrum Nord">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Bremen Hbf" />
+    <via name="Leer (Ostfriesl)" />
+  </zug>
+  <zug name="RE15 604" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+  </zug>
+  <zug name="RE15 90268" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich j(" />
+  </zug>
+  <zug name="RE15 90270" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich j(" />
+  </zug>
+  <zug name="RE15 90280" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+  </zug>
+  <zug name="RE15 90289" von="Norddeich Mole" nach="Münster (W) Zentrum Nord">
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Bremen Hbf" />
+    <via name="Leer (Ostfriesl)" />
+  </zug>
+  <zug name="RE15 90306" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+  </zug>
+  <zug name="RE34 2432" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+  </zug>
+  <zug name="RE35 90304" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Marienhafe" />
+    <via name="Norden" />
+    <via name="Norddeich j(" />
+  </zug>
+</zza>

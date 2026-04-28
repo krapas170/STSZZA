@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bergen (Rügen)">
+  <zug name="FLX20 10212" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="IRE50 26502" von="Ulm Ost" nach="Unterkochen">
+    <via name="Hermaringen" />
+    <via name="Giengen (Brenz)" />
+    <via name="Herbrechtingen" />
+  </zug>
+  <zug name="IRE50 26503" von="Unterkochen" nach="Ulm Ost">
+    <via name="Sontheim-Brenz" />
+    <via name="Niederstotzingen" />
+    <via name="Rammingen (Württ)" />
+  </zug>
+  <zug name="IRE50 26505" von="Unterkochen" nach="Ulm Ost">
+    <via name="Sontheim-Brenz" />
+    <via name="Niederstotzingen" />
+    <via name="Rammingen (Württ)" />
+  </zug>
+  <zug name="RB12 13223" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RB12 13225" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RB12 13227" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RB2 16250" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB20 74542" von="Erfurt Hbf" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74544" von="Erfurt Hbf" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74545" von="Plaue (Thür)" nach="Wandersleben" />
+  <zug name="RB20 74546" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74548" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74549" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74602" von="Erfurt Hbf" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74604" von="Erfurt Hbf" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben" />
+  <zug name="RB20 74606" von="Erfurt Hbf" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74608" von="Erfurt Hbf" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74609" von="Vieselbach" nach="Wandersleben" />
+  <zug name="RB20 74610" von="Erfurt Hbf" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74611" von="Vieselbach" nach="Wandersleben" />
+  <zug name="RB20 74612" von="Erfurt Hbf" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74613" von="Rudolstadt-Schwarza" nach="Wandersleben" />
+  <zug name="RB20 74614" von="Erfurt Hbf" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74615" von="Rudolstadt-Schwarza" nach="Wandersleben" />
+  <zug name="RB20 74616" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74617" von="Vieselbach" nach="Wandersleben" />
+  <zug name="RB20 74618" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74619" von="Vieselbach" nach="Wandersleben" />
+  <zug name="RB20 74620" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74621" von="Vieselbach" nach="Wandersleben" />
+  <zug name="RB20 74622" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74623" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74624" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74625" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74626" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74627" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74628" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74629" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74630" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74631" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74633" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74634" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74635" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74637" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74639" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74641" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB20 74644" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74645" von="Plaue (Thür)" nach="Wandersleben" />
+  <zug name="RB20 74647" von="Plaue (Thür)" nach="Wandersleben" />
+  <zug name="RB20 74648" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB20 74650" von="Erfurt Hbf" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB41 81094" von="Meiningen" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB41 81142" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB41 81144" von="Meiningen" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB50 26500" von="Ulm Ost" nach="Unterkochen">
+    <via name="Hermaringen" />
+    <via name="Giengen (Brenz)" />
+    <via name="Herbrechtingen" />
+  </zug>
+  <zug name="RB52 16270" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB52 16280" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB52 16282" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB52 16284" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB52 16286" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB52 16288" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB52 16290" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB52 16292" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB52 16294" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB53 16380" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB53 16382" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB53 16384" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB53 16386" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB53 16388" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB53 16390" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB53 16392" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB53 16394" von="Erfurt Nord" nach="Kassel Hbf">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RB53 16396" von="Erfurt Nord" nach="Kassel-Wilhelmshöhe ia">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RB54 218" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 236" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79014" von="Innsbruck Hbf" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79022" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79052" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79054" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79056" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79058" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79060" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RB54 79070" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB6 24100" von="Erfurt-Bischleben" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24101" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24102" von="Erfurt-Bischleben" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24103" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24104" von="Erfurt-Bischleben" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24105" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24106" von="Erfurt-Bischleben" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24107" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24108" von="Erfurt-Bischleben" nach="Ronshausen">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24109" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24110" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24111" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24112" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24113" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24114" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24115" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24116" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24117" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24118" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24119" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24120" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24121" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24122" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24123" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24124" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24125" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24126" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24128" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24129" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24130" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24131" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24132" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24133" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24134" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24135" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24136" von="Erfurt-Bischleben" nach="Bebra">
+    <via name="Gotha" />
+    <via name="Mechterstädt" />
+    <via name="Sättelstädt" />
+  </zug>
+  <zug name="RB6 24137" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB6 24139" von="Bebra" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RB61 20350" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB61 20391" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RB61 20392" von="Bielefeld Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB61 242" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB61 33775" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RB61 77117" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB61 89652" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RB61 89705" von="Bielefeld Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB61 89708" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RB61 89719" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RB61 90631" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RB61 90636" von="k Löhne (Westf)" nach="Bielefeld Hbf if">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+    <via name="Hengelo" />
+  </zug>
+  <zug name="RB61 95782" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RB65 20351" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RB65 83257" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB65 90634" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 10206" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 14055" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 1907" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 1918" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 2214" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 4450" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 715" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 77116" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB66 83240" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 83252" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 83253" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 83258" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 90584" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 90589" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 90591" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 90618" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 90619" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 90621" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 90629" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 90630" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RB66 920" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RB66 95847" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB67 20394" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB71 144" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RB71 20376" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RB71 79340" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RB80 14156" von="Göttingen" nach="Nörten-Hardenberg">
+    <via name="Nordhausen-Salza" />
+    <via name="Niedersachswerfen" />
+    <via name="Woffleben" />
+  </zug>
+  <zug name="RB80 14158" von="Göttingen" nach="Nörten-Hardenberg">
+    <via name="Nordhausen-Salza" />
+    <via name="Niedersachswerfen" />
+    <via name="Woffleben" />
+  </zug>
+  <zug name="RB80 14162" von="Göttingen" nach="Nörten-Hardenberg">
+    <via name="Nordhausen-Salza" />
+    <via name="Niedersachswerfen" />
+    <via name="Woffleben" />
+  </zug>
+  <zug name="RB81 14150" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14151" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14152" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14153" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14154" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14155" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14157" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
+  <zug name="RB81 14159" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
+  <zug name="RB81 14160" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14161" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
+  <zug name="RB81 14163" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14164" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14165" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14166" von="Göttingen" nach="Nörten-Hardenberg">
+    <via name="Nordhausen-Salza" />
+    <via name="Niedersachswerfen" />
+    <via name="Woffleben" />
+  </zug>
+  <zug name="RB81 14167" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
+  <zug name="RB81 14168" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14169" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14170" von="Göttingen" nach="Nörten-Hardenberg">
+    <via name="Nordhausen-Salza" />
+    <via name="Niedersachswerfen" />
+    <via name="Woffleben" />
+  </zug>
+  <zug name="RB81 14171" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14172" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14173" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14174" von="Göttingen" nach="Nörten-Hardenberg">
+    <via name="Nordhausen-Salza" />
+    <via name="Niedersachswerfen" />
+    <via name="Woffleben" />
+  </zug>
+  <zug name="RB81 14175" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14176" von="Göttingen" nach="Höxter-Ottbergen" />
+  <zug name="RB81 14177" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RE1 3650" von="Meerane qj" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE1 3652" von="Meerane qj" nach="Ronshausen">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+  </zug>
+  <zug name="RE1 3654" von="Glauchau-Schönbörnchen" nach="Ronshausen">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3655" von="Eichenberg" nach="Wandersleben" />
+  <zug name="RE1 3656" von="Meerane" nach="Bebra">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+  </zug>
+  <zug name="RE1 3657" von="Plaue (Thür)" nach="Wandersleben" />
+  <zug name="RE1 3658" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3659" von="Göttingen" nach="Wandersleben" />
+  <zug name="RE1 3660" von="Altenburg" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3661" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3662" von="Altenburg" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3663" von="Eichenberg" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3664" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+  </zug>
+  <zug name="RE1 3665" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3666" von="Erfurt Nord" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3667" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3669" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3670" von="Erfurt Nord" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3671" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Wandersleben" />
+  </zug>
+  <zug name="RE1 3672" von="Meerane qj" nach="Ronshausen">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+  </zug>
+  <zug name="RE1 3673" von="Eichenberg" nach="Wandersleben" />
+  <zug name="RE1 3674" von="Meerane" nach="Bebra">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+  </zug>
+  <zug name="RE1 3676" von="Erfurt Nord" nach="Bebra">
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3677" von="Eichenberg" nach="Wandersleben" />
+  <zug name="RE1 3678" von="Meerane qj" nach="Ronshausen">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Gotha" />
+  </zug>
+  <zug name="RE1 3916" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE1 3918" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE1 3944" von="Meerane qj" nach="Arnstadt Süd">
+    <via name="Arnstadt Hbf" />
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+  </zug>
+  <zug name="RE1 3958" von="Meerane" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE1 3960" von="Meerane" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE1 3964" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE10 63902" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE15 2004" von="Münster (W) Zentrum Nord" nach="Norden">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 2014" von="Münster (W) Zentrum Nord" nach="Norden">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 2208" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 2438" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 604" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 90268" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 90270" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 90280" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 90306" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE2 10201" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Osnabrück Hbf" />
+    <via name="Bremen Hbf" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
+  <zug name="RE2 10212" von="Bremen Hbf" nach="Dülmen">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+  </zug>
+  <zug name="RE2 1028" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE2 16252" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16254" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16256" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16258" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16260" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16262" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16264" von="Erfurt Nord" nach="Friedland (Han)">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 16266" von="Erfurt Nord" nach="Leinefelde k">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Bufleben" />
+  </zug>
+  <zug name="RE2 2403" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE2 515" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE2 517" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE2 83204" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE2 83206" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE2 83207" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE2 90585" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE2 90633" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE3 3654" von="Meerane qj" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3660" von="Meerane" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3662" von="Meerane" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3666" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3668" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3670" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3900" von="Glauchau-Schönbörnchen" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3902" von="Meerane qj" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3904" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3906" von="Meerane" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3908" von="Meerane" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3910" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3912" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3914" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3922" von="Cheb qf" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3924" von="Cheb qf" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3926" von="Cheb qf" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3928" von="Cheb qf" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3930" von="Cheb qf" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3934" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3936" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3938" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3940" von="Cheb qf" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3946" von="Meerane qj" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3952" von="Meerane qj" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3956" von="Meerane" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 3962" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 52150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 52152" von="Meerane" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE3 52156" von="Meerane qj" nach="Vieselbach">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE30 83500" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83501" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83502" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83503" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83504" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83505" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83506" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83507" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83508" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83509" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83510" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83511" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83512" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83513" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83514" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83515" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83516" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83517" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83518" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83519" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83520" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83521" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83522" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83538" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83541" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83543" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83592" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83594" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83595" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83596" von="Wolfsburg Hbf" nach="Hannover Hbf">
+    <via name="Immensen-Arpke" />
+    <via name="Lehrte" />
+  </zug>
+  <zug name="RE30 83597" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE30 83599" von="Hannover Hbf" nach="Wolfsburg Hbf">
+    <via name="Dedenhausen" />
+    <via name="Meinersen" />
+    <via name="Leiferde (b Gifhorn)" />
+  </zug>
+  <zug name="RE34 2432" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE35 90304" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE5 1296" von="Innsbruck Hbf" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 1298" von="Innsbruck Hbf" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 2082" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 218" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 236" von="Beimerstetten" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 288" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 40235" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 79000" von="Salzburg Mülln-Altstadt i" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 79002" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 79004" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 79006" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 79012" von="Freilassing" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE5 79020" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79072" von="Freilassing" nach="Aßling (Oberbay)">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79400" von="Salzburg Mülln-Altstadt i" nach="München Hbf is">
+    <via name="Übersee" />
+    <via name="Bernau" />
+    <via name="Prien am Chiemsee" />
+  </zug>
+  <zug name="RE50 26501" von="Unterkochen" nach="Ulm Ost">
+    <via name="Sontheim-Brenz" />
+    <via name="Niederstotzingen" />
+    <via name="Rammingen (Württ)" />
+  </zug>
+  <zug name="RE50 3800" von="Ulm Ost" nach="Unterkochen">
+    <via name="Hermaringen" />
+    <via name="Giengen (Brenz)" />
+    <via name="Herbrechtingen" />
+  </zug>
+  <zug name="RE51 2150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Gotha Ost" />
+    <via name="Bad Langensalza" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE51 2152" von="Meerane" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE51 2156" von="Meerane qj" nach="Eichenberg">
+    <via name="Gotha" />
+    <via name="Gotha Ost" />
+    <via name="Großengottern" />
+  </zug>
+  <zug name="RE6 11500" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE6 14571" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE6 20358" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE6 20372" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE6 20378" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE6 33773" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE6 89638" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE6 89650" von="Bielefeld Hbf" nach="Schüttorf" />
+  <zug name="RE6 89656" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE6 89658" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE6 89723" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE6 95772" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE6 95773" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE6 95778" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE6 95823" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE6 95833" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE6 95840" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE60 11502" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE60 11512" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE60 1949" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE60 20393" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE60 89721" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE60 90630" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE60 90634" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE60 95842" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE62 33758" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE62 89636" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE62 89725" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE62 95821" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE62 95831" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE70 142" von="k Löhne (Westf)" nach="Schüttorf" />
+  <zug name="RE70 20354" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE70 33769" von="Hannover Hbf" nach="Schüttorf" />
+  <zug name="RE70 89707" von="Hannover Hbf" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE70 90632" von="k Löhne (Westf)" nach="Hengelo">
+    <via name="Schüttorf" />
+    <via name="Bad Bentheim" />
+  </zug>
+  <zug name="RE70 90633" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE70 90637" von="Bad Bentheim" nach="k Löhne (Westf)">
+    <via name="Osnabrück Hbf" />
+    <via name="Bielefeld Hbf qh" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="RE9 10206" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE9 1073" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 1179" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 14057" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE9 1577" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 1671" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 1711" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 2216" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE9 4452" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE9 618" von="Münster (Westf) Hbf" nach="Ulm Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bremen Hbf" />
+    <via name="Bohmte" />
+  </zug>
+  <zug name="RE9 63900" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 63901" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63903" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63904" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 63905" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63907" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63910" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 63940" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 63941" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63943" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63945" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63946" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 63975" von="Bentwisch" nach="Greifswald">
+    <via name="Lietzow (Rügen)" />
+    <via name="Prora" />
+    <via name="Prora Ost" />
+  </zug>
+  <zug name="RE9 63982" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 677" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 679" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 731" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE9 777" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Teschenhagen" />
+    <via name="Samtens" />
+    <via name="Rambin (Rügen)" />
+  </zug>
+  <zug name="RE9 83202" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE9 83203" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE9 83259" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+  <zug name="RE9 90580" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE9 90620" von="Münster (Westf) Hbf" nach="Bremen Hbf">
+    <via name="Osnabrück Hbf" />
+    <via name="Bohmte" />
+    <via name="Lemförde" />
+  </zug>
+  <zug name="RE9 90631" von="Bremen Hbf" nach="Münster (Westf) Hbf">
+    <via name="Natrup-Hagen" />
+    <via name="Lengerich (Westf)" />
+    <via name="Kattenvenne" />
+  </zug>
+</zza>

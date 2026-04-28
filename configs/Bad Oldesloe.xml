@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bad Oldesloe">
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB81 11301" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11302" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11303" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11304" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11305" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11306" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11308" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11310" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11311" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11312" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11313" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11315" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11317" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11339" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11341" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11342" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11343" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11344" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11345" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11346" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11347" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11348" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11351" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11352" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11353" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11354" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11355" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11356" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11357" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11358" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11359" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11360" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11362" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11363" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11365" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11367" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11390" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11391" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11395" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11396" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11409" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11459" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11554" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11555" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11556" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11557" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11562" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11564" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11565" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11566" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RB81 11567" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 11599" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 22931" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RB81 585" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11359" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11400" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11401" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11402" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11403" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11404" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11405" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11406" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11407" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11408" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11410" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11412" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11413" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11415" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11417" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11440" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11441" von="Reinfeld (Holst)" nach="Hamburg Hbf" />
+  <zug name="RE8 11442" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11443" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11444" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11445" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11446" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11447" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11448" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE8 11449" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11461" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8 11494" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE80 11309" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 114" von="Ahrensburg-Gartenholz" nach="Reinfeld (Holst)" />
+  <zug name="RE80 11452" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE80 11453" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 11454" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE80 11455" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 11456" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE80 11457" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 11458" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE80 11460" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE80 11463" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 11465" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 11467" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE80 22929" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE86 11307" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE86 22922" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE86 22924" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE86 22926" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE86 22928" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE86 22930" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck Hbf" />
+    <via name="Reinfeld (Holst)" />
+    <via name="Lübeck-Dänischburg IKEA" />
+  </zug>
+  <zug name="RE86 22933" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE86 22935" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE86 22937" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE86 585" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8X 11569" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+  <zug name="RE8X 11597" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Kupfermühle" />
+    <via name="Bargteheide" />
+    <via name="Ahrensburg-Gartenholz" />
+  </zug>
+</zza>

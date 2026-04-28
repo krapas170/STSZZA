@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Magdeburg-Buckau">
+  <zug name="RB47 75670" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RB47 75673" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75674" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RB47 75675" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RB47 75676" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ql" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RB47 75677" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75678" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RB47 75680" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75681" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75682" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RB47 75683" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75684" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RB47 75685" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75686" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Heudeber-Danstedt" />
+  </zug>
+  <zug name="RB47 75687" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RB47 75688" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Heudeber-Danstedt" />
+  </zug>
+  <zug name="RB47 75689" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RB47 75690" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Heudeber-Danstedt" />
+  </zug>
+  <zug name="RB47 75691" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RB47 75692" von="Bernburg Hbf" nach="Vienenburg">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Frose" />
+  </zug>
+  <zug name="RB47 75693" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RB47 75695" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE20 1605" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16936" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Barleber See" />
+  </zug>
+  <zug name="RE20 16938" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Barleber See" />
+  </zug>
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16947" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16949" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16953" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16955" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE20 2045" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39014" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Barleber See" />
+  </zug>
+  <zug name="RE20 39016" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Barleber See" />
+  </zug>
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39031" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39033" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39035" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39037" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39039" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39041" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE20 800" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Barleber See" />
+  </zug>
+  <zug name="RE20 803" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16301" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16303" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16305" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16307" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16308" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16309" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16310" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16311" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16312" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16313" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16314" von="Nienburg (Saale)" nach="Schönebeck (Elbe)">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Leipzig/Halle Flughafen" />
+    <via name="Zöberitz" />
+  </zug>
+  <zug name="RE30 16315" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16316" von="Nienburg (Saale)" nach="Schönebeck (Elbe)">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Leipzig/Halle Flughafen" />
+    <via name="Zöberitz" />
+  </zug>
+  <zug name="RE30 16317" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16318" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Leipzig/Halle Flughafen" />
+    <via name="Zöberitz" />
+  </zug>
+  <zug name="RE30 16319" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16320" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Leipzig/Halle Flughafen" />
+    <via name="Zöberitz" />
+  </zug>
+  <zug name="RE30 16321" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16322" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16323" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16324" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16325" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16326" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16327" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16328" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16329" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16330" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16331" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16332" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16333" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16334" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16335" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16336" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16337" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16338" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16339" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16341" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16347" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 2031" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 2037" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2038" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 2039" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE30 2048" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 2430" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 2433" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE30 2440" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 2441" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2443" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg SKET Industriepark" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2447" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 2449" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+</zza>

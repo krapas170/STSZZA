@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Nauen">
+  <zug name="RB10 18500" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18501" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB10 18502" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18503" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB10 18504" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18505" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB10 18506" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18507" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB10 18508" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18509" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB10 18510" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18511" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RB10 18512" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB10 18513" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RB14 18600" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB14 18601" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB14 18602" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB14 18603" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB14 18604" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB14 18605" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB14 18606" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB14 18607" von="Nauen" nach="Berlin Ostbahnhof" />
+  <zug name="RB14 18608" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB14 18609" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RB14 18610" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RB14 18611" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RB14 18613" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RB44 75637" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB44 75639" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB44 75678" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB44 75704" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB44 75708" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB44 75712" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75636" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75642" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75671" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75672" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75673" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75676" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75677" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75679" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75680" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75681" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75683" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75685" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 75706" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75710" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75726" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 75728" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 80414" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RB47 80415" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 80417" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RB47 80419" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE2 18750" von="Nauen" nach="Sedlitz Ost" />
+  <zug name="RE2 18751" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 18754" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 18756" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 18758" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 18759" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE2 18768" von="Nauen" nach="Berlin-Spandau" />
+  <zug name="RE2 3100" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 3101" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3102" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 3103" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3104" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 3105" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3106" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 3107" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE2 3108" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 3109" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3110" von="Nauen" nach="Berlin Südkreuz" />
+  <zug name="RE2 3111" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Jungfernheide" />
+  </zug>
+  <zug name="RE2 3112" von="Nauen" nach="Berlin-Spandau" />
+  <zug name="RE2 3113" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE2 3114" von="Nauen" nach="Berlin-Spandau" />
+  <zug name="RE2 3115" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE2 3116" von="Nauen" nach="Berlin-Spandau" />
+  <zug name="RE2 3118" von="Nauen" nach="Kolkwitz" />
+  <zug name="RE2 3120" von="Nauen" nach="Kolkwitz" />
+  <zug name="RE2 3140" von="Nauen" nach="Sedlitz Ost" />
+  <zug name="RE2 3141" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE2 3711" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 3715" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 3719" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 3721" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 3723" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 3725" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE2 3747" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE21 75674" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 75722" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 75749" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE21 75751" von="Wernigerode Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE21 75753" von="Wernigerode Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE21 75755" von="Goslar" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Wallwitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 75757" von="Goslar" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE21 75759" von="Goslar" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE21 75766" von="Beyendorf" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 80416" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 80418" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 80436" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 80438" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE24 75638" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE24 75647" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75682" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE24 75684" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE24 75723" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75724" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE24 75727" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75729" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75731" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75733" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75735" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75737" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE24 75739" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE4 75702" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75703" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE4 75705" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE4 75707" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Wallwitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75709" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE4 75711" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Wallwitz (Saalkr)" />
+    <via name="Teicha" />
+  </zug>
+  <zug name="RE4 75744" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75748" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75750" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75752" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75754" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75756" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE6 3601" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE6 3602" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3603" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE6 3604" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3605" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE6 3606" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3607" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE6 3608" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3622" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3623" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE6 3624" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3625" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE6 3626" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE6 3639" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE6 3640" von="Berlin-Spandau" nach="Nauen" />
+  <zug name="RE7 18753" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 18754" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE7 18755" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE7 18756" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE7 18757" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 18758" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE7 18759" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 2432" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE7 3113" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE7 3115" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE7 3117" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE7 3119" von="Sedlitz Ost" nach="Nauen" />
+  <zug name="RE7 3700" von="Nauen" nach="Sedlitz Ost" />
+  <zug name="RE7 3701" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 3702" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3703" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 3704" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3706" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3707" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 3708" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3709" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 3710" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3712" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3714" von="Nauen" nach="Borkheide" />
+  <zug name="RE7 3715" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE7 3716" von="Nauen" nach="Borkheide" />
+  <zug name="RE7 3717" von="Sedlitz Ost" nach="Bad Belzig">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE7 3718" von="Nauen" nach="Borkheide" />
+  <zug name="RE7 3719" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE7 3720" von="Nauen" nach="Borkheide" />
+  <zug name="RE7 3722" von="Nauen" nach="Borkheide" />
+  <zug name="RE7 3742" von="Nauen" nach="Sedlitz Ost" />
+  <zug name="RE7 3749" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin-Wannsee" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
+  <zug name="RE8 62000" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Ludwigsfelde" />
+    <via name="Birkengrund" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RE8 62002" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62003" von="Berlin Ostkreuz" nach="Nauen" />
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62005" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Ludwigsfelde" />
+    <via name="Birkengrund" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62007" von="Berlin Ostkreuz" nach="Nauen" />
+  <zug name="RE8 62008" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62009" von="Berlin Ostkreuz" nach="Nauen" />
+  <zug name="RE8 62010" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen" />
+  <zug name="RE8 62012" von="Nauen" nach="Berlin Zoologischer Garten" />
+  <zug name="RE8 62013" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Ludwigsfelde" />
+    <via name="Birkengrund" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RE8 62014" von="Wismar" nach="Berlin Zoologischer Garten">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62015" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE8 62038" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62041" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Ludwigsfelde" />
+    <via name="Birkengrund" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RE8 62042" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62043" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Ludwigsfelde" />
+    <via name="Birkengrund" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RE8 62044" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62045" von="Berlin Ostbahnhof" nach="Nauen" />
+  <zug name="RE8 62046" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+  <zug name="RE8 62047" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Ludwigsfelde" />
+    <via name="Birkengrund" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RE8 62048" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+    <via name="Seegefeld" />
+  </zug>
+</zza>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Stralsund">
+  <zug name="RE10 63902" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 1179" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 1577" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 1671" von="Stralsund Hbf" nach="Ribnitz-Damgarten West" />
+  <zug name="RE9 1711" von="Stralsund Hbf" nach="Ribnitz-Damgarten West" />
+  <zug name="RE9 63900" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 63904" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 63910" von="Stralsund Hbf" nach="Ribnitz-Damgarten West" />
+  <zug name="RE9 63940" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 63946" von="Stralsund Hbf" nach="Ribnitz-Damgarten West" />
+  <zug name="RE9 63982" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 677" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 679" von="Stralsund Hbf" nach="Rövershagen" />
+  <zug name="RE9 777" von="Stralsund Hbf" nach="Ribnitz-Damgarten West" />
+</zza>

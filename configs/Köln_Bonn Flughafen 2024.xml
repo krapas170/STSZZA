@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Köln/Bonn Flughafen 2024">
+  <zug name="RB10 25000" von="Wiesbaden Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB10 25002" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB10 25003" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25004" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB10 25005" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25006" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB10 25007" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25008" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB10 25009" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25011" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25013" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB10 25015" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB10 25017" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB10 25019" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB10 25032" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RB10 25050" von="Wiesbaden Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB10 25057" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10600" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB27 10602" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB27 10603" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10604" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB27 10605" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10606" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB27 10607" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10608" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB27 10609" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10610" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB27 10611" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB27 10612" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB27 10613" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB27 10614" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB27 10615" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB27 10616" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB27 10617" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB27 10619" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RB27 10638" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RB27 10640" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RB27 10642" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB27 10644" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB27 10647" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10649" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10800" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10801" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10802" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10803" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10804" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10805" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10806" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10807" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RE8 10808" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10809" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RE8 10810" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10811" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RE8 10812" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RE8 10813" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RE8 10814" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RE8 10815" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RE8 10816" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RE8 10817" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Friedrich Wilhelmshütte" />
+  </zug>
+  <zug name="RE8 10818" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RE8 10842" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RE8 10843" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+    <via name="Bonn-Beuel" />
+  </zug>
+</zza>

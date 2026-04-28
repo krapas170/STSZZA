@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Nidderau">
+  <zug name="RB34 15700" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15701" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15702" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15703" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15704" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15705" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15706" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15707" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15708" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15709" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15710" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15711" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15712" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15713" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15714" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15715" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15716" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15717" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15718" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15719" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15721" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15723" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15754" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15756" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15758" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15761" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15766" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15769" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15773" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15775" von="Glauburg-Stockheim" nach="Bad Vilbel">
+    <via name="Nidderau" />
+    <via name="Nidderau-Windecken" />
+    <via name="Schöneck-Büdesheim" />
+  </zug>
+  <zug name="RB34 15796" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+  <zug name="RB34 15798" von="Bad Vilbel" nach="Glauburg-Stockheim">
+    <via name="Nidderau" />
+    <via name="Nidderau-Eichen" />
+    <via name="Altenstadt-Höchst" />
+  </zug>
+</zza>

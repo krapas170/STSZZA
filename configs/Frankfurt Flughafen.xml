@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Frankfurt Flughafen">
+  <zug name="RB26 12381" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 12385" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25351" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25359" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25363" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25365" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25367" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25369" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25371" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25373" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25377" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25379" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25381" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25407" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25409" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25411" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25413" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25415" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25417" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25419" von="Boppard Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25421" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25423" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25425" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25429" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25431" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25435" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25437" von="Rhens" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25439" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25449" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25451" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25453" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB26 25455" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 25457" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 29605" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 63653" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 63655" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 63657" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 63669" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 76665" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 76721" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 76741" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB26 81494" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB31 29266" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RB31 29268" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RB31 29270" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RB31 29274" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RB31 29276" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RB31 29278" von="Frankfurt (M) Flughafen" nach="Worms-Pfeddersheim" />
+  <zug name="RB33 12391" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 12393" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 12395" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 12711" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 12749" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 25353" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 25361" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 25375" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29551" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29555" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29559" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29561" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29563" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 29565" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29567" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29569" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29571" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29573" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 29575" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29577" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 29579" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 29581" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 29585" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB33 29590" von="Frankfurt (M) Flughafen" nach="Jägersfreude" />
+  <zug name="RB33 29591" von="Kirchheimbolanden qa" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29593" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29595" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29599" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29639" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29641" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29643" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29645" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29647" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29669" von="Alzey" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29675" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29677" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB33 29681" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 25355" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29553" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29561" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29601" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29605" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29607" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29611" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29613" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29615" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29617" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB34 29619" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29621" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29625" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29627" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29629" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29631" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29633" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 29635" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB34 76719" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB58 28600" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28601" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RB58 28602" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28603" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28604" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28605" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28606" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28607" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28608" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28609" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28610" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+  </zug>
+  <zug name="RB58 28612" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28613" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RB58 28614" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28615" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28616" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RB58 28618" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28619" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28620" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28621" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+  </zug>
+  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28623" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28624" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28625" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28626" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28628" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RB58 28673" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RB58 28675" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RB58 28676" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RB58 28677" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB65 12705" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12709" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12711" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12713" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12715" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12717" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12719" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12721" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12725" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12727" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12729" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12731" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12739" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12743" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12745" von="Jägersfreude" nach="Ockenheim">
+    <via name="Baumholder" />
+    <via name="Ruschberg" />
+    <via name="Heimbach (Nahe) Ort" />
+  </zug>
+  <zug name="RB65 12751" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12753" von="Bad Münster" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 12755" von="Bad Münster" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12757" von="Bad Münster" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12759" von="Bad Münster" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 12761" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB65 29545" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 29623" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB65 76727" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 12841" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 12843" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 12845" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 29523" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 29529" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 29679" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76651" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76653" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76655" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76657" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76659" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76661" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76663" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76667" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76669" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76671" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76673" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76675" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76677" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76679" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76681" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76683" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76701" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76703" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76705" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76707" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76709" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76711" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76713" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76715" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76717" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76723" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76725" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76729" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76731" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76733" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RB73 76735" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76737" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB73 76739" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB75 25551" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RB75 25553" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE13 29224" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RE13 29226" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RE13 29228" von="Frankfurt (M) Flughafen" nach="Alzey" />
+  <zug name="RE15 12383" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE15 12387" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE15 12735" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE15 29537" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE15 29599" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE15 29603" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE2 29539" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE2 29541" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE2 29671" von="Rhens" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE2 29673" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE21 29668" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 25427" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 25433" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 25459" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29501" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29505" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29507" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29509" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29511" von="Rhens" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29513" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29515" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29517" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29519" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29521" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29525" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29527" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29531" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29533" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE3 29535" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29547" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29605" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
+  <zug name="RE3 29649" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
+  <zug name="RE33 29636" von="Frankfurt (M) Flughafen" nach="Jägersfreude" />
+  <zug name="RE50 4545" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RE54 4607" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RE54 4609" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE54 4613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+  </zug>
+  <zug name="RE54 4639" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+    <via name="Frankfurt am Main - Stadion" />
+  </zug>
+  <zug name="RE54 4644" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4601" von="Rüsselsheim Opelwerk" nach="Oberhaid">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4603" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4606" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4611" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Regionalbf" />
+  </zug>
+  <zug name="RE55 4640" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE55 4647" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE59 28680" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE59 28681" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE59 28682" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE59 28683" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE59 28684" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Frankfurt (M) Flughafen Fernbf" />
+    <via name="Rüsselsheim" />
+  </zug>
+  <zug name="RE59 28685" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE59 28687" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="S8 35884" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Kelsterbach" />
+    <via name="Raunheim" />
+  </zug>
+  <zug name="S8 35985" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+  <zug name="S8 75810" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Kelsterbach" />
+    <via name="Raunheim" />
+  </zug>
+  <zug name="S8 75829" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+  <zug name="S8 9986" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Kelsterbach" />
+    <via name="Raunheim" />
+  </zug>
+  <zug name="S9 35984" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Mainz Hbf" />
+    <via name="Kelsterbach" />
+    <via name="Raunheim" />
+  </zug>
+  <zug name="S9 75827" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+  <zug name="S9 9983" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Offenbach (Main) Hbf" />
+  </zug>
+</zza>

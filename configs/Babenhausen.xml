@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Babenhausen">
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB75 28711" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28713" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28715" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28717" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28719" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28722" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28724" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28726" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28728" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28729" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28731" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28733" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28735" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28737" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28739" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28741" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28743" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28745" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28765" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28767" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 28772" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28774" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28776" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28778" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63659" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63661" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63663" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63665" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63667" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63668" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63670" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63672" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63673" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63674" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63675" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63677" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63679" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63681" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63683" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63686" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63688" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63690" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63692" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63695" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+</zza>

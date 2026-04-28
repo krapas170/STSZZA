@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Zwickau">
+  <zug name="RB1 20814" von="Kraslice" nach="Mehltheuer" />
+  <zug name="RB1 20815" von="Jocketa" nach="Klingenthal">
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+    <via name="Mehltheuer" />
+  </zug>
+  <zug name="RB1 20817" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 20818" von="Kraslice" nach="Mehltheuer" />
+  <zug name="RB1 20819" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 20822" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 20823" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 20826" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 20827" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 20828" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 20829" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 20830" von="Falkenstein (Vogtl)" nach="Treuen">
+    <via name="Jocketa" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB1 20831" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 51830" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 80190" von="Falkenstein (Vogtl)" nach="Mehltheuer">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB1 80191" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 80193" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 80195" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 80196" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 80287" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 81361" von="Jocketa" nach="Klingenthal">
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+    <via name="Mehltheuer" />
+  </zug>
+  <zug name="RB1 81362" von="Kraslice" nach="Mehltheuer" />
+  <zug name="RB1 81363" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 81364" von="Kraslice" nach="Mehltheuer" />
+  <zug name="RB1 81365" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 81366" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 81367" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB1 81368" von="Falkenstein (Vogtl)" nach="Plauen (Vogtl) ob Bf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB1 81369" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB2 80203" von="Falkenstein (Vogtl)" nach="Oelsnitz (Vogtl)">
+    <via name="Gera Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB30 74040" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74042" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74044" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74046" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74048" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74050" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74052" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74054" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74056" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74058" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74060" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74062" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74064" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74082" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74084" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74086" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74088" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74090" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74092" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB5 20816" von="Kraslice" nach="Bad Elster">
+    <via name="Mehltheuer" />
+    <via name="Werdau" />
+    <via name="Neumark (Sachs)" />
+  </zug>
+  <zug name="RB5 20819" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB5 20820" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB5 20821" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB5 20824" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB5 20825" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 20827" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB5 80187" von="Jocketa" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80188" von="Kraslice" nach="Bad Elster">
+    <via name="Mehltheuer" />
+    <via name="Werdau" />
+    <via name="Neumark (Sachs)" />
+  </zug>
+  <zug name="RB5 80189" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80190" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB5 80191" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80192" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB5 80193" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80194" von="Falkenstein (Vogtl)" nach="Cheb">
+    <via name="Hof Hbf" />
+    <via name="Treuen" />
+    <via name="Jocketa" />
+  </zug>
+  <zug name="RB5 80195" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80196" von="Falkenstein (Vogtl)" nach="Hof Hbf">
+    <via name="Treuen" />
+    <via name="Jocketa" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80197" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80199" von="Jocketa" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Falkenstein (Vogtl)" />
+    <via name="Zwotental" />
+  </zug>
+  <zug name="RB5 80286" von="Falkenstein (Vogtl)" nach="Treuen">
+    <via name="Jocketa" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB5 80287" von="Falkenstein (Vogtl)" nach="Zwickau (Sachs) Hbf" />
+  <zug name="RB5 81365" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB5 81367" von="Jocketa" nach="Zwotental">
+    <via name="Falkenstein (Vogtl)" />
+  </zug>
+  <zug name="RB95 21850" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21851" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21852" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21853" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21854" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21855" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21856" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21857" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21858" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21859" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21860" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21861" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21862" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21863" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21864" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21865" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21866" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21867" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21868" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21869" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21870" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21871" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21872" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21873" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21874" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21875" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21876" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21877" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21878" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21879" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RB95 21880" von="Karlovy Vary dolni n. qs" nach="Werdau" />
+  <zug name="RB95 21881" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+    <via name="Wilkau-Haßlau" />
+  </zug>
+  <zug name="RE3 74000" von="Dresden-Plauen" nach="Bad Brambach">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74002" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74004" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74006" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74008" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74010" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE3 74018" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74020" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74022" von="Dresden-Plauen" nach="Cheb">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb">
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+</zza>

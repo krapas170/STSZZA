@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Chemnitz Hbf">
+  <zug name="RB30 2270" von="Muldenhütten" nach="Freiberg (Sachs) ia">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 62272" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 62273" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74005" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74030" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74034" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74040" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74041" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74042" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74043" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74044" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74045" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74046" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74047" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74048" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74050" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74051" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74052" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74053" von="Muldenhütten" nach="Freiberg (Sachs) ia">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74054" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74055" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74056" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74057" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74058" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74059" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74060" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74061" von="Muldenhütten" nach="Tharandt">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74062" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74063" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74064" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74065" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74066" von="Dresden Hbf" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74067" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74068" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74069" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74070" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74071" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74073" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74074" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74078" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74082" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74084" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74085" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74086" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74087" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74088" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74089" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RB30 74090" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74091" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74092" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RB30 74093" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB30 74094" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RB30 74095" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RB45 2171" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 2271" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 2272" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RB45 69902" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 69904" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 69906" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 69908" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 69925" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 74110" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RB45 74111" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 74112" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RB45 74113" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 74114" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RB45 74115" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 74116" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RB45 74117" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 80040" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RB45 80047" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 80049" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 80050" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 80051" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 80052" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 80054" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 80056" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RB45 80075" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 80077" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB45 80081" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RB80 23700" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23701" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23702" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23703" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23704" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23705" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23706" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23707" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23708" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23709" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23710" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23711" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23712" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23715" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23716" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23717" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23718" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23719" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23720" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23721" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23722" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23723" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23724" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23725" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23726" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23727" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23728" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23729" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23730" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23731" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23732" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23733" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB80 23734" von="Vejprty" nach="Chemnitz Hbf" />
+  <zug name="RB80 23737" von="Chemnitz Hbf" nach="Chomutov" />
+  <zug name="RB81 23750" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23751" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23752" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23753" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23754" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23755" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23756" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23757" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23758" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23759" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23760" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23761" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23762" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23763" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23764" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23766" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23767" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23768" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23769" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23770" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23771" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23772" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23773" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23774" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23775" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23776" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23777" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23778" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23779" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23780" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23781" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23782" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23783" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RB81 23784" von="Olbernhau-Grünthal" nach="Chemnitz Hbf" />
+  <zug name="RB81 23787" von="Chemnitz Hbf" nach="Olbernhau-Grünthal" />
+  <zug name="RE17 2271" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RE17 2272" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RE17 2273" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RE17 62170" von="Chemnitz Hbf" nach="Seerhausen" />
+  <zug name="RE17 62271" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RE17 69923" von="Prösen" nach="Chemnitz Hbf" />
+  <zug name="RE17 74007" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RE17 80042" von="Chemnitz Hbf" nach="Prösen" />
+  <zug name="RE3 62271" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RE3 74000" von="Dresden-Plauen" nach="Bad Brambach">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74001" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RE3 74002" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74003" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74004" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74006" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74008" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74009" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74010" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74011" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Mitte" />
+  </zug>
+  <zug name="RE3 74013" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Mitte" />
+  </zug>
+  <zug name="RE3 74015" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Mitte" />
+  </zug>
+  <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74018" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74019" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74020" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74021" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+  </zug>
+  <zug name="RE3 74022" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74023" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74025" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RE3 74026" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RE3 74027" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RE3 74028" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RE3 74029" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RE3 74030" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RE3 74031" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RE3 74032" von="Dresden-Plauen" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+  </zug>
+  <zug name="RE3 74033" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Falkenau (Sachs) Süd" />
+    <via name="Oederan" />
+  </zug>
+  <zug name="RE3 74072" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RE3 74076" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Chemnitz Mitte" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Chemnitz-Siegmar" />
+  </zug>
+  <zug name="RE3 74085" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+  <zug name="RE3 74087" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Hilbersdorf" />
+    <via name="Flöha" />
+    <via name="Falkenau (Sachs) Süd" />
+  </zug>
+</zza>

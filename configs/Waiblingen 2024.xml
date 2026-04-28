@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Waiblingen 2024">
+  <zug name="MEX19 88613" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="MEX90 17501" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="MEX90 17503" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="MEX90 17505" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="MEX90 17509" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="MEX90 17513" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="MEX90 88633" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="RE90 17507" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="RE90 2061" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="RE90 52366" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="RE90 7302" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="RE90 88631" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+  <zug name="RE90 88635" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Winnenden" />
+    <via name="Backnang" />
+    <via name="Oppenweiler (Württ)" />
+  </zug>
+</zza>

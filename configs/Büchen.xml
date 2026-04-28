@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Büchen">
+  <zug name="RB12 13223" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RB12 13225" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RB12 13227" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RB12 13229" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RB12 63911" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Schwanheide" />
+  </zug>
+  <zug name="RB84 23500" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23501" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23502" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23503" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23504" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23505" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23506" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23507" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23508" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23509" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23510" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23511" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23512" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23513" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23514" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23515" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23516" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23517" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23518" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23519" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23520" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23521" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23522" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23570" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23571" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RB84 23572" von="Bödigheim" nach="Breitendiel">
+    <via name="Buchen (Odenw)" />
+    <via name="Hainstadt (Baden)" />
+    <via name="Walldürn" />
+  </zug>
+  <zug name="RB84 23573" von="Breitendiel" nach="Bödigheim">
+    <via name="Buchen Ost" />
+  </zug>
+  <zug name="RE1 13000" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13004" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13005" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 13008" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13010" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13013" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 13028" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13029" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 13196" von="Schwaan" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 1577" von="Schwaan" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 1599" von="Schwaan" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 1678" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+  <zug name="RE1 3970" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 3971" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE1 3973" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 3975" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE1 4307" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE1 4309" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4311" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4313" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4323" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4330" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE1 4331" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4332" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE1 4333" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4335" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RE1 4338" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Müssen" />
+    <via name="Schwarzenbek" />
+    <via name="Schwaan" />
+  </zug>
+  <zug name="RE10 63902" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE10 63985" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE4 13197" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+  <zug name="RE4 4302" von="Schwaan" nach="Schwarzenbek">
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE43 39572" von="Pommelsbrunn" nach="Büchenbach" />
+  <zug name="RE43 57852" von="Pommelsbrunn" nach="Büchenbach" />
+  <zug name="RE9 1073" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 1179" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 1577" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 63900" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 63901" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63903" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63904" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 63905" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63907" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63911" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63940" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 63941" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63943" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63945" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63947" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63975" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+  <zug name="RE9 63982" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 677" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 679" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Altenwillershagen" />
+    <via name="Ribnitz-Damgarten Ost" />
+    <via name="Ribnitz-Damgarten West" />
+  </zug>
+  <zug name="RE9 733" von="Bentwisch" nach="Greifswald">
+    <via name="Velgast" />
+    <via name="Martensdorf" />
+    <via name="Stralsund-Grünhufe" />
+  </zug>
+</zza>

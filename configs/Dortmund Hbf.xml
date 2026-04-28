@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Dortmund Hbf">
+  <zug name="RB32 31239" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31240" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31241" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31242" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31243" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31244" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31245" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31246" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31247" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31248" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31249" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31250" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31251" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31253" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31282" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31283" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31284" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31285" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31286" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31287" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB32 31288" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB32 31289" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB33 10300" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10308" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10309" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10310" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10311" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RB33 10312" von="Aachen Schanz" nach="Essen Hbf">
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RB33 10313" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RB33 10314" von="Aachen Schanz" nach="Duisburg-Hochfeld Süd">
+    <via name="Krefeld Hbf" />
+    <via name="Anrath" />
+    <via name="Forsthaus" />
+  </zug>
+  <zug name="RB33 10317" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RB33 10319" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RB33 10321" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RB33 10349" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10350" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 10351" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10353" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10360" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 10361" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10362" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 10363" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10365" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10367" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10369" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10371" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 10373" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 1059" von="Lindern" nach="Dortmund Hbf" />
+  <zug name="RB33 10807" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 1545" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 524" von="Lindern" nach="Dortmund Hbf" />
+  <zug name="RB33 525" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 840" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 853" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 915" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 920" von="Aachen Schanz" nach="Dortmund Hbf" />
+  <zug name="RB33 921" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB33 956" von="Dortmund Hbf" nach="Aachen Schanz" />
+  <zug name="RB35 52240" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB35 52242" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB35 52243" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RB35 52244" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB35 52245" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB35 52247" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB35 52249" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB35 52251" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RB35 52270" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB35 52272" von="Düsseldorf Hbf" nach="Dortmund Hbf" />
+  <zug name="RB40 29964" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 30750" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30751" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+    <via name="Letmathe Dechenhöhle" />
+  </zug>
+  <zug name="RB40 30752" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30753" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB40 30754" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30755" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB40 30756" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30757" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 30758" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30759" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 30763" von="Dortmund-Barop" nach="Welschen Ennest">
+    <via name="Hagen Hbf" />
+    <via name="Hohenlimburg" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB40 31303" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 31307" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 31342" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 31344" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB40 31387" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 33083" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 33085" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB43 10795" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14750" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14751" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14752" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14753" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14754" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14755" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14756" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14757" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14758" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14759" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14760" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14761" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14762" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14763" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14764" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14765" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB43 14786" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14788" von="Dorsten" nach="Dortmund Hbf" />
+  <zug name="RB43 14789" von="Dortmund Hbf" nach="Dorsten" />
+  <zug name="RB51 14600" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 14601" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14602" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 14603" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14604" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 14605" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14606" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 14607" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14608" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14609" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14610" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14611" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14612" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14613" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14614" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14615" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 14616" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14617" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 20250" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 20251" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 20252" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 20253" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 20254" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 20255" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB51 20256" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 20258" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB51 20260" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20262" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20264" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20266" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20268" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20286" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB52 14650" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14651" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14652" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14653" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14654" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14655" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14656" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14657" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14658" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14659" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14660" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14661" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14662" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14663" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14664" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14665" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14666" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14667" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14668" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14669" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14671" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14673" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14675" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14690" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14691" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 14692" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 52088" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 52090" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 5239" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB52 5240" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 5241" von="Dortmund Hbf" nach="Lüdenscheid" />
+  <zug name="RB53 14900" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14901" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14902" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14903" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14904" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14905" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14906" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14907" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14908" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14909" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14910" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14911" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14912" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14913" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14914" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14915" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14916" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14917" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14918" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14919" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14920" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14921" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14922" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14923" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14924" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14925" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14926" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14928" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14969" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14970" von="Iserlohnerheide" nach="Dortmund Hbf" />
+  <zug name="RB53 14971" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB53 14973" von="Dortmund Hbf" nach="Iserlohnerheide" />
+  <zug name="RB64 20200" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20201" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB64 20202" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20203" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB64 20204" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20206" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20208" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20210" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20212" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20214" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20216" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20218" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20236" von="Dortmund Hbf" nach="Enschede" />
+  <zug name="RB64 20237" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB64 20238" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Lünen Hbf" />
+    <via name="Dortmund-Kirchderne" />
+    <via name="Dortmund-Derne" />
+  </zug>
+  <zug name="RB64 20239" von="Enschede" nach="Dortmund Hbf" />
+  <zug name="RB91 2227" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 2328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 24374" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 29961" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 29962" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 29965" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 29966" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 29994" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 30760" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30762" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30764" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30766" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30768" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31305" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31308" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 31311" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31313" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31332" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31334" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31336" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 31338" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 31340" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 31345" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31349" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31374" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31376" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31378" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31380" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31382" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 31383" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31385" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31387" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31391" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31397" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31399" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 33086" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 52223" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB91 52225" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RB91 52328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 61597" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB97 23200" von="Usseln" nach="Hagen Hbf" />
+  <zug name="RB97 23202" von="Usseln" nach="Hagen Hbf" />
+  <zug name="RB97 23204" von="Usseln" nach="Hagen Hbf" />
+  <zug name="RB97 23206" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RB97 23215" von="Warburg (Westf)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23219" von="Warburg (Westf)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23223" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RB97 23242" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RB97 23244" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RB97 23261" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RB97 23263" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RE16 2326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 29968" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 29970" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 30761" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 31300" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 31301" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31302" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 31306" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 31309" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31347" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31351" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31392" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE16 31393" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE17 10704" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10706" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10708" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10710" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10711" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10713" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10715" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10717" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10719" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE19 20005" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+    <via name="Dinslaken" />
+  </zug>
+  <zug name="RE19 20009" von="Dortmund Hbf" nach="Emmerich-Elten" />
+  <zug name="RE19 20010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+    <via name="Dinslaken" />
+  </zug>
+  <zug name="RE19 20011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+    <via name="Dinslaken" />
+  </zug>
+  <zug name="RE19 20013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20045" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20047" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 20049" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 77007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 77008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+    <via name="Hamminkeln" />
+  </zug>
+  <zug name="RE19 77009" von="Dortmund Hbf" nach="Emmerich-Elten" />
+  <zug name="RE19 77010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+    <via name="Hamminkeln" />
+  </zug>
+  <zug name="RE19 77011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 77012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+    <via name="Hamminkeln" />
+  </zug>
+  <zug name="RE19 77013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE19 77015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade" />
+  <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10202" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10203" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE2 10204" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE2 10206" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10207" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE2 10208" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10209" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE2 10210" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10238" von="Dortmund Hbf" nach="Düsseldorf Hbf" />
+  <zug name="RE2 10241" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE2 10243" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE2 10244" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE34 2223" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RE34 2225" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Hagen Hbf" />
+    <via name="Hohenlimburg" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RE34 2326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 2328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 29967" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 29971" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 30765" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 31304" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 31330" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 33080" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RE34 33081" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 33082" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Wetter (Ruhr)" />
+  </zug>
+  <zug name="RE34 52326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 52328" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Bochum Hbf" />
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE42 10102" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RE42 10106" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RE42 10107" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10110" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RE42 10111" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10114" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RE42 10115" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10118" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RE42 10119" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10122" von="Dortmund Hbf" nach="Viersen" />
+  <zug name="RE57 10750" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10751" von="Dortmund Hbf" nach="Scherfede" />
+  <zug name="RE57 10752" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10753" von="Dortmund Hbf" nach="Usseln" />
+  <zug name="RE57 10754" von="Winterberg (Westf)" nach="Olsberg">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10755" von="Dortmund Hbf" nach="Marsberg" />
+  <zug name="RE57 10756" von="Winterberg (Westf)" nach="Olsberg">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10757" von="Dortmund Hbf" nach="Usseln" />
+  <zug name="RE57 10758" von="Winterberg (Westf)" nach="Olsberg">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10759" von="Dortmund Hbf" nach="Marsberg" />
+  <zug name="RE57 10761" von="Dortmund Hbf" nach="Marsberg" />
+  <zug name="RE57 10776" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10777" von="Dortmund Hbf" nach="Winterberg (Westf)" />
+  <zug name="RE57 10778" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+    <via name="Westheim (Westf)" />
+  </zug>
+  <zug name="RE57 10779" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RE57 10781" von="Schwerte (Ruhr)" nach="Dortmund Hbf" />
+  <zug name="RE57 10782" von="Winterberg (Westf)" nach="Dortmund Hbf" />
+  <zug name="RE57 10787" von="Dortmund Hbf" nach="Scherfede" />
+  <zug name="RE57 10789" von="Dortmund Hbf" nach="Scherfede" />
+  <zug name="RE57 10791" von="Dortmund Hbf" nach="Winterberg (Westf)" />
+  <zug name="RE57 10970" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+  </zug>
+  <zug name="RE57 10971" von="Dortmund Hbf" nach="Usseln" />
+  <zug name="RE57 10972" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+  </zug>
+  <zug name="RE57 10973" von="Dortmund Hbf" nach="Usseln" />
+  <zug name="RE57 10974" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+  </zug>
+  <zug name="RE57 10975" von="Dortmund Hbf" nach="Marsberg" />
+  <zug name="RE57 10976" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+  </zug>
+  <zug name="RE57 10978" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Warburg (Westf)" />
+    <via name="Scherfede" />
+  </zug>
+  <zug name="RE8 10358" von="Aachen Schanz" nach="Dortmund Hbf" />
+</zza>

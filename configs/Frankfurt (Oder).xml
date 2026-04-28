@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Frankfurt (Oder)">
+  <zug name="RB43 18086" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 18690" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 18691" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RB43 18692" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 18693" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RB43 18694" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 18695" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RB43 18696" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 18698" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 18699" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RB43 26080" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 26082" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RB43 44300" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RB92 5612" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RB92 5615" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE1 73713" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE1 73716" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RE1 73719" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE1 73721" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE1 73725" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE1 73727" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE1 73750" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RE1 73800" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RE10 18087" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RE10 18089" von="Frankfurt (Oder)" nach="Taucha (Leipzig)" />
+  <zug name="RE10 18380" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Markkleeberg-Gaschwitz" />
+    <via name="Markkleeberg-Großstädteln" />
+  </zug>
+  <zug name="RE10 18382" von="Taucha (Leipzig)" nach="Frankfurt (Oder)" />
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Kraftwerk Finkenheerd" />
+    <via name="Finkenheerd" />
+    <via name="Wiesenau" />
+  </zug>
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Kraftwerk Finkenheerd" />
+    <via name="Finkenheerd" />
+    <via name="Wiesenau" />
+  </zug>
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Kraftwerk Finkenheerd" />
+    <via name="Finkenheerd" />
+    <via name="Wiesenau" />
+  </zug>
+  <zug name="RE11 18187" von="Frankfurt (Oder)" nach="Ruhland" />
+</zza>

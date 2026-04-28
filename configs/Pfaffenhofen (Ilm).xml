@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Pfaffenhofen (Ilm)">
+  <zug name="RB16 39500" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 39501" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 39502" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 39503" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 39504" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 39508" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 4001" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 4009" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 4696" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 59064" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 59066" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 59072" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RB16 59073" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 59086" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RB16 59089" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf ia" />
+    <via name="Reichertshausen (Ilm)" />
+  </zug>
+  <zug name="RB16 59091" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RB16 59140" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB16 59141" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RB16 59142" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RB16 59144" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RB16 59145" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RB16 59171" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RB16 59173" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RB16 59175" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 59177" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 59179" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 59181" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RB16 59190" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RB16 59198" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 39505" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RE1 39510" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RE1 4000" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 4004" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 4005" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RE1 4007" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RE1 4008" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 4010" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 4697" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="München Hbf" />
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+  </zug>
+  <zug name="RE1 4699" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RE1 57874" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 59068" von="München Hbf" nach="Pappenheim">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Rohrbach (Ilm)" />
+  </zug>
+  <zug name="RE1 59085" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RE1 59089" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RE1 59090" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RE1 59092" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RE1 59143" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RE1 59144" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RE1 59148" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Rohrbach (Ilm)" />
+    <via name="Baar-Ebenhausen" />
+  </zug>
+  <zug name="RE1 59155" von="Nürnberg Hbf" nach="München Hbf">
+    <via name="Reichertshausen (Ilm)" />
+    <via name="Paindorf" />
+    <via name="Petershausen (Obb)" />
+  </zug>
+  <zug name="RE50 58407" von="Nürnberg Hbf" nach="München-Moosach">
+    <via name="München Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+</zza>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Haltern am See">
+  <zug name="RB46 31397" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31399" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31421" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31423" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31425" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31427" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31429" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31431" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31433" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31487" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31491" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31493" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31495" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10202" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10203" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10204" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10206" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10207" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10208" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10209" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10210" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10211" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10241" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10243" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE2 10244" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE41 16212" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16214" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16216" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Marl-Sinsen" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+  </zug>
+  <zug name="RE42 10100" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10101" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10102" von="Dortmund Hbf" nach="Viersen">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10103" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10104" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10105" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10106" von="Dortmund Hbf" nach="Viersen">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10107" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10108" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10109" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10110" von="Dortmund Hbf" nach="Viersen">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10111" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10112" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10113" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10114" von="Dortmund Hbf" nach="Viersen">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10115" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10116" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10117" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10118" von="Dortmund Hbf" nach="Viersen">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10119" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10120" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10121" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10122" von="Dortmund Hbf" nach="Viersen">
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10123" von="Düsseldorf Hbf" nach="Duisburg-Hochfeld Süd">
+    <via name="Krefeld Hbf" />
+    <via name="Sythen" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RE42 10180" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10183" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10184" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+  <zug name="RE42 10187" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10191" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Sythen" />
+    <via name="Dülmen" />
+    <via name="Buldern" />
+  </zug>
+  <zug name="RE42 10192" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+  </zug>
+</zza>

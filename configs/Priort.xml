@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Priort">
+  <zug name="RB21 18240" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18241" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18242" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18243" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18244" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18245" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18246" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18247" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18248" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18249" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18250" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18251" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18252" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18253" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18254" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18255" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18256" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18257" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18258" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18259" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18260" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18261" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18262" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18263" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18264" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18265" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18266" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18267" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18268" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18269" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB21 18270" von="Potsdam Charlottenhof" nach="Berlin Jungfernheide">
+    <via name="Wustermark" />
+    <via name="Elstal" />
+    <via name="Dallgow-Döberitz" />
+  </zug>
+  <zug name="RB21 18271" von="Berlin Jungfernheide" nach="Potsdam Charlottenhof">
+    <via name="Marquardt" />
+    <via name="Golm" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+</zza>

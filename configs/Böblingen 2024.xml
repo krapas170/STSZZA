@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Böblingen 2024">
+  <zug name="RB43 17609" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RB43 50183" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RB43 50284" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RB43 50388" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RB43 52381" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE14a 17628" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Hulb" />
+    <via name="Böblingen" />
+    <via name="Goldberg (Württ)" />
+  </zug>
+  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen" />
+  <zug name="RE14a 7100" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Hulb" />
+    <via name="Böblingen" />
+    <via name="Goldberg (Württ)" />
+  </zug>
+  <zug name="RE14a 7180" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Hulb" />
+    <via name="Böblingen" />
+    <via name="Goldberg (Württ)" />
+  </zug>
+  <zug name="RE14a 7701" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="Hulb" />
+    <via name="Ehningen (b Böblingen)" />
+    <via name="Gärtringen" />
+  </zug>
+  <zug name="RE14a 7704" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Hulb" />
+    <via name="Böblingen" />
+    <via name="Goldberg (Württ)" />
+  </zug>
+  <zug name="RE4 17611" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="Hulb" />
+    <via name="Ehningen (b Böblingen)" />
+    <via name="Gärtringen" />
+  </zug>
+  <zug name="RE4 69829" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE4 7105" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="Hulb" />
+    <via name="Ehningen (b Böblingen)" />
+    <via name="Gärtringen" />
+  </zug>
+  <zug name="RE55 3209" von="Blumberg-Riedöschingen" nach="Bad Saulgau">
+    <via name="Stuttgart Hbf" />
+    <via name="Sigmaringendorf" />
+    <via name="Mengen" />
+  </zug>
+  <zug name="RE55 3211" von="Blumberg-Riedöschingen" nach="Bad Saulgau">
+    <via name="Stuttgart Hbf" />
+    <via name="Sigmaringendorf" />
+    <via name="Mengen" />
+  </zug>
+  <zug name="RE55 50183" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE55 50388" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE55 50483" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE55 69818" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 17695" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE87 29392" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE87 3206" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE87 3211" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 3213" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 3246" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE87 50282" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 50284" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 69822" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 69833" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE87 69835" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen">
+    <via name="Herrenberg" />
+    <via name="Horb" />
+    <via name="Sulz (Neckar)" />
+  </zug>
+  <zug name="RE87 7102" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Hulb" />
+    <via name="Böblingen" />
+    <via name="Goldberg (Württ)" />
+  </zug>
+  <zug name="RE87 7106" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Hulb" />
+    <via name="Böblingen" />
+    <via name="Goldberg (Württ)" />
+  </zug>
+</zza>

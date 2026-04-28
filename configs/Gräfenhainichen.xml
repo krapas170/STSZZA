@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Gräfenhainichen">
+  <zug name="RB51 16101" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RB51 16184" von="Lu. Wittenberg Altstadt" nach="Leipzig Hbf (tief)">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RB51 16472" von="Fermerswalde" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 3363" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RB51 37201" von="Bülzig" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37203" von="Bülzig" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37225" von="Pratau" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37227" von="Pratau" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37229" von="Pratau" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37233" von="Pratau" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37259" von="Pratau" nach="Leipzig Hbf (tief)">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RB51 37285" von="Bülzig" nach="Leipzig-Stötteritz">
+    <via name="Dessau Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Burgkemnitz" />
+  </zug>
+  <zug name="RB51 37801" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RB51 37809" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 16107" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+    <via name="Dessau Süd" />
+  </zug>
+  <zug name="RE13 16164" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 16196" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 37200" von="Halle (Saale) Hbf" nach="Pratau">
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+  <zug name="RE13 37203" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 37205" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 37213" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 37214" von="Halle (Saale) Hbf" nach="Pratau">
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+  <zug name="RE13 37215" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 37225" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE13 37284" von="Halle (Saale) Hbf" nach="Pratau">
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+  <zug name="RE13 37812" von="Halle (Saale) Hbf" nach="Pratau">
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+  <zug name="RE13 37814" von="Halle (Saale) Hbf" nach="Pratau">
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+  <zug name="RE13 37823" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE3 3306" von="Halle (Saale) Hbf" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+  <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE3 37201" von="Pratau" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Burgkemnitz" />
+    <via name="Muldenstein" />
+  </zug>
+  <zug name="RE3 37800" von="Halle (Saale) Hbf" nach="Pratau">
+    <via name="Radis" />
+    <via name="Bergwitz" />
+  </zug>
+</zza>

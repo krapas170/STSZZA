@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Naumburg (Saale)">
+  <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74607" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB20 74609" von="Vieselbach" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74611" von="Vieselbach" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74613" von="Rudolstadt-Schwarza" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74615" von="Rudolstadt-Schwarza" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74617" von="Vieselbach" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74619" von="Vieselbach" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74621" von="Vieselbach" nach="Wandersleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
+  <zug name="RB20 74623" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74625" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74627" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74629" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74631" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74633" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74635" von="Vieselbach" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74637" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74639" von="Rudolstadt-Schwarza" nach="Erfurt-Bischleben">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Bebra" />
+  </zug>
+  <zug name="RB20 74643" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 2063" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RB25 4971" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RB25 4985" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RB25 59330" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RB25 59331" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RB25 59332" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RB25 59333" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RB25 59334" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RB25 59335" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RB25 59336" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RB25 59337" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RB25 74547" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74652" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB25 74654" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB25 74655" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74656" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB25 74657" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74658" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB25 74659" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74660" von="Leipzig Hbf" nach="Jena-Zwätzen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74661" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74662" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74663" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74664" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74665" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74666" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74667" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74668" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74669" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74670" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74671" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74672" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74673" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74674" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74675" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74676" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74677" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74678" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74679" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74680" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74681" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74682" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74683" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74684" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74685" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74686" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74687" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74688" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74689" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74690" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB25 74691" von="Rudolstadt-Schwarza" nach="Leipzig Hbf qg">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74693" von="Rudolstadt-Schwarza" nach="Leipzig Hbf qg">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74695" von="Rudolstadt-Schwarza" nach="Leipzig Hbf qg">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB25 74697" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80802" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80803" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB28 80804" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80806" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80807" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB28 80808" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80809" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB28 80810" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80811" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80812" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80813" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80814" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80815" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80816" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80817" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80818" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80819" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80820" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80821" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80822" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80823" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80824" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80825" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 80826" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 80828" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 81061" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RB28 81062" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 81063" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 81064" von="Saalfeld (Saale)" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RB28 81065" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RB28 81067" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE14 2068" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RE14 4942" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RE14 4945" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE14 4960" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RE14 4962" von="Nürnberg Hbf" nach="Strullendorf">
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RE14 4963" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RE14 4964" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RE14 4965" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RE14 4967" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RE14 4969" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RE14 4980" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RE14 4981" von="Leipzig Hbf" nach="Fürth (Bay) Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Erfurt Hbf" />
+  </zug>
+  <zug name="RE14 4982" von="Nürnberg Hbf" nach="Erfurt Hbf">
+    <via name="Gera Hbf" />
+    <via name="Leipzig Hbf" />
+    <via name="Fürth (Bay) Hbf" />
+  </zug>
+  <zug name="RE14 4983" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Gera Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Bad Kösen" />
+  </zug>
+  <zug name="RE14 4984" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RE14 4986" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RE14 59338" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RE14 59339" von="Leipzig Hbf" nach="Nürnberg Hbf">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Jena Saalbf" />
+    <via name="Jena Paradies" />
+  </zug>
+  <zug name="RE14 59390" von="Nürnberg Hbf" nach="Leipzig Hbf">
+    <via name="Gera Hbf" />
+  </zug>
+  <zug name="RE15 74696" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RE15 74699" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74819" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74820" von="Leipzig Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+    <via name="Dornburg (Saale)" />
+  </zug>
+  <zug name="RE15 74821" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74822" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE15 74823" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74824" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE15 74825" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74826" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE15 74827" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74828" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE15 74829" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74830" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE15 74831" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74832" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE15 74833" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE15 74834" von="Halle (Saale) Hbf" nach="Rudolstadt-Schwarza">
+    <via name="Leipzig Hbf" />
+    <via name="Bad Kösen" />
+    <via name="Camburg (Saale)" />
+  </zug>
+  <zug name="RE16 74501" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74503" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74505" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74507" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74509" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74511" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74513" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74515" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74517" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74519" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74521" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74523" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74525" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74527" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74529" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE16 74531" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+</zza>

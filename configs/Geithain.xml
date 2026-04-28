@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Geithain">
+  <zug name="RB113 1041" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RB113 16660" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RB113 16661" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RB113 16663" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RB113 16664" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RB113 16668" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RB113 74160" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RB113 74163" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RB113 74174" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RB113 74177" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RB113 80000" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RB113 80004" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RB113 80010" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RB113 80012" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RB113 80013" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RB113 80014" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RB113 80015" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RB113 80017" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RB113 80041" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RE6 16666" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RE6 16670" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RE6 16673" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RE6 16674" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RE6 16675" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RE6 16676" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RE6 74161" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RE6 74165" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RE6 74168" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RE6 74170" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RE6 74171" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RE6 74172" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+  <zug name="RE6 74173" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RE6 74175" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RE6 80002" von="Chemnitz Küchwald" nach="Leipzig Hbf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Bad Lausick" />
+  </zug>
+  <zug name="RE6 80003" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RE6 80005" von="Leipzig Hbf" nach="Chemnitz-Borna Hp">
+    <via name="Narsdorf" />
+    <via name="Burgstädt" />
+    <via name="Wittgensdorf ob Bf" />
+  </zug>
+  <zug name="RE6 80016" von="Chemnitz Küchwald" nach="Leipzig-Paunsdorf">
+    <via name="Tautenhain" />
+    <via name="Hopfgarten (Sachs)" />
+    <via name="Lauterbach-Steinbach" />
+  </zug>
+  <zug name="RE6 80019" von="Leipzig Hbf" nach="Chemnitz Küchwald">
+    <via name="Wittgensdorf ob Bf" />
+    <via name="Wittgensdorf Mitte" />
+    <via name="Chemnitz-Borna Hp" />
+  </zug>
+</zza>

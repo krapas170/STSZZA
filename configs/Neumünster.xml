@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Neumünster">
+  <zug name="RB61 11007" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Hamburg Hbf" />
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+  </zug>
+  <zug name="RB61 11009" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB61 11013" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB61 11042" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB61 11252" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB61 75500" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB61 75501" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Hamburg Hbf" />
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+  </zug>
+  <zug name="RB61 75503" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB61 75505" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB61 75512" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RB61 75521" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB61 75548" von="Kremperheide" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB61 81824" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB61 81858" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB61 81860" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11158" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11200" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11202" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11204" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11208" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11213" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 11242" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11250" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 11299" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 2081" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 279" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 595" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 75508" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 75511" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81746" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81747" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Hamburg Hbf" />
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+  </zug>
+  <zug name="RB71 81750" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81751" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81821" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81823" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81825" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81827" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81828" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81831" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81846" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81848" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81850" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81856" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RB71 81859" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81863" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81865" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81895" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB71 81897" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RB75 11188" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE6 1088" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE6 11001" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE6 11004" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RE6 11006" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RE6 11011" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE6 11038" von="Kremperheide" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE6 11255" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE6 2079" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE6 279" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE6 75510" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE6 81748" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE6 81752" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE6 81830" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11002" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11008" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11142" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11144" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11145" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11146" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11148" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11149" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11154" von="Hamburg Hbf" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RE7 11155" von="Kiel Hbf" nach="Nortorf">
+    <via name="Hamburg Hbf" />
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+  </zug>
+  <zug name="RE7 11156" von="Hamburg Hbf" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RE7 11157" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11158" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11159" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11160" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11161" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11163" von="Kiel Hbf" nach="Nortorf">
+    <via name="Hamburg Hbf" />
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+  </zug>
+  <zug name="RE7 11188" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11190" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11194" von="Hamburg Hbf" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RE7 11196" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11199" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11203" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11207" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11209" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11244" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11246" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11247" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11249" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11251" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11253" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11254" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11255" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11256" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11257" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11258" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11263" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11290" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11292" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 11293" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11295" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 11742" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11894" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11904" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 1194" von="Kremperheide" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+  </zug>
+  <zug name="RE7 11941" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11942" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 1195" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 1678" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 175" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 2095" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 2579" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 75502" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 75515" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 75516" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 75523" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 81753" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE7 81820" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 81852" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE7 81853" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 1088" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE70 11005" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 11201" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 11206" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE70 11211" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 11238" von="Kremperheide" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE70 11243" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 11245" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 23675" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 371" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE70 75514" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE70 81854" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Einfeld" />
+    <via name="Bordesholm" />
+    <via name="Flintbek" />
+  </zug>
+  <zug name="RE70 81855" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Brokstedt" />
+    <via name="Wrist" />
+    <via name="Dauenhof" />
+  </zug>
+  <zug name="RE74 11142" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11147" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11148" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11150" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11152" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11165" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11195" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11796" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11895" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11898" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11900" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11902" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11903" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11904" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11905" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11906" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11907" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11908" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11909" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11910" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11912" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11914" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 1194" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11940" von="Elmshorn" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 11941" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 11944" von="Hamburg Hbf" nach="Tarp">
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE74 1195" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE74 2575" von="Tarp" nach="Hamburg Hbf">
+    <via name="Elmshorn" />
+    <via name="Hamburg Dammtor" />
+  </zug>
+</zza>

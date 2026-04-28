@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Graben-Neudorf 2024">
+  <zug name="RB67 38915" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Friedrichstal (Baden)" />
+    <via name="Blankenloch" />
+  </zug>
+  <zug name="RB67 38924" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Wiesental" />
+    <via name="Waghäusel" />
+    <via name="Neulußheim" />
+  </zug>
+  <zug name="RE4 1178" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Wiesental" />
+    <via name="Waghäusel" />
+    <via name="Neulußheim" />
+  </zug>
+  <zug name="RE4 15408" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Wiesental" />
+    <via name="Waghäusel" />
+    <via name="Neulußheim" />
+  </zug>
+  <zug name="RE4 1973" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Friedrichstal (Baden)" />
+    <via name="Blankenloch" />
+  </zug>
+  <zug name="RE4 270" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Wiesental" />
+    <via name="Waghäusel" />
+    <via name="Neulußheim" />
+  </zug>
+  <zug name="RE4 271" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Friedrichstal (Baden)" />
+    <via name="Blankenloch" />
+  </zug>
+  <zug name="RE4 38111" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38171" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38321" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38333" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38380" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum">
+    <via name="Graben-Neudorf" />
+    <via name="Karlsdorf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38400" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum">
+    <via name="Graben-Neudorf" />
+    <via name="Karlsdorf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38417" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38431" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38435" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38436" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum">
+    <via name="Graben-Neudorf" />
+    <via name="Karlsdorf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38437" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Graben-Neudorf Nord" />
+  </zug>
+  <zug name="RE4 38926" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Wiesental" />
+    <via name="Waghäusel" />
+    <via name="Neulußheim" />
+  </zug>
+  <zug name="RE9 38914" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Wiesental" />
+    <via name="Waghäusel" />
+    <via name="Neulußheim" />
+  </zug>
+  <zug name="RE9 38997" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Friedrichstal (Baden)" />
+    <via name="Blankenloch" />
+  </zug>
+</zza>

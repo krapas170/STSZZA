@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Göppingen/Geislingen 2024">
+  <zug name="MEX16 1010" von="Merklingen - Schwäbische Alb" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 1011" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 1012" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 119" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 1291" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 19101" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 19103" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19104" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19105" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19106" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19107" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19111" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+  </zug>
+  <zug name="MEX16 19112" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19118" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19121" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19124" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19129" von="Plochingen" nach="Reutlingen West">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19130" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19131" von="Plochingen" nach="Reutlingen West">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Eislingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19132" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Reutlingen Hbf" />
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+  </zug>
+  <zug name="MEX16 19133" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 19136" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19144" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19149" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 19151" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 19153" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 19164" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19169" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 19170" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19172" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19173" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 19175" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 19176" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 19181" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 19183" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 215" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 218" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 2308" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 237" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 2401" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 2406" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 2409" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4200" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 4204" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 4210" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 4211" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4213" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4217" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4223" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 4226" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 4227" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4230" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 4237" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4238" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 4239" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 4243" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 460" von="Merklingen - Schwäbische Alb" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 510" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 515" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 561" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 565" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 566" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 567" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 597" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 610" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 613" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="MEX16 616" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 618" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 619" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 695" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 699" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 714" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 897" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 910" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 911" von="Tübingen Hbf" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="MEX16 912" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="MEX16 991" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 113" von="Plochingen" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+  </zug>
+  <zug name="RE5 19108" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 19109" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 19110" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 19113" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 19119" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 19122" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 19139" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 19141" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 19142" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 19161" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 19162" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 19171" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="RE5 19174" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 2013" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="RE5 236" von="Beimerstetten" nach="München Hbf is">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 266" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 4207" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 4214" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 4221" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="RE5 4231" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="RE5 4233" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+  <zug name="RE5 4242" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 461" von="Plochingen" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+  </zug>
+  <zug name="RE5 513" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 518" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 560" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 568" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 590" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 592" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 599" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 690" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 692" von="Beimerstetten" nach="Reichenbach (Fils)">
+    <via name="Geislingen (Steige) West" />
+    <via name="Kuchen" />
+    <via name="Gingen (Fils)" />
+  </zug>
+  <zug name="RE5 913" von="Plochingen" nach="Beimerstetten">
+    <via name="Eislingen (Fils)" />
+    <via name="Salach" />
+    <via name="Süßen" />
+  </zug>
+  <zug name="RE5 919" von="Reichenbach (Fils)" nach="Beimerstetten">
+    <via name="Geislingen (Steige)" />
+    <via name="Urspring" />
+    <via name="Lonsee" />
+  </zug>
+</zza>

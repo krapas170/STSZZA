@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Memmingen 2010" anzeige="Memmingen">
+  <bahnsteig name="MM 1" />
+  <bahnsteig name="MM 2" />
+  <bahnsteig name="MM 3" />
+  <bahnsteig name="MM 4" />
+  <bahnsteig name="MM 5" />
+  <zug name="ALX 38704" von="München Hbf" nach="Lindau Hbf" />
+  <zug name="ALX 38706" von="München Hbf" nach="Lindau Hbf" />
+  <zug name="ALX 38708" von="München Hbf" nach="Lindau Hbf" />
+  <zug name="ALX 38709" von="Lindau Hbf" nach="München Hbf" />
+  <zug name="ALX 38710" von="München Hbf" nach="Lindau Hbf" />
+  <zug name="ALX 38711" von="Lindau Hbf" nach="München Hbf" />
+  <zug name="ALX 38713" von="Lindau Hbf" nach="München Hbf" />
+  <zug name="ALX 38715" von="Lindau Hbf" nach="München Hbf" />
+  <zug name="ALX 38717" von="Lindau Hbf" nach="München Hbf" />
+  <zug name="ALX 38719" von="Lindau Hbf" nach="München Hbf" />
+  <zug name="EC 190" von="München Hbf" nach="Zürich HB" />
+  <zug name="EC 191" von="Zürich HB" nach="München Hbf" />
+  <zug name="EC 192" von="München Hbf" nach="Zürich HB" />
+  <zug name="EC 193" von="Zürich HB" nach="München Hbf" />
+  <zug name="EC 194" von="München Hbf" nach="Zürich HB" />
+  <zug name="EC 195" von="Zürich HB" nach="München Hbf" />
+  <zug name="EC 197" von="Zürich HB" nach="München Hbf" />
+  <zug name="IC 2012" von="Oberstdorf" nach="Leipzig Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="RB 22170" von="Memmingen" nach="Trochtelfingen ALB-GOLD">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB 22181" von="Trochtelfingen ALB-GOLD" nach="Memmingen" />
+  <zug name="RB 22350" von="Memmingen" nach="Ehingen (Donau)">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB 22351" von="Ehingen (Donau)" nach="Memmingen" />
+  <zug name="RB 22352" von="Memmingen" nach="Ehingen (Donau)">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB 22353" von="Ehingen (Donau)" nach="Memmingen" />
+  <zug name="RB 22354" von="Memmingen" nach="Ehingen (Donau)">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB 22355" von="Sondernach" nach="Memmingen" />
+  <zug name="RB 22356" von="Memmingen" nach="Ehingen (Donau)">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB 22357" von="Ehingen (Donau)" nach="Memmingen" />
+  <zug name="RB 22800" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 22804" von="Augsburg Hbf" nach="Aulendorf" />
+  <zug name="RB 22839" von="Buchloe" nach="Lindau Hbf" />
+  <zug name="RB 22846" von="Lindau Hbf" nach="Augsburg Hbf" />
+  <zug name="RB 22851" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 22853" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32786" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RB 32794" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32796" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32804" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32806" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32808" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32810" von="Augsburg Hbf" nach="Lindau Hbf" />
+  <zug name="RB 32951" von="Buchloe" nach="Lindau Hbf" />
+  <zug name="RE 2013" von="Leipzig Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE 32672" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32674" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32682" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32684" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32688" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32732" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32734" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32738" von="Augsburg Hbf" nach="Memmingen" />
+  <zug name="RE 32740" von="Augsburg Hbf" nach="Memmingen" />
+</zza>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Prenzlau">
+  <zug name="RB60 61346" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Seehausen (Uckermark)" />
+  </zug>
+  <zug name="RB61 3302" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB61 3306" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB61 3345" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RB61 61278" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RB61 61279" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB61 61280" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RB61 61358" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RB62 1073" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RB62 1078" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB62 1636" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB62 3340" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB62 61350" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RB62 61351" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB62 61352" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RB62 61355" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RB62 61368" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RB62 61372" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RB62 63983" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE10 1071" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE10 3307" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE10 3344" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE10 61353" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE10 61357" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE10 63980" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE10 63981" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE10 63982" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE10 63983" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE10 63986" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE10 63997" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE10 63999" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 1179" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE3 13032" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE3 13034" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE3 3300" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 3303" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 3305" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 3321" von="Prenzlau" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3323" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 3335" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Seehausen (Uckermark)" />
+  </zug>
+  <zug name="RE3 3341" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Seehausen (Uckermark)" />
+  </zug>
+  <zug name="RE3 3342" von="Berlin Gesundbrunnen" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+  </zug>
+  <zug name="RE3 3343" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE3 3361" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE3 3364" von="Berlin Gesundbrunnen" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+  </zug>
+  <zug name="RE3 3366" von="Ludwigsfelde" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+  </zug>
+  <zug name="RE3 3369" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Seehausen (Uckermark)" />
+  </zug>
+  <zug name="RE3 61277" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE3 61281" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE3 61282" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE3 61356" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE3 63985" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE3 63986" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE7 13030" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE7 13039" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE7 3530" von="Berlin Gesundbrunnen" nach="Züssow">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+  <zug name="RE7 61284" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Schwedt (Oder)" />
+    <via name="Schwedt (Oder) Mitte" />
+    <via name="Pinnow (Uckermark)" />
+  </zug>
+  <zug name="RE7 63984" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
+    <via name="Nechlin" />
+    <via name="Pasewalk" />
+    <via name="Jatznick" />
+  </zug>
+</zza>

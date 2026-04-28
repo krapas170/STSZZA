@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Meppen">
+  <zug name="RE15 2004" von="Münster (W) Zentrum Nord" nach="Norden">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 2014" von="Münster (W) Zentrum Nord" nach="Norden">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 2208" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 2438" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 90268" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE15 90270" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+  <zug name="RE35 90304" von="Münster (W) Zentrum Nord" nach="Norddeich Mole">
+    <via name="Bremen Hbf" />
+    <via name="Oldenburg (Oldb) Hbf" />
+    <via name="Emden Hbf" />
+  </zug>
+</zza>

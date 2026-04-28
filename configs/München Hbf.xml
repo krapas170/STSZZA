@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="München Hbf">
+  <zug name="MEX13 19448" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="MEX13 19477" von="Schorndorf" nach="München Hbf" />
+  <zug name="MEX13 19479" von="Schorndorf" nach="München Hbf" />
+  <zug name="MEX13 19481" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="MEX13 19483" von="Schwäbisch Gmünd" nach="München Hbf" />
+  <zug name="MEX13 19484" von="Jagstzell" nach="Hofen (b Aalen)" />
+  <zug name="MEX13 19485" von="Schwäbisch Gmünd" nach="München Hbf" />
+  <zug name="MEX13 19486" von="Jagstzell" nach="Hofen (b Aalen)" />
+  <zug name="MEX13 19487" von="Schwäbisch Gmünd" nach="München Hbf" />
+  <zug name="MEX13 19488" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="MEX13 19490" von="Wasseralfingen" nach="Hofen (b Aalen)" />
+  <zug name="MEX13 19492" von="Jagstzell" nach="Hofen (b Aalen)" />
+  <zug name="MEX13 19497" von="Schwäbisch Gmünd" nach="München Hbf" />
+  <zug name="RB13 86659" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86661" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86662" von="München Hbf" nach="Mering" />
+  <zug name="RB13 86663" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86664" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86665" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86666" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86667" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86668" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86669" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86670" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86671" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86672" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86673" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86674" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86675" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86676" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86677" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86678" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86679" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86680" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86681" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86682" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86683" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86684" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86685" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86686" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86687" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86688" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86689" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86690" von="München Hbf" nach="Friedberg (Augsburg)" />
+  <zug name="RB13 86691" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86692" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86693" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86694" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86695" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86696" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86697" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86698" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86699" von="Aichach" nach="München Hbf" />
+  <zug name="RB13 86700" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86701" von="Aichach" nach="München Hbf" />
+  <zug name="RB13 86702" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86703" von="Aichach" nach="München Hbf" />
+  <zug name="RB13 86704" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86705" von="Aichach" nach="München Hbf" />
+  <zug name="RB13 86706" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86707" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86708" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86709" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86710" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86711" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86712" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86713" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86714" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86715" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Haunstetterstraße" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB13 86716" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86717" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86718" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86719" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86720" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86721" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86722" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86723" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86724" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86725" von="Aichach" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86726" von="München Hbf" nach="Augsburg Haunstetterstraße" />
+  <zug name="RB13 86727" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86729" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86731" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86733" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86735" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86737" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86739" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86741" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86743" von="Brunnen (Oberbay)" nach="München Hbf" />
+  <zug name="RB13 86745" von="Brunnen (Oberbay)" nach="München Hbf" />
+  <zug name="RB13 86747" von="Brunnen (Oberbay)" nach="München Hbf" />
+  <zug name="RB13 86749" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB13 86751" von="Brunnen (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+    <via name="Mering-St Afra" />
+  </zug>
+  <zug name="RB14 84035" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84037" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB14 84039" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84041" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB14 84043" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84045" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB14 84047" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84049" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84051" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84053" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84055" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84057" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84059" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84061" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84063" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84065" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB16 236" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 39500" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 39501" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 39502" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 39503" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 39504" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 39508" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 4001" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 4009" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 460" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 4696" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 57002" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 57021" von="Schwabach" nach="München Hbf" />
+  <zug name="RB16 57031" von="Schwabach" nach="München Hbf" />
+  <zug name="RB16 57035" von="Schwabach" nach="München Hbf" />
+  <zug name="RB16 57054" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 57120" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 59064" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 59066" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 59072" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 59073" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 59085" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59086" von="München Hbf" nach="Pappenheim" />
+  <zug name="RB16 59087" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59089" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Augsburg Hbf ia" />
+    <via name="Schwabach" />
+    <via name="Unterheckenhofen" />
+  </zug>
+  <zug name="RB16 59091" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RB16 59140" von="München Hbf" nach="Pappenheim" />
+  <zug name="RB16 59141" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RB16 59142" von="München Hbf" nach="Pappenheim" />
+  <zug name="RB16 59143" von="Schwabach" nach="Ingolstadt Audi">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB16 59144" von="München Hbf" nach="Pappenheim" />
+  <zug name="RB16 59145" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RB16 59155" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59171" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RB16 59173" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RB16 59175" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 59177" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 59179" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 59181" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RB16 59190" von="München Hbf" nach="Pappenheim" />
+  <zug name="RB16 59191" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59198" von="München Hbf" nach="Pappenheim" />
+  <zug name="RB16 987" von="Schwabach" nach="München Hbf" />
+  <zug name="RB17 84315" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84319" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84321" von="Treuchtlingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84323" von="Nürnberg Hbf" nach="Gundelshausen">
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+    <via name="Gundelfingen (Bay)" />
+  </zug>
+  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB23 79700" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79701" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RB23 79702" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79703" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RB23 79704" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79705" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RB23 79706" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79707" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RB23 79708" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79709" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RB23 79710" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79712" von="München Hbf" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB23 79714" von="München Hbf" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB23 79716" von="München Hbf" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB23 79718" von="München Hbf" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB23 79720" von="München Hbf" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB23 79722" von="München Hbf" nach="Landshut (Bay) Hbf" />
+  <zug name="RB23 79724" von="München Hbf" nach="Landshut (Bay) Hbf" />
+  <zug name="RB23 79726" von="München Hbf" nach="Landshut (Bay) Hbf" />
+  <zug name="RB27 5770" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 5771" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79755" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79757" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79758" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79759" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79760" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79761" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79762" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79763" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79764" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79765" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79766" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79767" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79768" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79769" von="München Hbf" nach="Arrach" />
+  <zug name="RB27 79770" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79771" von="München Hbf" nach="Plzen hl.n." />
+  <zug name="RB27 79772" von="Plzen hl.n." nach="München Hbf" />
+  <zug name="RB27 79790" von="Plzen hl.n." nach="Schwandorf">
+    <via name="Lam" />
+    <via name="Arrach" />
+    <via name="Grafenwiesen" />
+  </zug>
+  <zug name="RB28 79793" von="München Hbf" nach="Arrach" />
+  <zug name="RB32 27601" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27603" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27605" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27607" von="Bogen" nach="München Hbf">
+    <via name="Regensburg Hbf o" />
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB32 27609" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27611" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27613" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27615" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27617" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27619" von="Bogen" nach="Passau Hbf">
+    <via name="Regensburg Hbf o" />
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB32 27621" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB32 27623" von="Bogen" nach="Regensburg Hbf o" />
+  <zug name="RB33 57945" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RB33 59231" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RB33 59233" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RB33 59234" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RB33 59235" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RB33 59237" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RB33 59238" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RB33 59239" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RB33 59242" von="München Hbf" nach="Schwandorf" />
+  <zug name="RB33 59245" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RB33 59247" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RB33 59248" von="München Hbf" nach="Schwandorf" />
+  <zug name="RB33 59249" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RB33 59254" von="München Hbf" nach="Schwandorf" />
+  <zug name="RB45 27082" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB45 27106" von="Salzburg Mülln-Altstadt" nach="Trostberg">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB45 27978" von="Salzburg Mülln-Altstadt" nach="Trostberg">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB45 27983" von="München Hbf" nach="Salzburg Aiglhof i" />
+  <zug name="RB45 27987" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27400" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27401" von="München Hbf" nach="Rohrbach (Oberbay)" />
+  <zug name="RB47 27402" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB47 27403" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27405" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27406" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27407" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27408" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27409" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27410" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB47 27411" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27412" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27414" von="Salzburg Hbf" nach="Traunreut o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27415" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27416" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27417" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27418" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB47 27419" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27420" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB47 27421" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27423" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27424" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB47 27425" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27427" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27429" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB48 27330" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27331" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27332" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27333" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27334" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27335" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27336" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27337" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27338" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27339" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27340" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27341" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27342" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27343" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27344" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27345" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27346" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27347" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27348" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27349" von="München Hbf" nach="Edling" />
+  <zug name="RB48 27350" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27352" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 27354" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 6425" von="München Hbf" nach="Edling" />
+  <zug name="RB48 6430" von="Edling" nach="München Hbf o" />
+  <zug name="RB48 6619" von="München Hbf" nach="Edling" />
+  <zug name="RB48 6662" von="Edling" nach="München Hbf o" />
+  <zug name="RB49 27440" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB49 27441" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27443" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27444" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27446" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB49 27447" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27448" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27450" von="München Hbf" nach="Garching (Alz) o" />
+  <zug name="RB49 27451" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27452" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27453" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27454" von="Salzburg Hbf" nach="Traunreut o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB49 27456" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB49 27457" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27458" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27459" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27460" von="Salzburg Hbf" nach="Traunreut o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB49 27461" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27462" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27464" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27465" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27466" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27467" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27468" von="Salzburg Hbf" nach="Traunreut o">
+    <via name="Rosenheim" />
+    <via name="Traunstein Klinikum" />
+    <via name="Matzing" />
+  </zug>
+  <zug name="RB49 27470" von="Salzburg Hbf" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Hörpolding" />
+  </zug>
+  <zug name="RB49 27472" von="Traunstein Klinikum" nach="Garching (Alz) o">
+    <via name="Rosenheim" />
+    <via name="Hörpolding o" />
+    <via name="Traunreut o" />
+  </zug>
+  <zug name="RB49 27475" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27477" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB52 27550" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27551" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27552" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27553" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27554" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27555" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27556" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27557" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27558" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27559" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27560" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27561" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27562" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27563" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27564" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27565" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27566" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27567" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27568" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27569" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27570" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27571" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB52 27572" von="Aschau (Chiemgau)" nach="München Hbf o" />
+  <zug name="RB52 27573" von="München Hbf" nach="Aschau (Chiemgau) o" />
+  <zug name="RB53 17844" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt">
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB53 17852" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt">
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB53 17877" von="Sigmaringendorf" nach="Bregenz">
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB53 5571" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB53 58144" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB53 63000" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63001" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63002" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63003" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63004" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63005" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63006" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63007" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63008" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63009" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63010" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63011" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63012" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63013" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63014" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63015" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63016" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63017" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63018" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63019" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63020" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63021" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63022" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63023" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63024" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63025" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63026" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63028" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63030" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63032" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63034" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63036" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63038" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63040" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63042" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63043" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63044" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63046" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63047" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 63048" von="Ruhpolding" nach="Salzburg Hbf" />
+  <zug name="RB53 63049" von="Salzburg Hbf" nach="Ruhpolding">
+    <via name="Rosenheim" />
+    <via name="Traunstein k" />
+    <via name="Siegsdorf" />
+  </zug>
+  <zug name="RB53 78915" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RB53 78919" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB53 78975" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB54 236" von="Freilassing" nach="München Hbf is" />
+  <zug name="RB54 79014" von="Innsbruck Hbf" nach="München Hbf is" />
+  <zug name="RB54 79052" von="Freilassing" nach="München Hbf is" />
+  <zug name="RB54 79054" von="Freilassing" nach="München Hbf is" />
+  <zug name="RB54 79056" von="Freilassing" nach="München Hbf is" />
+  <zug name="RB54 79058" von="Freilassing" nach="München Hbf is" />
+  <zug name="RB54 79060" von="Freilassing" nach="München Hbf is" />
+  <zug name="RB55 77300" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77302" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77303" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77304" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77305" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77306" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77307" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77308" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77309" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77310" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77311" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77312" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77314" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77316" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77317" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77318" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77320" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77322" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77324" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77326" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77330" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77332" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77350" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77351" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77352" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77353" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77354" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77355" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77356" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77357" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77359" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77360" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77361" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77363" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77364" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77365" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77367" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77368" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77371" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 77372" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77376" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 77380" von="Bayrischzell" nach="München Hbf" />
+  <zug name="RB55 86785" von="München Harras" nach="Deisenhofen ia">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 86789" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 86791" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 86793" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 86795" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 86797" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB55 86799" von="München Harras" nach="Deisenhofen ia">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB56 77377" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86800" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86801" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86802" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86803" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86804" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86805" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86806" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="Otterfing" />
+    <via name="Deisenhofen" />
+    <via name="München-Solln ia" />
+  </zug>
+  <zug name="RB56 86807" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86808" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86809" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86810" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86811" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86812" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86813" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86814" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86815" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86816" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86818" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86820" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86822" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86824" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86826" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86828" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="Otterfing" />
+    <via name="Deisenhofen" />
+    <via name="München-Solln ia" />
+  </zug>
+  <zug name="RB56 86830" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86832" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86850" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86851" von="München Hbf" nach="Otterfing" />
+  <zug name="RB56 86852" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86853" von="München Hbf" nach="Otterfing" />
+  <zug name="RB56 86855" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86856" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86857" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86858" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="Otterfing" />
+    <via name="Deisenhofen" />
+    <via name="München-Solln ia" />
+  </zug>
+  <zug name="RB56 86859" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86860" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86861" von="München Hbf" nach="Otterfing" />
+  <zug name="RB56 86862" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="Otterfing" />
+    <via name="Deisenhofen" />
+    <via name="München-Solln ia" />
+  </zug>
+  <zug name="RB56 86863" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB56 86864" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86866" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="Otterfing" />
+    <via name="Deisenhofen" />
+    <via name="München-Solln ia" />
+  </zug>
+  <zug name="RB56 86868" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86869" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB56 86870" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86873" von="München Harras" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München-Mittersendling" />
+    <via name="Deisenhofen" />
+  </zug>
+  <zug name="RB56 86874" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB56 86878" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 77397" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86901" von="München Hbf" nach="Otterfing" />
+  <zug name="RB57 86902" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86903" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86904" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86905" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86906" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86907" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86908" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86909" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86910" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86911" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86912" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86913" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86914" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86915" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86916" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86918" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86920" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86922" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86924" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86926" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86928" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86930" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86950" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86951" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86952" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86953" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86955" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86956" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86957" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86958" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86959" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86960" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86961" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86962" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86963" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86964" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB57 86965" von="München Hbf" nach="Gmund (Tegernsee)" />
+  <zug name="RB57 86966" von="Gmund (Tegernsee)" nach="München Hbf" />
+  <zug name="RB58 79500" von="Rosenheim" nach="München Hbf" />
+  <zug name="RB58 79504" von="Rosenheim" nach="München Hbf" />
+  <zug name="RB58 79508" von="Rosenheim" nach="München Hbf" />
+  <zug name="RB58 79509" von="München Ost" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München Harras" />
+    <via name="München-Mittersendling" />
+  </zug>
+  <zug name="RB58 79512" von="Rosenheim" nach="München Hbf" />
+  <zug name="RB58 79513" von="München Ost" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München Harras" />
+    <via name="München-Mittersendling" />
+  </zug>
+  <zug name="RB58 79524" von="Rosenheim" nach="München Hbf" />
+  <zug name="RB58 79595" von="München Ost" nach="Otterfing">
+    <via name="München Heimeranplatz" />
+    <via name="München Harras" />
+    <via name="München-Mittersendling" />
+  </zug>
+  <zug name="RB58 79600" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79601" von="München Hbf" nach="Otterfing" />
+  <zug name="RB58 79602" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79603" von="München Hbf" nach="Otterfing" />
+  <zug name="RB58 79604" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79605" von="München Hbf" nach="Otterfing" />
+  <zug name="RB58 79606" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79607" von="München Hbf" nach="Otterfing" />
+  <zug name="RB58 79608" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79609" von="München Hbf" nach="Otterfing" />
+  <zug name="RB58 79610" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79612" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79614" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79616" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79618" von="Otterfing" nach="München Hbf" />
+  <zug name="RB58 79620" von="Otterfing" nach="München Hbf" />
+  <zug name="RB59 27650" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27652" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27653" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27654" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27655" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27656" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27657" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27658" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27659" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27660" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27661" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27662" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27663" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27664" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27665" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27666" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27667" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27668" von="Waging" nach="Salzburg Hbf o">
+    <via name="Traunstein" />
+    <via name="Freilassing o" />
+  </zug>
+  <zug name="RB59 27669" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27671" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27673" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27675" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27677" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27679" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB59 27681" von="Freilassing" nach="Waging o">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB6 4691" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 4693" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 5401" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 5403" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 5404" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 5415" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB6 5440" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 5443" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 5449" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 5453" von="München Hbf" nach="Uffing" />
+  <zug name="RB6 5455" von="München Hbf" nach="Uffing" />
+  <zug name="RB6 5502" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB6 5508" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB6 5510" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB6 59401" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59403" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59420" von="Kochel" nach="Huglfing">
+    <via name="Innsbruck Westbahnhof" />
+    <via name="Innsbruck Hötting" />
+    <via name="Allerheiligenhöfe" />
+  </zug>
+  <zug name="RB6 59421" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59422" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59425" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59426" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59428" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59440" von="Kochel" nach="Huglfing">
+    <via name="Innsbruck Westbahnhof" />
+    <via name="Innsbruck Hötting" />
+    <via name="Allerheiligenhöfe" />
+  </zug>
+  <zug name="RB6 59447" von="München Hbf" nach="Kochel" />
+  <zug name="RB6 59448" von="Kochel" nach="München Hbf" />
+  <zug name="RB6 59449" von="München Hbf" nach="Uffing" />
+  <zug name="RB6 59456" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59466" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59468" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59470" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59473" von="München Hbf" nach="Uffing" />
+  <zug name="RB6 59500" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59502" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59503" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59504" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59506" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59507" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59510" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB6 59511" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB6 59517" von="München Hbf" nach="Uffing" />
+  <zug name="RB6 59645" von="München Hbf" nach="Uffing" />
+  <zug name="RB60 5441" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB60 5500" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 5506" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 5510" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 5512" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 5514" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 5518" von="München Hbf" nach="Kochel" />
+  <zug name="RB60 5536" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 5544" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB60 59443" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RB63 59550" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59551" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59552" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59553" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59554" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59555" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59556" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59557" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59558" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59559" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59560" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59561" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59562" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59563" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59564" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59565" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59566" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59567" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59568" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59569" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59570" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59571" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59572" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59573" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59574" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59575" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59576" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59577" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB63 59578" von="Oberammergau" nach="München Hbf" />
+  <zug name="RB63 59579" von="München Hbf" nach="Oberammergau" />
+  <zug name="RB65 4874" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 4876" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 5411" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB65 5417" von="München Hbf" nach="Uffing" />
+  <zug name="RB65 5419" von="München Hbf" nach="Uffing" />
+  <zug name="RB65 5447" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB65 5492" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 5506" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB65 59407" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB65 59409" von="München Hbf" nach="Uffing" />
+  <zug name="RB65 59442" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 59443" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB65 59448" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 59472" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 59508" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 59512" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RB65 59513" von="München Hbf" nach="Uffing" />
+  <zug name="RB65 59517" von="München Hbf" nach="Uffing" />
+  <zug name="RB65 59537" von="München Hbf" nach="Farchant" />
+  <zug name="RB65 59605" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB65 59689" von="München Hbf" nach="Farchant" />
+  <zug name="RB66 59430" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59431" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59501" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RB66 59515" von="München Hbf" nach="Uffing" />
+  <zug name="RB66 59600" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59601" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59602" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59603" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59604" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59605" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59606" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59607" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59608" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59609" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59610" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59611" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59612" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59613" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59614" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59615" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59616" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59617" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59641" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59642" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59643" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59644" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59645" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59646" von="Kochel" nach="München Hbf" />
+  <zug name="RB66 59647" von="München Hbf" nach="Kochel" />
+  <zug name="RB66 59648" von="Kochel" nach="München Hbf" />
+  <zug name="RB67 86500" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86501" von="Peißenberg Nord" nach="Augsburg-Hochzoll">
+    <via name="Augsburg Hbf" />
+    <via name="Geltendorf" />
+    <via name="Augsburg Haunstetterstraße" />
+  </zug>
+  <zug name="RB67 86502" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86503" von="Peißenberg Nord" nach="Garmisch-Partenkirchen">
+    <via name="Augsburg Hbf" />
+    <via name="Geltendorf" />
+    <via name="Augsburg Haunstetterstraße" />
+  </zug>
+  <zug name="RB67 86504" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86505" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86506" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86507" von="Peißenberg Nord" nach="Augsburg-Hochzoll">
+    <via name="Augsburg Hbf" />
+    <via name="Geltendorf" />
+    <via name="Augsburg Haunstetterstraße" />
+  </zug>
+  <zug name="RB67 86508" von="Schongau" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Murnau" />
+    <via name="Raisting" />
+  </zug>
+  <zug name="RB67 86510" von="Schongau" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Murnau" />
+    <via name="Raisting" />
+  </zug>
+  <zug name="RB67 86511" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86512" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86513" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86514" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86515" von="Peißenberg Nord" nach="Augsburg-Hochzoll">
+    <via name="Augsburg Hbf" />
+    <via name="Geltendorf" />
+    <via name="Augsburg Haunstetterstraße" />
+  </zug>
+  <zug name="RB67 86516" von="Schongau" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Murnau" />
+    <via name="Raisting" />
+  </zug>
+  <zug name="RB67 86517" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86518" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86519" von="Peißenberg Nord" nach="Augsburg-Hochzoll">
+    <via name="Augsburg Hbf" />
+    <via name="Geltendorf" />
+    <via name="Augsburg Haunstetterstraße" />
+  </zug>
+  <zug name="RB67 86520" von="Schongau" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Murnau" />
+    <via name="Raisting" />
+  </zug>
+  <zug name="RB67 86521" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86522" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB67 86524" von="Schongau" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86525" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86526" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86528" von="Schongau" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86529" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86530" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86532" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86533" von="Augsburg Hbf" nach="München Hbf" />
+  <zug name="RB67 86534" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86536" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86537" von="Augsburg Hbf" nach="München Hbf" />
+  <zug name="RB67 86538" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86539" von="Peißenberg Nord" nach="München Hbf" />
+  <zug name="RB67 86540" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86541" von="Augsburg Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86542" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86544" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86545" von="Augsburg Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86546" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86548" von="Garmisch-Partenkirchen" nach="Augsburg Hbf">
+    <via name="Raisting" />
+    <via name="Dießen" />
+    <via name="St Alban" />
+  </zug>
+  <zug name="RB67 86549" von="Peißenberg Nord" nach="Augsburg-Hochzoll">
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+    <via name="Westheim (Schwab)" />
+  </zug>
+  <zug name="RB67 86550" von="Garmisch-Partenkirchen" nach="Augsburg Hbf">
+    <via name="Raisting" />
+    <via name="Dießen" />
+    <via name="St Alban" />
+  </zug>
+  <zug name="RB67 86551" von="Augsburg Hbf" nach="Augsburg-Hochzoll">
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+    <via name="Westheim (Schwab)" />
+  </zug>
+  <zug name="RB67 86552" von="Garmisch-Partenkirchen" nach="Augsburg Hbf">
+    <via name="Raisting" />
+    <via name="Dießen" />
+    <via name="St Alban" />
+  </zug>
+  <zug name="RB67 86553" von="Peißenberg Nord" nach="München Hbf" />
+  <zug name="RB67 86554" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86555" von="Peißenberg Nord" nach="Augsburg-Hochzoll">
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+    <via name="Westheim (Schwab)" />
+  </zug>
+  <zug name="RB67 86556" von="Schongau" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86557" von="Augsburg Hbf" nach="München Hbf" />
+  <zug name="RB67 86558" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86560" von="Schongau" nach="Augsburg Hbf" />
+  <zug name="RB67 86561" von="Augsburg Hbf" nach="Augsburg-Hochzoll">
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+    <via name="Westheim (Schwab)" />
+  </zug>
+  <zug name="RB67 86562" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86563" von="Augsburg Hbf" nach="Augsburg-Hochzoll">
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+    <via name="Westheim (Schwab)" />
+  </zug>
+  <zug name="RB67 86564" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86565" von="München Hbf" nach="Augsburg-Oberhausen" />
+  <zug name="RB67 86566" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86567" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86569" von="München Hbf" nach="Augsburg-Oberhausen" />
+  <zug name="RB67 86570" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86571" von="München Hbf" nach="Augsburg-Oberhausen" />
+  <zug name="RB67 86572" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86573" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86574" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86575" von="München Hbf" nach="Augsburg-Oberhausen" />
+  <zug name="RB67 86576" von="Weilheim (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86577" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86578" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86580" von="Garmisch-Partenkirchen" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Raisting" />
+    <via name="Dießen" />
+  </zug>
+  <zug name="RB67 86581" von="München Hbf" nach="Augsburg-Hochzoll" />
+  <zug name="RB67 86582" von="Weilheim (Oberbay)" nach="Gessertshausen">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86584" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86585" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86586" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86588" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Garmisch-Partenkirchen" />
+    <via name="Murnau" />
+  </zug>
+  <zug name="RB67 86589" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86590" von="Weilheim (Oberbay)" nach="Augsburg Haunstetterstraße">
+    <via name="Augsburg Hbf" />
+    <via name="Mering-St Afra" />
+    <via name="Kissing" />
+  </zug>
+  <zug name="RB67 86592" von="Weilheim (Oberbay)" nach="Augsburg Hbf" />
+  <zug name="RB67 86593" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86595" von="München Hbf" nach="Garmisch-Partenkirchen" />
+  <zug name="RB67 86596" von="Weilheim (Oberbay)" nach="Augsburg Hbf" />
+  <zug name="RB67 86600" von="Weilheim (Oberbay)" nach="Augsburg Hbf" />
+  <zug name="RB67 86604" von="Weilheim (Oberbay)" nach="Augsburg Hbf" />
+  <zug name="RB67 86606" von="Murnau" nach="Gessertshausen">
+    <via name="Mering" />
+    <via name="Augsburg-Hochzoll" />
+    <via name="Augsburg-Oberhausen" />
+  </zug>
+  <zug name="RB68 25804" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RB68 3876" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB68 5558" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RB68 58116" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB68 62700" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Fürstenfeldbruck" />
+  </zug>
+  <zug name="RB68 62701" von="Füssen" nach="München Hbf" />
+  <zug name="RB68 62702" von="Bobingen" nach="Augsburg Hbf" />
+  <zug name="RB68 62703" von="Füssen" nach="München Hbf" />
+  <zug name="RB68 62713" von="Lindau-Insel" nach="Kaufbeuren">
+    <via name="Marktoberdorf" />
+    <via name="Ebenhofen" />
+  </zug>
+  <zug name="RB69 198" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RB69 57404" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RB69 57408" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RB69 57412" von="München Hbf" nach="Inningen" />
+  <zug name="RB69 62800" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62801" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62802" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62803" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62804" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62805" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62806" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62807" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62808" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62809" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62810" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62811" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62812" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62813" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62814" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62815" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62816" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62817" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62818" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62819" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62820" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62821" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62822" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62823" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62824" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62825" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62826" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62827" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62828" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62829" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62830" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62831" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62832" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62833" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62834" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62835" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62836" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62837" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62838" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62839" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62840" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62841" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62842" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62843" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62844" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62845" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62846" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62847" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62848" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62849" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62850" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62851" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62852" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62853" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62854" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62855" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62856" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62857" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62858" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62859" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62860" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62861" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62862" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62863" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62864" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62865" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62866" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62867" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62868" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62869" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62870" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62871" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62872" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62900" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62901" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62902" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62903" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62904" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62905" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62906" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62907" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62908" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62909" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62910" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62911" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62912" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62913" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62914" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62915" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62916" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62917" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62918" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62919" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="Landsberg (Lech) ia" />
+    <via name="Landsberg (L) Schule" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB69 62920" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62921" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RB69 62922" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62923" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RB69 62924" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62925" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62926" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62927" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62928" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62929" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62930" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62931" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62932" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62933" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62934" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62935" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62936" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62937" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62938" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62939" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62940" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62941" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62942" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62943" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62944" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62945" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62946" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62947" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62948" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62949" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62950" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62951" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62952" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62953" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62954" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62955" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62956" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB69 62957" von="Landsberg (Lech) ia" nach="München Hbf" />
+  <zug name="RB69 62958" von="München Hbf" nach="Landsberg (Lech) ia" />
+  <zug name="RB74 25800" von="Bregenz" nach="München Hbf ia" />
+  <zug name="RB74 25802" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RB74 25807" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB74 5575" von="München Hbf" nach="Bregenz" />
+  <zug name="RB74 57218" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB74 57524" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB74 58108" von="München Hbf" nach="Sonthofen" />
+  <zug name="RB74 58110" von="München Hbf qs" nach="Sonthofen" />
+  <zug name="RB74 58111" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB74 58112" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RB74 58113" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB74 58114" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RB74 58115" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB74 58116" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RB74 58117" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RB74 58118" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RB74 58119" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB74 58120" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RB74 58121" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RB74 58122" von="München Hbf" nach="Bregenz" />
+  <zug name="RB74 58123" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB74 58140" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB74 58142" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB74 62702" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB74 78905" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB74 78913" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RB74 78914" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RB74 78959" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB77 62714" von="Bobingen" nach="Sonthofen">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Fürstenfeldbruck" />
+  </zug>
+  <zug name="RB77 62715" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RB77 62718" von="Bobingen" nach="Sonthofen">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Fürstenfeldbruck" />
+  </zug>
+  <zug name="RB77 62719" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RB77 62720" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB77 62721" von="Füssen" nach="München Hbf" />
+  <zug name="RB77 62723" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Füssen" />
+  </zug>
+  <zug name="RB77 62724" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB77 62725" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Füssen" />
+  </zug>
+  <zug name="RB77 62726" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB77 62727" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RB77 62728" von="Bobingen" nach="Sontheim (Schwab)">
+    <via name="Buchloe" />
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62729" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Füssen" />
+  </zug>
+  <zug name="RB77 62730" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RB77 62731" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Füssen" />
+  </zug>
+  <zug name="RB77 62732" von="München Hbf" nach="Inningen" />
+  <zug name="RB77 62733" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Füssen" />
+  </zug>
+  <zug name="RB77 62734" von="Bobingen" nach="Augsburg Hbf">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB77 62735" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RB78 57680" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57681" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57683" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57684" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57687" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57693" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57701" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57702" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57703" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57704" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57705" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57706" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57707" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57708" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57709" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57710" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57711" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57712" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57713" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57714" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57716" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57717" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57731" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57732" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57733" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57734" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57736" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57738" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57742" von="München Hbf" nach="Günzburg" />
+  <zug name="RB78 57747" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57748" von="München Hbf" nach="Günzburg" />
+  <zug name="RB80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 1284" von="München Hbf" nach="Muhr" />
+  <zug name="RB80 57026" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RB80 57224" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RB80 57228" von="München Hbf" nach="Muhr" />
+  <zug name="RB80 58152" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RB80 58153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 58154" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RB80 58158" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RB80 58162" von="München Hbf" nach="Muhr" />
+  <zug name="RB80 58163" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 70229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB86 1204" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 1586" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 215" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 2400" von="München Hbf" nach="Nersingen" />
+  <zug name="RB86 2405" von="Nersingen" nach="München Hbf" />
+  <zug name="RB86 2410" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 57007" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 57037" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 57066" von="München Hbf" nach="Nersingen" />
+  <zug name="RB86 57128" von="München Hbf" nach="Nersingen" />
+  <zug name="RB86 57163" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RB86 59116" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 619" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 912" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 991" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 1012" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 1061" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RB87 1502" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 216" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 219" von="Nersingen" nach="München Hbf" />
+  <zug name="RB87 3382" von="Schwabach" nach="München Hbf" />
+  <zug name="RB87 57001" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RB87 57003" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RB87 57005" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57007" von="Schwabach" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RB87 57009" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RB87 57011" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57012" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57013" von="Schwabach" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RB87 57017" von="Gessertshausen" nach="auch an allg. Feiertagen" />
+  <zug name="RB87 57019" von="Schwabach" nach="auch an allg. Feiertagen">
+    <via name="Augsburg Hbf" />
+    <via name="Stuttgart Hbf" />
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB87 57021" von="Gessertshausen" nach="auch an allg. Feiertagen" />
+  <zug name="RB87 57023" von="Schwabach" nach="München Hbf" />
+  <zug name="RB87 57027" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RB87 57028" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 57031" von="Schwabach" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RB87 57033" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57052" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57056" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57058" von="Augsburg Hbf" nach="Wasseralfingen">
+    <via name="Hofen (b Aalen)" />
+  </zug>
+  <zug name="RB87 57063" von="Schwabach" nach="München Hbf" />
+  <zug name="RB87 57064" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 57068" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 57090" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 57093" von="Schwabach" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RB87 57105" von="Schwabach" nach="Mammendorf">
+    <via name="Augsburg Hbf" />
+    <via name="Stuttgart Hbf" />
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB87 57107" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57108" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57115" von="Schwabach" nach="München Hbf" />
+  <zug name="RB87 57122" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57130" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 57135" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57166" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 57168" von="Augsburg Hbf" nach="Nersingen">
+    <via name="Mammendorf" />
+    <via name="Haspelmoor" />
+    <via name="Althegnenberg" />
+  </zug>
+  <zug name="RB87 59113" von="Schwabach" nach="München Hbf" />
+  <zug name="RB87 70050" von="München Hbf" nach="Muhr" />
+  <zug name="RB87 702" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 705" von="Schwabach" nach="München Hbf" />
+  <zug name="RB87 714" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 918" von="München Hbf" nach="Nersingen" />
+  <zug name="RB87 9506" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB89 5563" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB89 57178" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 57195" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="RB89 57312" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 57313" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="RB89 57314" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 57315" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="RB89 57316" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 57317" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="RB89 57318" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 57319" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="RB89 57320" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 57321" von="Wasseralfingen" nach="München Hbf" />
+  <zug name="RB89 57322" von="München Hbf" nach="Wasseralfingen" />
+  <zug name="RB89 78923" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB92 17871" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 25822" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RB92 5551" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 5561" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 5598" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RB92 57507" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RB92 57519" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RB92 57644" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 58108" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 59673" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RB92 7878" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB92 7882" von="München Hbf" nach="Bregenz" />
+  <zug name="RB92 78901" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 78908" von="Sigmaringendorf" nach="München Hbf ia" />
+  <zug name="RB92 78970" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RB92 78976" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RB94 17866" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RB94 57620" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RB94 57621" von="München Hbf" nach="Sonthofen" />
+  <zug name="RB94 57622" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RB94 57625" von="München Hbf" nach="Sonthofen" />
+  <zug name="RB94 57635" von="München Hbf" nach="Sonthofen" />
+  <zug name="RB97 79877" von="Hof-Neuhof" nach="Cheb">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RB97 84539" von="München Hbf" nach="Cheb" />
+  <zug name="RB97 84543" von="München Hbf" nach="Cheb" />
+  <zug name="RB97 84544" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RB97 84547" von="München Hbf" nach="Cheb" />
+  <zug name="RB97 84551" von="Hof-Neuhof" nach="Cheb">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RB97 84553" von="Hof-Neuhof" nach="Neusorg">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RB97 84555" von="Marktredwitz" nach="Plauen (Vogtl) ob Bf">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RB97 84559" von="Marktredwitz" nach="Neusorg">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB97 84561" von="Marktredwitz" nach="Schwarzenbach (b Pressath)">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RB97 84563" von="Marktredwitz" nach="Schwarzenbach (b Pressath)">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Stockau" />
+    <via name="Seybothenreuth" />
+  </zug>
+  <zug name="RE1 39505" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 39510" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 4000" von="München Hbf" nach="Pappenheim" />
+  <zug name="RE1 4001" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 4003" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 4004" von="München Hbf" nach="Pappenheim" />
+  <zug name="RE1 4005" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RE1 4007" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RE1 4008" von="München Hbf" nach="Pappenheim" />
+  <zug name="RE1 4009" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 4010" von="München Hbf" nach="Pappenheim" />
+  <zug name="RE1 4011" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 4013" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 4015" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 4697" von="Nürnberg Hbf" nach="Ingolstadt Audi">
+    <via name="Treuchtlingen" />
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+  </zug>
+  <zug name="RE1 4699" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 57874" von="München Hbf" nach="Pappenheim" />
+  <zug name="RE1 59065" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 59068" von="München Hbf" nach="Pappenheim" />
+  <zug name="RE1 59071" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 59085" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 59089" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 59090" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 59092" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 59143" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE1 59144" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 59148" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 59155" von="Nürnberg Hbf" nach="München Hbf" />
+  <zug name="RE16 57299" von="Schwabach" nach="München Hbf" />
+  <zug name="RE16 59117" von="Schwabach" nach="München Hbf" />
+  <zug name="RE16 59127" von="Schwabach" nach="München Hbf" />
+  <zug name="RE16 981" von="Schwabach" nach="München Hbf" />
+  <zug name="RE17 3284" von="Schwabach" nach="München Hbf" />
+  <zug name="RE17 3380" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE17 3381" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE17 3382" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE17 3384" von="Schwabach" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RE17 3385" von="Augsburg Hbf" nach="München Hbf" />
+  <zug name="RE17 3386" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE17 3387" von="Augsburg Hbf" nach="München Hbf" />
+  <zug name="RE17 3388" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE17 57654" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE17 57667" von="Buchloe" nach="München Hbf" />
+  <zug name="RE2 4850" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RE2 4851" von="Plauen (Vogtl) ob Bf" nach="München-Moosach">
+    <via name="Passau Hbf" />
+    <via name="Neumarkt (Oberpf)" />
+    <via name="Neufahrn (Niederbay)" />
+  </zug>
+  <zug name="RE2 4852" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE2 4853" von="Plauen (Vogtl) ob Bf" nach="München-Moosach">
+    <via name="Nürnberg Hbf" />
+    <via name="Passau Hbf" />
+    <via name="Neumarkt (Oberpf)" />
+  </zug>
+  <zug name="RE2 4854" von="München Hbf" nach="Obertraubling" />
+  <zug name="RE2 4855" von="Plauen (Vogtl) ob Bf" nach="München-Moosach">
+    <via name="Nürnberg Hbf" />
+    <via name="Passau Hbf" />
+    <via name="Neumarkt (Oberpf)" />
+  </zug>
+  <zug name="RE2 4856" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE2 4857" von="Gera Hbf" nach="München Hbf" />
+  <zug name="RE2 4858" von="München Hbf" nach="Landshut (Bay) Hbf" />
+  <zug name="RE2 79864" von="Plauen (Vogtl) ob Bf" nach="München Hbf" />
+  <zug name="RE22 57900" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE22 57901" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RE22 57902" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE22 57903" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RE22 57904" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE22 57905" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RE22 57906" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE22 57907" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RE22 57908" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE22 57909" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RE22 57910" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE22 57911" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RE22 57912" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE22 57914" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE22 57916" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE22 57918" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE22 57941" von="Weiden (Oberpf)" nach="München Hbf" />
+  <zug name="RE22 57943" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RE22 57946" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE23 79864" von="Hof Hbf" nach="München Hbf" />
+  <zug name="RE25 353" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE25 355" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE25 356" von="Leipzig Hbf" nach="München Hbf" />
+  <zug name="RE25 357" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE25 358" von="Leipzig Hbf" nach="München Hbf" />
+  <zug name="RE25 360" von="Leipzig Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Passau Hbf" />
+  </zug>
+  <zug name="RE25 362" von="Gera Hbf" nach="Passau Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Praha hl.n." />
+    <via name="Neumarkt (Oberpf)" />
+  </zug>
+  <zug name="RE25 365" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE25 79860" von="Plauen (Vogtl) ob Bf" nach="München-Moosach">
+    <via name="Passau Hbf" />
+    <via name="Neumarkt (Oberpf)" />
+    <via name="Neufahrn (Niederbay)" />
+  </zug>
+  <zug name="RE25 79862" von="Plauen (Vogtl) ob Bf" nach="München-Moosach">
+    <via name="Passau Hbf" />
+    <via name="Neumarkt (Oberpf)" />
+    <via name="Neufahrn (Niederbay)" />
+  </zug>
+  <zug name="RE3 4050" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE3 4051" von="Vilshofen (Niederbay)" nach="München-Moosach">
+    <via name="Passau Hbf" />
+    <via name="Weiden (Oberpf)" />
+    <via name="Schwandorf" />
+  </zug>
+  <zug name="RE3 4052" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE3 4053" von="Vilshofen (Niederbay)" nach="München-Moosach">
+    <via name="Passau Hbf" />
+    <via name="Weiden (Oberpf)" />
+    <via name="Schwandorf" />
+  </zug>
+  <zug name="RE3 4054" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE3 4055" von="Vilshofen (Niederbay)" nach="München-Moosach">
+    <via name="Passau Hbf" />
+    <via name="Weiden (Oberpf)" />
+    <via name="Schwandorf" />
+  </zug>
+  <zug name="RE3 4056" von="München Hbf" nach="Hof Hbf" />
+  <zug name="RE3 4057" von="Vilshofen (Niederbay)" nach="München-Moosach">
+    <via name="Hof Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Passau Hbf" />
+  </zug>
+  <zug name="RE3 4058" von="Nürnberg Hbf" nach="Hof Hbf">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Passau Hbf" />
+    <via name="Freising" />
+  </zug>
+  <zug name="RE3 4059" von="Vilshofen (Niederbay)" nach="München-Moosach">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE3 4060" von="Nürnberg Hbf" nach="Schwandorf">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Passau Hbf" />
+    <via name="Freising" />
+  </zug>
+  <zug name="RE3 4061" von="Vilshofen (Niederbay)" nach="München-Moosach">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE3 4062" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE3 4063" von="Vilshofen (Niederbay)" nach="Passau Hbf">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE3 4064" von="Nürnberg Hbf" nach="Schwandorf">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Passau Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RE3 4065" von="Vilshofen (Niederbay)" nach="Passau Hbf">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE3 4066" von="München Hbf" nach="Schwandorf" />
+  <zug name="RE3 4067" von="Vilshofen (Niederbay)" nach="Passau Hbf">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE3 4068" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE3 4069" von="Vilshofen (Niederbay)" nach="Passau Hbf">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE3 4070" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE3 4071" von="Vilshofen (Niederbay)" nach="München Hbf" />
+  <zug name="RE3 4072" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE3 4073" von="Vilshofen (Niederbay)" nach="München Hbf" />
+  <zug name="RE3 4074" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE3 4075" von="Vilshofen (Niederbay)" nach="München Hbf" />
+  <zug name="RE3 4077" von="Vilshofen (Niederbay)" nach="München Hbf" />
+  <zug name="RE3 4079" von="Vilshofen (Niederbay)" nach="München Hbf" />
+  <zug name="RE3 59298" von="München Hbf" nach="Vilshofen (Niederbay)" />
+  <zug name="RE31 3400" von="Plauen (Vogtl) ob Bf" nach="Nürnberg Ost">
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Cheb" />
+  </zug>
+  <zug name="RE31 3405" von="München Hbf" nach="Velden (b Hersbruck)" />
+  <zug name="RE31 3407" von="München Hbf" nach="Neunkirchen" />
+  <zug name="RE31 3409" von="München Hbf" nach="Landshut (Bay) Hbf" />
+  <zug name="RE31 3441" von="München Hbf" nach="Cheb" />
+  <zug name="RE31 3443" von="München Hbf" nach="Velden (b Hersbruck)" />
+  <zug name="RE40 3543" von="Plauen (Vogtl) ob Bf" nach="Neuhaus (Pegnitz)">
+    <via name="Hersbruck (r Pegnitz)" />
+    <via name="Neukirchen (b Sulzb)" />
+    <via name="Vilseck" />
+  </zug>
+  <zug name="RE40 3548" von="München Hbf" nach="Nürnberg Ost" />
+  <zug name="RE40 3550" von="München Hbf" nach="Neunkirchen" />
+  <zug name="RE40 3552" von="München Hbf" nach="Neunkirchen" />
+  <zug name="RE40 3554" von="München Hbf" nach="Altenstadt (Waldnaab)" />
+  <zug name="RE40 3556" von="München Hbf" nach="Altenstadt (Waldnaab)" />
+  <zug name="RE40 3848" von="München Hbf" nach="Neunkirchen" />
+  <zug name="RE43 3822" von="München Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE47 3420" von="München Hbf" nach="Bodenwöhr Nord" />
+  <zug name="RE47 3546" von="Regensburg Hbf" nach="Nürnberg Ost">
+    <via name="Pegnitz" />
+    <via name="Neuhaus (Pegnitz)" />
+    <via name="Velden (b Hersbruck)" />
+  </zug>
+  <zug name="RE5 1296" von="Innsbruck Hbf" nach="München Hbf is" />
+  <zug name="RE5 1298" von="Innsbruck Hbf" nach="München Hbf is" />
+  <zug name="RE5 236" von="Beimerstetten" nach="München Hbf is" />
+  <zug name="RE5 288" von="Freilassing" nach="München Hbf is" />
+  <zug name="RE5 40235" von="Freilassing" nach="München Hbf is" />
+  <zug name="RE5 79000" von="Salzburg Mülln-Altstadt i" nach="München Hbf is" />
+  <zug name="RE5 79002" von="Freilassing" nach="München Hbf is" />
+  <zug name="RE5 79004" von="Freilassing" nach="München Hbf is" />
+  <zug name="RE5 79006" von="Freilassing" nach="München Hbf is" />
+  <zug name="RE5 79012" von="Freilassing" nach="München Hbf is" />
+  <zug name="RE5 79400" von="Salzburg Mülln-Altstadt i" nach="München Hbf is" />
+  <zug name="RE50 58407" von="Nürnberg Hbf" nach="München-Moosach">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RE60 59115" von="Schwabach" nach="München Hbf" />
+  <zug name="RE60 59201" von="Schwabach" nach="München Hbf" />
+  <zug name="RE61 4878" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RE61 5413" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RE61 5445" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RE61 59444" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RE61 59446" von="Innsbruck Westbahnhof" nach="München Hbf" />
+  <zug name="RE61 59509" von="München Hbf" nach="Innsbruck Westbahnhof" />
+  <zug name="RE62 59445" von="Innsbruck Hbf" nach="Pfronten-Steinach">
+    <via name="Garmisch-Partenkirchen Hausberg" />
+    <via name="Untergrainau" />
+    <via name="Griesen (Oberbay)" />
+  </zug>
+  <zug name="RE7 17854" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RE7 3280" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE7 3281" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE7 3282" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE7 3283" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE7 3284" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE7 3285" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE7 3286" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE7 3287" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE7 3895" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE7 3897" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RE7 5550" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE7 57633" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE7 57649" von="Buchloe" nach="München Hbf" />
+  <zug name="RE7 58112" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RE7 59203" von="Schwabach" nach="München Hbf" />
+  <zug name="RE7 62700" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE70 198" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE70 25803" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE70 3687" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE70 3697" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE70 3871" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE70 3872" von="München Hbf qs" nach="Sonthofen" />
+  <zug name="RE70 3873" von="Bregenz" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE70 3875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE70 3876" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE70 3897" von="Buchloe" nach="München Hbf" />
+  <zug name="RE70 5567" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE70 5573" von="München Hbf" nach="Bregenz" />
+  <zug name="RE70 57505" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RE70 57521" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RE70 57644" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE70 57665" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RE70 78917" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE70 7895" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE70 7897" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE71 25824" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RE71 3874" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE71 5569" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE71 5592" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE71 57500" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE71 57501" von="Sontheim (Schwab)" nach="München Hbf ia">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE71 57502" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE71 57503" von="Sontheim (Schwab)" nach="München Hbf ia">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE71 57504" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE71 57505" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE71 57524" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE71 57526" von="München Hbf" nach="Inningen" />
+  <zug name="RE71 57534" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE71 7875" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RE71 7877" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE71 78929" von="München Hbf" nach="Bregenz" />
+  <zug name="RE72 25805" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RE72 5565" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE72 5594" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE72 57526" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE72 57528" von="München Hbf" nach="Bregenz" />
+  <zug name="RE72 58117" von="Bregenz" nach="München Hbf ia" />
+  <zug name="RE72 78900" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE72 78902" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE72 78903" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE72 78904" von="Sigmaringendorf" nach="Fürstenfeldbruck">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE72 78905" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE72 78906" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE72 78910" von="Sigmaringendorf" nach="München Hbf ia" />
+  <zug name="RE72 78911" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RE72 78912" von="Sontheim (Schwab)" nach="Augsburg Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Friedrichshafen Stadt qg" />
+  </zug>
+  <zug name="RE72 78913" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE72 78915" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE72 78921" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE72 78927" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE72 78954" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE72 78957" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE72 78968" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE72 78972" von="Wangen (Allgäu)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE72 78979" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE72 78981" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE73 57503" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57506" von="München Hbf" nach="Inningen" />
+  <zug name="RE73 57524" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57525" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57540" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57541" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57542" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57543" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57544" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57545" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57546" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57547" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57548" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57549" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57550" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57551" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57552" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57553" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57554" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57555" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57556" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57557" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57558" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57559" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE73 57560" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 57562" von="München Hbf" nach="Inningen" />
+  <zug name="RE73 57564" von="München Hbf" nach="Inningen" />
+  <zug name="RE73 62910" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE73 62920" von="München Hbf" nach="Inningen" />
+  <zug name="RE75 3680" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RE75 3681" von="München Hbf" nach="Lindau-Reutin" />
+  <zug name="RE75 3682" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RE75 3683" von="München Hbf" nach="Kempten (Allgäu) Ost" />
+  <zug name="RE75 3684" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+  </zug>
+  <zug name="RE75 3685" von="München Hbf" nach="Leipheim" />
+  <zug name="RE75 3691" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE75 3695" von="München Hbf" nach="Illertissen" />
+  <zug name="RE75 57404" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE75 57408" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE75 57412" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE75 57600" von="Bregenz" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+  </zug>
+  <zug name="RE75 57623" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE75 57640" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Kempten (Allgäu) Ost" />
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+  </zug>
+  <zug name="RE75 57648" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE76 194" von="München Hbf" nach="Bregenz" />
+  <zug name="RE76 196" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE76 25820" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE76 25821" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE76 57652" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE76 57665" von="Buchloe" nach="München Hbf" />
+  <zug name="RE76 58121" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RE76 58129" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE76 7872" von="München Hbf qs" nach="Sonthofen" />
+  <zug name="RE76 7874" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE76 7875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE76 7876" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE76 7878" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE76 7880" von="München Hbf" nach="Bregenz" />
+  <zug name="RE76 78964" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RE76 78982" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE79 194" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE79 196" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE79 3689" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE79 57400" von="München Hbf" nach="Sonthofen" />
+  <zug name="RE79 57401" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE79 57402" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE79 57403" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE79 57405" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE79 57406" von="München Hbf" nach="Oberstdorf" />
+  <zug name="RE79 57407" von="Oberstdorf" nach="München Hbf" />
+  <zug name="RE79 57409" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE79 57410" von="München Hbf" nach="Augsburg Hbf" />
+  <zug name="RE79 57411" von="Sontheim (Schwab)" nach="München Hbf" />
+  <zug name="RE79 62908" von="München Hbf" nach="Sontheim (Schwab)" />
+  <zug name="RE80 1204" von="Gersthofen" nach="Muhr" />
+  <zug name="RE80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 1206" von="München Hbf" nach="Muhr" />
+  <zug name="RE80 1586" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 1595" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 2082" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 2084" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57006" von="München Hbf wl" nach="Gessertshausen" />
+  <zug name="RE80 57008" von="Augsburg Hbf" nach="Gessertshausen">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
+  <zug name="RE80 57014" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 57025" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE80 57042" von="München Hbf" nach="Muhr" />
+  <zug name="RE80 57050" von="München Hbf" nach="Gessertshausen" />
+  <zug name="RE80 57062" von="München Hbf" nach="Nersingen" />
+  <zug name="RE80 57078" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57090" von="Augsburg Hbf" nach="Gessertshausen">
+    <via name="Ingolstadt Hbf" />
+    <via name="Donauwörth" />
+    <via name="Gunzenhausen" />
+  </zug>
+  <zug name="RE80 57102" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 57104" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 57115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57118" von="München Hbf eg" nach="Stuttgart Hbf" />
+  <zug name="RE80 57125" von="Würzburg-Heidingsfeld Ost" nach="Mering">
+    <via name="Ingolstadt Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RE80 57127" von="Würzburg-Heidingsfeld Ost" nach="Mering">
+    <via name="Ingolstadt Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RE80 57137" von="Schwabach" nach="Mering">
+    <via name="Ingolstadt Hbf" />
+    <via name="Gessertshausen" />
+    <via name="Diedorf (Schwab)" />
+  </zug>
+  <zug name="RE80 57145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57185" von="Schwabach" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57190" von="Mering" nach="Wasseralfingen">
+    <via name="Hofen (b Aalen)" />
+  </zug>
+  <zug name="RE80 57204" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57206" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57207" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57209" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57210" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57212" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57214" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57216" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57220" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57222" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57223" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57234" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57236" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 57237" von="Schwabach" nach="München Hbf" />
+  <zug name="RE80 57328" von="München Hbf" nach="Muhr" />
+  <zug name="RE80 58156" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 58164" von="München Hbf" nach="Muhr" />
+  <zug name="RE80 58165" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 58166" von="München Hbf" nach="Muhr" />
+  <zug name="RE80 59087" von="Schwabach" nach="München Hbf" />
+  <zug name="RE80 59091" von="Schwabach" nach="München Hbf" />
+  <zug name="RE80 610" von="München Hbf" nach="Nersingen" />
+  <zug name="RE80 70008" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70026" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70078" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70090" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70118" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70127" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70137" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70179" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70185" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70214" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70216" von="München Hbf wl" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70222" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 70225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70228" von="München Hbf" nach="Muhr" />
+  <zug name="RE80 70236" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE80 76164" von="München Hbf" nach="Würzburg-Heidingsfeld Ost" />
+  <zug name="RE89 567" von="Nersingen" nach="München Hbf" />
+  <zug name="RE89 57085" von="Schwabach" nach="München Hbf" />
+  <zug name="RE89 59085" von="Schwabach" nach="München Hbf" />
+  <zug name="RE89 59145" von="Schwabach" nach="München Hbf" />
+  <zug name="RE89 699" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE89 911" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE89 989" von="Schwabach" nach="München Hbf" />
+  <zug name="RE9 1098" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 112" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 1296" von="Leipheim" nach="Stuttgart Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Ulm Hbf ia" />
+    <via name="Mammendorf" />
+  </zug>
+  <zug name="RE9 512" von="München Hbf" nach="Nersingen" />
+  <zug name="RE9 517" von="Nersingen" nach="München Hbf" />
+  <zug name="RE9 561" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57004" von="Mering" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Mammendorf" />
+  </zug>
+  <zug name="RE9 57010" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57013" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57020" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57023" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE9 57026" von="München Hbf" nach="Nersingen" />
+  <zug name="RE9 57035" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57065" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RE9 57093" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57107" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57119" von="Gessertshausen" nach="auch an allg. Feiertagen" />
+  <zug name="RE9 57128" von="München Hbf" nach="Nersingen" />
+  <zug name="RE9 57133" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RE9 57152" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57154" von="Augsburg-Hochzoll" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+    <via name="Mammendorf" />
+  </zug>
+  <zug name="RE9 57157" von="Gessertshausen" nach="München Hbf" />
+  <zug name="RE9 57164" von="München Hbf" nach="Nersingen" />
+  <zug name="RE9 57186" von="Mering" nach="Stuttgart Hbf">
+    <via name="Hofen (b Aalen)" />
+    <via name="Wasseralfingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 59110" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 59114" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 616" von="Münster (Westf) Hbf" nach="Stuttgart Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Ulm Hbf ia" />
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RE9 692" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 987" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE9 989" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE96 3285" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE96 3875" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RE96 3880" von="München Hbf" nach="Bregenz" />
+  <zug name="RE96 5552" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE96 5553" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE96 5559" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RE96 5597" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE96 57126" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE96 58114" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE96 78909" von="Sigmaringendorf" nach="Sontheim (Schwab)">
+    <via name="Buchloe" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+  </zug>
+  <zug name="RE96 78910" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RE96 78914" von="Sigmaringendorf" nach="München Hbf" />
+  <zug name="RE96 78919" von="Wangen (Allgäu)" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Buchloe" />
+  </zug>
+  <zug name="RE96 78925" von="Sigmaringendorf" nach="Augsburg Hbf">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE96 78955" von="München Hbf" nach="Lindau-Insel" />
+  <zug name="RE96 78956" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE96 78962" von="Lindau-Insel" nach="München Hbf ia rs" />
+  <zug name="RE96 78974" von="Lindau-Insel" nach="München Hbf ia" />
+  <zug name="RE96 78982" von="Sigmaringendorf" nach="München Hbf" />
+</zza>

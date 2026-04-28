@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Wittingen">
+  <zug name="RB47 83601" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83603" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83605" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83607" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83609" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83611" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83613" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83615" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83617" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83619" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83621" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83622" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83623" von="Stederdorf (Kr Uelzen)" nach="Meine">
+    <via name="Knesebeck" />
+    <via name="Vorhop" />
+    <via name="Schönewörde" />
+  </zug>
+  <zug name="RB47 83624" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83625" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+  <zug name="RB47 83626" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83627" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+  <zug name="RB47 83628" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83629" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+  <zug name="RB47 83630" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83631" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+  <zug name="RB47 83632" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83633" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+  <zug name="RB47 83634" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83635" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+  <zug name="RB47 83636" von="Braunschweig-Gliesmarode" nach="Stederdorf (Kr Uelzen)">
+    <via name="Bad Bodenteich" />
+    <via name="Wieren" />
+  </zug>
+  <zug name="RB47 83637" von="Stederdorf (Kr Uelzen)" nach="Braunschweig Hbf">
+    <via name="Braunschweig-Gliesmarode" />
+  </zug>
+</zza>

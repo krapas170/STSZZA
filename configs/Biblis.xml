@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Biblis">
+  <zug name="RB62 13650" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 13663" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RB62 13664" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RB62 15492" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 15573" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RB62 38804" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 38819" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RB62 38823" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RB62 38932" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RB62 38940" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RB62 4561" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RB62 4562" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RB62 4565" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RB62 4566" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RB62 4773" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 13651" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 13661" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RE70 13662" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RE70 13665" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RE70 13666" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RE70 15490" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 15571" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 38766" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 38800" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 38802" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 38803" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 38807" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 38817" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RE70 38821" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RE70 38901" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 38907" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 38936" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RE70 38944" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RE70 4550" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 4551" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 4560" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RE70 4563" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Bobstadt" />
+    <via name="Bürstadt" />
+  </zug>
+  <zug name="RE70 4564" von="Mannheim Hbf" nach="Biblis" />
+  <zug name="RE70 4588" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Groß Rohrheim" />
+    <via name="Gernsheim" />
+    <via name="Biebesheim" />
+  </zug>
+</zza>

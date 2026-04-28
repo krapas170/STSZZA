@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bochum Hbf">
+  <zug name="RB40 29964" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 30750" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30751" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Letmathe" />
+  </zug>
+  <zug name="RB40 30752" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30753" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30754" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30755" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30756" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30757" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 30758" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 30759" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 30763" von="Dortmund-Barop" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Hohenlimburg" />
+  </zug>
+  <zug name="RB40 31303" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 31307" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 31342" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 31344" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 31387" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 33083" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB40 33085" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB91 2227" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 2328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 24374" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 29961" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 29962" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 29965" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 29966" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 29994" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 30760" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30762" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30764" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30766" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 30768" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31305" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31308" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31311" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31313" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31332" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31334" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31336" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31338" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31340" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31345" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31349" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31374" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31376" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31378" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31380" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31382" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31383" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31385" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31387" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31391" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31397" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 31399" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 33086" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 52223" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 52225" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 52328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RB91 61597" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE16 2326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 29968" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 29970" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 30761" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 31300" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 31301" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31302" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 31306" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 31309" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31347" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31351" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE16 31392" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE16 31393" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 2223" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 2225" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+    <via name="Hohenlimburg" />
+  </zug>
+  <zug name="RE34 2326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 2328" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 29967" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 29971" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 30765" von="Essen Hbf" nach="Welschen Ennest">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE34 31304" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE34 31330" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE34 33080" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 33081" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 33082" von="Essen Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE34 52326" von="Siegen-Weidenau" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE34 52328" von="Hagen-Vorhalle" nach="Essen Hbf">
+    <via name="Wattenscheid" />
+    <via name="Essen-Kray Süd" />
+  </zug>
+  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
+  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+</zza>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Hagenow">
+  <zug name="RB14 68873" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68918" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68919" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68920" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68921" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68922" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68923" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68924" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68925" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68926" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68927" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68928" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68929" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68930" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68931" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68932" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68933" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68934" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68935" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68936" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68937" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68938" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68939" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68940" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68941" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68942" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68943" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68944" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68945" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68946" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB14 68947" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68948" von="Spornitz" nach="Hagenow Stadt" />
+  <zug name="RB15 62271" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62272" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62273" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62274" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62275" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62276" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62278" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62280" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62282" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62283" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62284" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62286" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Kirch-Jesar" />
+  </zug>
+  <zug name="RB19 62288" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62290" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62292" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62294" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62295" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB19 62296" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62297" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB19 62298" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RE1 13000" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13004" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13005" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 13008" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13010" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13013" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 13028" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 13029" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 13196" von="Schwaan" nach="Schwarzenbek">
+    <via name="Pritzier" />
+    <via name="Brahlstorf" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+  <zug name="RE1 1577" von="Schwaan" nach="Schwarzenbek">
+    <via name="Pritzier" />
+    <via name="Brahlstorf" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+  <zug name="RE1 1599" von="Schwaan" nach="Schwarzenbek">
+    <via name="Pritzier" />
+    <via name="Brahlstorf" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+  <zug name="RE1 1678" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Kirch-Jesar" />
+    <via name="Zachun" />
+  </zug>
+  <zug name="RE1 3970" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 3971" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 3973" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 3975" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Kirch-Jesar" />
+    <via name="Zachun" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4307" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+  </zug>
+  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4309" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Bad Kleinen" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE1 4311" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Bad Kleinen" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE1 4313" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4323" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+  </zug>
+  <zug name="RE1 4330" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4331" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+  </zug>
+  <zug name="RE1 4332" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE1 4333" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+  </zug>
+  <zug name="RE1 4335" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 4338" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+    <via name="Müssen" />
+  </zug>
+  <zug name="RE4 13197" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwerin Hbf" />
+    <via name="Kirch-Jesar" />
+    <via name="Zachun" />
+  </zug>
+  <zug name="RE4 4302" von="Schwaan" nach="Schwarzenbek">
+    <via name="Pritzier" />
+    <via name="Brahlstorf" />
+    <via name="Boizenburg (Elbe)" />
+  </zug>
+</zza>

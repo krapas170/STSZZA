@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Eppingen/Sinsheim 2024">
+  <zug name="RB51 12013" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 12338" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 12375" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12402" von="Winden (Pfalz)" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12403" von="Strasbourg" nach="Karlsruhe West">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Kandel" />
+  </zug>
+  <zug name="RB51 12404" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12405" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 12406" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12407" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 12424" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12427" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 12433" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 12438" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12440" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 12441" von="Strasbourg" nach="Karlsruhe West">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Kandel" />
+  </zug>
+  <zug name="RB51 12442" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 38111" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB51 38382" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB51 38857" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 12405" von="Strasbourg" nach="Karlsruhe West">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Kandel" />
+  </zug>
+  <zug name="RB53 38887" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 81400" von="Strasbourg" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 81404" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 81405" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB53 81406" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 81408" von="Strasbourg" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 81409" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB53 81410" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB53 81411" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB53 81413" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB54 12450" von="Landau (Pfalz) Hbf" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Kandel" />
+  </zug>
+  <zug name="RB54 12452" von="Landau (Pfalz) Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+    <via name="Edenkoben" />
+  </zug>
+  <zug name="RB55 12005" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB55 12330" von="Landau (Pfalz) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB55 12337" von="Pirmasens Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB55 12403" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB55 12436" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB55 38861" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RB56 12314" von="Landau (Pfalz) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB56 12316" von="Landau (Pfalz) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RB56 12318" von="Landau (Pfalz) Süd" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE10b 19215" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
+    <via name="Sinsheim Museum/Arena" />
+    <via name="Steinsfurt" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE10b 38015" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
+    <via name="Sinsheim Museum/Arena" />
+    <via name="Steinsfurt" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE10b 38510" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE10b 38515" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
+    <via name="Sinsheim Museum/Arena" />
+    <via name="Steinsfurt" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE10b 38525" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
+    <via name="Sinsheim Museum/Arena" />
+    <via name="Steinsfurt" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE10b 38578" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE10b 38586" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE5 38018" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE5 38027" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
+    <via name="Sinsheim Museum/Arena" />
+    <via name="Steinsfurt" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE5 38508" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE5 38520" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE5 38586" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE55 12003" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE55 12401" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12001" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12002" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 12003" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12004" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 12006" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 12007" von="Saarbrücken Ost" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12008" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 12009" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12010" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 12011" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12012" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 12015" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12017" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12019" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12049" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12312" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 12331" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 38168" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+  <zug name="RE6 81402" von="Karlsruhe Hbf" nach="Neustadt (Weinstr) Süd">
+    <via name="Landau (Pfalz) Hbf" />
+    <via name="Knöringen-Essingen" />
+    <via name="Edesheim (Pfalz)" />
+  </zug>
+  <zug name="RE6 81407" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
+    <via name="Rohrbach (Pfalz)" />
+    <via name="Steinweiler" />
+    <via name="Winden (Pfalz)" />
+  </zug>
+</zza>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Oberland">
+  <zug name="RB95 21850" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21851" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21852" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21853" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21854" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21855" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21856" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21857" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21858" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21859" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21860" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21861" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21862" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21863" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21864" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21865" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21866" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21867" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21868" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21869" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21870" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21871" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21872" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21873" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21874" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21875" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21876" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21877" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21878" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21879" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21880" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21881" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+</zza>

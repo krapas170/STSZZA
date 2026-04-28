@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Stuttgart Hbf 2024">
+  <zug name="IRE200 1098" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="IRE200 1160" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IRE200 1296" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="IRE200 16048" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="IRE200 16049" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 16050" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="IRE200 16079" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 16081" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 16083" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 19112" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IRE200 19129" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 561" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 617" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 618" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IRE200 699" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 714" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IRE200 79489" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 913" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE6 19123" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="IRE6 19351" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="IRE6 19380" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 19382" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 19383" von="Stuttgart Hbf" nach="Reutlingen West" />
+  <zug name="IRE6 3250" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3251" von="Sigmaringendorf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+  </zug>
+  <zug name="IRE6 3252" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3254" von="Wangen (Allgäu)" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3868" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 79475" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX12 19208" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX12 19216" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX12 19217" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX12 19220" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX12 19222" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX12 19224" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX12 19226" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 19351" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="MEX12 19355" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX12 19357" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX12 19375" von="Neudenau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 19377" von="Neudenau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 19378" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 4207" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX12 89476" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19450" von="Jagstzell" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19451" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Hofen (b Aalen)" />
+    <via name="Westhausen" />
+  </zug>
+  <zug name="MEX13 19452" von="Jagstzell" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19453" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Hofen (b Aalen)" />
+    <via name="Westhausen" />
+  </zug>
+  <zug name="MEX13 19454" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19455" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Hofen (b Aalen)" />
+    <via name="Westhausen" />
+  </zug>
+  <zug name="MEX13 19457" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Hofen (b Aalen)" />
+    <via name="Westhausen" />
+  </zug>
+  <zug name="MEX13 19459" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="MEX13 19461" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="MEX13 19463" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19464" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19465" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19466" von="Jagstzell" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19467" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="MEX13 19468" von="Jagstzell" nach="Stuttgart Hbf" />
+  <zug name="MEX13 19469" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19471" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19473" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="MEX13 19475" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19494" von="Jagstzell" nach="Stuttgart Hbf" />
+  <zug name="MEX16 1010" von="Merklingen - Schwäbische Alb" nach="Reichenbach (Fils)">
+    <via name="Tübingen Hbf" />
+    <via name="Beimerstetten" />
+    <via name="Westerstetten" />
+  </zug>
+  <zug name="MEX16 113" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="MEX16 1160" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="MEX16 16046" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="MEX16 16051" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="MEX16 16082" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="MEX16 19102" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19103" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX16 19104" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19105" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX16 19106" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19107" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX16 19108" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19109" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19110" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19111" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+  </zug>
+  <zug name="MEX16 19112" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19113" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19114" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19115" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19116" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19117" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19118" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19120" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Tübingen Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen-Lustnau" />
+  </zug>
+  <zug name="MEX16 19121" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19122" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Tübingen Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen-Lustnau" />
+  </zug>
+  <zug name="MEX16 19124" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19125" von="Stuttgart Hbf" nach="Reutlingen West" />
+  <zug name="MEX16 19126" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19127" von="Stuttgart Hbf" nach="Reutlingen West" />
+  <zug name="MEX16 19128" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Tübingen Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen-Lustnau" />
+  </zug>
+  <zug name="MEX16 19129" von="Plochingen" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19130" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19131" von="Plochingen" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19132" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19186" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19187" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19188" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19189" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19211" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 215" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
+  <zug name="MEX16 2410" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="MEX16 4243" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
+  <zug name="MEX16 460" von="Merklingen - Schwäbische Alb" nach="Reichenbach (Fils)">
+    <via name="Stuttgart Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Beimerstetten" />
+  </zug>
+  <zug name="MEX16 614" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="MEX16 619" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
+  <zug name="MEX16 79475" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="MEX16 79489" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 911" von="Tübingen Hbf" nach="Beimerstetten">
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
+  <zug name="MEX16 913" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="MEX18 19200" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19201" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19203" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19205" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19206" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX18 19207" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX18 19209" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19210" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="MEX18 19211" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="MEX18 19212" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="MEX18 19213" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19214" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19252" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19254" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="MEX18 19257" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19261" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX18 19301" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19303" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="MEX18 19304" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19306" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19307" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19308" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19309" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19310" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Ludwigsburg" />
+  </zug>
+  <zug name="MEX18 19312" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX18 19343" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX18 19353" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 22773" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX18 22851" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="MEX19 88610" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX19 88613" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="MEX90 17500" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 17501" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="MEX90 17502" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 17503" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="MEX90 17504" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 17505" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="MEX90 17508" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 17509" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="MEX90 17510" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 17513" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="MEX90 17516" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 52368" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="MEX90 88633" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="RB14a 1184" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 15807" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RB14a 15932" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 17600" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 17608" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 17609" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RB14a 17620" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 69808" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 7100" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 7184" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB14a 7709" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RB14b 17607" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RB14b 17609" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RB14b 17901" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB16 236" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 460" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 57002" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 57054" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 57120" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB16 57136" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RB16 59134" von="Augsburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB18 19300" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RB18 19302" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RB18 19305" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB18 19311" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB18 19345" von="Neudenau" nach="Stuttgart Hbf" />
+  <zug name="RB18 19347" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="RB41 17604" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB41 17606" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB42 17613" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RB43 17609" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RB43 17624" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB43 17634" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB43 17640" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB43 2386" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB43 50183" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RB43 50284" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RB43 50388" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RB43 52381" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RB63 19119" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RB63 19379" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RB63 22744" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22756" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22760" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22772" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22774" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22776" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22777" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22778" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22807" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22809" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="RB63 22811" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="RB63 22812" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22813" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="RB63 22814" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22815" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22817" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="RB63 22818" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22819" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22823" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22841" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RB63 22843" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="RB63 22852" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22854" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22855" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Esslingen (Neckar)" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22856" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22858" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 3253" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RB63 3853" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RB74 7106" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RB8 19048" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RB8 19050" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RB8 19051" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="RB8 19089" von="Neudenau" nach="Stuttgart Hbf" />
+  <zug name="RB8 19091" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="RB8 19093" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="RB8 56721" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="RB8 56731" von="Neudenau" nach="Stuttgart Hbf" />
+  <zug name="RB83 23430" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="RB85 23454" von="Stuttgart Hbf" nach="c Schrozberg" />
+  <zug name="RB85 23455" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB85 57951" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB85 57952" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RB85 57953" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB85 57955" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB85 57956" von="Stuttgart Hbf" nach="c Schrozberg" />
+  <zug name="RB85 57958" von="Stuttgart Hbf" nach="c Schrozberg" />
+  <zug name="RB85 57960" von="Stuttgart Hbf" nach="c Schrozberg" />
+  <zug name="RB85 57962" von="Stuttgart Hbf" nach="c Schrozberg" />
+  <zug name="RB85 57964" von="Stuttgart Hbf" nach="c Schrozberg" />
+  <zug name="RB86 113" von="Stuttgart Hbf" nach="Mammendorf" />
+  <zug name="RB86 1204" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 1586" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 215" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 218" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RB86 2410" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 57007" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 57037" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 57138" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RB86 57143" von="Gessertshausen" nach="Mammendorf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB86 59116" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 619" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB86 912" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB86 916" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RB86 991" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 1012" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 1061" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RB87 1160" von="Mering-St Afra" nach="Stuttgart Hbf" />
+  <zug name="RB87 1502" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57001" von="Gessertshausen" nach="München Hbf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57003" von="Gessertshausen" nach="München Hbf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57005" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57009" von="Gessertshausen" nach="München Hbf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57011" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57012" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57017" von="Gessertshausen" nach="auch an allg. Feiertagen">
+    <via name="Ulm Hbf" />
+    <via name="München Hbf" />
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB87 57019" von="Schwabach" nach="auch an allg. Feiertagen">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57021" von="Gessertshausen" nach="auch an allg. Feiertagen">
+    <via name="Ulm Hbf" />
+    <via name="München Hbf" />
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB87 57027" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RB87 57033" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57036" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57038" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57043" von="Gessertshausen" nach="Mammendorf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57052" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57056" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57105" von="Schwabach" nach="Mammendorf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB87 57107" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57108" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57122" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 57135" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RB87 57141" von="Stuttgart Hbf" nach="Mammendorf" />
+  <zug name="RB87 714" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB87 913" von="Stuttgart Hbf" nach="Mammendorf" />
+  <zug name="RB87 9506" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB89 57079" von="Gessertshausen" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="RB89 57126" von="Augsburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB89 57218" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57290" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57291" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RB89 57292" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57293" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RB89 57294" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57295" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RB89 57296" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57297" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RB89 57298" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57300" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RB89 57301" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RB89 57303" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="RB89 57305" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="RB89 57307" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="RB89 57309" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="RB89 57311" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="RE14a 15930" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14a 17602" von="Rottweil" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14a 17626" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14a 17646" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14a 17690" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14a 181" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen">
+    <via name="S-Stadtmitte" />
+    <via name="S-Feuersee" />
+    <via name="Stuttgart Schwabstr." />
+  </zug>
+  <zug name="RE14a 69888" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14a 7701" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="S-Stadtmitte" />
+    <via name="S-Feuersee" />
+    <via name="Stuttgart Schwabstr." />
+  </zug>
+  <zug name="RE14b 17618" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14b 17622" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14b 17632" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14b 69816" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE14b 7118" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE4 17611" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="S-Stadtmitte" />
+    <via name="S-Feuersee" />
+    <via name="Stuttgart Schwabstr." />
+  </zug>
+  <zug name="RE4 17615" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RE4 17692" von="Zürich HB" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE4 69829" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE4 7105" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="S-Stadtmitte" />
+    <via name="S-Feuersee" />
+    <via name="Stuttgart Schwabstr." />
+  </zug>
+  <zug name="RE4 7708" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE40 7103" von="Stuttgart Hbf (tief)" nach="Zürich HB" />
+  <zug name="RE43 69800" von="Singen (Hohentwiel)" nach="Stuttgart Hbf (tief)" />
+  <zug name="RE5 16041" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="RE5 16045" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="RE5 19102" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="RE5 19303" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RE5 2412" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="RE5 4200" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4202" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4204" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Tübingen Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen-Lustnau" />
+  </zug>
+  <zug name="RE5 4205" von="Tübingen Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="RE5 4206" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4208" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Tübingen Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen-Lustnau" />
+  </zug>
+  <zug name="RE5 4209" von="Stuttgart Hbf" nach="Reutlingen West" />
+  <zug name="RE5 4210" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4211" von="Tübingen Hbf" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="RE5 4236" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4243" von="Stuttgart Hbf" nach="Tübingen-Lustnau" />
+  <zug name="RE5 460" von="Merklingen - Schwäbische Alb" nach="Aßling (Oberbay)">
+    <via name="Stuttgart Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Innsbruck Hbf" />
+  </zug>
+  <zug name="RE5 591" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="RE5 612" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf" />
+  <zug name="RE5 991" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb" />
+  <zug name="RE55 3209" von="Blumberg-Riedöschingen" nach="Bad Saulgau">
+    <via name="Sigmaringendorf" />
+    <via name="Mengen" />
+    <via name="Herbertingen" />
+  </zug>
+  <zug name="RE55 3211" von="Blumberg-Riedöschingen" nach="Bad Saulgau">
+    <via name="Sigmaringendorf" />
+    <via name="Mengen" />
+    <via name="Herbertingen" />
+  </zug>
+  <zug name="RE55 50183" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE55 50388" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE55 50483" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE55 69818" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE8 19052" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 19053" von="Lauda" nach="Stuttgart Hbf" />
+  <zug name="RE8 19054" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 19056" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 19057" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE8 19058" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 19059" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE8 19062" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 19064" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 56720" von="Stuttgart Hbf" nach="Würzburg Hbf" />
+  <zug name="RE8 56723" von="Würzburg Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 23400" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="RE80 57014" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 57025" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE80 57034" von="Gersthofen" nach="Stuttgart Hbf" />
+  <zug name="RE80 57102" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 57104" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE80 57118" von="München Hbf eg" nach="Stuttgart Hbf" />
+  <zug name="RE80 57184" von="Mering-St Afra" nach="Stuttgart Hbf" />
+  <zug name="RE87 17695" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE87 29392" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE87 3206" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE87 3211" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 3213" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 3246" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE87 50282" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 50284" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 69822" von="Blumberg-Riedöschingen" nach="Stuttgart Hbf" />
+  <zug name="RE87 69833" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE87 69835" von="Stuttgart Hbf" nach="Blumberg-Riedöschingen" />
+  <zug name="RE89 57023" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RE89 57031" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RE89 57037" von="Schwabach" nach="Augsburg Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Wasseralfingen" />
+    <via name="Hofen (b Aalen)" />
+  </zug>
+  <zug name="RE89 57045" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RE89 57053" von="Schwabach" nach="Mering-St Afra">
+    <via name="Aalen Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="RE89 57061" von="Schwabach" nach="Hofen (b Aalen)">
+    <via name="Aalen Hbf" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="RE89 57071" von="Stuttgart Hbf" nach="Hofen (b Aalen)" />
+  <zug name="RE89 57143" von="Stuttgart Hbf" nach="Mammendorf" />
+  <zug name="RE89 57238" von="Donauwörth" nach="Stuttgart Hbf" />
+  <zug name="RE89 57299" von="Stuttgart Hbf" nach="Augsburg Hbf" />
+  <zug name="RE89 699" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE89 911" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 1098" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 112" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 1296" von="Leipheim" nach="Stuttgart Hbf" />
+  <zug name="RE9 2401" von="Stuttgart Hbf" nach="Mammendorf" />
+  <zug name="RE9 2406" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RE9 420" von="Mering-St Afra" nach="Stuttgart Hbf" />
+  <zug name="RE9 561" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57004" von="Mering" nach="Stuttgart Hbf" />
+  <zug name="RE9 57010" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57013" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57020" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57023" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE9 57035" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57045" von="Stuttgart Hbf" nach="Mammendorf" />
+  <zug name="RE9 57084" von="Mering-St Afra" nach="Stuttgart Hbf" />
+  <zug name="RE9 57086" von="Mering" nach="Stuttgart Hbf" />
+  <zug name="RE9 57088" von="Mering" nach="Stuttgart Hbf" />
+  <zug name="RE9 57093" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57107" von="Stuttgart Hbf" nach="München Hbf" />
+  <zug name="RE9 57119" von="Gessertshausen" nach="auch an allg. Feiertagen">
+    <via name="Ulm Hbf" />
+    <via name="München Hbf" />
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 57133" von="Gessertshausen" nach="München Hbf">
+    <via name="Ulm Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57136" von="Mammendorf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57152" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 57154" von="Augsburg-Hochzoll" nach="Stuttgart Hbf" />
+  <zug name="RE9 57186" von="Mering" nach="Stuttgart Hbf" />
+  <zug name="RE9 59110" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 59114" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 616" von="Münster (Westf) Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 692" von="München Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE9 698" von="Mering-St Afra" nach="Stuttgart Hbf" />
+  <zug name="RE9 987" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE9 989" von="Stuttgart Hbf" nach="auch an allg. Feiertagen" />
+  <zug name="RE90 17507" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="RE90 17512" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="RE90 2061" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="RE90 2164" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="RE90 52365" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="RE90 52366" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="RE90 7302" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="RE90 865" von="A A n n s s b b" nach="Stuttgart Hbf" />
+  <zug name="RE90 88630" von="Roßtal" nach="Stuttgart Hbf" />
+  <zug name="RE90 88631" von="Stuttgart Hbf" nach="Roßtal" />
+  <zug name="RE90 88635" von="Stuttgart Hbf" nach="Roßtal" />
+</zza>

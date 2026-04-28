@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Lübeck Hbf">
+  <zug name="RB81 11301" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11302" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11303" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11304" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11305" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11306" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11308" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11310" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11311" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11312" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11313" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11315" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11317" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11339" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11341" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11342" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11343" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11344" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11345" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11346" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11347" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11348" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11351" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11352" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11353" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11354" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11355" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11356" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11357" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11358" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11359" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11360" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11362" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11363" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11365" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11367" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11390" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11391" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11395" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11396" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11409" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11459" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11554" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11555" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11556" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11557" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11562" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11564" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11565" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11566" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RB81 11567" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 11599" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 22931" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RB81 585" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 13081" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13082" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 13083" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13084" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 13085" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13086" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 13087" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13088" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 13089" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13090" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 13091" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13092" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13093" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13095" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Kiel Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 13191" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13192" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 13193" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 13194" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 5350" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE4 5354" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 5355" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 5356" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 5357" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 5358" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+  </zug>
+  <zug name="RE4 5359" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 5360" von="Rostock Hbf" nach="Ventschow">
+    <via name="Kiel Hbf" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5361" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 5363" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE4 5365" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Schwerin Hbf" />
+    <via name="Rostock Hbf" />
+    <via name="Lübeck St Jürgen" />
+  </zug>
+  <zug name="RE8 11359" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11400" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11401" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11402" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11403" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11404" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11405" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11406" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11407" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11408" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11410" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11412" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11413" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11415" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11417" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11440" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11442" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11443" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11444" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11445" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11446" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11447" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11448" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE8 11449" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11461" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8 11494" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE80 11309" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 11452" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE80 11453" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 11454" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE80 11455" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 11456" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE80 11457" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 11458" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE80 11460" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE80 11463" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 11465" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 11467" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE80 22929" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE86 11307" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE86 22922" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE86 22924" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE86 22926" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE86 22928" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE86 22930" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand">
+    <via name="Lübeck-Dänischburg IKEA" />
+    <via name="Lübeck-Kücknitz" />
+    <via name="Lübeck-Travem. Skandinavienkai" />
+  </zug>
+  <zug name="RE86 22933" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE86 22935" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE86 22937" von="Lübeck-Travemünde Strand" nach="Ahrensburg">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE86 585" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8X 11569" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+  <zug name="RE8X 11597" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf">
+    <via name="Reinfeld (Holst)" />
+    <via name="Bad Oldesloe" />
+    <via name="Kupfermühle" />
+  </zug>
+</zza>

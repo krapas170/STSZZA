@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Jüterbog">
+  <zug name="RE3 3149" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3169" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3171" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3192" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+  </zug>
+  <zug name="RE3 3303" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+  </zug>
+  <zug name="RE3 3304" von="Herzberg (Elster)" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+  </zug>
+  <zug name="RE3 3305" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+  </zug>
+  <zug name="RE3 3308" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3309" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3310" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3312" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3314" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3330" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+  </zug>
+  <zug name="RE3 3340" von="Herzberg (Elster)" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+  </zug>
+  <zug name="RE3 3343" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+  </zug>
+  <zug name="RE3 3345" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3346" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3348" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3350" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3362" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+  </zug>
+  <zug name="RE3 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3367" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 3373" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 37208" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 37215" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE3 37803" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3144" von="Stendal Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3147" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Berlin Hbf" />
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+  </zug>
+  <zug name="RE4 3148" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3150" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3151" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3152" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3153" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3155" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3157" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3166" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3167" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Berlin Hbf" />
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+  </zug>
+  <zug name="RE4 3168" von="Stendal Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3170" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3172" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3173" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3175" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3177" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3187" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3189" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3190" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3191" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3306" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3342" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3344" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Zörnigall" />
+    <via name="Bülzig" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 3369" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+  <zug name="RE4 37817" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Niedergörsdorf" />
+    <via name="Blönsdorf" />
+    <via name="Zahna" />
+  </zug>
+</zza>

@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Kempten (Allgäu) Hbf 2010">
+  <bahnsteig name="1" />
+  <bahnsteig name="2" />
+  <bahnsteig name="2A" />
+  <bahnsteig name="2B" />
+  <bahnsteig name="3" />
+  <bahnsteig name="3A" />
+  <bahnsteig name="3B" />
+  <bahnsteig name="4" />
+  <bahnsteig name="4A" />
+  <bahnsteig name="4B" />
+  <bahnsteig name="5" />
+  <bahnsteig name="5A" />
+  <bahnsteig name="5B" />
+  <zug name="ALX 38700" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38701" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38702" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38703" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38704" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38705" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38706" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38707" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38708" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38710" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38711" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38712" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38713" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38714" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38715" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38716" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="ALX 38717" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 38719" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 39950" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39951" von="Oberstdorf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 39952" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39953" von="Oberstdorf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 39954" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39955" von="Oberstdorf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 39956" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39957" von="Oberstdorf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 39958" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39960" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39961" von="Oberstdorf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="ALX 39962" von="München Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="ALX 39963" von="Oberstdorf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="CB 69481" von="" nach="" />
+  <zug name="CS 58320" von="Ulm Gbf" nach="" />
+  <zug name="CS 58321" von="" nach="" />
+  <zug name="CS 58327" von="" nach="Ulm Gbf" />
+  <zug name="EC 191" von="Zürich HB" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="EC 192" von="München Hbf" nach="Zürich HB">
+    <via name="Immenstadt" />
+    <via name="Lindau Hbf" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="EC 193" von="Zürich HB" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="EC 194" von="München Hbf" nach="Zürich HB">
+    <via name="Immenstadt" />
+    <via name="Lindau Hbf" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="EC 195" von="Zürich HB" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="EC 196" von="München Hbf" nach="Zürich HB">
+    <via name="Immenstadt" />
+    <via name="Lindau Hbf" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="EC 197" von="Zürich HB" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="FIR 54106" von="" nach="" />
+  <zug name="FR 47320" von="" nach="" />
+  <zug name="GC 64841" von="" nach="" />
+  <zug name="IC 118" von="Innsbruck Hbf" nach="Dortmund Hbf">
+    <via name="Memmingen" />
+    <via name="Ulm Hbf" />
+    <via name="Stuttgart Hbf" />
+    <via name="Köln Hbf" />
+  </zug>
+  <zug name="IC 119" von="Dortmund Hbf" nach="Innsbruck Hbf">
+    <via name="Lindau Hbf" />
+    <via name="Bregenz" />
+    <via name="Feldkirch" />
+    <via name="Bludenz" />
+  </zug>
+  <zug name="IC 1290" von="München Hbf" nach="Zürich HB">
+    <via name="Immenstadt" />
+    <via name="Lindau Hbf" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="IC 1291" von="Zürich HB" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="IC 2012" von="Oberstdorf" nach="Leipzig Hbf">
+    <via name="Memmingen" />
+    <via name="Ulm Hbf" />
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IC 2013" von="Leipzig Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="IC 2084" von="Oberstdorf" nach="Hamburg-Altona">
+    <via name="Augsburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kassel-Wilhelmshöhe" />
+    <via name="Hannover Hbf" />
+  </zug>
+  <zug name="IC 2085" von="Hamburg-Altona" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="KC 96791" von="" nach="" />
+  <zug name="LGAG 47323" von="" nach="" />
+  <zug name="RB 32620" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32770" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32772" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32774" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32846" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32847" von="Kempten (Allgäu) Hbf" nach="Memmingen">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+  </zug>
+  <zug name="RB 32849" von="Kempten (Allgäu) Hbf" nach="Memmingen">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+  </zug>
+  <zug name="RB 32896" von="Memmingen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32902" von="Kempten (Allgäu) Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RB 32911" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32913" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32930" von="Memmingen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32932" von="Memmingen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 32948" von="Lindau Hbf" nach="Ulm Hbf">
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RB 5469" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5470" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5471" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5472" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5473" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5474" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5475" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5476" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5477" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5478" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5479" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5481" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5483" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5489" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5491" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5493" von="Kempten (Allgäu) Hbf" nach="Garmisch-Partenkirchen">
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+    <via name="Reutte in Tirol" />
+  </zug>
+  <zug name="RB 5495" von="Kempten (Allgäu) Hbf" nach="Garmisch-Partenkirchen">
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+    <via name="Reutte in Tirol" />
+  </zug>
+  <zug name="RB 5496" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5498" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5500" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5501" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5502" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5503" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5504" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5505" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5506" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5507" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5508" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5509" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5513" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5515" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5516" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5517" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5518" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5522" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5523" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5527" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5529" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5531" von="Kempten (Allgäu) Hbf" nach="Reutte in Tirol">
+    <via name="Durach" />
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+  </zug>
+  <zug name="RB 5533" von="Kempten (Allgäu) Hbf" nach="Garmisch-Partenkirchen">
+    <via name="Oy-Mittelberg" />
+    <via name="Nesselwang" />
+    <via name="Pfronten-Ried" />
+    <via name="Reutte in Tirol" />
+  </zug>
+  <zug name="RB 5540" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5542" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RB 5544" von="Garmisch-Partenkirchen" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32606" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32607" von="Kempten (Allgäu) Hbf" nach="Augsburg Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Bobingen" />
+  </zug>
+  <zug name="RE 32608" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32609" von="Kempten (Allgäu) Hbf" nach="Augsburg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+    <via name="Bobingen" />
+  </zug>
+  <zug name="RE 32610" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32613" von="Kempten (Allgäu) Hbf" nach="Augsburg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+    <via name="Bobingen" />
+  </zug>
+  <zug name="RE 32615" von="Kempten (Allgäu) Hbf" nach="Augsburg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+    <via name="Bobingen" />
+  </zug>
+  <zug name="RE 32616" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32617" von="Kempten (Allgäu) Hbf" nach="Augsburg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+    <via name="Bobingen" />
+  </zug>
+  <zug name="RE 32618" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32632" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32634" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32665" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32666" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32667" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32668" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32669" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32671" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32675" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32676" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32677" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32681" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32684" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32687" von="Kempten (Allgäu) Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32692" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32694" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32696" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32698" von="München Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32701" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32702" von="Lindau Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32703" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 32705" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 32706" von="Kempten (Allgäu) Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32707" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32708" von="Kempten (Allgäu) Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32709" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32710" von="Lindau Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32712" von="Kempten (Allgäu) Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32713" von="Ulm Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32715" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32718" von="Kempten (Allgäu) Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32719" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32720" von="Lindau Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32721" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32722" von="Kempten (Allgäu) Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32723" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32724" von="Lindau Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32725" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32726" von="Lindau Hbf" nach="Nürnberg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE 32727" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32728" von="Lindau Hbf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 32729" von="Ulm Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32730" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32732" von="Nürnberg Hbf" nach="Lindau Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32733" von="Lindau Hbf" nach="Nürnberg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE 32734" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32735" von="Lindau Hbf" nach="Nürnberg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE 32738" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32740" von="Nürnberg Hbf" nach="Lindau Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32749" von="Lindau Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32751" von="Lindau Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32753" von="Lindau Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32754" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32755" von="Lindau Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32759" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32760" von="München Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32761" von="Lindau Hbf" nach="München Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32763" von="Lindau Hbf" nach="München Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="München Pasing" />
+  </zug>
+  <zug name="RE 32768" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32850" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32920" von="Kempten (Allgäu) Hbf" nach="Augsburg Hbf">
+    <via name="Günzach" />
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE 32923" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32927" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32929" von="Augsburg Hbf" nach="Kempten (Allgäu) Hbf" />
+  <zug name="RE 32983" von="Lindau Hbf" nach="Augsburg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE 32985" von="Lindau Hbf" nach="Augsburg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE 32986" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32990" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 32992" von="Augsburg Hbf" nach="Lindau Hbf">
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 3382" von="Lindau Hbf" nach="Nürnberg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE 3385" von="Nürnberg Hbf" nach="Lindau Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 3387" von="Nürnberg Hbf" nach="Lindau Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 3391" von="Nürnberg Hbf" nach="Lindau Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Immenstadt" />
+    <via name="Oberstaufen" />
+    <via name="Hergatz" />
+  </zug>
+  <zug name="RE 3396" von="Lindau Hbf" nach="Nürnberg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE 3885" von="Nürnberg Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3887" von="Nürnberg Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3891" von="Nürnberg Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3896" von="Oberstdorf" nach="Nürnberg Hbf">
+    <via name="Kaufbeuren" />
+    <via name="Buchloe" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE 3932" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3933" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3934" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3936" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3937" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3938" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3939" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3940" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3941" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3942" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3945" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3982" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3983" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3986" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3987" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3988" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3989" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3990" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3991" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3992" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RE 3995" von="Ulm Hbf" nach="Oberstdorf">
+    <via name="Immenstadt" />
+    <via name="Sonthofen" />
+    <via name="Fischen" />
+  </zug>
+  <zug name="RE 3996" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Dietmannsried" />
+    <via name="Bad Grönenbach" />
+    <via name="Memmingen" />
+  </zug>
+  <zug name="RF 1" von="Bw" nach="" />
+  <zug name="RF 2" von="" nach="Abstellung" />
+  <zug name="RF 5501" von="Bw" nach="" />
+  <zug name="Tfzf (D) 75810" von="Bw" nach="" />
+</zza>

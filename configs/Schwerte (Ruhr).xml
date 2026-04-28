@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Schwerte (Ruhr)">
+  <zug name="RB53 14900" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14901" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14902" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14903" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14904" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14905" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14906" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14907" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14908" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14909" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14910" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14911" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14912" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14913" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14914" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14915" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14916" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14917" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14918" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14919" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14920" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14921" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14922" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14923" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14924" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14925" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14926" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14928" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14969" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14970" von="Iserlohnerheide" nach="Dortmund Hbf">
+    <via name="Schwerte (Ruhr)" />
+    <via name="Dortmund-Aplerbeck Süd" />
+    <via name="Dortmund-Hörde" />
+  </zug>
+  <zug name="RB53 14971" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB53 14973" von="Dortmund Hbf" nach="Iserlohnerheide">
+    <via name="Schwerte-Ergste" />
+    <via name="Hennen" />
+    <via name="Kalthof (Kr Iserlohn)" />
+  </zug>
+  <zug name="RB97 23206" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RB97 23208" von="Schwerte (Ruhr)" nach="Willingen" />
+  <zug name="RB97 23211" von="Warburg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23212" von="Schwerte (Ruhr)" nach="Willingen" />
+  <zug name="RB97 23242" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RB97 23244" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RE17 10700" von="Warburg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE17 10701" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10702" von="Warburg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE17 10703" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10704" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Usseln" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10705" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10706" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Usseln" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10707" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10708" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Usseln" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10709" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10710" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Usseln" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE17 10711" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10713" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10715" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10717" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10719" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10721" von="Schwerte (Ruhr)" nach="Marsberg" />
+  <zug name="RE57 10750" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE57 10751" von="Dortmund Hbf" nach="Scherfede">
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+    <via name="Hoppecke" />
+  </zug>
+  <zug name="RE57 10752" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE57 10753" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RE57 10755" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RE57 10757" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RE57 10759" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RE57 10761" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RE57 10776" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE57 10778" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE57 10779" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RE57 10780" von="Warburg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE57 10781" von="Schwerte (Ruhr)" nach="Dortmund Hbf" />
+  <zug name="RE57 10787" von="Dortmund Hbf" nach="Scherfede">
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+    <via name="Hoppecke" />
+  </zug>
+  <zug name="RE57 10789" von="Dortmund Hbf" nach="Scherfede">
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+    <via name="Hoppecke" />
+  </zug>
+  <zug name="RE57 10970" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE57 10971" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RE57 10972" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE57 10973" von="Dortmund Hbf" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RE57 10974" von="Winterberg (Westf)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RE57 10975" von="Dortmund Hbf" nach="Marsberg">
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+    <via name="Brilon Stadt" />
+  </zug>
+</zza>

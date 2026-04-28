@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Hohen Neuendorf">
+  <zug name="RB20 18451" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB20 18453" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB20 18455" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB20 18457" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB20 18459" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB22 18101" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB22 18103" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB22 18105" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB22 18107" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB22 18109" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+  <zug name="RB22 18111" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Hennigsdorf (b Berlin)" />
+    <via name="Flughafen BER" />
+  </zug>
+</zza>

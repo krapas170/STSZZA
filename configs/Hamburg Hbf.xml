@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Hamburg Hbf">
+  <zug name="RB38 14400" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14402" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14404" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14406" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14408" von="Bremen-Oberneuland" nach="Bremen Hbf" />
+  <zug name="RB38 14410" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14412" von="Buchholz (Nordheide)" nach="Bremen Hbf" />
+  <zug name="RB38 14414" von="Buchholz (Nordheide)" nach="Bremen Hbf" />
+  <zug name="RB38 14416" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14418" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14420" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14444" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14446" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14448" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14449" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB38 14450" von="Langenhagen Mitte" nach="Bremen Hbf" />
+  <zug name="RB61 11007" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Keitum" />
+    <via name="Morsum" />
+    <via name="Klanxbüll" />
+  </zug>
+  <zug name="RB61 11009" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB61 11011" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB61 11013" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB61 11042" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB61 11047" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB61 11097" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB61 11109" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB61 11252" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB61 11262" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RB61 2214" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RB61 4192" von="Hamburg Hbf" nach="Elmshorn" />
+  <zug name="RB61 75500" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB61 75501" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Keitum" />
+    <via name="Morsum" />
+    <via name="Klanxbüll" />
+  </zug>
+  <zug name="RB61 75503" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB61 75505" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB61 75507" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB61 75508" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB61 75510" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB61 75512" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB61 75513" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB61 75514" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RB61 75521" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB61 81824" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB61 81858" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB61 81860" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB62 11001" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB62 11100" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB62 11104" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB62 11106" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB62 11108" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RB62 11110" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RB62 11136" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RB62 11138" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RB62 75517" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB71 11007" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB71 11012" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RB71 11097" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB71 11158" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11160" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RB71 11200" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11202" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11204" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11208" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11213" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 11242" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11250" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 11299" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 2081" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 279" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 595" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 75508" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 75511" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81746" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81747" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Keitum" />
+    <via name="Morsum" />
+    <via name="Klanxbüll" />
+  </zug>
+  <zug name="RB71 81750" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81751" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81755" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RB71 81793" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RB71 81821" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81823" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81825" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81827" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81828" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81831" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81846" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81848" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81850" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81856" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RB71 81859" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81863" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81865" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81893" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RB71 81895" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB71 81897" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RB81 11301" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11302" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11303" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11304" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11305" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11306" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11308" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11310" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11312" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11339" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11341" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11342" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11343" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11344" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11345" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11346" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11347" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11348" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11351" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11352" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11353" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11354" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11355" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11356" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11357" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11358" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11359" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11360" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11362" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11390" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11391" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11395" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11396" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11409" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11459" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11554" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11555" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11556" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11557" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11562" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11564" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11565" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11566" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RB81 11567" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 11599" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 22931" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RB81 585" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE10 1426" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RE6 1088" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE6 11000" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11001" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE6 11002" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11004" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11006" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11007" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 11008" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RE6 11009" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 11011" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE6 11041" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RE6 11044" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11052" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11054" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11056" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE6 11058" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RE6 11091" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RE6 11097" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 11111" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 11255" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE6 1918" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE6 2079" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE6 279" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE6 75503" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 75505" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 75510" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE6 75519" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 75521" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 81748" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE6 81752" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE6 81759" von="Keitum" nach="Hamburg Hbf" />
+  <zug name="RE6 81830" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE6 81864" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE60 4196" von="Hamburg Hbf" nach="Westerland (Sylt)" />
+  <zug name="RE60 4198" von="Hamburg Hbf" nach="Langenhorn (Schlesw)" />
+  <zug name="RE60 81862" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE7 11002" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11008" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11142" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11144" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11145" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 11149" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 11154" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11155" von="Kiel Hbf" nach="Nortorf">
+    <via name="Tarp" />
+    <via name="Schleswig" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11156" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11157" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11158" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11159" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 11160" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11161" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 11163" von="Kiel Hbf" nach="Nortorf">
+    <via name="Tarp" />
+    <via name="Schleswig" />
+    <via name="Owschlag" />
+  </zug>
+  <zug name="RE7 11190" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11194" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11196" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11199" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 11203" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11207" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11209" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11212" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE7 11241" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RE7 11244" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11246" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11247" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11249" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11251" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11253" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11254" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11255" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11256" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11257" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11258" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11263" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11290" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11291" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RE7 11292" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 11293" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11295" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 11894" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11904" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE7 11941" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 1195" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 1678" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 175" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 2095" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE7 23671" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RE7 2579" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 618" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE7 75502" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 75515" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 75516" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 75523" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 81753" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE7 81820" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 81852" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE7 81853" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 1088" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE70 11005" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 11162" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE70 11201" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 11206" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE70 11211" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 11243" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 11245" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 23673" von="Hamburg Dammtor" nach="Hamburg Hbf" />
+  <zug name="RE70 23675" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 371" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE70 75514" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE70 75518" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE70 81854" von="Hamburg Hbf" nach="Kiel Hbf" />
+  <zug name="RE70 81855" von="Kiel Hbf" nach="Hamburg Hbf" />
+  <zug name="RE74 11142" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11147" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11150" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11152" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11165" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11195" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11895" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11898" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11900" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11902" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11903" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11904" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11905" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11906" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11907" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11908" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11909" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11910" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11912" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11914" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 11941" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 11944" von="Hamburg Hbf" nach="Tarp" />
+  <zug name="RE74 1195" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE74 2575" von="Tarp" nach="Hamburg Hbf" />
+  <zug name="RE8 11359" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11400" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11401" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11402" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11403" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11404" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11405" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11406" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11407" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11408" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11410" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11412" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11440" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11441" von="Reinfeld (Holst)" nach="Hamburg Hbf" />
+  <zug name="RE8 11442" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11443" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11444" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11445" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11446" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11447" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11448" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE8 11449" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11461" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8 11494" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE80 11309" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE80 11452" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE80 11453" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE80 11454" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE80 11455" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE80 11456" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE80 11457" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE80 11458" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE80 11460" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE80 22929" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE86 11307" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE86 22922" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE86 22924" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE86 22926" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE86 22928" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE86 22930" von="Hamburg Hbf" nach="Lübeck-Travemünde Strand" />
+  <zug name="RE86 585" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8X 11569" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+  <zug name="RE8X 11597" von="Lübeck-Travemünde Strand" nach="Hamburg Hbf" />
+</zza>

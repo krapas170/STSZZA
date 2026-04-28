@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Darmstadt Hbf">
+  <zug name="RB53 58006" von="Gemünden (Main)" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB53 58012" von="Gemünden (Main)" nach="Rottendorf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RB58 28630" von="Laufach" nach="Frankfurt (Main) Hbf" />
+  <zug name="RB61 38515" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RB66 25476" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RB66 25510" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RB66 38500" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RB69 13815" von="Heidelberg Hbf" nach="Fürth (Odenw)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Birkenau" />
+  </zug>
+  <zug name="RB75 28711" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28713" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28715" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28717" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28719" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28765" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28767" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63659" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63661" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63663" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63665" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63667" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63677" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63679" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63681" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63683" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB79 58004" von="Würzburg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB79 58008" von="Würzburg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB79 58292" von="Würzburg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB82 38089" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf" />
+  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RE55 4606" von="Schöllkrippen" nach="Darmstadt Hbf" />
+  <zug name="RE55 4640" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RE60 15300" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE60 15301" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 15303" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 15311" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Süd" />
+    <via name="Bickenbach (Bergstr)" />
+    <via name="Zwingenberg (Bergstr)" />
+  </zug>
+  <zug name="RE60 15313" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Süd" />
+    <via name="Bickenbach (Bergstr)" />
+    <via name="Zwingenberg (Bergstr)" />
+  </zug>
+  <zug name="RE60 15340" von="Heidelberg Hbf" nach="Mannheim-Friedrichsfeld Süd">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RE60 15343" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 25199" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 25473" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE60 387" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 38702" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE60 4650" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE60 4659" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Süd" />
+    <via name="Bickenbach (Bergstr)" />
+    <via name="Zwingenberg (Bergstr)" />
+  </zug>
+  <zug name="RE60 4661" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Süd" />
+    <via name="Bickenbach (Bergstr)" />
+    <via name="Zwingenberg (Bergstr)" />
+  </zug>
+  <zug name="RE68 153" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE68 15302" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE68 38075" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE68 385" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE68 38515" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE68 38522" von="Frankfurt (Main) Hbf" nach="Heddesheim/Hirschberg">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 38526" von="Frankfurt (Main) Hbf" nach="Heddesheim/Hirschberg">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 38531" von="Frankfurt (Main) Hbf" nach="Mannheim Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Darmstadt Süd" />
+    <via name="Bickenbach (Bergstr)" />
+  </zug>
+  <zug name="RE68 38535" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Süd" />
+    <via name="Bickenbach (Bergstr)" />
+    <via name="Zwingenberg (Bergstr)" />
+  </zug>
+</zza>

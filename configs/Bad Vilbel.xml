@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bad Vilbel">
+  <zug name="RB34 15700" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15701" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15702" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15703" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15704" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15705" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15706" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15707" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15708" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15709" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15710" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15711" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15712" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15713" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15714" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15715" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15716" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15717" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15718" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15719" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15721" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15723" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15754" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15756" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15758" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15761" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15766" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15769" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15773" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15775" von="Glauburg-Stockheim" nach="Bad Vilbel" />
+  <zug name="RB34 15796" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB34 15798" von="Bad Vilbel" nach="Glauburg-Stockheim" />
+  <zug name="RB40 15107" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB40 15137" von="Bebra" nach="Frankfurt (Main) West" />
+  <zug name="RB40 15144" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB40 15145" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB41 15000" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15002" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15003" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB41 15004" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15005" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB41 15006" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15008" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15010" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15012" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB41 15014" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB41 15036" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15037" von="Bebra" nach="Frankfurt (Main) West" />
+  <zug name="RB41 15038" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB41 15039" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB41 15043" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB41 15045" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB41 76920" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB47 29300" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29312" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29314" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB47 29316" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB47 29318" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB47 29320" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB47 29322" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB47 29360" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29361" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB47 29362" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29364" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29370" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29372" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29374" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29376" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB47 29378" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29400" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29402" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29404" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29406" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29408" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29410" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB48 29411" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB48 29412" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB48 29414" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB48 29416" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Friedberg (Hess)" />
+    <via name="Dorheim (Wetterau)" />
+    <via name="Beienheim" />
+  </zug>
+  <zug name="RB48 29440" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RB48 29441" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB48 29443" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="RB49 76922" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Friedberg (Hess)" />
+    <via name="Beienheim" />
+    <via name="Weckesheim" />
+  </zug>
+  <zug name="RE98 24425" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt (Main) West" />
+  </zug>
+  <zug name="S6 35684" von="Frankfurt (Main) Süd" nach="Bruchenbrücken">
+    <via name="Bad Vilbel" />
+    <via name="Dortelweil" />
+    <via name="Groß Karben" />
+  </zug>
+  <zug name="S6 35685" von="Bruchenbrücken" nach="Frankfurt (Main) Süd">
+    <via name="Frankfurt (Main) Hbf Mannheimer Str." />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+  </zug>
+  <zug name="S6 75804" von="Frankfurt (Main) Süd" nach="Bruchenbrücken">
+    <via name="Bad Vilbel" />
+    <via name="Dortelweil" />
+    <via name="Groß Karben" />
+  </zug>
+  <zug name="S6 75805" von="Bruchenbrücken" nach="Frankfurt (Main) Süd">
+    <via name="Frankfurt (Main) Hbf Mannheimer Str." />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+  </zug>
+</zza>

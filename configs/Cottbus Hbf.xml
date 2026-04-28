@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Cottbus Hbf">
+  <zug name="RB31 18000" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18001" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 18002" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18003" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18004" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18005" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18006" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18007" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18008" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18009" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden Freiberger Str." />
+    <via name="Dresden Mitte" />
+    <via name="Dresden-Neustadt )" />
+  </zug>
+  <zug name="RB31 18011" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden Freiberger Str." />
+    <via name="Dresden Mitte" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 18013" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str." />
+  <zug name="RB31 18015" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18017" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RB31 18019" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RB31 18021" von="Leuthen (Cottbus)" nach="Dresden Hbf" />
+  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden Freiberger Str." />
+    <via name="Dresden Mitte" />
+    <via name="Dresden-Neustadt )" />
+  </zug>
+  <zug name="RB31 43010" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB43 18086" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 18690" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 18691" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18692" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 18693" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18694" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 18695" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18696" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 18698" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 18699" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 26080" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 26082" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RB43 44300" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Leuthen (Cottbus)" />
+    <via name="Drebkau" />
+    <via name="Neupetershain" />
+  </zug>
+  <zug name="RB49 18422" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RB49 18423" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18424" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RB49 18425" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RB49 18429" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RB49 18445" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB92 5612" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB92 5615" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE1 73713" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE1 73716" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73719" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE1 73721" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE1 73725" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE1 73727" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE1 73750" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73800" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE10 18087" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE10 18089" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE10 18185" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 18380" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+  </zug>
+  <zug name="RE10 18382" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus-Sandow" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Willmersdorf Nord" />
+  </zug>
+  <zug name="RE10 37401" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 37418" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37421" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 37422" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37481" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE10 37596" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37598" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 18180" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Leuthen (Cottbus)" />
+    <via name="Drebkau" />
+    <via name="Neupetershain" />
+  </zug>
+  <zug name="RE11 18187" von="Frankfurt (Oder)" nach="Ruhland">
+    <via name="Cottbus Hbf" />
+    <via name="Cottbus-Merzdorf" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE11 18189" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RE11 18385" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37400" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37402" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37419" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37420" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37423" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37424" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37479" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE11 37483" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz" />
+  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE13 18059" von="Cottbus Hbf" nach="Bad Liebenwerda" />
+  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE13 18061" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RE13 18063" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RE15 18280" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RE15 18281" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RE15 18283" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RE15 18285" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Drebkau" />
+    <via name="Neupetershain" />
+    <via name="Bahnsdorf" />
+  </zug>
+  <zug name="RE15 18287" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RE15 18298" von="Leipzig Hbf" nach="Leuthen (Cottbus)" />
+  <zug name="RE18 18401" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18403" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Neustadt" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
+  <zug name="RE18 18407" von="Leuthen (Cottbus)" nach="Ruhland" />
+  <zug name="RE18 18409" von="Leuthen (Cottbus)" nach="Ruhland" />
+</zza>

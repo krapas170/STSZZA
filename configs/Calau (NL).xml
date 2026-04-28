@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Calau (NL)">
+  <zug name="RB43 18086" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18690" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18691" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RB43 18692" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18693" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RB43 18694" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18695" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RB43 18696" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18698" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 18699" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RB43 26080" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 26082" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RB43 26084" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RB43 26086" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RB43 26088" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RB43 26090" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RB43 26092" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RB43 26094" von="Taucha (Leipzig)" nach="Mockrehna">
+    <via name="Kolkwitz Süd" />
+    <via name="Doberschütz" />
+  </zug>
+  <zug name="RB43 44300" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RB92 5612" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RB92 5615" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73713" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73716" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE1 73719" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73721" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73725" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73727" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE1 73739" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE1 73745" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE1 73747" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE1 73750" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE1 73800" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE1 73831" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE1 73833" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE1 73835" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE10 18087" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE10 18089" von="Frankfurt (Oder)" nach="Taucha (Leipzig)">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE10 18185" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE10 18380" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Cottbus Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Kolkwitz Süd" />
+  </zug>
+  <zug name="RE10 18382" von="Taucha (Leipzig)" nach="Frankfurt (Oder)">
+    <via name="Cottbus Hbf" />
+    <via name="Kolkwitz Süd" />
+    <via name="Cottbus-Sandow" />
+  </zug>
+  <zug name="RE10 18384" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE10 18386" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE10 18388" von="Taucha (Leipzig)" nach="Kolkwitz Süd" />
+  <zug name="RE10 18390" von="Taucha (Leipzig)" nach="Hoyerswerda">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Kolkwitz Süd" />
+  </zug>
+  <zug name="RE10 37401" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE10 37418" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37421" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE10 37422" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE10 37481" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE10 37596" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE10 37598" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE11 18187" von="Frankfurt (Oder)" nach="Ruhland">
+    <via name="Gollmitz (Niederlausitz)" />
+    <via name="Finsterwalde (Niederlausitz)" />
+    <via name="Doberlug-Kirchhain" />
+  </zug>
+  <zug name="RE11 18385" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE11 37400" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37402" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf" />
+  <zug name="RE11 37419" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE11 37420" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37423" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE11 37424" von="Markkleeberg-Gaschwitz" nach="Cottbus Hbf">
+    <via name="Ruhland" />
+  </zug>
+  <zug name="RE11 37479" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+  <zug name="RE11 37483" von="Cottbus Hbf" nach="Markkleeberg-Gaschwitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Falkenberg (Elster)" />
+    <via name="Hoyerswerda" />
+  </zug>
+</zza>

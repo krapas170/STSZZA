@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Buchloe">
+  <zug name="RB53 17844" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 17852" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 17877" von="Sigmaringendorf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 5571" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 58144" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 78915" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 78919" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB53 78975" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB68 25804" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB68 3876" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB68 5558" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB68 58116" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB68 62700" von="Bobingen" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Biessenhofen" />
+    <via name="Günzach" />
+  </zug>
+  <zug name="RB68 62701" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RB68 62703" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RB68 62704" von="Buchloe" nach="Lindau-Insel" />
+  <zug name="RB68 62706" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB68 62713" von="Lindau-Insel" nach="Kaufbeuren">
+    <via name="München Hbf ia" />
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+  </zug>
+  <zug name="RB69 198" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 57404" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 57408" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62902" von="München Hbf" nach="Landsberg (Lech) ia">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RB69 62904" von="München Hbf" nach="Landsberg (Lech) ia">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RB69 62905" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62907" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62909" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62911" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62912" von="München Hbf" nach="Landsberg (Lech) ia">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62913" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62914" von="München Hbf" nach="Landsberg (Lech) ia">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62915" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62917" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62919" von="Sontheim (Schwab)" nach="Oberottmarshausen">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB69 62921" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB69 62923" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB74 25800" von="Bregenz" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB74 25802" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB74 25807" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 5575" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 57218" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 57524" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 58108" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB74 58110" von="München Hbf qs" nach="Sonthofen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RB74 58111" von="Bregenz" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB74 58112" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB74 58113" von="Bregenz" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB74 58114" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB74 58115" von="Bregenz" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB74 58116" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB74 58117" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB74 58118" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB74 58119" von="Bregenz" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB74 58121" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB74 58122" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 58123" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB74 58129" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB74 58140" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 58142" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 62702" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 62741" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB74 78905" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 78913" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB74 78914" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB74 78959" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB77 62714" von="Bobingen" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Biessenhofen" />
+    <via name="Immenstadt" />
+  </zug>
+  <zug name="RB77 62715" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62717" von="Füssen" nach="Bobingen">
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RB77 62718" von="Bobingen" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Biessenhofen" />
+    <via name="Immenstadt" />
+  </zug>
+  <zug name="RB77 62719" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62720" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RB77 62721" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RB77 62723" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB77 62724" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RB77 62725" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB77 62726" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RB77 62727" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62728" von="Bobingen" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB77 62729" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB77 62730" von="Bobingen" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RB77 62731" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB77 62733" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB77 62735" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62737" von="Sontheim (Schwab)" nach="Augsburg Morellstr.">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62739" von="Sontheim (Schwab)" nach="Günzach">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RB77 62741" von="Sontheim (Schwab)" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RB77 62742" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62743" von="Füssen" nach="Bobingen">
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RB77 62746" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62748" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62754" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62756" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62762" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62764" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62770" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62772" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62774" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62782" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62784" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62786" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB77 62788" von="Buchloe" nach="Kaufbeuren" />
+  <zug name="RB78 57680" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57681" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57683" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57684" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57687" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57693" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57701" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57702" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57703" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57704" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57705" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57706" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57707" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57708" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57709" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57710" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57711" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57712" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57713" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57714" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57716" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57717" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57731" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57732" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57733" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57734" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57736" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57738" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57742" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB78 57747" von="Ichenhausen" nach="München Hbf" />
+  <zug name="RB78 57748" von="München Hbf" nach="Günzburg">
+    <via name="Mindelheim" />
+    <via name="Memmingen" />
+    <via name="Pfaffenhausen" />
+  </zug>
+  <zug name="RB89 5563" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB89 78923" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 17871" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 25822" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB92 5551" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 5561" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 5598" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB92 57507" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB92 57519" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB92 57644" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 58108" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 59673" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB92 7878" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 7882" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 78901" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB92 78908" von="Sigmaringendorf" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB92 78970" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB92 78976" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB94 17866" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB94 57620" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB94 57621" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB94 57622" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB94 57625" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RB94 57630" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB94 57635" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE17 3289" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE17 3380" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE17 3381" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE17 3382" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE17 3384" von="Schwabach" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE17 3385" von="Augsburg Hbf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE17 3387" von="Augsburg Hbf" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE17 57654" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE17 57667" von="Buchloe" nach="München Hbf" />
+  <zug name="RE7 17854" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE7 3280" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE7 3281" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE7 3282" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE7 3283" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE7 3284" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE7 3285" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE7 3286" von="München Hbf" nach="Augsburg Hbf">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE7 3287" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE7 3895" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE7 3897" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RE7 5550" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE7 57633" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE7 57649" von="Buchloe" nach="München Hbf" />
+  <zug name="RE7 58112" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE7 58131" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE7 62700" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE70 198" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE70 25803" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE70 3687" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE70 3871" von="Bregenz" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE70 3872" von="München Hbf qs" nach="Sonthofen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE70 3873" von="Bregenz" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE70 3875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE70 3877" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE70 3897" von="Buchloe" nach="München Hbf" />
+  <zug name="RE70 5567" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE70 5573" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE70 57505" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE70 57521" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RE70 57644" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE70 57665" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RE70 78917" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE70 7895" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE70 7897" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE71 25824" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RE71 3874" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE71 5569" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE71 5592" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE71 57500" von="München Hbf" nach="Sonthofen">
+    <via name="München Hbf qs" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE71 57501" von="Sontheim (Schwab)" nach="München Hbf ia">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE71 57502" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="München Hbf qs" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+  </zug>
+  <zug name="RE71 57503" von="Sontheim (Schwab)" nach="München Hbf ia">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE71 57504" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE71 57505" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE71 57507" von="Sontheim (Schwab)" nach="Augsburg Morellstr.">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE71 57524" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE71 57534" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE71 7875" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE71 7877" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE71 78929" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 25805" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 3389" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE72 5565" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 5594" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE72 57526" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 57528" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 58117" von="Bregenz" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE72 78900" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE72 78902" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE72 78903" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 78904" von="Sigmaringendorf" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE72 78905" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE72 78906" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE72 78910" von="Sigmaringendorf" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE72 78911" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 78912" von="Sontheim (Schwab)" nach="Augsburg Hbf">
+    <via name="München Hbf" />
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE72 78913" von="München Hbf" nach="Sonthofen">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Türkheim (Bay) Bf" />
+  </zug>
+  <zug name="RE72 78915" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE72 78921" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE72 78954" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE72 78957" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 78968" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="München Hbf" />
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE72 78972" von="Wangen (Allgäu)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE72 78979" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 78981" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE73 57503" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57524" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE73 57525" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57527" von="Sontheim (Schwab)" nach="Augsburg Morellstr.">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57540" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57541" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57542" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57543" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57544" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57545" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57546" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57547" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57548" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57549" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57550" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57551" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57552" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE73 57553" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57554" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE73 57555" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57556" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE73 57557" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57558" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE73 57559" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 57560" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE73 57561" von="Sontheim (Schwab)" nach="Augsburg Morellstr.">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 62743" von="Sontheim (Schwab)" nach="Augsburg Morellstr.">
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+    <via name="Augsburg Messe" />
+  </zug>
+  <zug name="RE73 62910" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE75 3680" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE75 3681" von="München Hbf" nach="Lindau-Reutin">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Ulm Hbf" />
+    <via name="Kaufbeuren" />
+  </zug>
+  <zug name="RE75 3682" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE75 3683" von="München Hbf" nach="Kempten (Allgäu) Ost">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Ulm Hbf" />
+    <via name="Kaufbeuren" />
+  </zug>
+  <zug name="RE75 3684" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE75 3685" von="München Hbf" nach="Leipheim">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Ulm Hbf" />
+    <via name="Kaufbeuren" />
+  </zug>
+  <zug name="RE75 3686" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE75 3691" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE75 57404" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE75 57408" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE75 57600" von="Bregenz" nach="Ulm Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE75 57623" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE75 57640" von="Oberstdorf" nach="Ulm Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE75 57648" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE76 194" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE76 196" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE76 25820" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE76 25821" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE76 57652" von="München Hbf" nach="Sonthofen">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE76 57665" von="Buchloe" nach="München Hbf" />
+  <zug name="RE76 58121" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE76 58129" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE76 7872" von="München Hbf qs" nach="Sonthofen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RE76 7874" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE76 7875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE76 7876" von="München Hbf" nach="Augsburg Hbf">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE76 7877" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE76 7880" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE76 78964" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RE76 7897" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE76 78982" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE79 196" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE79 3689" von="München Hbf" nach="Oberstdorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufbeuren" />
+    <via name="Biessenhofen" />
+  </zug>
+  <zug name="RE79 57400" von="München Hbf" nach="Sonthofen">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Türkheim (Bay) Bf" />
+  </zug>
+  <zug name="RE79 57401" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE79 57402" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Türkheim (Bay) Bf" />
+  </zug>
+  <zug name="RE79 57403" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE79 57405" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE79 57406" von="München Hbf" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE79 57407" von="Oberstdorf" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE79 57409" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE79 57411" von="Sontheim (Schwab)" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE79 57413" von="Sontheim (Schwab)" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE79 62908" von="München Hbf" nach="Sontheim (Schwab)">
+    <via name="Augsburg Morellstr." />
+    <via name="Augsburg Messe" />
+    <via name="Inningen" />
+  </zug>
+  <zug name="RE79 78918" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE96 3285" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE96 3875" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE96 3880" von="München Hbf" nach="Bregenz">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 5552" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE96 5553" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 5559" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 5597" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 57126" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 57415" von="Oberstdorf" nach="Geltendorf">
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RE96 58114" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 78909" von="Sigmaringendorf" nach="Sontheim (Schwab)">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Bad Wörishofen" />
+    <via name="Rammingen (Bay)" />
+  </zug>
+  <zug name="RE96 78910" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="München Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE96 78914" von="Sigmaringendorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE96 78919" von="Wangen (Allgäu)" nach="Oberstdorf">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Morellstr." />
+  </zug>
+  <zug name="RE96 78955" von="München Hbf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE96 78956" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE96 78962" von="Lindau-Insel" nach="München Hbf ia rs">
+    <via name="Kaufering rs" />
+    <via name="Geltendorf" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RE96 78974" von="Lindau-Insel" nach="München Hbf ia">
+    <via name="Kaufering" />
+    <via name="Landsberg (Lech)" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RE96 78982" von="Sigmaringendorf" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+  </zug>
+</zza>

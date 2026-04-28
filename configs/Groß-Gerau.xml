@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Groß-Gerau">
+  <zug name="RB62 13650" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RB62 13663" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 15492" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RB62 38804" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RB62 38819" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 38823" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 4561" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB62 4565" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RB75 28700" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28701" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28702" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28703" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28704" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28705" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28706" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28707" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28708" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28709" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28710" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28712" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28714" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28716" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28718" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28720" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28721" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28722" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28723" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28724" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28725" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28726" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28727" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28728" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28729" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28730" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28731" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28732" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28733" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28734" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28735" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28736" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28737" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28738" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28739" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28740" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28741" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28742" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28743" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28744" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28745" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28751" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28752" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28753" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28754" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28755" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28756" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28757" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28758" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28760" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28768" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28769" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28770" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 28771" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28772" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28773" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28774" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28775" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28776" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28777" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 28778" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 28785" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63650" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63651" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63652" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63653" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63654" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63655" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63656" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63657" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63658" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63660" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63662" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63664" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63666" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63668" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63669" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63670" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63671" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63672" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63673" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63674" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63675" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63676" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63678" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63680" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63682" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63684" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+  </zug>
+  <zug name="RB75 63685" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63686" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63687" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63688" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63689" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63690" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63691" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63692" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63693" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Darmstadt Nord is" />
+  </zug>
+  <zug name="RB75 63694" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Mainz-Kastel" />
+  </zug>
+  <zug name="RB75 63695" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Klein Gerau" />
+    <via name="Weiterstadt" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RE70 13661" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 13665" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 15490" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RE70 38766" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RE70 38800" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RE70 38802" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RE70 38817" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 38821" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 4550" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+  <zug name="RE70 4563" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Riedstadt-Goddelau" />
+    <via name="Stockstadt (Rhein)" />
+    <via name="Biebesheim" />
+  </zug>
+  <zug name="RE70 4588" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mörfelden" />
+    <via name="Walldorf (Hess)" />
+    <via name="Frankfurt-Niederrad" />
+  </zug>
+</zza>

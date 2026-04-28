@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Nördlingen/Dillingen">
+  <zug name="MEX13 19450" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="MEX13 19452" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="MEX13 19454" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="MEX13 19464" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="MEX13 19466" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="MEX13 19468" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="MEX13 19494" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB15 79691" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84115" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84117" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+  </zug>
+  <zug name="RB15 84119" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84121" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84123" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84125" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84127" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84129" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84131" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84133" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84244" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84246" von="Leipheim" nach="Gundelfingen (Bay)">
+    <via name="Lauingen" />
+  </zug>
+  <zug name="RB15 84248" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84250" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84252" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84253" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84254" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84255" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84256" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84257" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84258" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84259" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84261" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84266" von="Leipheim" nach="Gundelfingen (Bay)">
+    <via name="Lauingen" />
+  </zug>
+  <zug name="RB15 84267" von="Ingolstadt Hbf" nach="München Flughafen Terminal">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Höchstädt (Donau)" />
+  </zug>
+  <zug name="RB15 84268" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84269" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84271" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84273" von="Ulm Hbf" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84275" von="Ulm Hbf" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84277" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84279" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84281" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84283" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB15 84300" von="München Flughafen Terminal" nach="Ingolstadt Nord">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84302" von="München Flughafen Terminal" nach="Ingolstadt Nord">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84304" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84307" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 79689" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84115" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84116" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84118" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84122" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84126" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84130" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84151" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+  </zug>
+  <zug name="RB17 84153" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84155" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84159" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84264" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84308" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84309" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84310" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84311" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84312" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84313" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84314" von="Regensburg Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84315" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+  </zug>
+  <zug name="RB17 84316" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84317" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+  </zug>
+  <zug name="RB17 84318" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB17 84319" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Ingolstadt Hbf" />
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+  </zug>
+  <zug name="RB17 84321" von="Treuchtlingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84323" von="Nürnberg Hbf" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84325" von="Treuchtlingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84327" von="Treuchtlingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84329" von="Treuchtlingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84331" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84333" von="Nersingen" nach="Gundelshausen">
+    <via name="Höchstädt (Donau)" />
+    <via name="Blindheim" />
+    <via name="Schwenningen (Bay)" />
+  </zug>
+  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB17 84352" von="München Flughafen Terminal" nach="Ingolstadt Nord">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB51 84221" von="Nersingen" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB89 57126" von="Augsburg Hbf" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57218" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57290" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57292" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57294" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57296" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57298" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RB89 57300" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+  <zug name="RE18 84120" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE18 84124" von="München Flughafen Terminal" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE18 84128" von="Vilshofen (Niederbay)" nach="Nersingen">
+    <via name="Lauingen" />
+    <via name="Gundelfingen (Bay)" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE89 57238" von="Donauwörth" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Pflaumloch" />
+    <via name="Trochtelfingen (b Bopfingen)" />
+  </zug>
+</zza>

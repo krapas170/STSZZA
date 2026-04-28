@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Wismar">
+  <zug name="RB11 13100" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13101" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13102" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13103" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13104" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13105" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13106" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13107" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13108" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13110" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13111" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13112" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13113" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13114" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13115" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 13116" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 13117" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 33650" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 33651" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 33652" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 33653" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 33654" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 33655" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 33656" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB11 33657" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB11 33659" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB12 13220" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB12 13222" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB12 13257" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB12 13258" von="Tessin" nach="Timmendorf Strand (Poel) b" />
+  <zug name="RB12 13259" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB12 13263" von="Timmendorf Strand (Poel) b" nach="Tessin">
+    <via name="Rostock Hbf" />
+    <via name="Hornstorf" />
+    <via name="Kalsow" />
+  </zug>
+  <zug name="RB17 13150" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB17 13151" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 13152" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB17 13153" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar" />
+  <zug name="RB17 13158" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB17 13159" von="Wismar" nach="Lübstorf" />
+  <zug name="RB17 13184" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB17 52921" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB17 52926" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 52928" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 52929" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB17 52932" von="Wismar" nach="Lübstorf" />
+  <zug name="RB17 52934" von="Wismar" nach="Lübstorf" />
+  <zug name="RB17 62010" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RB17 62022" von="Wismar" nach="Lübstorf" />
+  <zug name="RB17 870" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB18 13156" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB18 13160" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RB18 13161" von="Wismar" nach="Lübstorf" />
+  <zug name="RB18 13179" von="Wismar" nach="Lübstorf" />
+  <zug name="RB18 62007" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar" />
+  <zug name="RE8 13155" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 13160" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 13181" von="Wismar" nach="Lübstorf" />
+  <zug name="RE8 13183" von="Wismar" nach="Lübstorf" />
+  <zug name="RE8 13186" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 177" von="Wismar" nach="Lübstorf" />
+  <zug name="RE8 2074" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 2093" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 2238" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 52921" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 52924" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 52927" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 52930" von="Wismar" nach="Lübstorf" />
+  <zug name="RE8 608" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 61999" von="Berlin Südkreuz" nach="Wismar" />
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz" />
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz" />
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62014" von="Wismar" nach="Berlin Zoologischer Garten" />
+  <zug name="RE8 62018" von="Wismar" nach="Lübstorf" />
+  <zug name="RE8 701" von="Wismar" nach="Berlin Südkreuz" />
+  <zug name="RE8 908" von="Berlin Südkreuz" nach="Wismar" />
+</zza>

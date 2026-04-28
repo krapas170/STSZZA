@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Herne">
+  <zug name="RB32 30200" von="Essen-Kray Nord" nach="Dortmund-Dorstfeld">
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 30201" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 30202" von="Essen-Kray Nord" nach="Dortmund-Dorstfeld">
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 30203" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 30205" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 30207" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 30285" von="Dortmund-Dorstfeld" nach="Essen-Kray Nord">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RB32 31239" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31240" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31241" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31242" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31243" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31244" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31245" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31246" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31247" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31248" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31249" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31250" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31251" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31253" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31282" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31283" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31284" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31285" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31286" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31287" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB32 31288" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB32 31289" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB35 52240" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB35 52242" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB35 52243" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB35 52244" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB35 52245" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB35 52247" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB35 52249" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB35 52251" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RB35 52270" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB35 52272" von="Düsseldorf Hbf" nach="Dortmund Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RB43 10795" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14750" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14751" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14752" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14753" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14754" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14755" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14756" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14757" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14758" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14759" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14760" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14761" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14762" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14763" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14764" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14765" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RB43 14786" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14788" von="Dorsten" nach="Dortmund Hbf">
+    <via name="Herne-Börnig" />
+    <via name="Castrop-Rauxel Süd" />
+    <via name="Castrop-Rauxel-Merklinde" />
+  </zug>
+  <zug name="RB43 14789" von="Dortmund Hbf" nach="Dorsten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Herne" />
+    <via name="Gelsenkirchen Zoo" />
+  </zug>
+  <zug name="RE19 20005" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RE19 20009" von="Dortmund Hbf" nach="Emmerich-Elten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RE19 20011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RE19 20013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20045" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20047" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 20049" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 77007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 77008" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RE19 77009" von="Dortmund Hbf" nach="Emmerich-Elten">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 77010" von="Düsseldorf Hbf" nach="Arnhem Centraal">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RE19 77011" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 77012" von="Düsseldorf Hbf" nach="Zevenaar">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Dortmund-Mengede" />
+  </zug>
+  <zug name="RE19 77013" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE19 77015" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10202" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10203" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE2 10204" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE2 10206" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10207" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE2 10208" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10209" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE2 10210" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10238" von="Dortmund Hbf" nach="Düsseldorf Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE2 10241" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE2 10243" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE2 10244" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE42 10102" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE42 10106" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE42 10107" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10110" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE42 10111" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10114" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE42 10115" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10118" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+  <zug name="RE42 10119" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Castrop-Rauxel Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Mülheim (Ruhr) Hbf" />
+  </zug>
+  <zug name="RE42 10122" von="Dortmund Hbf" nach="Viersen">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Oberhausen Hbf" />
+  </zug>
+</zza>

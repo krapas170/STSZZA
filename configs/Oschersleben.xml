@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Oschersleben">
+  <zug name="RB43 75650" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RB43 75651" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RB43 75652" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RB43 75653" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80489" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80490" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE11 80491" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80492" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE11 80493" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80494" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE11 80495" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80496" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE11 80497" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80498" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE11 80499" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80500" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE11 80501" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE11 80503" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE21 75750" von="Beyendorf" nach="Bad Harzburg ia">
+    <via name="Wernigerode Hbf" />
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+  </zug>
+  <zug name="RE21 75751" von="Wernigerode Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RE21 75752" von="Beyendorf" nach="Bad Harzburg ia">
+    <via name="Wernigerode Hbf" />
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+  </zug>
+  <zug name="RE21 75753" von="Wernigerode Hbf" nach="Halle (Saale) Hbf">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RE31 75600" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE31 75601" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE31 75602" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE31 75603" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE31 75604" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE31 75605" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE31 75606" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+  <zug name="RE31 75607" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE31 75609" von="Wernigerode Hbf" nach="Beyendorf">
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+    <via name="Osterweddingen" />
+  </zug>
+  <zug name="RE31 75634" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Nienhagen (Halberst)" />
+    <via name="Halberstadt" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
+</zza>

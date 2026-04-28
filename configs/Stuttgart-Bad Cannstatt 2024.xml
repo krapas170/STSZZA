@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Stuttgart-Bad Cannstatt 2024">
+  <zug name="IRE6 19380" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 19382" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3250" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3252" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3254" von="Wangen (Allgäu)" nach="Stuttgart Hbf" />
+  <zug name="IRE6 3868" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 19208" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19216" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19220" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19222" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19224" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19226" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 19378" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX12 89476" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19102" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19104" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19106" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19108" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19110" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19112" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19114" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19116" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19118" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19120" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="MEX16 19122" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="MEX16 19124" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19126" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19128" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="MEX16 19130" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19132" von="Beimerstetten" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19186" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX16 19188" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX18 19200" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19206" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="MEX18 19214" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19252" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19304" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19306" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19308" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19310" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19312" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB63 22744" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22756" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22760" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22772" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22774" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22776" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22778" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22812" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22814" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22818" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22852" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22854" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22856" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RB63 22858" von="Tübingen Hbf" nach="Stuttgart Hbf" />
+  <zug name="RE5 4200" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4202" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4204" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="RE5 4206" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4208" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="RE5 4210" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+  <zug name="RE5 4236" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
+</zza>

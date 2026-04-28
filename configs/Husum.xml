@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Husum">
+  <zug name="RB61 11007" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 11011" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 11038" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB61 11047" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 11065" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 11084" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB61 11096" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB61 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 11109" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 11115" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 75501" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 75507" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 75508" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB61 75510" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB61 75512" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB61 75513" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 75523" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB61 91034" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB62 11001" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB62 11017" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB62 11100" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB62 11104" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB62 11106" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB62 11113" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB62 11136" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RB62 75517" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB71 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB71 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB71 81747" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RB71 81755" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 11000" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11002" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11004" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11006" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 11009" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 11015" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 11034" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11042" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11044" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11045" von="Langenhorn (Schlesw)" nach="Husum" />
+  <zug name="RE6 11046" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11052" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11054" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11056" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11063" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 11082" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 11111" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 2311" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 75500" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 75503" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 75505" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 75506" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+  <zug name="RE6 75519" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 75521" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 75525" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 75527" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE6 81759" von="Keitum" nach="Hamburg Hbf">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE60 2311" von="Keitum" nach="Itzehoe">
+    <via name="Friedrichstadt" />
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+  </zug>
+  <zug name="RE60 4196" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Niebüll" />
+  </zug>
+</zza>

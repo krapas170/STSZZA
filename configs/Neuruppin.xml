@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Neuruppin">
+  <zug name="RB55 18550" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18551" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18552" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18553" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18554" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18555" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18556" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18557" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18558" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18559" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18561" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18586" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18587" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18588" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18589" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RB55 18590" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RB55 18591" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RE6 3600" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RE6 3601" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+  </zug>
+  <zug name="RE6 3602" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+  </zug>
+  <zug name="RE6 3603" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+  </zug>
+  <zug name="RE6 3604" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+  </zug>
+  <zug name="RE6 3605" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RE6 3621" von="Weisen" nach="Berlin-Spandau">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RE6 3622" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+  </zug>
+  <zug name="RE6 3623" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+  </zug>
+  <zug name="RE6 3624" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+  </zug>
+  <zug name="RE6 3625" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+    <via name="Beetz-Sommerfeld" />
+  </zug>
+  <zug name="RE6 3639" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin Rheinsberger Tor" />
+    <via name="Wustrau-Radensleben" />
+  </zug>
+  <zug name="RE6 3640" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+  </zug>
+  <zug name="RE6 3644" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+  <zug name="RE6 40600" von="Berlin-Spandau" nach="Weisen">
+    <via name="Neuruppin West" />
+    <via name="Walsleben" />
+    <via name="Netzeband" />
+  </zug>
+</zza>

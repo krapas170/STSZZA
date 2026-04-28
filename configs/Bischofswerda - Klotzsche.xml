@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bischofswerda - Klotzsche">
+  <zug name="RB60 5670" von="Reichenbach (Oberlausitz)" nach="Dresden Freiberger Straße">
+    <via name="Dresden Hbf" />
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+  </zug>
+  <zug name="RB60 76500" von="Reichenbach (Oberlausitz)" nach="Dresden Freiberger Straße">
+    <via name="Dresden Hbf" />
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+  </zug>
+  <zug name="RB60 76501" von="Dresden Hbf" nach="Liberec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76502" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76503" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76504" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76505" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76506" von="Reichenbach (Oberlausitz)" nach="Dresden Freiberger Straße">
+    <via name="Dresden Hbf" />
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+  </zug>
+  <zug name="RB60 76507" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76508" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76509" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76510" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76511" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76513" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB60 76514" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76516" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76518" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76520" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76522" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76524" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76526" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76528" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76530" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76538" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB60 76558" von="Bischofswerda" nach="Dresden Hbf" />
+  <zug name="RB60 76569" von="Dresden Hbf" nach="Dresden Freiberger Straße">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB61 20841" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 20843" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 20845" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 20860" von="Görlitz" nach="Eibau">
+    <via name="Langebrück (Sachs)" />
+    <via name="Dresden Industriegelände" />
+    <via name="Liberec" />
+  </zug>
+  <zug name="RB61 20928" von="Bischofswerda" nach="Dresden Hbf" />
+  <zug name="RB61 76541" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 76543" von="Dresden Hbf" nach="Liberec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB61 76544" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 76545" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RB61 76546" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf qd">
+    <via name="Dresden Hbf" />
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+  </zug>
+  <zug name="RB61 76550" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 76552" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 76554" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26900" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26901" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RE1 26902" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26903" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RE1 26904" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26906" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26908" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26910" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26912" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 26914" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5671" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RE1 5672" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5673" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RE1 5674" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5676" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5678" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5680" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5682" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5684" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5686" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE1 5688" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20840" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20841" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RE2 20842" von="Görlitz" nach="Dresden Hbf">
+    <via name="Dresden Hbf qd" />
+    <via name="Langebrück (Sachs)" />
+    <via name="Dresden Industriegelände" />
+  </zug>
+  <zug name="RE2 20843" von="Dresden Hbf" nach="Zgorzelec">
+    <via name="Bautzen" />
+    <via name="Löbau (Sachs)" />
+    <via name="Reichenbach (Oberlausitz)" />
+  </zug>
+  <zug name="RE2 20844" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20846" von="Görlitz" nach="Eibau">
+    <via name="Langebrück (Sachs)" />
+    <via name="Dresden Industriegelände" />
+    <via name="Liberec" />
+  </zug>
+  <zug name="RE2 20850" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20852" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20854" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20903" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 20907" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 20945" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 26940" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf qd">
+    <via name="Dresden Hbf" />
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+  </zug>
+  <zug name="RE2 76545" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 76547" von="Dresden Hbf" nach="Liberec">
+    <via name="Neukirch (Lausitz) Ost" />
+    <via name="Wilthen" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+</zza>

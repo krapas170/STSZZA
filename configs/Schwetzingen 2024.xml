@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Schwetzingen 2024">
+  <zug name="RB67 38915" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Schwetzingen" />
+    <via name="Oftersheim" />
+    <via name="Hockenheim" />
+  </zug>
+  <zug name="RB67 38924" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Schwetzingen-Hirschacker" />
+    <via name="Mannheim-Rheinau" />
+  </zug>
+  <zug name="RE4 1178" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Schwetzingen-Hirschacker" />
+    <via name="Mannheim-Rheinau" />
+  </zug>
+  <zug name="RE4 15408" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Schwetzingen-Hirschacker" />
+    <via name="Mannheim-Rheinau" />
+  </zug>
+  <zug name="RE4 1973" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Schwetzingen" />
+    <via name="Oftersheim" />
+    <via name="Hockenheim" />
+  </zug>
+  <zug name="RE4 270" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Schwetzingen-Hirschacker" />
+    <via name="Mannheim-Rheinau" />
+  </zug>
+  <zug name="RE4 271" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Schwetzingen" />
+    <via name="Oftersheim" />
+    <via name="Hockenheim" />
+  </zug>
+  <zug name="RE4 38926" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Schwetzingen-Hirschacker" />
+    <via name="Mannheim-Rheinau" />
+  </zug>
+  <zug name="RE4 38927" von="Mannheim-Neckarau" nach="Wiesental">
+    <via name="Schwetzingen" />
+    <via name="Oftersheim" />
+    <via name="Hockenheim" />
+  </zug>
+  <zug name="RE9 38914" von="Karlsruhe-Hagsfeld" nach="Mannheim-Neckarau">
+    <via name="Schwetzingen-Hirschacker" />
+    <via name="Mannheim-Rheinau" />
+  </zug>
+  <zug name="RE9 38997" von="Mannheim-Neckarau" nach="Karlsruhe-Hagsfeld">
+    <via name="Schwetzingen" />
+    <via name="Oftersheim" />
+    <via name="Hockenheim" />
+  </zug>
+</zza>

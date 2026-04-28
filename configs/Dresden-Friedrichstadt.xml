@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Dresden-Friedrichstadt">
+  <zug name="RB18 18417" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 1651" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 16511" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 16521" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 1653" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 16532" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 1654" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18000" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18001" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Neustadt" />
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RB31 18002" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18003" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18004" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18005" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18006" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18007" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18008" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18009" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Neustadt" />
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18011" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18013" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Neustadt" />
+    <via name="Radebeul-Zitzschewig" />
+    <via name="Rdbl.-Kötzschenbroda" />
+  </zug>
+  <zug name="RB31 18014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18015" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RB31 18016" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18018" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18021" von="Leuthen (Cottbus)" nach="Dresden Hbf" />
+  <zug name="RB31 18029" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 18030" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18041" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Neustadt" />
+    <via name="Glaubitz (Riesa)" />
+    <via name="Nünchritz" />
+  </zug>
+  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18296" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18297" von="Großenhain Cottb Bf" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 18400" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 18405" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 2440" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 2442" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 30717" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 30720" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 30729" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 30739" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 31700" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31702" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31705" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 31708" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31713" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 31716" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31718" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31733" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RB31 31734" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31735" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RB31 31758" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31760" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31761" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 31765" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 31768" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31781" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RB31 31788" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 31794" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 43010" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB31 43014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt" />
+  <zug name="RB49 18422" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18423" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18424" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18425" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18430" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RB49 18445" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB52 29740" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29742" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29743" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29744" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29745" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29746" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29747" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29748" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29749" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29750" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29751" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29752" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29753" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29754" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29755" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29756" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29757" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29758" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29759" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29760" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29761" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29762" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29763" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29764" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29765" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29766" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29767" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29776" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29777" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29778" von="Gersfeld (Rhön)" nach="Eichenzell">
+    <via name="Lütter" />
+    <via name="Rönshausen" />
+    <via name="Welkers" />
+  </zug>
+  <zug name="RB52 29779" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB52 29781" von="Fulda" nach="Gersfeld (Rhön)">
+    <via name="Schmalnau" />
+    <via name="Hettenhausen" />
+    <via name="Altenfeld (Rhön)" />
+  </zug>
+  <zug name="RB61 11007" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 11011" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 11038" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB61 11047" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 11065" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 11084" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB61 11096" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB61 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 11109" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 11115" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 75501" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 75507" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 75508" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB61 75510" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB61 75512" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB61 75513" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 75523" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB61 91034" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB62 11001" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB62 11017" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB62 11100" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB62 11104" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB62 11106" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB62 11113" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB62 11136" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RB62 75517" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB71 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB71 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB71 81747" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RB71 81755" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE11 18180" von="Leipzig Hbf" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt" />
+  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE13 18062" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 1559" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 16515" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE15 1652" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18008" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18015" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 18036" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18280" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18281" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RE15 18282" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18283" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
+  <zug name="RE15 18285" von="Hoyerswerda" nach="Dresden-Neustadt" />
+  <zug name="RE15 18289" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 18292" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18293" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 18298" von="Leipzig Hbf" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18410" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 18415" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 31707" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 31715" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 31724" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 31738" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE15 31771" von="Großenhain Cottb Bf" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE15 458" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 16518" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 16525" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 16529" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 16530" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 18002" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 18025" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 18282" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 18401" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18403" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 18408" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 2446" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 2447" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 30719" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 31703" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 31710" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 31723" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE18 31726" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE18 31737" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE50 16500" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 16501" von="Glaubitz (Riesa)" nach="Dresden Mitte">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 16502" von="Dresden Freiberger Str." nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 16505" von="Glaubitz (Riesa)" nach="Riesa">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 16506" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 16514" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 16517" von="Radebeul-Naundorf" nach="Bennewitz">
+    <via name="Dresden Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig-Engelsdorf" />
+  </zug>
+  <zug name="RE50 16526" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 16533" von="Großenhain Cottb Bf" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 16536" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 16537" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 16548" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 1655" von="Großenhain Cottb Bf" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 1657" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 16644" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18007" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 18014" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18019" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE50 18022" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18029" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 18033" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 18034" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18280" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18284" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18287" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE50 18403" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 18412" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18416" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 18418" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 1944" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 2048" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 2561" von="Priestewitz" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 2579" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 31725" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 31727" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 31728" von="Dresden Hbf" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 31736" von="Dresden Hbf" nach="Radebeul-Naundorf">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 31745" von="Niederau" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 31752" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 31762" von="Dresden Hbf" nach="Niederau">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 31763" von="Niederau" nach="Dresden Hbf">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 31770" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 31778" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+    <via name="Dresden-Stetzsch" />
+  </zug>
+  <zug name="RE50 31779" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE50 31789" von="Glaubitz (Riesa)" nach="Dresden Freiberger Str.">
+    <via name="Dresden-Trachau" />
+    <via name="Dresden-Pieschen" />
+    <via name="Dresden Bischofsplatz" />
+  </zug>
+  <zug name="RE6 11000" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11002" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11004" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11006" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 11009" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 11015" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 11034" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11042" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11044" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11046" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11052" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11054" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11056" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11063" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 11082" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 11111" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 2311" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 75500" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 75503" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 75505" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 75506" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+  <zug name="RE6 75519" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 75521" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 75525" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 75527" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE6 81759" von="Keitum" nach="Hamburg Hbf">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE60 2311" von="Keitum" nach="Itzehoe">
+    <via name="Lunden" />
+    <via name="Heide (Holst)" />
+    <via name="Meldorf" />
+  </zug>
+  <zug name="RE60 4196" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Husum" />
+    <via name="Bredstedt" />
+    <via name="Langenhorn (Schlesw)" />
+  </zug>
+</zza>

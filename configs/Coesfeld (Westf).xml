@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Coesfeld (Westf)">
+  <zug name="RB51 14600" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 14601" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14602" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 14603" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14604" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 14605" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14606" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 14607" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14608" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14609" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14610" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14611" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14612" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14613" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14614" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14615" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14616" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 14617" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14619" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14621" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14623" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14625" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 14627" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20250" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 20251" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20252" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 20253" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20254" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 20255" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20256" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 20257" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20258" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB51 20259" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20260" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20261" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20262" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20263" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20264" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20265" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20266" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20267" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB51 20268" von="Dortmund Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB51 20286" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB63 14700" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14701" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14702" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14703" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14704" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14705" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14707" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14708" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14709" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14710" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14711" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14712" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14713" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14714" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14715" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14716" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14717" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14718" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14719" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14720" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14721" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14743" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14744" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14746" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14880" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14881" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14882" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14883" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14884" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14885" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14886" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
+  <zug name="RB63 14887" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB64 20200" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB64 20201" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20202" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB64 20203" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20204" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB64 20205" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20206" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB64 20207" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20208" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB64 20209" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20210" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB64 20211" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20212" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB64 20213" von="Enschede" nach="Dortmund-Derne">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20214" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB64 20216" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB64 20218" von="Münster (Westf) Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RB64 20236" von="Dortmund Hbf" nach="Enschede">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB64 20237" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RB64 20238" von="Münster (Westf) Hbf" nach="Epe (Westf)">
+    <via name="Coesfeld (Westf)" />
+    <via name="Rosendahl-Holtwick" />
+    <via name="Legden" />
+  </zug>
+  <zug name="RB64 20239" von="Enschede" nach="Dortmund Hbf">
+    <via name="Lünen Hbf" />
+    <via name="Lette (Kr Coesfeld)" />
+    <via name="Dülmen" />
+  </zug>
+  <zug name="RE14 89494" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89495" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89496" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89497" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89498" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89499" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89500" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89501" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89502" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89503" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89504" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89505" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89506" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89507" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89508" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89509" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89510" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89511" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89512" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89513" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89514" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89515" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89516" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89517" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89519" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89521" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89523" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89525" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89527" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89529" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89531" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89533" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89535" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89537" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89539" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89541" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89543" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89545" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89547" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89549" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89592" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89594" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89595" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89596" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89598" von="Essen Hbf" nach="Coesfeld (Westf)" />
+</zza>

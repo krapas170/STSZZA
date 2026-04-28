@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Neubrandenburg">
+  <zug name="RB16 76467" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76468" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76469" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76470" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76471" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76472" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76473" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76474" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76475" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76476" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76477" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76478" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76479" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76480" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76481" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76482" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76483" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RB16 76484" von="Fürstenberg (Havel)" nach="Wesenberg" />
+  <zug name="RB16 76485" von="Wesenberg" nach="Fürstenberg (Havel)">
+    <via name="Waren (Müritz)" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13082" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13084" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Berlin Hbf" />
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13192" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13194" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13200" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13202" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13204" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13206" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 13270" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 5350" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+  <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
+    <via name="Reuterstadt Stavenhagen" />
+    <via name="Malchin" />
+    <via name="Teterow" />
+  </zug>
+</zza>

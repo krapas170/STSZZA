@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Potsdam">
+  <zug name="RB20 18450" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB20 18451" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB20 18452" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB20 18453" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB20 18454" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB20 18455" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB20 18456" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB20 18457" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB20 18458" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB20 18459" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB20 18460" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB20 18462" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB20 18464" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB20 18466" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB20 18468" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB20 18470" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB22 18100" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB22 18101" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB22 18102" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB22 18103" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB22 18104" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB22 18105" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB22 18106" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB22 18107" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB22 18108" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB22 18109" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB22 18110" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB22 18111" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee" />
+  <zug name="RB22 18112" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB22 18114" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB22 18116" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB22 18118" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB22 18120" von="Potsdam Griebnitzsee" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB23 18140" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB23 18141" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18142" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB23 18143" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18144" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RB23 18145" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18146" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB23 18147" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18148" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB23 18149" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RB23 18150" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+  </zug>
+  <zug name="RB23 18151" von="Potsdam Park Sanssouci" nach="Flughafen BER">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62000" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62002" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62003" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 62005" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+    <via name="Berlin Zoologischer Garten" />
+  </zug>
+  <zug name="RE8 62007" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62008" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62009" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62013" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62038" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62041" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62042" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62043" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62044" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62046" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+  <zug name="RE8 62047" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Charlottenhof" />
+    <via name="Potsdam Park Sanssouci" />
+    <via name="Golm" />
+  </zug>
+  <zug name="RE8 62048" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Berlin-Charlottenburg" />
+  </zug>
+</zza>

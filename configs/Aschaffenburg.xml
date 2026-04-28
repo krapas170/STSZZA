@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Aschaffenburg">
+  <zug name="RB50 80670" von="Euerdorf" nach="Aschaffenburg Hbf" />
+  <zug name="RB50 80671" von="Aschaffenburg Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB50 80672" von="Euerdorf" nach="Untermaßfeld">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Bamberg" />
+  </zug>
+  <zug name="RB50 80673" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80674" von="Euerdorf" nach="Untermaßfeld">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Bamberg" />
+  </zug>
+  <zug name="RB50 80675" von="Aschaffenburg Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB50 80676" von="Euerdorf" nach="Aschaffenburg Hbf" />
+  <zug name="RB50 80677" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80678" von="Euerdorf" nach="Rottendorf">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RB50 80679" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80680" von="Euerdorf" nach="Rottendorf">
+    <via name="Schweinfurt Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Bamberg" />
+  </zug>
+  <zug name="RB50 80681" von="Aschaffenburg Hbf" nach="Oberhaid" />
+  <zug name="RB50 80682" von="Euerdorf" nach="Ritschenhausen">
+    <via name="Schweinfurt Hbf" />
+    <via name="Bamberg" />
+    <via name="Schweinfurt Mitte" />
+  </zug>
+  <zug name="RB50 80683" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80684" von="Euerdorf" nach="Ritschenhausen">
+    <via name="Schweinfurt Hbf" />
+    <via name="Bamberg" />
+    <via name="Schweinfurt Mitte" />
+  </zug>
+  <zug name="RB50 80685" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80686" von="Euerdorf" nach="Ritschenhausen">
+    <via name="Schweinfurt Mitte" />
+    <via name="Ebenhausen (Unterfr)" />
+    <via name="Rottershausen" />
+  </zug>
+  <zug name="RB50 80687" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80688" von="Euerdorf" nach="Ritschenhausen">
+    <via name="Schweinfurt Mitte" />
+    <via name="Ebenhausen (Unterfr)" />
+    <via name="Rottershausen" />
+  </zug>
+  <zug name="RB50 80689" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80690" von="Euerdorf" nach="Ritschenhausen">
+    <via name="Schweinfurt Mitte" />
+    <via name="Ebenhausen (Unterfr)" />
+    <via name="Rottershausen" />
+  </zug>
+  <zug name="RB50 80691" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
+  <zug name="RB50 80693" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
+  <zug name="RB50 80695" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
+  <zug name="RB50 80697" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
+  <zug name="RB50 80699" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
+  <zug name="RB53 58001" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB53 58009" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB53 58011" von="Fulda" nach="Nürnberg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB53 58019" von="Fulda" nach="Oberhaid">
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB53 58021" von="Fulda" nach="Oberhaid">
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB53 58023" von="Fulda" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB53 58025" von="Fulda" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB53 58027" von="Frankfurt (Main) Süd" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB53 58029" von="Fulda" nach="Würzburg-Zell">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB53 58035" von="Fulda" nach="Würzburg-Zell">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB53 58037" von="Fulda" nach="Würzburg-Zell">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB53 58039" von="Fulda" nach="Würzburg-Zell">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB58 28600" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28601" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28602" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28603" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28604" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28605" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB58 28606" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28607" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28608" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28609" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB58 28610" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB58 28612" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28613" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28614" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28615" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28616" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28618" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28619" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB58 28620" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28621" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RB58 28623" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28624" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+    <via name="Dettingen (Main)" />
+  </zug>
+  <zug name="RB58 28625" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB58 28626" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28628" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28630" von="Laufach" nach="Frankfurt (Main) Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Darmstadt Hbf" />
+  </zug>
+  <zug name="RB58 28632" von="Bebra" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28634" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RB58 28636" von="Bebra" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28638" von="Laufach" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28640" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RB58 28642" von="Laufach" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28646" von="Laufach" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28673" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB58 28675" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RB58 28676" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RB58 28677" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB75 28722" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28724" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28726" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28728" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28772" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28774" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28776" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28778" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63668" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63670" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63672" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63674" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63686" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63688" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63690" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 63692" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB79 58003" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB79 58015" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB79 58291" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB88 23300" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23301" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23302" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23303" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23304" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23305" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23306" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23307" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23308" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23309" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23310" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23311" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23312" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23314" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23337" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23338" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RB88 23339" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23380" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RE10 58007" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RE50 4545" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RE54 4607" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RE54 4608" von="Bebra" nach="Bad Staffelstein">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RE54 4609" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RE54 4612" von="Laufach" nach="Rottendorf">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE54 4613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RE54 4616" von="Laufach" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RE54 4639" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RE54 4644" von="Bebra" nach="Rüsselsheim Opelwerk">
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+    <via name="Dettingen (Main)" />
+  </zug>
+  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE55 4601" von="Rüsselsheim Opelwerk" nach="Oberhaid">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
+  <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE55 4603" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE55 4606" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE55 4610" von="Bebra" nach="Heigenbrücken">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE55 4611" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Kahl (Main)" />
+  </zug>
+  <zug name="RE55 4614" von="Laufach" nach="Heigenbrücken">
+    <via name="Hanau Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RE55 4640" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE55 4647" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Hösbach" />
+    <via name="Laufach" />
+    <via name="Heigenbrücken" />
+  </zug>
+  <zug name="RE55 58405" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RE59 28680" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RE59 28681" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RE59 28682" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RE59 28683" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RE59 28684" von="Laufach" nach="Rüsselsheim Opelwerk">
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kleinostheim" />
+  </zug>
+  <zug name="RE59 28685" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RE59 28686" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE59 28687" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RE59 28688" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE59 28690" von="Laufach" nach="Frankfurt (Main) Süd">
+    <via name="Hanau Hbf" />
+    <via name="Kleinostheim" />
+    <via name="Rückersbacher Schlucht" />
+  </zug>
+  <zug name="RE87 23381" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 23382" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RE87 23383" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RE87 23384" von="Wertheim-Bestenheid" nach="c Schrozberg">
+    <via name="Aschaffenburg Hochschule" />
+    <via name="Satteldorf" />
+    <via name="Wallhausen (Württ)" />
+  </zug>
+  <zug name="RE87 23385" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RE87 23386" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
+  <zug name="RE87 23396" von="Wertheim-Bestenheid" nach="c Schrozberg">
+    <via name="Aschaffenburg Hochschule" />
+    <via name="Satteldorf" />
+    <via name="Wallhausen (Württ)" />
+  </zug>
+  <zug name="RE87 4380" von="Wertheim-Bestenheid" nach="c Schrozberg">
+    <via name="Aschaffenburg Hochschule" />
+    <via name="Satteldorf" />
+    <via name="Wallhausen (Württ)" />
+  </zug>
+  <zug name="RE87 4381" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 4382" von="Wertheim-Bestenheid" nach="c Schrozberg">
+    <via name="Aschaffenburg Hochschule" />
+    <via name="Satteldorf" />
+    <via name="Wallhausen (Württ)" />
+  </zug>
+  <zug name="RE87 4383" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 4385" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 4387" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+</zza>

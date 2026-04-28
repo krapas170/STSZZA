@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Schönebeck(Elbe)">
+  <zug name="RB37 16369" von="Bremen-Mahndorf" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 4402" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 4419" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 532" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 82893" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 82897" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 82907" von="Bremen-Farge" nach="Bremen-Walle">
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Burg" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 82910" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 82923" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 82927" von="Bremen-Farge" nach="Etelsen">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 82931" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 83120" von="Langwedel" nach="Bremen-Farge wd">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 83123" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 83139" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 83144" von="Bremen-Walle" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 83181" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 83191" von="Bremen-Farge wh" nach="Langwedel">
+    <via name="Bremen Hbf wh" />
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 83202" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 83204" von="Langwedel" nach="Bremen-Farge wd">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 83210" von="Bremen-Walle" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 83230" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 83231" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Burg" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RB37 83247" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RB37 9005" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 9057" von="Bremen Hbf" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 9221" von="Langwedel" nach="Bremen-Farge wd">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB37 9247" von="Bremen Hbf" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RB41 80388" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80390" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80392" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80394" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80396" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB47 75670" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75673" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75674" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75675" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Schönebeck (Elbe) ia" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RB47 75676" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ql" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RB47 75677" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75678" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75680" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75681" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75682" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75683" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75684" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RB47 75685" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Wernigerode Hbf" />
+  </zug>
+  <zug name="RB47 75686" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75687" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Stapelburg" />
+  </zug>
+  <zug name="RB47 75688" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75689" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Stapelburg" />
+  </zug>
+  <zug name="RB47 75690" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75691" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RB47 75692" von="Bernburg Hbf" nach="Vienenburg">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RB47 75693" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Stapelburg" />
+  </zug>
+  <zug name="RB47 75695" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RB59 74551" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Kassel Hbf" />
+    <via name="Erfurt Hbf" />
+  </zug>
+  <zug name="RB59 74581" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RB59 74583" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Kassel Hbf" />
+    <via name="Erfurt Hbf" />
+  </zug>
+  <zug name="RE1 16355" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 16363" von="Bremen-Farge" nach="Etelsen">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 16367" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Burg" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 16375" von="Bremen-Farge" nach="Hannover Hbf">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 1936" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 2038" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 4413" von="Rotenburg (Wümme)" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 4430" von="Dörverden" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 4431" von="Bremen Turnerstraße" nach="Bremen-Walle">
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 82223" von="Langwedel" nach="Bremen-Farge wd">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 82898" von="Langwedel" nach="Bremen-Farge wd">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 82913" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 83103" von="Bremen-Farge" nach="Hannover Hbf">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 83148" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 83156" von="Bremen Hbf" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 83157" von="Bremen Turnerstraße" nach="Bremen-Walle">
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 83165" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Burg" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 83201" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 83203" von="Bremen-Farge wh" nach="Langwedel">
+    <via name="Bremen Hbf wh" />
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 83211" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 83216" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 83217" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 83219" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 83235" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE1 841" von="Rotenburg (Wümme)" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE1 9033" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 9069" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE1 9101" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE10 74836" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74838" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74840" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74842" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Kassel Hbf" />
+    <via name="Erfurt Hbf" />
+  </zug>
+  <zug name="RE19 16902" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 16903" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE19 16908" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 16932" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 16935" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE19 2235" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE19 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE19 39001" von="Stederdorf (Kr Uelzen)" nach="Schönebeck (Elbe)" />
+  <zug name="RE19 39020" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 39022" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 39029" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE19 39044" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16904" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16909" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16910" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16920" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 16929" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16931" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16933" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16936" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 16937" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16938" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 16939" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16941" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16942" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16943" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16944" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16945" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16946" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16952" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16954" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16955" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 16958" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 2045" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE20 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39014" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 39015" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39016" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 39017" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39019" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39023" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39025" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39027" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39030" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 39032" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 39038" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 39040" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 39041" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 39042" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 39044" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 39045" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 39046" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 39047" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 39049" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 39051" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
+    <via name="Uelzen ZOB" />
+  </zug>
+  <zug name="RE20 502" von="Schönebeck-Bad Salzelmen if" nach="Pretzier (Altm)" />
+  <zug name="RE20 603" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 709" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck Süd" />
+  </zug>
+  <zug name="RE20 800" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16301" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16303" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16305" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16307" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16308" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE30 16309" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16310" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE30 16311" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16312" von="Nienburg (Saale)" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE30 16313" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16314" von="Nienburg (Saale)" nach="Schönebeck (Elbe)">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE30 16315" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Schönebeck (Elbe) ia" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 16316" von="Nienburg (Saale)" nach="Schönebeck (Elbe)">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+    <via name="Magdeburg-Salbke" />
+  </zug>
+  <zug name="RE30 16317" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Schönebeck (Elbe) ia" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 16318" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16319" von="Magdeburg Hasselbachplatz" nach="Nienburg (Saale)">
+    <via name="Schönebeck (Elbe) ia" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 16320" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16321" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck (Elbe) ia" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 16322" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16323" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE30 16324" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16325" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Wittenberge" />
+  </zug>
+  <zug name="RE30 16326" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16327" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RE30 16328" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16329" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RE30 16330" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16331" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RE30 16332" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16333" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16334" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16335" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16336" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16337" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 16338" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg-Salbke" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 16339" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16341" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE30 16347" von="Magdeburg Hasselbachplatz" nach="Gnadau">
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RE30 2031" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 2037" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 2038" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2039" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 2048" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2430" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2433" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 2440" von="Leipzig/Halle Flughafen" nach="Magdeburg Hasselbachplatz">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Frohse" />
+    <via name="Magdeburg Südost" />
+  </zug>
+  <zug name="RE30 2441" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 2443" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Gnadau" />
+  </zug>
+  <zug name="RE30 2447" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE30 2449" von="Stendal Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ia" />
+    <via name="Schönebeck (Elbe)" />
+  </zug>
+  <zug name="RE8 1130" von="Minden (Westf)" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 1532" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 16371" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE8 16373" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 4413" von="Rotenburg (Wümme)" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 4416" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 4443" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 60470" von="Langwedel" nach="Verden (Aller)">
+    <via name="Hannover Hbf" />
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+  </zug>
+  <zug name="RE8 82904" von="Bremen-Walle" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 82932" von="Bremen Hbf" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 82937" von="Bremen Turnerstraße" nach="Bremen-Walle">
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE8 82938" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 83104" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 83107" von="Bremen-Farge wh" nach="Langwedel">
+    <via name="Bremen Hbf wh" />
+    <via name="Bremen-St Magnus" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 83135" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE8 83152" von="Bremen Hbf" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 83165" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Burg" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE8 83168" von="Langwedel" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 83173" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE8 83184" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 83192" von="Langwedel" nach="Bremen-Farge">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 83195" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 83213" von="Bremen-Farge" nach="Bremen-Walle">
+    <via name="Bremen-Lesum" />
+    <via name="Bremen-Burg" />
+    <via name="Bremen-Oslebshausen" />
+  </zug>
+  <zug name="RE8 83245" von="Bremen-Farge" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 83251" von="Nordholz" nach="Langwedel">
+    <via name="Bremen Hbf" />
+    <via name="Bremen-St Magnus ju" />
+    <via name="Bremen-Lesum" />
+  </zug>
+  <zug name="RE8 9021" von="Langwedel" nach="Bremen-Farge wd">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 9045" von="Bremen-Walle" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+  <zug name="RE8 9113" von="Bremen-Walle" nach="Bremen Turnerstraße">
+    <via name="Bremen-Aumund" />
+    <via name="Klinikum Bremen-Nord/Beckedorf" />
+    <via name="Bremen-Blumenthal" />
+  </zug>
+</zza>

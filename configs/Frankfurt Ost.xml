@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Frankfurt Ost">
+  <zug name="S1 35185" von="Wiesbaden Ost" nach="Rodgau-Rollwald">
+    <via name="Frankfurt (M) Mühlberg" />
+    <via name="Offenbach (Main) Kaiserlei" />
+    <via name="Offenbach (Main) Ledermuseum" />
+  </zug>
+  <zug name="S3 35385" von="Bad Soden (Taunus)" nach="Darmstadt-Arheilgen">
+    <via name="Frankfurt (M) Lokalbahnhof" />
+    <via name="Frankfurt (Main) Süd" />
+    <via name="Frankfurt(Main) Stresemannallee/Mörfelder" />
+  </zug>
+  <zug name="S3 35485" von="Bad Soden (Taunus)" nach="Darmstadt-Arheilgen">
+    <via name="Frankfurt (M) Lokalbahnhof" />
+    <via name="Frankfurt (Main) Süd" />
+    <via name="Frankfurt(Main) Stresemannallee/Mörfelder" />
+  </zug>
+  <zug name="S3 75793" von="Bad Soden (Taunus)" nach="Darmstadt-Arheilgen">
+    <via name="Frankfurt (M) Lokalbahnhof" />
+    <via name="Frankfurt (Main) Süd" />
+    <via name="Frankfurt(Main) Stresemannallee/Mörfelder" />
+  </zug>
+  <zug name="S5 35584" von="Frankfurt (Main) Süd" nach="Friedrichsdorf (Taunus)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (M) Konstablerwache" />
+  </zug>
+  <zug name="S5 75796" von="Frankfurt (Main) Süd" nach="Friedrichsdorf (Taunus)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (M) Konstablerwache" />
+  </zug>
+  <zug name="S6 35684" von="Frankfurt (Main) Süd" nach="Bruchenbrücken">
+    <via name="Frankfurt (Main) Hbf Mannheimer Str." />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+  </zug>
+  <zug name="S6 35685" von="Bruchenbrücken" nach="Frankfurt (Main) Süd">
+    <via name="Frankfurt (M) Lokalbahnhof" />
+  </zug>
+  <zug name="S6 75804" von="Frankfurt (Main) Süd" nach="Bruchenbrücken">
+    <via name="Frankfurt (Main) Hbf Mannheimer Str." />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+  </zug>
+  <zug name="S6 75805" von="Bruchenbrücken" nach="Frankfurt (Main) Süd">
+    <via name="Frankfurt (M) Lokalbahnhof" />
+  </zug>
+  <zug name="S8 35884" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Mainz Hbf" />
+  </zug>
+  <zug name="S8 35985" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (M) Mühlberg" />
+    <via name="Offenbach (Main) Kaiserlei" />
+  </zug>
+  <zug name="S8 75810" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Mainz Hbf" />
+  </zug>
+  <zug name="S8 75829" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (M) Mühlberg" />
+    <via name="Offenbach (Main) Kaiserlei" />
+  </zug>
+  <zug name="S8 9986" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Mainz Hbf" />
+  </zug>
+  <zug name="S9 35984" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Mainz Hbf" />
+  </zug>
+  <zug name="S9 75827" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (M) Mühlberg" />
+    <via name="Offenbach (Main) Kaiserlei" />
+  </zug>
+  <zug name="S9 9983" von="Wiesbaden Hbf" nach="Steinheim (Main)">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt (M) Mühlberg" />
+    <via name="Offenbach (Main) Kaiserlei" />
+  </zug>
+</zza>

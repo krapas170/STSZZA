@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Schwerin">
+  <zug name="RB13 68953" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68955" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68956" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68957" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68958" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68959" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68960" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68961" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68962" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68963" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68964" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68965" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68966" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68967" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68968" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68969" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68970" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68971" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68972" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68973" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68974" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68975" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68976" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68977" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68978" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68979" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68980" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68981" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB13 68982" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68984" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68986" von="Rehna" nach="Domsühl">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+    <via name="Schwerin-Wüstmark" />
+  </zug>
+  <zug name="RB13 68999" von="Domsühl" nach="Rehna">
+    <via name="Schwerin-Lankow" />
+    <via name="Schwerin-Margaretenhof" />
+    <via name="Schwerin-Warnitz" />
+  </zug>
+  <zug name="RB17 13150" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB17 13151" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RB17 13152" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB17 13153" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Berlin Hbf" />
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RB17 13158" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB17 13184" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB17 4334" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RB17 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB17 52926" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RB17 52928" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RB17 52929" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB17 62010" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RB17 870" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB18 13156" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB18 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RB18 62007" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE1 1144" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RE1 1179" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RE1 13000" von="Schwerin Hbf" nach="Schwarzenbek" />
+  <zug name="RE1 13004" von="Schwerin Hbf" nach="Schwarzenbek" />
+  <zug name="RE1 13005" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 13008" von="Schwerin Hbf" nach="Schwarzenbek" />
+  <zug name="RE1 13010" von="Schwerin Hbf" nach="Schwarzenbek" />
+  <zug name="RE1 13013" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 13028" von="Schwerin Hbf" nach="Schwarzenbek" />
+  <zug name="RE1 13029" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 13196" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin Süd" />
+    <via name="Holthusen" />
+  </zug>
+  <zug name="RE1 1577" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin Süd" />
+    <via name="Holthusen" />
+  </zug>
+  <zug name="RE1 1599" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin Süd" />
+    <via name="Holthusen" />
+  </zug>
+  <zug name="RE1 1671" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RE1 1678" von="Schwarzenbek" nach="Schwaan">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE1 2413" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RE1 3970" von="Schwerin Hbf" nach="Schwarzenbek" />
+  <zug name="RE1 3971" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen" />
+  <zug name="RE1 3973" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 3975" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen" />
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen" />
+  <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+    <via name="Pritzier" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen" />
+  <zug name="RE1 4307" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+    <via name="Pritzier" />
+  </zug>
+  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen" />
+  <zug name="RE1 4309" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Bad Kleinen" />
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4310" von="Schwaan" nach="Lübeck St Jürgen">
+    <via name="Szczecin Glowny" />
+    <via name="Szczecin Gumience" />
+    <via name="Grambow" />
+  </zug>
+  <zug name="RE1 4311" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Bad Kleinen" />
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+  </zug>
+  <zug name="RE1 4313" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE1 4320" von="Bad Kleinen" nach="Bobitz">
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
+  <zug name="RE1 4323" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+    <via name="Pritzier" />
+  </zug>
+  <zug name="RE1 4330" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 4331" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+    <via name="Pritzier" />
+  </zug>
+  <zug name="RE1 4332" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 4333" von="Schwarzenbek" nach="Schwaan">
+    <via name="Schwanheide" />
+    <via name="Brahlstorf" />
+    <via name="Pritzier" />
+  </zug>
+  <zug name="RE1 4335" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 4338" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13081" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13082" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13083" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13084" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13085" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13086" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13087" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13088" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13089" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13090" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13091" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13092" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13093" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13095" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Berlin Hbf" />
+  </zug>
+  <zug name="RE4 13191" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13192" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13193" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 13194" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13197" von="Schwarzenbek" nach="Schwaan">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 4302" von="Schwaan" nach="Schwarzenbek">
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin Süd" />
+    <via name="Holthusen" />
+  </zug>
+  <zug name="RE4 5350" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 5354" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 5355" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5356" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 5357" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5358" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 5359" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5360" von="Rostock Hbf" nach="Ventschow">
+    <via name="Lübeck Hbf" />
+    <via name="Kiel Hbf" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 5361" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5363" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE4 5365" von="Kiel Hbf" nach="Ueckermünde Stadthafen">
+    <via name="Rostock Hbf" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE8 13155" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RE8 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 13186" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 2074" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 2093" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RE8 2238" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 52924" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RE8 52927" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 608" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 61999" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Schwerin Mitte" />
+  </zug>
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Schwerin Mitte" />
+  </zug>
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+  </zug>
+  <zug name="RE8 701" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Schwerin Mitte" />
+    <via name="Schwerin-Görries" />
+  </zug>
+  <zug name="RE8 908" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Lübstorf" />
+    <via name="Bad Kleinen" />
+    <via name="Moidentin" />
+  </zug>
+</zza>

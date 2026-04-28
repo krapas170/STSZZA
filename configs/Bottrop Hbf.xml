@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bottrop Hbf">
+  <zug name="RE14 89494" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89495" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89496" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89497" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89498" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89499" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89500" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89501" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89502" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89503" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89504" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89505" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89506" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89507" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89508" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89509" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89510" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89511" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89512" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89513" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89514" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89515" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89516" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89517" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89518" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89519" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89520" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89521" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89522" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89523" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89524" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89525" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89526" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89527" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89528" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89529" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89530" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89531" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89532" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89533" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89534" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89535" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89536" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89537" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89538" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89539" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89540" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89541" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89542" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89543" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89544" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89545" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89546" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89547" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89549" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89550" von="Essen Hbf" nach="Feldhausen">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+  </zug>
+  <zug name="RE14 89592" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89594" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89595" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Essen-Borbeck" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE14 89596" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE14 89598" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Gladbeck West" />
+    <via name="Gladbeck-Zweckel" />
+    <via name="Feldhausen" />
+  </zug>
+  <zug name="RE49 30296" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Dellwig Ost" />
+    <via name="Essen-Gerschede" />
+  </zug>
+  <zug name="RE49 30298" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Dellwig Ost" />
+  </zug>
+  <zug name="RE49 30299" von="Düsseldorf Hbf" nach="Recklinghausen Hbf">
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+    <via name="Herten (Westf)" />
+  </zug>
+  <zug name="RE49 30900" von="Marl-Hamm" nach="Schwelm">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Velbert-Langenberg" />
+  </zug>
+  <zug name="RE49 30901" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Recklinghausen Hbf" />
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+  </zug>
+  <zug name="RE49 30903" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Recklinghausen Hbf" />
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+  </zug>
+  <zug name="RE49 30918" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Dellwig Ost" />
+  </zug>
+  <zug name="RE49 30920" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Dellwig Ost" />
+  </zug>
+  <zug name="RE49 30921" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+    <via name="Herten (Westf)" />
+  </zug>
+  <zug name="RE49 30922" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Dellwig Ost" />
+  </zug>
+  <zug name="RE49 30923" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+    <via name="Herten (Westf)" />
+  </zug>
+  <zug name="RE49 30925" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+    <via name="Herten (Westf)" />
+  </zug>
+  <zug name="RE49 30927" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+    <via name="Herten (Westf)" />
+  </zug>
+  <zug name="RE49 30982" von="Marl-Hamm" nach="Schwelm">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Velbert-Langenberg" />
+  </zug>
+  <zug name="RE49 30983" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Recklinghausen Hbf" />
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+  </zug>
+  <zug name="RE49 30985" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Recklinghausen Hbf" />
+    <via name="Bottrop-Boy" />
+    <via name="Gladbeck West" />
+  </zug>
+  <zug name="RE49 30988" von="Marl-Hamm" nach="Schwelm">
+    <via name="Essen Hbf" />
+    <via name="Wuppertal Hbf" />
+    <via name="Velbert-Langenberg" />
+  </zug>
+</zza>

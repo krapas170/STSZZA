@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Könnern">
+  <zug name="RB44 75637" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB44 75639" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB44 75678" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB44 75704" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB44 75708" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB44 75712" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75636" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75642" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75671" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75672" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75673" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75676" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75677" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75679" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75680" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75681" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75683" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75685" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 75706" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75710" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75726" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 75728" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 80414" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RB47 80415" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 80417" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RB47 80419" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE21 75674" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE21 75722" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE21 75749" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE21 75751" von="Wernigerode Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE21 75753" von="Wernigerode Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE21 75755" von="Goslar" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE21 75757" von="Goslar" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE21 75759" von="Goslar" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE21 75766" von="Beyendorf" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE21 80416" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE21 80418" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE21 80436" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE21 80438" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE24 75638" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE24 75647" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75682" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE24 75684" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE24 75723" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75724" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE24 75727" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75729" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75731" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75733" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75735" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75737" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE24 75739" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE4 75702" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE4 75703" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE4 75705" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE4 75707" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Domnitz (Saalkr)" />
+  </zug>
+  <zug name="RE4 75709" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE4 75711" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Halle (Saale) Hbf is" />
+    <via name="Domnitz (Saalkr)" />
+    <via name="Nauendorf (Saalkr)" />
+  </zug>
+  <zug name="RE4 75744" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE4 75748" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE4 75750" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE4 75752" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE4 75754" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+  <zug name="RE4 75756" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Bernburg Hbf ia" />
+    <via name="Wernigerode Hbf" />
+    <via name="Baalberge" />
+  </zug>
+</zza>

@@ -1,0 +1,45 @@
+name: Auto-close completed test issues
+
+on:
+  issues:
+    types: [edited, opened]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  check-checklist:
+    if: contains(github.event.issue.labels.*.name, 'stellwerk-test')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Schließen wenn alle Tasks abgehakt sind
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            // Bei comment-events ist issue an context.payload.issue, bei issue-events ebenfalls
+            const body = issue.body || "";
+            // Tasklists sind "- [ ]" oder "- [x]"
+            const open = (body.match(/^[ \t]*-[ \t]+\[\s\][ \t]+/gm) || []).length;
+            const done = (body.match(/^[ \t]*-[ \t]+\[[xX]\][ \t]+/gm) || []).length;
+            const total = open + done;
+            core.info(`Issue #${issue.number}: ${done}/${total} Tasks abgehakt (offen: ${open})`);
+            if (total > 0 && open === 0 && issue.state === "open") {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: "closed",
+                state_reason: "completed",
+              });
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `Alle ${done} Test-Punkte abgehakt — Issue automatisch geschlossen. ` +
+                      `Wenn doch noch was nicht stimmt, einfach öffnen und Kommentar hinterlassen.`,
+              });
+              core.info(`Issue #${issue.number} geschlossen.`);
+            }

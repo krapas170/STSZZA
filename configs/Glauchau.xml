@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Glauchau">
+  <zug name="RB20 3905" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74607" von="Vieselbach" nach="Leipzig Hbf">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Rudolstadt-Schwarza" />
+  </zug>
+  <zug name="RB20 74609" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 74611" von="Vieselbach" nach="Wandersleben">
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB20 80887" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 3657" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 74613" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80799" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80879" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80881" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80883" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80884" von="Glauchau (Sachs) qk" nach="Vieselbach" />
+  <zug name="RB21 80886" von="Glauchau (Sachs) qk" nach="Vieselbach" />
+  <zug name="RB21 80888" von="Glauchau (Sachs) qk" nach="Vieselbach" />
+  <zug name="RB21 80890" von="Glauchau (Sachs) qk" nach="Vieselbach" />
+  <zug name="RB21 80892" von="Glauchau (Sachs) qk" nach="Vieselbach" />
+  <zug name="RB21 80915" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80917" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80919" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80921" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB21 80925" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB30 2270" von="Muldenhütten" nach="Freiberg (Sachs) ia">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 62272" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 62273" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74005" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74030" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74034" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74040" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74041" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74042" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74043" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74044" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74045" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74046" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74047" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74048" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74050" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74051" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74052" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74053" von="Muldenhütten" nach="Freiberg (Sachs) ia">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74054" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74055" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74056" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74057" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74058" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74059" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74060" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74061" von="Muldenhütten" nach="Tharandt">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74062" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74063" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74064" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74065" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74066" von="Dresden Hbf" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74067" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74068" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74069" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74070" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74071" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74073" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74074" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74075" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Schönau" />
+    <via name="Muldenhütten" />
+    <via name="Niederbobritzsch" />
+  </zug>
+  <zug name="RB30 74077" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Schönau" />
+    <via name="Muldenhütten" />
+    <via name="Niederbobritzsch" />
+  </zug>
+  <zug name="RB30 74078" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74079" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Schönau" />
+    <via name="Muldenhütten" />
+    <via name="Niederbobritzsch" />
+  </zug>
+  <zug name="RB30 74081" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz-Schönau" />
+    <via name="Muldenhütten" />
+    <via name="Niederbobritzsch" />
+  </zug>
+  <zug name="RB30 74082" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74084" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74085" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74086" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74087" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74088" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74089" von="Marktredwitz" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74090" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74091" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74092" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RB30 74093" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB30 74094" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RB30 74095" von="Hof Hbf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RB37 3655" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 3657" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 3660" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 3666" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 37503" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 37511" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 37520" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 37521" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 37532" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 37551" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 37599" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RB37 3902" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
+  <zug name="RB37 3908" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 3914" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 55654" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
+  <zug name="RB37 55658" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RB37 55663" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 3653" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3654" von="Glauchau-Schönbörnchen" nach="Ronshausen" />
+  <zug name="RE1 3655" von="Eichenberg" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Plaue (Thür)" />
+    <via name="Arnstadt Süd" />
+  </zug>
+  <zug name="RE1 3658" von="Glauchau-Schönbörnchen" nach="Bebra" />
+  <zug name="RE1 3659" von="Göttingen" nach="Wandersleben">
+    <via name="Arnstadt Hbf" />
+    <via name="Kassel Hbf ia" />
+    <via name="Vieselbach" />
+  </zug>
+  <zug name="RE1 3661" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 3664" von="Glauchau-Schönbörnchen" nach="Bebra" />
+  <zug name="RE1 3665" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 3667" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 3671" von="Göttingen" nach="Erfurt-Bischleben">
+    <via name="Kassel Hbf ia" />
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE1 3679" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE1 37504" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
+  <zug name="RE1 37506" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
+  <zug name="RE1 37509" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 37513" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 37516" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE1 37518" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE1 37528" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE1 37530" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE1 37573" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 3909" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 3911" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 3916" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE1 3917" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3918" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE1 3919" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3931" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3939" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3951" von="Göttingen" nach="Erfurt Nord">
+    <via name="Kassel Hbf ia" />
+    <via name="Kassel-Wilhelmshöhe" />
+    <via name="Leinefelde q" />
+  </zug>
+  <zug name="RE1 3964" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE1 55653" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 55657" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE1 80885" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RE17 2271" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE17 2272" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE17 2273" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE17 74007" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 3661" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 3663" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3666" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE3 3668" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE3 3669" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3670" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE3 3675" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RE3 37501" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 37514" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 37519" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 37523" von="Altenburg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 37526" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 37552" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
+  <zug name="RE3 37553" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 37556" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
+  <zug name="RE3 37561" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 37590" von="Glauchau-Schönbörnchen" nach="Lehndorf (Altenburg)" />
+  <zug name="RE3 3900" von="Glauchau-Schönbörnchen" nach="Eichenberg" />
+  <zug name="RE3 3901" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Weimar" />
+  </zug>
+  <zug name="RE3 3903" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3904" von="Glauchau-Schönbörnchen" nach="Vieselbach" />
+  <zug name="RE3 3905" von="Eichenberg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 3906" von="Meerane" nach="Vieselbach">
+    <via name="Gera Süd" />
+    <via name="Großschwabhausen" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3907" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3908" von="Meerane" nach="Vieselbach">
+    <via name="Gera Süd" />
+    <via name="Großschwabhausen" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3909" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3910" von="Glauchau-Schönbörnchen" nach="Vieselbach" />
+  <zug name="RE3 3911" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3912" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3913" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3914" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3915" von="Göttingen" nach="Gera Süd">
+    <via name="Crimmitschau" />
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+  </zug>
+  <zug name="RE3 3916" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 3923" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3924" von="Cheb qf" nach="Vieselbach">
+    <via name="Großschwabhausen" />
+    <via name="Mellingen (Thür)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3926" von="Cheb qf" nach="Vieselbach">
+    <via name="Großschwabhausen" />
+    <via name="Mellingen (Thür)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3927" von="Göttingen" nach="Altenburg">
+    <via name="Gera Hbf" />
+    <via name="Gera Süd" />
+    <via name="Wünschendorf Nord" />
+  </zug>
+  <zug name="RE3 3929" von="Göttingen" nach="Altenburg">
+    <via name="Gera Hbf" />
+    <via name="Gera Süd" />
+    <via name="Wünschendorf Nord" />
+  </zug>
+  <zug name="RE3 3934" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3935" von="Göttingen" nach="Gera Süd">
+    <via name="Greiz" />
+    <via name="Greiz-Dölau" />
+    <via name="Elsterberg" />
+  </zug>
+  <zug name="RE3 3936" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE3 3938" von="Glauchau (Sachs)" nach="Göttingen" />
+  <zug name="RE3 3949" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3954" von="Glauchau (Sachs) qk" nach="Vieselbach" />
+  <zug name="RE3 3955" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3956" von="Meerane" nach="Vieselbach">
+    <via name="Gera Süd" />
+    <via name="Großschwabhausen" />
+    <via name="Mellingen (Thür)" />
+  </zug>
+  <zug name="RE3 3957" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3959" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3961" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3962" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3963" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE3 3965" von="Göttingen" nach="Gera Süd">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Weimar" />
+  </zug>
+  <zug name="RE3 52150" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 52151" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 52155" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 52157" von="Göttingen" nach="Gera Süd">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Weimar" />
+  </zug>
+  <zug name="RE3 55651" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 55660" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 55666" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 55668" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 62271" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE3 74000" von="Dresden-Plauen" nach="Bad Brambach">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74001" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74002" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74003" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74004" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74006" von="Dresden-Plauen" nach="Cheb ws">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74008" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74009" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74010" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74011" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74013" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74015" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Mosel" />
+  </zug>
+  <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74018" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74019" von="Marktredwitz" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74020" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74021" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+  </zug>
+  <zug name="RE3 74022" von="Dresden-Plauen" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74023" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb">
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74025" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74026" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RE3 74027" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74028" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RE3 74029" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74030" von="Dresden-Plauen" nach="Hof Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RE3 74031" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74032" von="Dresden-Plauen" nach="Oelsnitz (Vogtl)">
+    <via name="Hof Hbf" />
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+  </zug>
+  <zug name="RE3 74033" von="Hof Hbf" nach="Zwickau Stadthalle">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74035" von="Plauen (Vogtl) ob Bf" nach="Zwickau Stadthalle">
+    <via name="Hof Hbf" />
+    <via name="Chemnitz-Schönau" />
+    <via name="Muldenhütten" />
+  </zug>
+  <zug name="RE3 74072" von="Dresden-Plauen" nach="Bayreuth Hbf">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE3 74076" von="Dresden-Plauen" nach="Marktredwitz">
+    <via name="Mosel" />
+    <via name="Oberrothenbach" />
+    <via name="Zwickau-Pölbitz" />
+  </zug>
+  <zug name="RE3 74085" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74087" von="Plauen (Vogtl) ob Bf" nach="Dresden-Plauen">
+    <via name="Chemnitz Hbf" />
+    <via name="Hohenstein-Ernstthal" />
+    <via name="Wüstenbrand" />
+  </zug>
+  <zug name="RE3 74615" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RE51 2150" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE51 2151" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE51 2155" von="Göttingen" nach="Altenburg">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Oberweimar" />
+  </zug>
+  <zug name="RE51 2157" von="Göttingen" nach="Gera Süd">
+    <via name="Vieselbach" />
+    <via name="Hopfgarten (Weimar)" />
+    <via name="Weimar" />
+  </zug>
+</zza>

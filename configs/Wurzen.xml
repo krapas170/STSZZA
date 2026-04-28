@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Wurzen">
+  <zug name="RE50 1552" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 1556" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 1557" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Glaubitz (Riesa)" />
+  </zug>
+  <zug name="RE50 1558" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16500" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16501" von="Glaubitz (Riesa)" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 16502" von="Dresden Freiberger Str." nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 16503" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 16504" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16505" von="Glaubitz (Riesa)" nach="Riesa">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 16506" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16507" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 16514" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16516" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16517" von="Radebeul-Naundorf" nach="Bennewitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 16518" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16519" von="Leipzig-Engelsdorf" nach="Bennewitz">
+    <via name="Dresden Hbf" />
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Kühren" />
+  </zug>
+  <zug name="RE50 16520" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16526" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16527" von="Leipzig Hbf (tief)" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 16528" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16529" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 16530" von="Dresden Mitte" nach="Leipzig Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Borsdorf (Sachs)" />
+    <via name="Leipzig-Engelsdorf" />
+  </zug>
+  <zug name="RE50 16532" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16534" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16538" von="Oschatz" nach="Halle-Nietleben qf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 1654" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16540" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16542" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16546" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16548" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16644" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16648" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 1944" von="Dresden Freiberger Str." nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 1947" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 1949" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 2044" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 2049" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 2249" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 2442" von="Dresden Hbf" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 2443" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Glaubitz (Riesa)" />
+  </zug>
+  <zug name="RE50 2445" von="Leipzig-Engelsdorf" nach="Dresden Hbf">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Glaubitz (Riesa)" />
+  </zug>
+  <zug name="RE50 2446" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 2448" von="Dresden Mitte" nach="Leipzig-Engelsdorf">
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 2449" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 37314" von="Oschatz" nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 37316" von="Oschatz" nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 37349" von="Leipzig Hbf (tief)" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37351" von="Leipzig Hbf (tief)" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37353" von="Leipzig Hbf (tief)" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37380" von="Oschatz" nach="Halle-Nietleben qf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 37383" von="Halle-Neustadt" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37385" von="Halle-Neustadt" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37387" von="Halle-Neustadt" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37389" von="Halle-Neustadt" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 37608" von="Oschatz" nach="Halle-Nietleben">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE50 37699" von="Leipzig Hbf (tief)" nach="Oschatz">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+  </zug>
+  <zug name="RE50 449" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+  <zug name="RE50 459" von="Leipzig-Engelsdorf" nach="Dresden Mitte">
+    <via name="Kühren" />
+    <via name="Dahlen (Sachs)" />
+    <via name="Riesa" />
+  </zug>
+</zza>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Niebüll-Westerland">
+  <zug name="RB61 11007" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 11011" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 11032" von="Niebüll" nach="Klanxbüll" />
+  <zug name="RB61 11034" von="Niebüll" nach="Klanxbüll" />
+  <zug name="RB61 11038" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 11047" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 11065" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 11084" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 11096" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 11109" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 11115" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 75501" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 75507" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 75508" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 75510" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 75512" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 75513" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 75523" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB61 91034" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB62 11001" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB62 11017" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB62 11100" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB62 11104" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB62 11106" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB62 11113" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB62 11136" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB62 75517" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB71 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB71 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB71 81747" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB71 81755" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RB95 21850" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21851" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21852" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21853" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21854" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21855" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21856" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21857" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21858" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21859" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21860" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21861" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21862" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21863" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21864" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21865" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21866" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21867" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21868" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21869" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21870" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21871" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21872" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21873" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21874" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21875" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21876" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21877" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21878" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21879" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RB95 21880" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Schwarzenberg Hp" />
+    <via name="Schwarzenberg (Erzg)" />
+  </zug>
+  <zug name="RB95 21881" von="Werdau" nach="Karlovy Vary">
+    <via name="Antonsthal" />
+    <via name="Breitenbrunn (Erzg)" />
+    <via name="Erlabrunn (Erzgeb)" />
+  </zug>
+  <zug name="RE6 11000" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11002" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11004" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11006" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 11009" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 11015" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 11032" von="Niebüll" nach="Klanxbüll" />
+  <zug name="RE6 11034" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11042" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11044" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11046" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11052" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11054" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11056" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11063" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 11082" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 11111" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 2311" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75500" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 75503" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75505" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75506" von="Hamburg-Altona" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RE6 75519" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75521" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75525" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75527" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE6 75544" von="Niebüll" nach="Klanxbüll" />
+  <zug name="RE6 81759" von="Keitum" nach="Hamburg Hbf">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE60 2311" von="Keitum" nach="Itzehoe">
+    <via name="Langenhorn (Schlesw)" />
+    <via name="Bredstedt" />
+    <via name="Husum" />
+  </zug>
+  <zug name="RE60 4196" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Klanxbüll" />
+    <via name="Morsum" />
+    <via name="Keitum" />
+  </zug>
+</zza>

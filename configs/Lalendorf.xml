@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Lalendorf">
+  <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bobitz" />
+  </zug>
+  <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13081" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13082" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13083" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13084" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Berlin Hbf" />
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+  </zug>
+  <zug name="RE4 13192" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13194" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13200" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13201" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13202" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13203" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13204" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13205" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13206" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13207" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13270" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 13271" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13273" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13275" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 13277" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 5350" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 5351" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
+    <via name="Priemerburg" />
+    <via name="Güstrow" />
+    <via name="Bützow" />
+  </zug>
+  <zug name="RE4 5353" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 5355" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+  <zug name="RE4 5357" von="Kiel Hbf" nach="Szczecin Gumience">
+    <via name="Neu Wokern" />
+    <via name="Teterow" />
+    <via name="Malchin" />
+  </zug>
+</zza>

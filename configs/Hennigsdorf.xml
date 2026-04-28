@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Hennigsdorf">
+  <zug name="RB20 18450" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB20 18451" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB20 18452" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB20 18453" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB20 18454" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB20 18455" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB20 18456" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB20 18457" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB20 18458" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB20 18459" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB22 18100" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB22 18101" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB22 18102" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB22 18103" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB22 18104" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB22 18105" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB22 18106" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB22 18107" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB22 18108" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB22 18109" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB22 18110" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)" />
+  <zug name="RB22 18111" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Flughafen BER" />
+    <via name="Ludwigsfelde-Struveshof" />
+  </zug>
+  <zug name="RB55 18550" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18551" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18552" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18553" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18554" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18555" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18556" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18557" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18558" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18559" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18560" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18561" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18562" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18564" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18566" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18568" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18570" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18572" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18574" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18586" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18587" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18588" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18589" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18590" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RB55 18591" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RB55 18592" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 3600" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 3601" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+    <via name="Nauen" />
+  </zug>
+  <zug name="RE6 3602" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3603" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+    <via name="Nauen" />
+  </zug>
+  <zug name="RE6 3604" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3605" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Berlin-Spandau" />
+    <via name="Nauen" />
+    <via name="Brieselang" />
+  </zug>
+  <zug name="RE6 3606" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3608" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3610" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 3612" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 3621" von="Weisen" nach="Berlin-Spandau" />
+  <zug name="RE6 3622" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3623" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+    <via name="Nauen" />
+  </zug>
+  <zug name="RE6 3624" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3625" von="Weisen" nach="Berlin Zoologischer Garten">
+    <via name="Berlin-Spandau" />
+    <via name="Nauen" />
+    <via name="Brieselang" />
+  </zug>
+  <zug name="RE6 3626" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3628" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 3630" von="Berlin-Spandau" nach="Kremmen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 3639" von="Weisen" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+    <via name="Nauen" />
+  </zug>
+  <zug name="RE6 3640" von="Berlin-Spandau" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+  </zug>
+  <zug name="RE6 3644" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+  <zug name="RE6 40600" von="Berlin-Spandau" nach="Weisen">
+    <via name="Velten (Mark)" />
+    <via name="Bärenklau" />
+    <via name="Vehlefanz" />
+  </zug>
+</zza>

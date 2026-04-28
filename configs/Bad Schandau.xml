@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bad Schandau">
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RE20 5263" von="Sluknov" nach="k Bad Schandau">
+    <via name="Bad Schandau" />
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+  </zug>
+  <zug name="RE20 5275" von="Os Os" nach="Litomerice mesto">
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+    <via name="Schöna ia" />
+  </zug>
+  <zug name="RE20 5276" von="Litomerice mesto" nach="Dresden-Strehlen">
+    <via name="Dresden-Niedersedlitz" />
+    <via name="Dresden-Dobritz" />
+    <via name="Dresden-Reick" />
+  </zug>
+  <zug name="RE20 5277" von="Os Os" nach="Litomerice mesto">
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+    <via name="Schöna ia" />
+  </zug>
+  <zug name="RE20 5279" von="Os Os" nach="Litomerice mesto">
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+    <via name="Schöna ia" />
+  </zug>
+  <zug name="RE20 5440" von="Sluknov" nach="k Bad Schandau">
+    <via name="Bad Schandau" />
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+  </zug>
+  <zug name="RE20 5457" von="Decin hl.n." nach="q Bad Schandau">
+    <via name="Bad Schandau q" />
+    <via name="Sebnitz (Sachs)" />
+    <via name="Dolni Poustevna" />
+  </zug>
+  <zug name="RE20 5458" von="Sluknov" nach="k Bad Schandau">
+    <via name="Bad Schandau" />
+    <via name="Krippen" />
+    <via name="Schmilka-Hirschmühle" />
+  </zug>
+  <zug name="RE50 31781" von="Meißen Triebischtal" nach="Schmilka-Hirschmühle">
+    <via name="Krippen" />
+  </zug>
+</zza>

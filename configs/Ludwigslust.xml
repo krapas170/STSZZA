@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Ludwigslust">
+  <zug name="RB14 68873" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68918" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68919" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68920" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68921" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68922" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68923" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Groß Laasch" />
+  </zug>
+  <zug name="RB14 68924" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68925" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68926" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68927" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Groß Laasch" />
+  </zug>
+  <zug name="RB14 68928" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68929" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68930" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68931" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Groß Laasch" />
+  </zug>
+  <zug name="RB14 68932" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68933" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68934" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68935" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Groß Laasch" />
+  </zug>
+  <zug name="RB14 68936" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68937" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68938" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68939" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Groß Laasch" />
+  </zug>
+  <zug name="RB14 68940" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68941" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68942" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68943" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68944" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68945" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68946" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB14 68947" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Groß Laasch" />
+    <via name="Neustadt-Glewe" />
+    <via name="Dütschow" />
+  </zug>
+  <zug name="RB14 68948" von="Spornitz" nach="Hagenow Stadt">
+    <via name="Jasnitz" />
+    <via name="Strohkirchen" />
+    <via name="Hagenow Land" />
+  </zug>
+  <zug name="RB15 62271" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62272" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62273" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62274" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62275" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62276" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62278" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62280" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62282" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62283" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB15 62284" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB15 62286" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB17 13150" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB17 13151" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RB17 13152" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB17 13153" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+    <via name="Sülstorf" />
+  </zug>
+  <zug name="RB17 13158" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB17 13184" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB17 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB17 52926" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RB17 52928" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RB17 52929" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB17 62010" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RB17 870" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB18 13156" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB18 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB18 62007" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RB19 62288" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62290" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62292" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62294" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62295" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB19 62296" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62297" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Parchim" />
+  </zug>
+  <zug name="RB19 62298" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+    <via name="Sülstorf" />
+  </zug>
+  <zug name="RE8 13155" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE8 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 13186" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 2074" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 2093" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE8 2238" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 52924" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE8 52927" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 608" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 61999" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Schwerin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Lüblow (Meckl)" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Schwerin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Lüblow (Meckl)" />
+  </zug>
+  <zug name="RE8 701" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Grabow (Meckl)" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE8 908" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Lüblow (Meckl)" />
+    <via name="Rastow" />
+  </zug>
+</zza>

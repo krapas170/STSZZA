@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Nordharz">
+  <zug name="RB42 81500" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB42 81504" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB42 81506" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB42 81508" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB42 81510" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB42 81512" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB42 81561" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB42 81563" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB42 81565" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB42 81567" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB42 81569" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 75650" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RB43 75651" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RB43 75652" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RB43 75653" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RB43 75655" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RB43 75657" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RB43 75659" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RB43 75660" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75661" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RB43 75662" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75663" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RB43 75664" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75665" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RB43 75666" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75668" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75710" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 75712" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 75754" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 75756" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 80436" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 80521" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RB43 81552" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB43 81554" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB43 81556" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB43 81558" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB43 81560" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
+  <zug name="RB44 75637" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB44 75639" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB44 75641" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RB44 75643" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RB44 75678" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB44 75704" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB44 75708" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB44 75712" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75636" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75642" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75671" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75672" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75673" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75676" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75677" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75679" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75680" von="Nienburg (Saale)" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75681" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75683" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75685" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 75687" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RB47 75689" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RB47 75693" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
+    <via name="Hedersleben-Wedderstedt" />
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+  </zug>
+  <zug name="RB47 75706" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75710" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75726" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75728" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 75743" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RB47 80414" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RB47 80415" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 80417" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 80419" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RB47 80421" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE11 75667" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE11 80429" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE11 80489" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80490" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE11 80491" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80492" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE11 80493" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80494" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE11 80495" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80496" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE11 80497" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80498" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE11 80499" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80500" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE11 80501" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80503" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE11 80505" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE11 80507" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE11 80509" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE11 80511" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE11 80512" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80513" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE11 80514" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80515" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE11 80516" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80517" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE11 80518" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80519" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE11 80520" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80522" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80524" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80525" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80526" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80527" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80528" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80529" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80531" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE11 80533" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE2 18750" von="Nauen" nach="Sedlitz Ost">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 18751" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 18754" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 18756" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 18758" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 18768" von="Nauen" nach="Berlin-Spandau">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3100" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3101" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3102" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3103" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3104" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3105" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3106" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3108" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3109" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3110" von="Nauen" nach="Berlin Südkreuz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3111" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3112" von="Nauen" nach="Berlin-Spandau">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3114" von="Nauen" nach="Berlin-Spandau">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3116" von="Nauen" nach="Berlin-Spandau">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3118" von="Nauen" nach="Kolkwitz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3120" von="Nauen" nach="Kolkwitz">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3140" von="Nauen" nach="Sedlitz Ost">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE2 3711" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3715" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3719" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3721" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3723" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3725" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE2 3747" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE21 75674" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE21 75717" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE21 75722" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE21 75749" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE21 75750" von="Beyendorf" nach="Bad Harzburg ia">
+    <via name="Wernigerode Hbf" />
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE21 75751" von="Wernigerode Hbf" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE21 75752" von="Beyendorf" nach="Bad Harzburg ia">
+    <via name="Wernigerode Hbf" />
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE21 75753" von="Wernigerode Hbf" nach="Halle (Saale) Hbf" />
+  <zug name="RE21 75755" von="Goslar" nach="Halle (Saale) Hbf">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RE21 75757" von="Goslar" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RE21 75758" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 75759" von="Goslar" nach="Leipzig Hbf (tief)">
+    <via name="Hannover Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RE21 75760" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 75761" von="Blankenburg (Harz)" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+  </zug>
+  <zug name="RE21 75762" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 75763" von="Blankenburg (Harz)" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+  </zug>
+  <zug name="RE21 75764" von="Beyendorf" nach="Vienenburg">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE21 75765" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE21 75766" von="Beyendorf" nach="Stapelburg">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Halle (Saale) Hbf ql" />
+    <via name="Bernburg Hbf ia" />
+  </zug>
+  <zug name="RE21 75767" von="Thale Musestieg" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE21 75769" von="Stapelburg" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hedersleben-Wedderstedt" />
+    <via name="Drohndorf-Mehringen" />
+  </zug>
+  <zug name="RE21 80416" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE21 80418" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE21 80436" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE21 80438" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE21 81513" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 81517" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE24 75638" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE24 75647" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75682" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE24 75684" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE24 75723" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75724" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE24 75727" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75729" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75731" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75733" von="Hannover Hbf" nach="Leipzig/Halle Flughafen">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75735" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75737" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75739" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE24 75741" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE24 75765" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE24 80429" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE31 75600" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE31 75601" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE31 75602" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE31 75603" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE31 75604" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE31 75605" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE31 75606" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE31 75607" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE31 75609" von="Wernigerode Hbf" nach="Beyendorf" />
+  <zug name="RE31 75611" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE31 75613" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE31 75615" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE31 75617" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE31 75619" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE31 75620" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75621" von="Goslar" nach="Beyendorf">
+    <via name="Thale Musestieg" />
+    <via name="Neinstedt" />
+    <via name="Quedlinburg" />
+  </zug>
+  <zug name="RE31 75622" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75623" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE31 75624" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75625" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE31 75626" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75627" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE31 75628" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE31 75630" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE31 75631" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE31 75632" von="Beyendorf" nach="Blankenburg (Harz)">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE31 75633" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE31 75634" von="Beyendorf" nach="Wernigerode Hbf">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RE31 75635" von="Thale Musestieg" nach="Halberstadt-Spiegelsberge">
+    <via name="Blankenburg (Harz)" />
+    <via name="Langenstein" />
+  </zug>
+  <zug name="RE31 80439" von="Blankenburg (Harz)" nach="Beyendorf">
+    <via name="Halberstadt" />
+    <via name="Hadmersleben" />
+    <via name="Langenweddingen" />
+  </zug>
+  <zug name="RE4 75691" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE4 75702" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 75703" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE4 75705" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE4 75707" von="Hannover Hbf" nach="Halle (Saale) Hbf">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE4 75709" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE4 75711" von="Hannover Hbf" nach="Leipzig Hbf (tief)">
+    <via name="Wernigerode Hbf" />
+    <via name="Bernburg Hbf ia" />
+    <via name="Halle (Saale) Hbf is" />
+  </zug>
+  <zug name="RE4 75713" von="Stapelburg" nach="Leipzig Hbf (tief)">
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+    <via name="Sandersleben (Anh)" />
+  </zug>
+  <zug name="RE4 75715" von="Stapelburg" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Drohndorf-Mehringen" />
+    <via name="Freckleben" />
+  </zug>
+  <zug name="RE4 75719" von="Stapelburg" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hedersleben-Wedderstedt" />
+    <via name="Drohndorf-Mehringen" />
+  </zug>
+  <zug name="RE4 75721" von="Stapelburg" nach="Wolfenbüttel">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hedersleben-Wedderstedt" />
+    <via name="Drohndorf-Mehringen" />
+  </zug>
+  <zug name="RE4 75744" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 75748" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 75750" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 75752" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 75754" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 75756" von="Leipzig/Halle Flughafen" nach="Stapelburg">
+    <via name="Wernigerode Hbf" />
+    <via name="Heudeber-Danstedt" />
+    <via name="Wernigerode Elmowerk" />
+  </zug>
+  <zug name="RE4 81511" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE4 81515" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE4 81519" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE7 18753" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 18757" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 18759" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 2432" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3113" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3115" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3117" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3119" von="Sedlitz Ost" nach="Nauen">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3700" von="Nauen" nach="Sedlitz Ost">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3701" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3702" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3703" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3704" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3706" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3707" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3708" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3709" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3710" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3712" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3714" von="Nauen" nach="Borkheide">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3716" von="Nauen" nach="Borkheide">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3717" von="Sedlitz Ost" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+  <zug name="RE7 3718" von="Nauen" nach="Borkheide">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3720" von="Nauen" nach="Borkheide">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3722" von="Nauen" nach="Borkheide">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3742" von="Nauen" nach="Sedlitz Ost">
+    <via name="Oderin" />
+    <via name="Brand Tropical Islands" />
+    <via name="Schönwalde (Spreewald)" />
+  </zug>
+  <zug name="RE7 3749" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Berlin Hbf" />
+    <via name="Groß Köris" />
+    <via name="Bestensee" />
+  </zug>
+</zza>

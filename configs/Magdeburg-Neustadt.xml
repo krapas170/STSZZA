@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Magdeburg-Neustadt">
+  <zug name="RB40 100" von="Schandelah" nach="Dortmund-Barop">
+    <via name="Witten Hbf" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+  </zug>
+  <zug name="RB40 101" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 1133" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 14140" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 14141" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 14144" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 14146" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 14147" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 14148" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 14149" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16400" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16401" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16402" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16403" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16405" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16407" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16408" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16410" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16412" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16413" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16415" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16417" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16419" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16420" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 16421" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16422" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 16425" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16427" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16428" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16430" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16432" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16433" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16435" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16437" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16442" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16447" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16448" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16449" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16452" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16453" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16454" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16455" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 16462" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 16463" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 1936" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 1944" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 1945" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 1946" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 1949" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2030" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2032" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2035" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2036" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 2037" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2039" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2042" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2043" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2044" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2045" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2046" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2049" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2400" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2401" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2432" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2433" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2435" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2436" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RB40 2440" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 2442" von="Möser" nach="Schandelah">
+    <via name="Magdeburg-Sudenburg" />
+    <via name="Niederndodeleben" />
+    <via name="Wellen (Magdeburg)" />
+  </zug>
+  <zug name="RB40 2443" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2445" von="Schandelah" nach="Möser">
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Biederitz ia" />
+    <via name="Gerwisch" />
+  </zug>
+  <zug name="RB40 2446" von="Möser" nach="Schandelah">
+    <via name="Magdeburg Hbf ia" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg-Sudenburg" />
+  </zug>
+  <zug name="RE19 16902" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE19 16903" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE19 16908" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE19 16932" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE19 16935" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE19 2235" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE19 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE19 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE19 39020" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE19 39022" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE19 39029" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE19 39044" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16904" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16909" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16910" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16920" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16929" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16931" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16933" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16941" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16942" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16943" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16944" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16945" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 16946" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 16958" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39013" von="Soltendieck" nach="Magdeburg Südost">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 39015" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 39017" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39019" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 39027" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 39038" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39040" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39042" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39044" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 39046" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+  <zug name="RE20 507" von="Soltendieck" nach="Magdeburg Südost">
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hasselbachplatz" />
+  </zug>
+  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg-Eichenweiler ia" />
+    <via name="Magdeburg-Rothensee" />
+  </zug>
+</zza>

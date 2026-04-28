@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Troisdorf 2024">
+  <zug name="RB10 25000" von="Wiesbaden Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB10 25002" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB10 25003" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB10 25004" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB10 25005" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB10 25006" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB10 25007" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB10 25008" von="Wiesbaden Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB10 25009" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB10 25011" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB10 25013" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25015" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25017" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25019" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB10 25050" von="Wiesbaden Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB10 25057" von="Neuwied" nach="Koblenz-Lützel">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB27 10600" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB27 10602" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB27 10603" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB27 10604" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB27 10605" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB27 10606" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB27 10607" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB27 10608" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB27 10609" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB27 10610" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB27 10611" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10612" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB27 10613" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10614" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB27 10615" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10616" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RB27 10617" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10619" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RB27 10642" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB27 10644" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB27 10647" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB27 10649" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RB90 10901" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 10949" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB90 31022" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 31037" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB90 32056" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 32064" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 32208" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 32224" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 32234" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 32242" von="Köln Messe/Deutz" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RB90 61550" von="Elz (Limburg/Lahn)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 61559" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB90 61706" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB90 61804" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 61808" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 61840" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB90 61846" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 10951" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 10955" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 10968" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 32060" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 32219" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 32221" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 32239" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 32246" von="Köln Messe/Deutz" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RB93 61552" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 61700" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 61715" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 61800" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 61808" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 61810" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RB93 61812" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RB96 32071" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE8 10800" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE8 10801" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RE8 10802" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE8 10803" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RE8 10804" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE8 10805" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RE8 10806" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE8 10807" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10808" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE8 10809" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10810" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
+    <via name="Köln Hbf" />
+    <via name="Rheydt Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE8 10811" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10812" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RE8 10813" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10814" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RE8 10815" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10816" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RE8 10817" von="Mönchengladbach Hbf" nach="Koblenz Hbf">
+    <via name="Friedrich Wilhelmshütte" />
+    <via name="Menden (Rheinl)" />
+    <via name="Bonn-Beuel" />
+  </zug>
+  <zug name="RE8 10818" von="Koblenz Hbf" nach="Grevenbroich">
+    <via name="Köln Hbf" />
+    <via name="Porz (Rhein)" />
+    <via name="Köln/Bonn Flughafen" />
+  </zug>
+  <zug name="RE8 10843" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
+    <via name="Bonn-Beuel" />
+    <via name="Unkel" />
+    <via name="Linz (Rhein)" />
+  </zug>
+  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Eschweiler Hbf" />
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RE9 10904" von="Lützel" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Eschweiler Hbf" />
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE9 10907" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RE9 10937" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 10953" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 10955" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 10957" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 10959" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RE9 31011" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 31014" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 31029" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 32052" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 32075" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 32201" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 32242" von="Köln Messe/Deutz" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RE9 61554" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 61704" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 61712" von="Köln Messe/Deutz" nach="Eitorf">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+  </zug>
+  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 61807" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+  <zug name="RE9 61832" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegburg/Bonn" />
+    <via name="Hennef (Sieg)" />
+    <via name="Hennef im Siegbogen" />
+  </zug>
+  <zug name="RE9 61847" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Porz (Rhein)" />
+    <via name="Köln Messe/Deutz" />
+  </zug>
+</zza>

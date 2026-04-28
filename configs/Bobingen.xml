@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Bobingen">
+  <zug name="IRE1 19413" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 19425" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 19429" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 19430" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="IRE1 19434" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 19454" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 19459" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 19464" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 19467" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 19468" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 19476" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="IRE1 19670" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 19678" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 19680" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 2060" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 2068" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="IRE1 2069" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 56701" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="IRE1 56704" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19401" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19402" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19403" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19404" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19406" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19407" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19408" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19409" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19410" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19412" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19414" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19415" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19416" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19419" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19420" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19423" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19426" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 19427" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19428" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 19432" von="Wasseralfingen" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19433" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19436" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19438" von="Jagstzell" nach="Hofen (b Aalen)">
+    <via name="Augsburg Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19440" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19444" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19446" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19450" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19451" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf ia" />
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19452" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19453" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf ia" />
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19455" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf ia" />
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19457" von="Schorndorf" nach="Augsburg Hbf">
+    <via name="Aalen Hbf ia" />
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+  </zug>
+  <zug name="MEX13 19463" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+    <via name="Mögglingen (Gmünd)" />
+  </zug>
+  <zug name="MEX13 19465" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+    <via name="Mögglingen (Gmünd)" />
+  </zug>
+  <zug name="MEX13 19466" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19468" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19469" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+    <via name="Mögglingen (Gmünd)" />
+  </zug>
+  <zug name="MEX13 19470" von="Jagstzell" nach="Hofen (b Aalen)">
+    <via name="Augsburg Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19471" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+    <via name="Mögglingen (Gmünd)" />
+  </zug>
+  <zug name="MEX13 19474" von="Wasseralfingen" nach="Hofen (b Aalen)">
+    <via name="Augsburg Hbf" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19475" von="Schorndorf" nach="Hofen (b Aalen)">
+    <via name="Stuttgart Hbf" />
+    <via name="Aalen Hbf" />
+    <via name="Mögglingen (Gmünd)" />
+  </zug>
+  <zug name="MEX13 19477" von="Schorndorf" nach="München Hbf">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+    <via name="Jagstzell" />
+  </zug>
+  <zug name="MEX13 19478" von="Wasseralfingen" nach="Hofen (b Aalen)">
+    <via name="Augsburg Hbf" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19479" von="Schorndorf" nach="München Hbf">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+    <via name="Jagstzell" />
+  </zug>
+  <zug name="MEX13 19480" von="Wasseralfingen" nach="Hofen (b Aalen)">
+    <via name="Augsburg Hbf" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19482" von="Wasseralfingen" nach="Hofen (b Aalen)">
+    <via name="Augsburg Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19484" von="Jagstzell" nach="Hofen (b Aalen)">
+    <via name="München Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19486" von="Jagstzell" nach="Hofen (b Aalen)">
+    <via name="München Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19490" von="Wasseralfingen" nach="Hofen (b Aalen)">
+    <via name="München Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19492" von="Jagstzell" nach="Hofen (b Aalen)">
+    <via name="München Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19494" von="Jagstzell" nach="Stuttgart Hbf">
+    <via name="Aalen Hbf" />
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+  </zug>
+  <zug name="MEX13 19495" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19671" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19672" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19673" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19674" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19675" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19676" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 19677" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19680" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 19681" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19683" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 19684" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 2060" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 2061" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 2062" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 2063" von="Schorndorf" nach="Crailsheim is">
+    <via name="Aalen Hbf ia" />
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 2064" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 2065" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 2066" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 2067" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 2160" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 2161" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 2162" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 2163" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 2164" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 2166" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 56700" von="Jagstzell" nach="Schorndorf i is">
+    <via name="Schwäbisch Gmünd" />
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+  </zug>
+  <zug name="MEX13 56705" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 56706" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 56709" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 56710" von="Wasseralfingen" nach="Urbach (b Schorndorf)">
+    <via name="Lorch (Württ)" />
+    <via name="Waldhausen (b Schorndorf)" />
+    <via name="Plüderhausen" />
+  </zug>
+  <zug name="MEX13 56713" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="MEX13 56715" von="Schorndorf" nach="Jagstzell">
+    <via name="Mögglingen (Gmünd)" />
+    <via name="Wasseralfingen" />
+  </zug>
+  <zug name="RB68 62700" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB68 62701" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB68 62702" von="Bobingen" nach="Augsburg Hbf" />
+  <zug name="RB68 62703" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB68 62705" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB68 62707" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62710" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62712" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62714" von="Bobingen" nach="Sonthofen" />
+  <zug name="RB77 62716" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62717" von="Füssen" nach="Bobingen" />
+  <zug name="RB77 62718" von="Bobingen" nach="Sonthofen" />
+  <zug name="RB77 62720" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB77 62721" von="Füssen" nach="München Hbf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB77 62722" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62723" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB77 62724" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB77 62725" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB77 62726" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB77 62728" von="Bobingen" nach="Sontheim (Schwab)" />
+  <zug name="RB77 62729" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB77 62730" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB77 62731" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB77 62733" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Oberstdorf" />
+  </zug>
+  <zug name="RB77 62734" von="Bobingen" nach="Augsburg Hbf" />
+  <zug name="RB77 62736" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62738" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62739" von="Sontheim (Schwab)" nach="Günzach">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Oberstdorf" />
+    <via name="Langenwang (Schwab)" />
+  </zug>
+  <zug name="RB77 62740" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62741" von="Sontheim (Schwab)" nach="Bobingen" />
+  <zug name="RB77 62743" von="Füssen" nach="Bobingen" />
+  <zug name="RB77 62745" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62747" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62749" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62753" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62755" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62757" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62759" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62761" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62767" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62769" von="Weizern-Hopferau" nach="Bobingen" />
+</zza>

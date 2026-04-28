@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Dresden Hbf">
+  <zug name="RB23 79700" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79702" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79704" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79706" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79708" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79710" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RB23 79713" von="Gera Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79715" von="Gera Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79717" von="Gera Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79719" von="Gera Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79721" von="Leipzig Hbf" nach="Wunsiedel-Holenbrunn">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79723" von="Leipzig Hbf" nach="Wunsiedel-Holenbrunn">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79725" von="Leipzig Hbf" nach="Wunsiedel-Holenbrunn">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB23 79727" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RB23 79729" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RB23 79731" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RB23 79733" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RB24 84602" von="Nürnberg Hbf" nach="Würzburg Hbf">
+    <via name="Hof Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RB24 84604" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RB24 84606" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RB24 84608" von="Dresden Hbf" nach="Hof Hbf" />
+  <zug name="RB24 84610" von="Dresden Hbf" nach="Hof Hbf" />
+  <zug name="RB24 84612" von="Dresden Hbf" nach="Hof Hbf" />
+  <zug name="RB30 33019" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RB30 33022" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RB30 33023" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RB30 74019" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RB30 74022" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RB30 74023" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RB30 74026" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RB30 74061" von="Muldenhütten" nach="Tharandt">
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Hbf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RB30 74066" von="Dresden Hbf" nach="Bayreuth Hbf" />
+  <zug name="RB31 1653" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RB31 16532" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RB31 18018" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18021" von="Leuthen (Cottbus)" nach="Dresden Hbf" />
+  <zug name="RB31 18026" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RB31 18297" von="Großenhain Cottb Bf" nach="Dresden Hbf" />
+  <zug name="RB31 2440" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 2442" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RB31 31733" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RB31 31734" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RB31 31735" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RB31 31744" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RB31 31758" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RB31 31760" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RB31 31761" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RB31 31765" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RB33 16627" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16629" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16631" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16632" von="Königsbrück" nach="Dresden Hbf" />
+  <zug name="RB33 16967" von="Dresden Mitte" nach="Dresden-Klotzsche">
+    <via name="Dresden Freiberger Straße" />
+  </zug>
+  <zug name="RB33 16969" von="Dresden Mitte" nach="Dresden-Klotzsche">
+    <via name="Dresden Freiberger Straße" />
+  </zug>
+  <zug name="RB33 16970" von="Kamenz (Sachs)" nach="Dresden Hbf" />
+  <zug name="RB33 16983" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16985" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16987" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16989" von="Dresden Hbf" nach="Ottendorf-Okrilla Hp" />
+  <zug name="RB33 16992" von="Königsbrück" nach="Dresden Hbf" />
+  <zug name="RB33 26902" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB33 26905" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB33 32703" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB33 32705" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB33 32712" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB33 32713" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB33 5672" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB33 5673" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB33 76501" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB33 76508" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB33 76546" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB34 16656" von="Kamenz (Sachs)" nach="Dresden Hbf" />
+  <zug name="RB60 16601" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 16605" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 16610" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB60 16640" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB60 16641" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 16651" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 16745" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 16998" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB60 32720" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 32724" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB60 5670" von="Reichenbach (Oberlausitz)" nach="Dresden Freiberger Straße" />
+  <zug name="RB60 76500" von="Reichenbach (Oberlausitz)" nach="Dresden Freiberger Straße" />
+  <zug name="RB60 76501" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB60 76502" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76503" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB60 76504" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76505" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB60 76506" von="Reichenbach (Oberlausitz)" nach="Dresden Freiberger Straße" />
+  <zug name="RB60 76507" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB60 76508" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76509" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB60 76511" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB60 76513" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB60 76515" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB60 76517" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB60 76519" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB60 76521" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB60 76522" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76523" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB60 76524" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76526" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76528" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76530" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76536" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB60 76538" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB60 76558" von="Bischofswerda" nach="Dresden Hbf" />
+  <zug name="RB60 76569" von="Dresden Hbf" nach="Dresden Freiberger Straße" />
+  <zug name="RB61 16611" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB61 16642" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB61 16964" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB61 20840" von="Liberec" nach="Dresden Hbf qd" />
+  <zug name="RB61 20841" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB61 20843" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB61 20845" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB61 20858" von="Liberec" nach="Dresden Hbf qd" />
+  <zug name="RB61 20900" von="Liberec" nach="Dresden Hbf qd" />
+  <zug name="RB61 20928" von="Bischofswerda" nach="Dresden Hbf" />
+  <zug name="RB61 32702" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB61 32721" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RB61 76509" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RB61 76540" von="Liberec" nach="Dresden Hbf qd" />
+  <zug name="RB61 76541" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB61 76542" von="Liberec" nach="Dresden Hbf">
+    <via name="Dresden Freiberger Straße" />
+  </zug>
+  <zug name="RB61 76543" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB61 76544" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB61 76545" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RB61 76546" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf qd">
+    <via name="Liberec" />
+    <via name="Chrastava" />
+    <via name="Hradek nad Nisou" />
+  </zug>
+  <zug name="RB61 76547" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB61 76549" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB61 76551" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RB61 76552" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB61 76554" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RB97 79877" von="Hof-Neuhof" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB97 84539" von="München Hbf" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hersbruck (r Pegnitz)" />
+  </zug>
+  <zug name="RB97 84543" von="München Hbf" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Stockau" />
+  </zug>
+  <zug name="RB97 84546" von="Gera Hbf" nach="Nürnberg Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB97 84547" von="München Hbf" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Stockau" />
+  </zug>
+  <zug name="RB97 84550" von="Gera Hbf" nach="Nürnberg Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB97 84552" von="Bad Steben" nach="Nürnberg Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB97 84556" von="Bad Steben" nach="Nürnberg Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RB97 84558" von="Bad Steben" nach="Wunsiedel-Holenbrunn">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+    <via name="Martinlamitz" />
+  </zug>
+  <zug name="RB97 84560" von="Bad Steben" nach="Schirnding">
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+    <via name="Martinlamitz" />
+  </zug>
+  <zug name="RB97 84562" von="Stegenwaldhaus" nach="Schirnding">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB97 84564" von="Stegenwaldhaus" nach="Dresden Hbf" />
+  <zug name="RB97 84566" von="Stegenwaldhaus" nach="Dresden Hbf" />
+  <zug name="RB97 84568" von="Stegenwaldhaus" nach="Dresden Hbf" />
+  <zug name="RB97 84570" von="Stegenwaldhaus" nach="Dresden Hbf" />
+  <zug name="RB97 84572" von="Stegenwaldhaus" nach="Dresden Hbf" />
+  <zug name="RB98 84492" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RB98 84500" von="Hof Hbf" nach="Würzburg Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB98 84506" von="Hof Hbf" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB99 84498" von="Bad Steben" nach="Würzburg Hbf">
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RB99 84504" von="Bad Steben" nach="Plauen (Vogtl) ob Bf" />
+  <zug name="RB99 84510" von="Stegenwaldhaus" nach="Hof Hbf">
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE1 16604" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE1 16608" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE1 16611" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE1 16740" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE1 16743" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE1 16744" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE1 20843" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE1 20845" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE1 26900" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 26901" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RE1 26902" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 26903" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RE1 26904" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 26905" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE1 26906" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 26914" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 32725" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE1 5671" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RE1 5672" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 5673" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RE1 5675" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE1 5677" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE1 5679" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE1 5680" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 5681" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE1 5682" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 5684" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 5686" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE1 5688" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE15 16515" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE15 18036" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RE15 18292" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RE15 18293" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RE15 18410" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE15 18415" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RE15 31724" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE15 31738" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RE15 31746" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RE15 31771" von="Großenhain Cottb Bf" nach="Dresden Hbf" />
+  <zug name="RE17 74068" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RE18 16518" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RE18 16529" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RE18 16530" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RE18 2444" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RE18 31726" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE18 31737" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE2 16653" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE2 16960" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE2 16963" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE2 16968" von="Arnsdorf (Dresden)" nach="Dresden Hbf" />
+  <zug name="RE2 20840" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE2 20841" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RE2 20842" von="Görlitz" nach="Dresden Hbf">
+    <via name="Dresden Freiberger Straße" />
+  </zug>
+  <zug name="RE2 20843" von="Dresden Hbf" nach="Zgorzelec" />
+  <zug name="RE2 20845" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE2 20847" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE2 20849" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE2 20850" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE2 20852" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE2 20854" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf" />
+  <zug name="RE2 20903" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RE2 20904" von="Liberec" nach="Dresden Hbf qd" />
+  <zug name="RE2 20907" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RE2 20945" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RE2 20960" von="Liberec" nach="Dresden Hbf qd" />
+  <zug name="RE2 26940" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf qd">
+    <via name="Liberec" />
+    <via name="Chrastava" />
+    <via name="Hradek nad Nisou" />
+  </zug>
+  <zug name="RE2 4850" von="München Hbf" nach="Gera Hbf" />
+  <zug name="RE2 4857" von="Gera Hbf" nach="München Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE2 4859" von="Gera Hbf" nach="Passau Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE2 4861" von="Leipzig Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Hof Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE2 4863" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RE2 4865" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RE2 76513" von="Dresden Hbf" nach="Radeberg" />
+  <zug name="RE2 76544" von="Liberec" nach="Dresden Hbf">
+    <via name="Dresden Freiberger Straße" />
+  </zug>
+  <zug name="RE2 76545" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RE2 76547" von="Dresden Hbf" nach="Liberec" />
+  <zug name="RE25 356" von="Leipzig Hbf" nach="München Hbf">
+    <via name="Plzen hl.n." />
+    <via name="Domazlice" />
+    <via name="Domazlice mesto" />
+  </zug>
+  <zug name="RE25 358" von="Leipzig Hbf" nach="München Hbf">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RE25 360" von="Leipzig Hbf" nach="Landshut (Bay) Hbf">
+    <via name="Hof Hbf" />
+    <via name="München Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RE25 362" von="Gera Hbf" nach="Passau Hbf">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="München Hbf" />
+  </zug>
+  <zug name="RE25 365" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Gera Hbf" />
+    <via name="Passau Hbf" />
+    <via name="Bodenwöhr Nord" />
+  </zug>
+  <zug name="RE3 33020" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RE3 33021" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RE3 33024" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RE3 33025" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RE3 33026" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74021" von="Muldenhütten" nach="Zwickau Stadthalle">
+    <via name="Bayreuth Hbf" />
+    <via name="Chemnitz Hbf" />
+    <via name="Hof Hbf" />
+  </zug>
+  <zug name="RE3 74024" von="Dresden Hbf" nach="Cheb" />
+  <zug name="RE3 74059" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RE3 74063" von="Muldenhütten" nach="Dresden Hbf" />
+  <zug name="RE3 74064" von="Dresden Hbf" nach="Muldenhütten" />
+  <zug name="RE30 3083" von="Würzburg Hbf" nach="Velden (b Hersbruck)">
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Hersbruck (r Pegnitz)" />
+  </zug>
+  <zug name="RE30 3084" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Ludwigschorgast" />
+  </zug>
+  <zug name="RE30 3085" von="Würzburg Hbf" nach="Neunkirchen">
+    <via name="Nürnberg Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hersbruck (r Pegnitz)" />
+  </zug>
+  <zug name="RE30 3086" von="Würzburg Hbf" nach="Nürnberg Ost">
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Ludwigschorgast" />
+  </zug>
+  <zug name="RE30 3087" von="Dresden Hbf" nach="Hersbruck (r Pegnitz)" />
+  <zug name="RE30 3088" von="Würzburg Hbf" nach="Neunkirchen">
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Marktredwitz" />
+  </zug>
+  <zug name="RE30 3090" von="Dresden Hbf" nach="Neunkirchen" />
+  <zug name="RE30 3483" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RE30 3583" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RE31 3402" von="Gera Hbf" nach="Nürnberg Ost">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Bayreuth Hbf" />
+  </zug>
+  <zug name="RE31 3404" von="Leipzig Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RE31 3406" von="Leipzig Hbf" nach="Schirnding">
+    <via name="Hof Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Oberkotzau" />
+  </zug>
+  <zug name="RE31 3408" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RE31 3441" von="München Hbf" nach="Cheb">
+    <via name="Gera Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Hersbruck (r Pegnitz)" />
+  </zug>
+  <zug name="RE31 3443" von="München Hbf" nach="Velden (b Hersbruck)">
+    <via name="Gera Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE32 3487" von="Dresden Hbf" nach="Neuhaus (Pegnitz)" />
+  <zug name="RE32 3491" von="Dresden Hbf" nach="Neunkirchen" />
+  <zug name="RE32 3585" von="Dresden Hbf" nach="Neuhaus (Pegnitz)" />
+  <zug name="RE32 3587" von="Dresden Hbf" nach="Neunkirchen" />
+  <zug name="RE35 3459" von="Erfurt Hbf" nach="Würzburg Hbf">
+    <via name="Hof Hbf" />
+    <via name="Bayreuth Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE35 3461" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RE35 3463" von="Dresden Hbf" nach="Hof Hbf" />
+  <zug name="RE35 3478" von="Dresden Hbf" nach="Würzburg Hbf" />
+  <zug name="RE38 3485" von="Dresden Hbf" nach="Velden (b Hersbruck)" />
+  <zug name="RE38 3489" von="Dresden Hbf" nach="Neunkirchen" />
+  <zug name="RE40 3545" von="Gera Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE40 3547" von="Gera Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE40 3549" von="Gera Hbf" nach="Neuhaus (Pegnitz)">
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE40 3551" von="Leipzig Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE40 3553" von="Leipzig Hbf" nach="Neunkirchen">
+    <via name="Hof Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE40 3555" von="Leipzig Hbf" nach="Hersbruck (r Pegnitz)">
+    <via name="Hof Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE40 3557" von="Leipzig Hbf" nach="Hersbruck (r Pegnitz)">
+    <via name="Hof Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Plauen (Vogtl) ob Bf" />
+  </zug>
+  <zug name="RE40 3559" von="Leipzig Hbf" nach="Hersbruck (r Pegnitz)">
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE40 3561" von="Leipzig Hbf" nach="Hersbruck (r Pegnitz)">
+    <via name="Nürnberg Hbf" />
+  </zug>
+  <zug name="RE40 3563" von="Leipzig Hbf" nach="Dresden Hbf" />
+  <zug name="RE43 3822" von="München Hbf" nach="Nürnberg Hbf">
+    <via name="Gera Hbf" />
+    <via name="Freihöls" />
+    <via name="Amberg" />
+  </zug>
+  <zug name="RE47 3420" von="München Hbf" nach="Bodenwöhr Nord">
+    <via name="Gera Hbf" />
+    <via name="Plzen hl.n." />
+    <via name="Domazlice" />
+  </zug>
+  <zug name="RE50 1556" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 1557" von="Leipzig-Engelsdorf" nach="Dresden Hbf" />
+  <zug name="RE50 1558" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 16514" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 16516" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 16517" von="Radebeul-Naundorf" nach="Bennewitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig-Engelsdorf" />
+    <via name="Borsdorf (Sachs)" />
+  </zug>
+  <zug name="RE50 16518" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 16519" von="Leipzig-Engelsdorf" nach="Bennewitz">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Leipzig Markt" />
+    <via name="Leipzig Wilhelm-Leuschner-Platz" />
+  </zug>
+  <zug name="RE50 16520" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 16522" von="Dresden Hbf" nach="Schkeuditz" />
+  <zug name="RE50 16533" von="Großenhain Cottb Bf" nach="Dresden Hbf" />
+  <zug name="RE50 16540" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 16546" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 1655" von="Großenhain Cottb Bf" nach="Dresden Hbf" />
+  <zug name="RE50 16644" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 18019" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE50 18022" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RE50 18033" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RE50 18034" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RE50 18284" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE50 18287" von="Radebeul-Naundorf" nach="Dresden Hbf" />
+  <zug name="RE50 18412" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RE50 18414" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RE50 18418" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RE50 2442" von="Dresden Hbf" nach="Leipzig-Engelsdorf" />
+  <zug name="RE50 2443" von="Leipzig-Engelsdorf" nach="Dresden Hbf" />
+  <zug name="RE50 2445" von="Leipzig-Engelsdorf" nach="Dresden Hbf" />
+  <zug name="RE50 30730" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RE50 31726" von="Dresden Hbf" nach="Radebeul-Zitzschewig" />
+  <zug name="RE50 31728" von="Dresden Hbf" nach="Glaubitz (Riesa)" />
+  <zug name="RE50 31736" von="Dresden Hbf" nach="Radebeul-Naundorf" />
+  <zug name="RE50 31762" von="Dresden Hbf" nach="Niederau" />
+  <zug name="RE50 31763" von="Niederau" nach="Dresden Hbf" />
+  <zug name="RE50 31781" von="Meißen Triebischtal" nach="Schmilka-Hirschmühle">
+    <via name="Dresden-Strehlen" />
+    <via name="Dresden-Reick" />
+    <via name="Dresden-Dobritz" />
+  </zug>
+</zza>

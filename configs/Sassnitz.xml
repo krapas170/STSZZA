@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Sassnitz">
+  <zug name="RB12 13223" von="Bentwisch" nach="Greifswald" />
+  <zug name="RB12 13225" von="Bentwisch" nach="Greifswald" />
+  <zug name="RB12 13227" von="Bentwisch" nach="Greifswald" />
+  <zug name="RB12 13229" von="Bentwisch" nach="Greifswald" />
+  <zug name="RB12 63911" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE10 63902" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE10 63985" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 1073" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 1179" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 1577" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 1671" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 1711" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 63900" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 63901" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63903" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63904" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 63905" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63907" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63910" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 63911" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63940" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 63941" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63943" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63945" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63946" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 63947" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63975" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 63982" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 677" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 679" von="Stralsund Hbf" nach="Rövershagen">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+  <zug name="RE9 733" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 777" von="Stralsund Hbf" nach="Ribnitz-Damgarten West">
+    <via name="Lancken" />
+    <via name="Sagard" />
+    <via name="Lietzow (Rügen)" />
+  </zug>
+</zza>

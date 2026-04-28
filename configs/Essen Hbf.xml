@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Essen Hbf">
+  <zug name="RB33 10300" von="Aachen Schanz" nach="Essen Hbf" />
+  <zug name="RB33 10301" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10302" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB33 10303" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10304" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB33 10305" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10306" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB33 10307" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10308" von="Aachen Schanz" nach="Essen Hbf" />
+  <zug name="RB33 10310" von="Aachen Schanz" nach="Essen Hbf" />
+  <zug name="RB33 10311" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10312" von="Aachen Schanz" nach="Essen Hbf" />
+  <zug name="RB33 10313" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10315" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10317" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10319" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10321" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB33 10323" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB33 10325" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB33 10327" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB33 10329" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB33 10346" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB35 1545" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB35 52241" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB35 52243" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RB35 89672" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB35 89674" von="Viersen" nach="Essen Hbf" />
+  <zug name="RB35 89675" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB35 89677" von="Essen-Zollverein Nord" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RB35 89679" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB35 89681" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB35 89683" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB35 89685" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB35 89687" von="Essen Hbf" nach="Viersen" />
+  <zug name="RB40 29964" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30750" von="Hagen-Vorhalle" nach="Essen Hbf" />
+  <zug name="RB40 30752" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 30754" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 30756" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 30757" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30758" von="Hagen-Vorhalle" nach="Essen Hbf" />
+  <zug name="RB40 30759" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30763" von="Dortmund-Barop" nach="Welschen Ennest">
+    <via name="Bochum Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB40 31303" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 31307" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 31342" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB40 31344" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB40 31387" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 33083" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB40 33085" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 2227" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB91 2328" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 24374" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB91 29961" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 29962" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 29965" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 29966" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB91 30760" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 30762" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 30764" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 30766" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 30768" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31305" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31308" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB91 31311" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31313" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31336" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31338" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31340" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB91 31345" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31349" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31383" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31385" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31387" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31391" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31397" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 31399" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RB91 33086" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RB91 52225" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 52328" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE14 89494" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89495" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89496" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89497" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89498" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89499" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89500" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89501" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89502" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89503" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89504" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89505" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89506" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89507" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89508" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89509" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89510" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89511" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89512" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89513" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89514" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89515" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89516" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89517" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89518" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89519" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89520" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89521" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89522" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89523" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89524" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89525" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89526" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89527" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89528" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89529" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89530" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89531" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89532" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89533" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89534" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89535" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89536" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89537" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89538" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89539" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89540" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89541" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89542" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89543" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89544" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89545" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89546" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89547" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89549" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89550" von="Essen Hbf" nach="Feldhausen" />
+  <zug name="RE14 89592" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89594" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89595" von="Coesfeld (Westf)" nach="Essen Hbf" />
+  <zug name="RE14 89596" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89598" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE16 2326" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE16 29968" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RE16 29970" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RE16 30761" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE16 31300" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE16 31301" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE16 31302" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE16 31306" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RE16 31309" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE16 31347" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE16 31351" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE16 31392" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE16 31393" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10202" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10203" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10204" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10205" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10206" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10207" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10208" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10209" von="Münster (Westf) Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10210" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE2 10211" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10241" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10243" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE2 10244" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf" />
+  <zug name="RE34 2225" von="Dortmund-Barop" nach="Siegen-Weidenau">
+    <via name="Bochum Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RE34 2326" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE34 2328" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE34 29967" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE34 29971" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE34 30765" von="Essen Hbf" nach="Welschen Ennest" />
+  <zug name="RE34 31304" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 31330" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 33081" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE34 33082" von="Essen Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 52326" von="Siegen-Weidenau" nach="Essen Hbf" />
+  <zug name="RE34 52328" von="Hagen-Vorhalle" nach="Essen Hbf" />
+  <zug name="RE42 10100" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10101" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10102" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RE42 10103" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10104" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10105" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10106" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RE42 10107" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE42 10108" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10109" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10110" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RE42 10111" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE42 10112" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10113" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10114" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RE42 10115" von="Düsseldorf Hbf" nach="Krefeld Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE42 10116" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10117" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10118" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RE42 10119" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Recklinghausen Hbf" />
+    <via name="Recklinghausen Süd" />
+    <via name="Marl-Sinsen" />
+  </zug>
+  <zug name="RE42 10120" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10121" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10122" von="Dortmund Hbf" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Duisburg-Hochfeld Süd" />
+  </zug>
+  <zug name="RE42 10123" von="Düsseldorf Hbf" nach="Duisburg-Hochfeld Süd">
+    <via name="Recklinghausen Hbf" />
+    <via name="Krefeld Hbf" />
+    <via name="Recklinghausen Süd" />
+  </zug>
+  <zug name="RE42 10126" von="Münster-Albachten" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RE42 10130" von="Münster-Albachten" nach="Viersen">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Krefeld Hbf" />
+  </zug>
+  <zug name="RE42 10134" von="Essen Hbf" nach="Viersen" />
+  <zug name="RE42 10180" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10183" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10184" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 10187" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10191" von="Düsseldorf Hbf" nach="Münster-Albachten">
+    <via name="Gelsenkirchen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+  </zug>
+  <zug name="RE42 10192" von="Münster-Albachten" nach="Düsseldorf Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Duisburg Hbf" />
+    <via name="Düsseldorf Flughafen" />
+  </zug>
+  <zug name="RE42 89676" von="Viersen" nach="Essen Hbf" />
+  <zug name="RE49 30294" von="Arnhem Centraal" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30296" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Recklinghausen Hbf" />
+    <via name="Bottrop Hbf" />
+    <via name="Wuppertal Hbf" />
+  </zug>
+  <zug name="RE49 30297" von="Düsseldorf Hbf" nach="Mülheim (Ruhr) Styrum">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Essen West" />
+    <via name="Essen-Frohnhausen" />
+  </zug>
+  <zug name="RE49 30298" von="Arnhem Centraal" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Steele" />
+    <via name="Essen-Überruhr" />
+  </zug>
+  <zug name="RE49 30299" von="Düsseldorf Hbf" nach="Recklinghausen Hbf">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Gevelsberg Hbf" />
+    <via name="Wuppertal Hbf" />
+  </zug>
+  <zug name="RE49 30300" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30301" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30303" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30305" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30307" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30316" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30317" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30318" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30319" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30320" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30321" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30322" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30323" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30380" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30381" von="Hattingen (Ruhr) Mitte" nach="Wesel">
+    <via name="Mülheim (Ruhr) Hbf" />
+    <via name="Oberhausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30382" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30384" von="Wesel" nach="Hattingen (Ruhr) Mitte">
+    <via name="Essen-Steele" />
+    <via name="Essen-Steele Ost" />
+    <via name="Essen-Horst" />
+  </zug>
+  <zug name="RE49 30900" von="Marl-Hamm" nach="Schwelm">
+    <via name="Wuppertal Hbf" />
+    <via name="Velbert-Langenberg" />
+    <via name="Wuppertal-Vohwinkel" />
+  </zug>
+  <zug name="RE49 30901" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30903" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30918" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Steele" />
+    <via name="Essen-Überruhr" />
+  </zug>
+  <zug name="RE49 30920" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Steele" />
+    <via name="Essen-Überruhr" />
+  </zug>
+  <zug name="RE49 30921" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+    <via name="Essen-Borbeck Süd" />
+  </zug>
+  <zug name="RE49 30922" von="Marl-Hamm" nach="Gevelsberg West">
+    <via name="Wuppertal Hbf" />
+    <via name="Essen-Steele" />
+    <via name="Essen-Überruhr" />
+  </zug>
+  <zug name="RE49 30923" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+    <via name="Essen-Borbeck Süd" />
+  </zug>
+  <zug name="RE49 30925" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+    <via name="Essen-Borbeck Süd" />
+  </zug>
+  <zug name="RE49 30927" von="Hagen-Wehringhausen" nach="Recklinghausen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Essen West" />
+    <via name="Essen-Borbeck Süd" />
+  </zug>
+  <zug name="RE49 30982" von="Marl-Hamm" nach="Schwelm">
+    <via name="Wuppertal Hbf" />
+    <via name="Velbert-Langenberg" />
+    <via name="Wuppertal-Vohwinkel" />
+  </zug>
+  <zug name="RE49 30983" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30985" von="Hagen-Wehringhausen" nach="Marl-Hamm">
+    <via name="Bottrop Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Essen West" />
+  </zug>
+  <zug name="RE49 30988" von="Marl-Hamm" nach="Schwelm">
+    <via name="Wuppertal Hbf" />
+    <via name="Velbert-Langenberg" />
+    <via name="Wuppertal-Vohwinkel" />
+  </zug>
+</zza>

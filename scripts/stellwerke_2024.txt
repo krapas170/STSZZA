@@ -1,0 +1,250 @@
+# Stellwerksnamen, die STS in <anlageninfo name="..."/> liefert.
+# Ein Name pro Zeile. Leerzeilen und „#"-Kommentare ignoriert.
+# Diese Datei: alle Stellwerke mit Plan 2024.
+Aschaffenburg
+Babenhausen
+Backnang 2024
+Bad Belzig
+Bad Homburg
+Bad Kleinen
+Bad Oldesloe
+Bad Schandau
+Bad Vilbel
+Bamberg 2024
+Bautzen - Wilthen
+Bergen (Rügen)
+Bergstraße 2024
+Berlin Hbf (Stadtbahn) 2024
+Berlin Hbf (Tunnel) 2024
+Berlin-Köpenick
+Berlin-Rummelsburg 2024
+Berlin-Spandau 2024
+Berlin-Wannsee 2024
+Bernburg (Saale)
+Biblis
+Biesdorfer Kreuz
+Bietigheim/Vaihingen (E) 2024
+Bischofswerda - Klotzsche
+Bobingen
+Böblingen 2024
+Bochum Hbf
+Bornholmer Straße
+Bottrop Hbf
+Brandenburg (Havel)
+Bremervörde
+Bruchsal 2024
+Büchen
+Buchloe
+Bützow-Güstrow
+Calau (NL)
+Chemnitz Hbf
+Chemnitz Süd
+Coburg 2024
+Coesfeld (Westf)
+Coswig
+Cottbus Hbf
+Darmstadt Hbf
+Döbeln
+Doberlug-Kirchhain ob. Bhf.
+Dortmund Hbf
+Dortmund-Dorstfeld
+Dortmund-Obereving
+Dresden Hbf
+Dresden-Friedrichstadt
+Dresden-Neustadt
+Duisburg Hbf
+Düsseldorf Flughafen
+Düsseldorf Hbf
+Düsseldorf-Gerresheim
+Düsseldorf-Rath
+Ebensfeld 2024
+Eberswalde
+Eichstätt 24
+Eilenburg
+Eisenhüttenstadt
+Elmshorn
+Elster (Elbe)
+Elsterwerda - Großenhain
+Emden
+Eppingen/Sinsheim 2024
+Erkner
+Erlangen-Forchheim 2024
+Essen Hbf
+Essen-Steele
+Esslingen/Plochingen 2024
+Falkenberg (Elster)
+Flensburg
+Flöha
+Flughafen BER
+Frankfurt (Oder)
+Frankfurt Flughafen
+Frankfurt Fzf/Fsf
+Frankfurt Hbf
+Frankfurt Ost
+Frankfurt Süd
+Frankfurt-Höchst
+Freiberg - Freital
+Friedrichshafen 2024
+Fröndenberg
+Fürstenwalde
+Gaschwitz
+Geithain
+Gelsenkirchen Hbf
+Gelsenkirchen-Bismarck
+Geltendorf
+Genshagener Heide
+Genthin
+Giesing
+Glauchau
+Glöwen
+Göppingen/Geislingen 2024
+Görlitz
+Graben-Neudorf 2024
+Gräfenhainichen
+Greifswald
+Groß-Gerau
+Grünauer Kreuz
+Guben
+Günzburg
+Hagen Hbf
+Hagen-Hengstey
+Hagenow
+Halberstadt
+Haltern am See
+Hamburg Hbf
+Hamburg Hbf S-Bahn
+Hamburg-Altona
+Hamburg-Eidelstedt
+Hanau Hbf
+Heide (Holst)
+Heidelberg Hbf 2024
+Hennigsdorf
+Herne
+Hohen Neuendorf
+Höllentalbahn
+Holzkirchen
+Horka
+Husum
+Ingolstadt Hbf
+Ingolstadt Nord 24
+Itzehoe
+Jüterbog
+Kaltenkirchen (AKN-Strecke)
+Kamenz (Sachs)
+Karow (Meckl)
+Karower Kreuz
+Kempen-Kleve
+Kiel
+Köln Hbf 2024
+Köln-Deutz/Mülheim 2024
+Köln/Bonn Flughafen 2024
+Königs Wusterhausen
+Könnern
+Köthen(Anh.)
+Lalendorf
+Laupheim 2024
+Leverkusen
+Lichtenberg Fernbahn
+Lichtenfels 2024
+Löwenberg (Mark)
+Lübbenau
+Lübeck Hbf
+Lüdenscheid
+Ludwigsburg 2024
+Ludwigshafen (Rhein)
+Ludwigslust
+Lutherstadt Wittenberg
+Magdeburg Hbf
+Magdeburg-Buckau
+Magdeburg-Neustadt
+Mannheim Hbf 2024
+Mannheim-Waldhof 2024
+Meppen
+Michendorf
+Mühlacker 2024
+Mühldorf
+München Hbf
+München Ost Pbf
+München Ost Rbf
+München-Pasing
+München-Süd/Laim Rbf
+Nauen
+Naumburg (Saale)
+Nbg-Eibach/Rbf Ausfahrt 2024
+Neu-Ulm
+Neubrandenburg
+Neuburg-Schrobenhausen
+Neumünster
+Neuruppin
+Neustadt (Sachs)
+Neustrelitz
+Nidderau
+Niebüll-Westerland
+Nordharz
+Nördlingen/Dillingen
+Oberhausen Hbf
+Oberland
+Oranienburg
+Oschersleben
+Pasewalk
+Pfaffenhofen (Ilm)
+Pirna - Heidenau
+Plauen oberer Bhf
+Potsdam
+Prenzlau
+Priort
+Pritzwalk
+Rathenow
+Remscheid
+Renningen 2024
+Riesa
+Rostock
+Roth 2024
+Roßlau (Elbe)
+Ruhland - Hoyerswerda
+Rüsselsheim
+S-Bahn Elbgaustraße
+S-Bahn Poppenbüttel
+S-Bahn Stammstrecke
+S-Bahn Wedel
+Salzwedel
+Sassnitz
+Schönberg
+Schönebeck(Elbe)
+Schwerin
+Schwerte (Ruhr)
+Schwetzingen 2024
+Senftenberg
+SFS Köln-Rhein/Main 2024
+Solingen
+Spremberg
+Stammstrecke-M
+Stralsund
+Stuttgart Hbf 2024
+Stuttgart-Bad Cannstatt 2024
+Stuttgart-Vaihingen 2024
+Stuttgart-Zuffenhausen 2024
+Treuchtlingen 2024
+Troisdorf 2024
+Ulm Hbf 2024
+Usedom
+Waiblingen 2024
+Wannsee S-Bahn
+Waren (Müritz)
+Warnemünde
+Weimar
+Wendlingen 2024
+Werbig
+Werdau
+Wismar
+Witten Hbf
+Wittenberge
+Wittingen
+Wolfgang
+Wünsdorf-Waldstadt
+Wuppertal Hbf
+Wuppertal-Oberbarmen
+Wurzen
+Zielitz
+Zittau
+Zwickau

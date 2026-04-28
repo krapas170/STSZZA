@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Zittau">
+  <zug name="RB60 20852" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 20840" von="Liberec" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 20848" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 20850" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 20851" von="Zittau" nach="Liberec" />
+  <zug name="RB61 20858" von="Liberec" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 20860" von="Görlitz" nach="Eibau">
+    <via name="Niederoderwitz" />
+  </zug>
+  <zug name="RB61 20900" von="Liberec" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 20925" von="Zittau" nach="Liberec" />
+  <zug name="RB61 20929" von="Zittau" nach="Liberec" />
+  <zug name="RB61 20970" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RB61 26907" von="Zittau" nach="Liberec" />
+  <zug name="RB61 76540" von="Liberec" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 76542" von="Liberec" nach="Dresden Hbf">
+    <via name="Dresden Hbf qd" />
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+  </zug>
+  <zug name="RB61 76546" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RB61 76551" von="Dresden Hbf" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
+  <zug name="RB61 76557" von="Dresden Industriegelände" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
+  <zug name="RB61 76559" von="Zittau" nach="Liberec" />
+  <zug name="RE1 76553" von="Zittau" nach="Liberec" />
+  <zug name="RE2 20842" von="Görlitz" nach="Dresden Hbf">
+    <via name="Dresden Hbf qd" />
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+  </zug>
+  <zug name="RE2 20846" von="Görlitz" nach="Eibau">
+    <via name="Niederoderwitz" />
+  </zug>
+  <zug name="RE2 20848" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20853" von="Zittau" nach="Liberec" />
+  <zug name="RE2 20855" von="Dresden Industriegelände" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
+  <zug name="RE2 20859" von="Dresden Industriegelände" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
+  <zug name="RE2 20904" von="Liberec" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 20916" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20918" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 20921" von="Zittau" nach="Liberec" />
+  <zug name="RE2 20960" von="Liberec" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 26940" von="Reichenbach (Oberlausitz)" nach="Dresden Hbf qd">
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+    <via name="Ebersbach (Sachs)" />
+  </zug>
+  <zug name="RE2 76544" von="Liberec" nach="Dresden Hbf">
+    <via name="Dresden Hbf qd" />
+    <via name="Oberoderwitz" />
+    <via name="Neugersdorf" />
+  </zug>
+  <zug name="RE2 76552" von="Liberec" nach="Dresden Industriegelände">
+    <via name="Niederoderwitz" />
+    <via name="Eibau" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
+  <zug name="RE2 76555" von="Zittau" nach="Liberec" />
+</zza>

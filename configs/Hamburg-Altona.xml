@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Hamburg-Altona">
+  <zug name="RB61 11007" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Hamburg Hbf" />
+    <via name="Hamburg Dammtor" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 11009" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB61 11011" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB61 11013" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB61 11038" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RB61 11042" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB61 11047" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB61 11084" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RB61 11096" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RB61 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB61 11109" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB61 11112" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RB61 11252" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB61 11262" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RB61 2074" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RB61 2214" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB61 4192" von="Hamburg Hbf" nach="Elmshorn" />
+  <zug name="RB61 75500" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB61 75501" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Hamburg Hbf" />
+    <via name="Hamburg Dammtor" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB61 75503" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB61 75505" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB61 75507" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB61 75508" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB61 75510" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB61 75512" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Kiel Hbf" />
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+  </zug>
+  <zug name="RB61 75513" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB61 75514" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB61 75516" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RB61 75521" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB61 81824" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB61 81858" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB61 81860" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB61 91034" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RB62 11001" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB62 11100" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 11104" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 11106" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 11108" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 11110" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 11136" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 11138" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RB62 2214" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RB62 75517" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB71 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB71 11012" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RB71 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB71 11158" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11160" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RB71 11200" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11202" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11204" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11208" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11213" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 11242" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11250" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 11299" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 2081" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 279" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 595" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 75508" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 75511" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81746" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81747" von="Kiel Hbf" nach="Hamburg Dammtor (">
+    <via name="Hamburg Hbf" />
+    <via name="Hamburg Dammtor" />
+    <via name="Keitum" />
+  </zug>
+  <zug name="RB71 81750" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81751" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81755" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RB71 81821" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81823" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81825" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81827" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81828" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81831" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81846" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81848" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81850" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81856" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RB71 81859" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81863" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81865" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81895" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RB71 81897" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE10 1426" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 1088" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE6 11000" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11001" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE6 11002" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11004" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Kiel Hbf" />
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+  </zug>
+  <zug name="RE6 11006" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Kiel Hbf" />
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+  </zug>
+  <zug name="RE6 11007" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 11008" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11009" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 11010" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RE6 11011" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE6 11034" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RE6 11042" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RE6 11044" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11046" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RE6 11052" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11054" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11056" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11058" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE6 11082" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RE6 11097" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 11111" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 11255" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE6 1918" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE6 2074" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RE6 2079" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE6 279" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE6 75500" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RE6 75503" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 75505" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 75506" von="Hamburg-Altona" nach="Westerland (Sylt)" />
+  <zug name="RE6 75510" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE6 75518" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RE6 75519" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 75521" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 81748" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE6 81752" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE6 81759" von="Keitum" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor (" />
+  </zug>
+  <zug name="RE6 81830" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE6 81864" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE60 2214" von="Hamburg-Altona" nach="Elmshorn" />
+  <zug name="RE60 4196" von="Hamburg Hbf" nach="Westerland (Sylt)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE60 4198" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
+    <via name="Pinneberg" />
+    <via name="Elmshorn" />
+    <via name="Glückstadt" />
+  </zug>
+  <zug name="RE60 81862" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE7 11002" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11008" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11154" von="Hamburg Hbf" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+  </zug>
+  <zug name="RE7 11155" von="Kiel Hbf" nach="Nortorf">
+    <via name="Hamburg Hbf" />
+    <via name="Hamburg Dammtor" />
+    <via name="Tarp" />
+  </zug>
+  <zug name="RE7 11156" von="Hamburg Hbf" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+  </zug>
+  <zug name="RE7 11157" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11163" von="Kiel Hbf" nach="Nortorf">
+    <via name="Hamburg Hbf" />
+    <via name="Hamburg Dammtor" />
+    <via name="Tarp" />
+  </zug>
+  <zug name="RE7 11194" von="Hamburg Hbf" nach="Tarp">
+    <via name="Kiel Hbf" />
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+  </zug>
+  <zug name="RE7 11203" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11207" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11209" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11212" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE7 11244" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11246" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11247" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11249" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11251" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11253" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11254" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11255" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11256" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11257" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11258" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11263" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11290" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11292" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 11293" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 11295" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 1678" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 2579" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 618" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE7 75502" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 75515" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 75516" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 75523" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 81753" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE7 81820" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 81852" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE7 81853" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 1088" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE70 11005" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 11162" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE70 11201" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 11206" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE70 11211" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 11243" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 11245" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 23675" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 371" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+  <zug name="RE70 75514" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE70 75518" von="Hamburg Hbf" nach="Hamburg-Altona" />
+  <zug name="RE70 81854" von="Hamburg Hbf" nach="Kiel Hbf">
+    <via name="Pinneberg" />
+    <via name="Prisdorf" />
+    <via name="Tornesch" />
+  </zug>
+  <zug name="RE70 81855" von="Kiel Hbf" nach="Hamburg Hbf">
+    <via name="Hamburg Dammtor" />
+  </zug>
+</zza>

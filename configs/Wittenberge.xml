@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Wittenberge">
+  <zug name="RB17 13150" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB17 13151" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB17 13152" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB17 13153" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB17 13158" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB17 13184" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB17 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB17 52926" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB17 52928" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB17 52929" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB17 62010" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RB17 870" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB18 13156" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB18 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RB18 62007" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 16321" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Schönebeck (Elbe)" />
+    <via name="Sachsendorf (Calbe)" />
+    <via name="Wulfen (Anh)" />
+  </zug>
+  <zug name="RE30 16323" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg Südost" />
+    <via name="Schönebeck (Elbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 16325" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg Südost" />
+    <via name="Schönebeck (Elbe)" />
+    <via name="Calbe (Saale) Ost" />
+  </zug>
+  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 2037" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE30 2039" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge" />
+  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge" />
+  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge" />
+  <zug name="RE30 2441" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE30 2443" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RE8 13155" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RE8 13160" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 13186" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 2074" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 2093" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RE8 2238" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 52921" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 52924" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RE8 52927" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 608" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 61999" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Schwerin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Schwerin Hbf" />
+    <via name="Potsdam Hbf" />
+    <via name="Karstädt" />
+  </zug>
+  <zug name="RE8 701" von="Wismar" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin-Spandau" />
+  </zug>
+  <zug name="RE8 908" von="Berlin Südkreuz" nach="Wismar">
+    <via name="Schwerin Hbf" />
+    <via name="Karstädt" />
+    <via name="Grabow (Meckl)" />
+  </zug>
+</zza>

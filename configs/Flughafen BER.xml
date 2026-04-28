@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Flughafen BER">
+  <zug name="RB20 18450" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB20 18451" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB20 18452" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB20 18453" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB20 18454" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB20 18455" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB20 18456" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB20 18457" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB20 18458" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB20 18459" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB20 18461" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB20 18463" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB20 18465" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB20 18467" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB20 18469" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB22 18100" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB22 18101" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB22 18102" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB22 18103" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB22 18104" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB22 18105" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB22 18106" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB22 18107" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB22 18108" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB22 18109" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB22 18110" von="Potsdam Griebnitzsee" nach="Birkenwerder (b Berlin)">
+    <via name="Hennigsdorf (b Berlin)" />
+  </zug>
+  <zug name="RB22 18111" von="Birkenwerder (b Berlin)" nach="Potsdam Griebnitzsee">
+    <via name="Potsdam Hbf" />
+    <via name="Ludwigsfelde-Struveshof" />
+    <via name="Saarmund" />
+  </zug>
+  <zug name="RB22 18113" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB22 18115" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB22 18117" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB22 18119" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB22 18121" von="Flughafen BER" nach="Potsdam Pirschheide (oben)" />
+  <zug name="RB23 18141" von="Potsdam Park Sanssouci" nach="Flughafen BER" />
+  <zug name="RB23 18143" von="Potsdam Park Sanssouci" nach="Flughafen BER" />
+  <zug name="RB23 18144" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RB23 18145" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RB23 18147" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Berlin Gesundbrunnen" />
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RB23 18149" von="Potsdam Park Sanssouci" nach="Flughafen BER" />
+  <zug name="RB23 18151" von="Potsdam Park Sanssouci" nach="Flughafen BER" />
+  <zug name="RB23 18656" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 19804" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 19807" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RB23 19820" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 62002" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RB23 62003" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 62004" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RB23 62011" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB23 62044" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RB24 18341" von="Berlin-Hohenschönhausen" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 18342" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 18343" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 18344" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 18346" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 18347" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 18349" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 18350" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 18352" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 18355" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62052" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62055" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 62056" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62057" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RB24 62058" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62060" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62064" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62068" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62070" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB24 62072" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RB32 18140" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB32 18148" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB32 18652" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB32 18660" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB32 19800" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB32 19816" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RB32 62009" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 18146" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 18348" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RE8 18650" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 18658" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 19801" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RE8 19803" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RE8 19805" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+  </zug>
+  <zug name="RE8 19812" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 19815" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RE8 19817" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+  </zug>
+  <zug name="RE8 19819" von="Berlin-Charlottenburg" nach="Ludwigsfelde">
+    <via name="Birkengrund" />
+  </zug>
+  <zug name="RE8 19821" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
+    <via name="Berlin Hbf" />
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+  </zug>
+  <zug name="RE8 19841" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RE8 19845" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RE8 19880" von="Ludwigsfelde" nach="Berlin-Charlottenburg">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Ostkreuz" />
+    <via name="Berlin Ostbahnhof" />
+  </zug>
+  <zug name="RE8 62000" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RE8 62002" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62004" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62005" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RE8 62006" von="Wismar" nach="Berlin Potsdamer Platz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62008" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62013" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RE8 62038" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62041" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RE8 62042" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62043" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RE8 62044" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62046" von="Potsdam Park Sanssouci" nach="Ludwigsfelde">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62047" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen" />
+  <zug name="RE8 62048" von="Potsdam Park Sanssouci" nach="Berlin Südkreuz">
+    <via name="Nauen" />
+    <via name="Brieselang" />
+    <via name="Finkenkrug" />
+  </zug>
+  <zug name="RE8 62051" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RE8 62053" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RE8 62054" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RE8 62059" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RE8 62062" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RE8 62066" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+  <zug name="RE8 62089" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Berlin-Lichterfelde Ost" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RE8 62090" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Schönefeld (bei Berlin)" />
+    <via name="Blankenfelde Moselstr/Tunnelweg" />
+    <via name="Blankenfelde Moselstraße/Karl-Marx-Straße" />
+  </zug>
+</zza>

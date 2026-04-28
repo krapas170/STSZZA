@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Backnang 2024">
+  <zug name="MEX19 88610" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX19 88613" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="MEX90 17500" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 17501" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="MEX90 17502" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 17503" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="MEX90 17504" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 17505" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="MEX90 17508" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 17509" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="MEX90 17510" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 17513" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="MEX90 17516" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 52368" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="MEX90 88633" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="RB46 27234" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27236" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27238" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27240" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27242" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27244" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB46 27246" von="P N" nach="Rohrbach (Oberbay)" />
+  <zug name="RB83 23430" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="RE80 23400" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="RE90 17507" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="RE90 17512" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="RE90 2061" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="RE90 2164" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="RE90 52365" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="RE90 52366" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="RE90 7302" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="RE90 88630" von="Roßtal" nach="Stuttgart Hbf">
+    <via name="Winnenden" />
+  </zug>
+  <zug name="RE90 88631" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+  <zug name="RE90 88635" von="Stuttgart Hbf" nach="Roßtal">
+    <via name="Oppenweiler (Württ)" />
+    <via name="Sulzbach (Murr)" />
+    <via name="Murrhardt" />
+  </zug>
+</zza>

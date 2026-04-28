@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Berlin-Wannsee 2024">
+  <zug name="RB23 18140" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB23 18142" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB23 18144" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB23 18146" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB23 18148" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB23 18150" von="Berlin Ostkreuz" nach="Golm">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RB37 62200" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62201" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB37 62202" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62203" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB37 62204" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62205" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB37 62206" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62207" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB37 62208" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62209" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RB37 62210" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62212" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62214" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RB37 62216" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18753" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18754" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE7 18755" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18756" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE7 18757" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18758" von="Jeber-Bergfrieden" nach="Berlin Südkreuz">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE7 18759" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18771" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18773" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18776" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE7 18778" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
+    <via name="Berlin Hbf" />
+    <via name="Berlin Zoologischer Garten" />
+    <via name="Berlin Friedrichstraße" />
+  </zug>
+  <zug name="RE7 18783" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18785" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 18787" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3701" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3702" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3703" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3704" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3705" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3706" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3707" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3708" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3709" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3710" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3711" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3712" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3713" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3715" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3717" von="Sedlitz Ost" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3719" von="Berlin Ostbahnhof" nach="Nauen">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3721" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3723" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3747" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE7 3749" von="Sedlitz Ost" nach="Berlin-Spandau">
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+    <via name="Wilhelmshorst" />
+  </zug>
+  <zug name="RE8 62001" von="Berlin Südkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62003" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62005" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62007" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62009" von="Berlin Ostkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62011" von="Berlin Südkreuz" nach="Nauen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62013" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62041" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62043" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+  <zug name="RE8 62047" von="Berlin Ostkreuz" nach="Berlin Gesundbrunnen">
+    <via name="Potsdam Hbf" />
+    <via name="Potsdam Griebnitzsee" />
+    <via name="Potsdam Charlottenhof" />
+  </zug>
+</zza>

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Esslingen/Plochingen 2024">
+  <zug name="IRE6 19123" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="IRE6 19351" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="IRE6 19380" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="IRE6 19382" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="IRE6 19383" von="Stuttgart Hbf" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="IRE6 3250" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="IRE6 3251" von="Sigmaringendorf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="IRE6 3252" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="IRE6 3254" von="Wangen (Allgäu)" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="IRE6 3868" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="IRE6 79475" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX12 19208" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19216" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19217" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19220" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19222" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19224" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19226" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX12 19355" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19357" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX12 19378" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX12 4207" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX12 89476" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 1011" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 119" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 1291" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 19101" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 19102" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19103" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19104" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19105" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19106" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19107" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19108" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19109" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX16 19110" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19111" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+  </zug>
+  <zug name="MEX16 19112" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19113" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19114" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19115" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19116" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19117" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19118" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19120" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19121" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19122" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19124" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19125" von="Stuttgart Hbf" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19126" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19127" von="Stuttgart Hbf" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19128" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 19129" von="Plochingen" nach="Reutlingen West" />
+  <zug name="MEX16 19130" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19131" von="Plochingen" nach="Reutlingen West" />
+  <zug name="MEX16 19132" von="Beimerstetten" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19133" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 19181" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 19183" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 19186" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19187" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX16 19188" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX16 19189" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX16 19211" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 215" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 2401" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 2409" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4211" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4213" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4217" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4227" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4237" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4239" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 4243" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 515" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 561" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 565" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 619" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 695" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 699" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 79489" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX16 897" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 911" von="Tübingen Hbf" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 991" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX18 19200" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19201" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Heilbronn Hbf" />
+  </zug>
+  <zug name="MEX18 19203" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Heilbronn Hbf" />
+  </zug>
+  <zug name="MEX18 19205" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Heilbronn Hbf" />
+  </zug>
+  <zug name="MEX18 19206" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX18 19207" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX18 19209" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Heilbronn Hbf" />
+  </zug>
+  <zug name="MEX18 19213" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19214" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19252" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19257" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Heilbronn Hbf" />
+  </zug>
+  <zug name="MEX18 19261" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX18 19301" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Heilbronn Hbf" />
+  </zug>
+  <zug name="MEX18 19304" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19306" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19307" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19308" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19309" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19310" von="Tübingen-Lustnau" nach="Würzburg Hbf">
+    <via name="Stuttgart Hbf" />
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 19312" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="MEX18 19343" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="MEX18 19353" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Reutlingen Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+  </zug>
+  <zug name="MEX18 22773" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="MEX18 22851" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 19119" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 19379" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22744" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22756" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22760" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22772" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22774" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22776" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22777" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RB63 22778" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22807" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RB63 22809" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22811" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22812" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22813" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22814" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22815" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RB63 22817" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22818" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22819" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RB63 22823" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RB63 22841" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+  </zug>
+  <zug name="RB63 22843" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wernau (Neckar)" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 22852" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22854" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22855" von="Bad Urach Ermstalklinik" nach="Bempflingen">
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RB63 22856" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 22858" von="Tübingen Hbf" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RB63 3253" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB63 3853" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RB64 37950" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37951" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37952" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37953" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37954" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37955" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37956" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37957" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37958" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37959" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37960" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37961" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37962" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37963" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37964" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37965" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37966" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37967" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37968" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37969" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37970" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37971" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37972" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37973" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37974" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37975" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37976" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37977" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37978" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37979" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37980" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37981" von="Esslingen (Neckar)" nach="Unterlenningen" />
+  <zug name="RB64 37982" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RE14a 17628" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Oberesslingen" />
+    <via name="Esslingen-Zell" />
+    <via name="Altbach" />
+  </zug>
+  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen">
+    <via name="Stuttgart Hbf" />
+    <via name="Esslingen (Neckar)" />
+    <via name="S-Stadtmitte" />
+  </zug>
+  <zug name="RE14a 7100" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Oberesslingen" />
+    <via name="Esslingen-Zell" />
+    <via name="Altbach" />
+  </zug>
+  <zug name="RE14a 7180" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Oberesslingen" />
+    <via name="Esslingen-Zell" />
+    <via name="Altbach" />
+  </zug>
+  <zug name="RE14a 7701" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="Stuttgart Hbf" />
+    <via name="Altbach" />
+    <via name="Esslingen-Zell" />
+  </zug>
+  <zug name="RE14a 7704" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Oberesslingen" />
+    <via name="Esslingen-Zell" />
+    <via name="Altbach" />
+  </zug>
+  <zug name="RE4 17611" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="Stuttgart Hbf" />
+    <via name="Altbach" />
+    <via name="Esslingen-Zell" />
+  </zug>
+  <zug name="RE4 7105" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
+    <via name="Stuttgart Hbf" />
+    <via name="Altbach" />
+    <via name="Esslingen-Zell" />
+  </zug>
+  <zug name="RE5 113" von="Plochingen" nach="Innsbruck Hbf" />
+  <zug name="RE5 19109" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 19113" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 19119" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 19139" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 19141" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 19161" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 19303" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RE5 4200" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RE5 4202" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RE5 4204" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="RE5 4205" von="Tübingen Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RE5 4206" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RE5 4207" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 4208" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Esslingen (Neckar)" />
+  </zug>
+  <zug name="RE5 4209" von="Stuttgart Hbf" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RE5 4210" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RE5 4211" von="Tübingen Hbf" nach="Reutlingen West">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Oberboihingen" />
+  </zug>
+  <zug name="RE5 4236" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
+    <via name="Esslingen (Neckar)" />
+    <via name="Stuttgart-Untertürkheim" />
+    <via name="Stuttgart-Bad Cannstatt" />
+  </zug>
+  <zug name="RE5 4243" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
+    <via name="Reutlingen Hbf" />
+    <via name="Plochingen" />
+    <via name="Wendlingen (Neckar)" />
+  </zug>
+  <zug name="RE5 461" von="Plochingen" nach="Innsbruck Hbf" />
+  <zug name="RE5 513" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 599" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 913" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE87 7102" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Oberesslingen" />
+    <via name="Esslingen-Zell" />
+    <via name="Altbach" />
+  </zug>
+  <zug name="RE87 7106" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
+    <via name="Oberesslingen" />
+    <via name="Esslingen-Zell" />
+    <via name="Altbach" />
+  </zug>
+</zza>

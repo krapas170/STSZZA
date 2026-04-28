@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Holzkirchen">
+  <zug name="RB55 77300" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77302" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77303" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77304" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77305" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77306" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77307" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77308" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77309" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77310" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77311" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77312" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77313" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77314" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77315" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77316" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77317" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77318" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77319" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77320" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77321" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77322" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77323" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77324" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77325" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77326" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77327" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77329" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77330" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77331" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77332" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77333" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77335" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77350" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77351" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77352" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77353" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77354" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77355" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77356" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77357" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77359" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77360" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77361" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77363" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77364" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77365" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77367" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77368" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77371" von="München Harras" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Darching" />
+    <via name="Miesbach" />
+  </zug>
+  <zug name="RB55 77372" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77373" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77375" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77376" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77379" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77380" von="Bayrischzell" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77383" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77384" von="Bayrischzell" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77386" von="Bayrischzell" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77387" von="München Harras" nach="Otterfing">
+    <via name="Darching" />
+    <via name="Miesbach" />
+    <via name="Agatharied" />
+  </zug>
+  <zug name="RB55 77390" von="Bayrischzell" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77392" von="Bayrischzell" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77394" von="Bayrischzell" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB55 77396" von="Bayrischzell" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 77377" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86800" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86801" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86802" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86803" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86804" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86805" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86806" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="München Hbf" />
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86807" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86808" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86809" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86810" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86811" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86812" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86813" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86814" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86815" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86816" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86818" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86820" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86822" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86824" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86826" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86828" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="München Hbf" />
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86830" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86832" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB56 86850" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86851" von="München Hbf" nach="Otterfing">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86852" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86853" von="München Hbf" nach="Otterfing">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86855" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86856" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86857" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86858" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="München Hbf" />
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86859" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86860" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86861" von="München Hbf" nach="Otterfing">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86862" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="München Hbf" />
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86863" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB56 86864" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86866" von="Gmund (Tegernsee)" nach="München Donnersbergerbrücke ia">
+    <via name="München Hbf" />
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86868" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86870" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86872" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86874" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86876" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86878" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86880" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86882" von="Gmund (Tegernsee)" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB56 86884" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB56 86886" von="Gmund (Tegernsee)" nach="München Heimeranplatz">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 77397" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86901" von="München Hbf" nach="Otterfing">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86902" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86903" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86904" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86905" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86906" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86907" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86908" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86909" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86910" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86911" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86912" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86913" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86914" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86915" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86916" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86918" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86920" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86922" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86924" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86926" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86928" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86930" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Harras is" />
+  </zug>
+  <zug name="RB57 86950" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86951" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86952" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86953" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86955" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86956" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86957" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86958" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86959" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86960" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86961" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86962" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86963" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86964" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86965" von="München Hbf" nach="Gmund (Tegernsee)">
+    <via name="Schaftlach" />
+    <via name="Reichersbeuern" />
+    <via name="Bad Tölz" />
+  </zug>
+  <zug name="RB57 86966" von="Gmund (Tegernsee)" nach="München Hbf">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+    <via name="München Harras" />
+  </zug>
+  <zug name="RB57 86968" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86970" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86972" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86974" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86976" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86978" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86980" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB57 86982" von="Gmund (Tegernsee)" nach="München Harras">
+    <via name="Otterfing ia" />
+    <via name="München Siemenswerke" />
+  </zug>
+  <zug name="RB90 10901" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 10910" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 10949" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 10968" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 24551" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 31022" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 31037" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 32056" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32064" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32208" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32224" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 32234" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 52780" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52782" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52783" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 52784" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52785" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 52786" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 52787" von="Siegen Hbf" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 52789" von="Siegen Hbf" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61550" von="Elz (Limburg/Lahn)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61551" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61552" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61553" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61554" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61555" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61556" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61557" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61559" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61561" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61582" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61584" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61586" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61587" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61588" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61589" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61700" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61701" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61702" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61703" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61704" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61705" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61706" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61707" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61708" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61709" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61710" von="Betzdorf (Sieg)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61711" von="Siegen Hbf" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61713" von="Lützel" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61715" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61717" von="Bad Berleburg" nach="Limburg (Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61719" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61721" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB90 61723" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB90 61744" von="Elz (Limburg/Lahn)" nach="Staffel">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61746" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61748" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61756" von="Elz (Limburg/Lahn)" nach="Siegen Hbf">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61757" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB90 61800" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61804" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB90 61808" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61840" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB90 61846" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 100" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 10951" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 10955" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 10968" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 31057" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32060" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 32219" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32221" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32239" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32247" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 32251" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 52781" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61552" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61700" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61715" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61755" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61800" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RB93 61801" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61802" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61803" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61806" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61808" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61809" von="Bad Berleburg" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61810" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61811" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB93 61812" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61813" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB93 61815" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB93 61836" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61840" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Bad Berleburg" />
+    <via name="Berghausen (b Wittgenstein)" />
+  </zug>
+  <zug name="RB93 61842" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB93 61844" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB93 61846" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RB94 23196" von="Bad Berleburg" nach="Scheuerfeld (Sieg)">
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RB96 32071" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB96 61805" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RB96 61847" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RB96 61849" von="Lützel" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10901" von="Betzdorf (Sieg)" nach="Köln Messe/Deutz">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+  </zug>
+  <zug name="RE9 10902" von="Lützel" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Freusburg Siedlung" />
+  </zug>
+  <zug name="RE9 10904" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Freusburg Siedlung" />
+  </zug>
+  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde">
+    <via name="Köln Hbf" />
+    <via name="Eschweiler Hbf" />
+    <via name="Betzdorf (Sieg)" />
+  </zug>
+  <zug name="RE9 10907" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10908" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10910" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10912" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10914" von="Bad Berleburg" nach="Betzdorf (Sieg)" />
+  <zug name="RE9 10935" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10937" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10949" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10951" von="Betzdorf (Sieg)" nach="Bad Berleburg">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10952" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10953" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10955" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10956" von="Bad Berleburg" nach="Niederzeuzheim">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10957" von="Betzdorf (Sieg)" nach="Rosbach (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10959" von="Betzdorf (Sieg)" nach="Eitorf">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 10966" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 10968" von="Lützel" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 31011" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 31014" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 31029" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 32052" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 32075" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 32201" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61554" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 61559" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61704" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+    <via name="Mudersbach" />
+  </zug>
+  <zug name="RE9 61719" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61807" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61809" von="Eiserfeld (Sieg)" nach="Siegburg/Bonn">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+  <zug name="RE9 61832" von="Betzdorf (Sieg)" nach="Scheuerfeld (Sieg)">
+    <via name="Siegen Hbf" />
+    <via name="Freusburg Siedlung" />
+    <via name="Brachbach" />
+  </zug>
+  <zug name="RE9 61847" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Betzdorf (Sieg)" />
+    <via name="Scheuerfeld (Sieg)" />
+    <via name="Niederhövels" />
+  </zug>
+</zza>

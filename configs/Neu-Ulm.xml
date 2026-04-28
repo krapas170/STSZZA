@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Neu-Ulm">
+  <zug name="RB15 57012" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57074" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57084" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 57086" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 57095" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57106" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57119" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57133" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57138" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57175" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57446" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57451" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57454" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57466" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57601" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57618" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 57674" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57679" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57750" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57753" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57754" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57758" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57786" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57788" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57792" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 57798" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 619" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 714" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 79691" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 828" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 84116" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 84123" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84124" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 84125" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84134" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 84138" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 84140" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 84143" von="Ulm Hbf" nach="Gundelshausen">
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84145" von="Ulm Hbf" nach="Gundelshausen">
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RB15 84246" von="Leipheim" nach="Gundelfingen (Bay)">
+    <via name="Ulm Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB15 84266" von="Leipheim" nach="Gundelfingen (Bay)">
+    <via name="Ulm Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB15 84271" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84273" von="Ulm Hbf" nach="Gundelshausen">
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+    <via name="Gundelfingen (Bay)" />
+  </zug>
+  <zug name="RB15 84275" von="Ulm Hbf" nach="Gundelshausen">
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+    <via name="Gundelfingen (Bay)" />
+  </zug>
+  <zug name="RB15 84276" von="Leipheim" nach="Donauwörth">
+    <via name="Ulm Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
+  <zug name="RB15 84284" von="Leipheim" nach="Poikam">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB15 84288" von="Leipheim" nach="Poikam">
+    <via name="Ulm Hbf" />
+  </zug>
+  <zug name="RB15 84290" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RB15 84294" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 84295" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 84307" von="Ulm Hbf" nach="München Flughafen Terminal">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RE75 1061" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE75 3685" von="München Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE75 57011" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE75 57440" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE75 57490" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE75 57752" von="Oberstdorf" nach="Neu-Ulm" />
+  <zug name="RE75 57796" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE75 84146" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE75 84257" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 1296" von="Leipheim" nach="Stuttgart Hbf">
+    <via name="Ulm Hbf" />
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE9 215" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 217" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 2308" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 2400" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 2410" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 266" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 560" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57000" von="Leipheim" nach="Gessertshausen">
+    <via name="Ulm Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+  </zug>
+  <zug name="RE9 57015" von="Ulm Hbf" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57025" von="Ulm Hbf" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57027" von="Ulm Hbf" nach="Mering">
+    <via name="Augsburg Hbf" />
+    <via name="Nersingen" />
+    <via name="Leipheim" />
+  </zug>
+  <zug name="RE9 57052" von="Leipheim" nach="Gessertshausen">
+    <via name="Ulm Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+  </zug>
+  <zug name="RE9 57056" von="Leipheim" nach="Gessertshausen">
+    <via name="Ulm Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Mering" />
+  </zug>
+  <zug name="RE9 57102" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57182" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57441" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 57468" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57481" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 57485" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 57616" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE9 57751" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 57761" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 57764" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57766" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57774" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 57787" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 618" von="Münster (Westf) Hbf" nach="Ulm Hbf" />
+  <zug name="RE9 84121" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 84144" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE9 84244" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 84250" von="Leipheim" nach="Ulm Hbf" />
+  <zug name="RE9 84267" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE9 84300" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE9 991" von="Ulm Hbf" nach="Leipheim">
+    <via name="Nersingen" />
+  </zug>
+</zza>

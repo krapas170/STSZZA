@@ -10,8 +10,10 @@ dist/
 build/
 .pytest_cache/
 .mypy_cache/
-configs/
-!configs/.gitkeep
+# configs/ wird ins Repo aufgenommen — vorgenerierte Stellwerks-Configs
+# aus dem DB-Kursbuch sind die gemeinsame Vor-Belegung. Lokale
+# Änderungen (über den Editor-Dialog) committest du oder verwirfst sie.
+
 *.log
 *.log.*
 logs/

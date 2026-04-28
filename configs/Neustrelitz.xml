@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zza station="Neustrelitz">
+  <zug name="RB16 76468" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76470" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76472" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76474" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76476" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76478" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76480" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76482" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+  <zug name="RB16 76484" von="Fürstenberg (Havel)" nach="Wesenberg">
+    <via name="Neubrandenburg" />
+  </zug>
+</zza>
