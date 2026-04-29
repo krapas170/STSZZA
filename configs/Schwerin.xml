@@ -195,7 +195,11 @@
     <via name="Bad Kleinen" />
     <via name="Moidentin" />
   </zug>
-  <zug name="RB17 4334" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RB17 4334" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
   <zug name="RB17 52921" von="Berlin Südkreuz" nach="Wismar">
     <via name="Lübstorf" />
     <via name="Bad Kleinen" />
@@ -241,16 +245,56 @@
     <via name="Bad Kleinen" />
     <via name="Moidentin" />
   </zug>
-  <zug name="RE1 1144" von="Schwaan" nach="Schwerin Hbf" />
-  <zug name="RE1 1179" von="Schwaan" nach="Schwerin Hbf" />
-  <zug name="RE1 13000" von="Schwerin Hbf" nach="Schwarzenbek" />
-  <zug name="RE1 13004" von="Schwerin Hbf" nach="Schwarzenbek" />
-  <zug name="RE1 13005" von="Schwarzenbek" nach="Schwerin Hbf" />
-  <zug name="RE1 13008" von="Schwerin Hbf" nach="Schwarzenbek" />
-  <zug name="RE1 13010" von="Schwerin Hbf" nach="Schwarzenbek" />
-  <zug name="RE1 13013" von="Schwarzenbek" nach="Schwerin Hbf" />
-  <zug name="RE1 13028" von="Schwerin Hbf" nach="Schwarzenbek" />
-  <zug name="RE1 13029" von="Schwarzenbek" nach="Schwerin Hbf" />
+  <zug name="RE1 1144" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE1 1179" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE1 13000" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13004" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13005" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13008" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13010" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13013" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13028" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 13029" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 13196" von="Schwaan" nach="Schwarzenbek">
     <via name="Schwerin Mitte" />
     <via name="Schwerin Süd" />
@@ -266,38 +310,86 @@
     <via name="Schwerin Süd" />
     <via name="Holthusen" />
   </zug>
-  <zug name="RE1 1671" von="Schwaan" nach="Schwerin Hbf" />
+  <zug name="RE1 1671" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
   <zug name="RE1 1678" von="Schwarzenbek" nach="Schwaan">
     <via name="Bad Kleinen" />
     <via name="Ventschow" />
     <via name="Blankenberg (Meckl)" />
   </zug>
-  <zug name="RE1 2413" von="Schwaan" nach="Schwerin Hbf" />
-  <zug name="RE1 3970" von="Schwerin Hbf" nach="Schwarzenbek" />
-  <zug name="RE1 3971" von="Schwarzenbek" nach="Schwerin Hbf" />
-  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen" />
-  <zug name="RE1 3973" von="Schwarzenbek" nach="Schwerin Hbf" />
-  <zug name="RE1 3975" von="Schwarzenbek" nach="Schwerin Hbf" />
-  <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 2413" von="Schwaan" nach="Schwerin Hbf">
+    <via name="Bad Kleinen" />
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+  </zug>
+  <zug name="RE1 3970" von="Schwerin Hbf" nach="Schwarzenbek">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 3971" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 3973" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 3975" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 4301" von="Schwarzenbek" nach="Szczecin Gumience">
     <via name="Bad Kleinen" />
     <via name="Ventschow" />
     <via name="Blankenberg (Meckl)" />
   </zug>
-  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen" />
-  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen" />
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
     <via name="Schwanheide" />
     <via name="Brahlstorf" />
     <via name="Pritzier" />
   </zug>
-  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen" />
+  <zug name="RE1 4306" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 4307" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
     <via name="Schwanheide" />
     <via name="Brahlstorf" />
     <via name="Pritzier" />
   </zug>
-  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen" />
+  <zug name="RE1 4308" von="Schwerin Hbf" nach="Lübeck St Jürgen">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 4309" von="Schwarzenbek" nach="Ueckermünde Stadthafen">
     <via name="Bad Kleinen" />
     <via name="Lübeck St Jürgen" />
@@ -327,20 +419,36 @@
     <via name="Brahlstorf" />
     <via name="Pritzier" />
   </zug>
-  <zug name="RE1 4330" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 4330" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 4331" von="Schwarzenbek" nach="Schwaan">
     <via name="Schwanheide" />
     <via name="Brahlstorf" />
     <via name="Pritzier" />
   </zug>
-  <zug name="RE1 4332" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 4332" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE1 4333" von="Schwarzenbek" nach="Schwaan">
     <via name="Schwanheide" />
     <via name="Brahlstorf" />
     <via name="Pritzier" />
   </zug>
-  <zug name="RE1 4335" von="Schwarzenbek" nach="Schwerin Hbf" />
-  <zug name="RE1 4338" von="Schwerin Hbf" nach="Schwanheide" />
+  <zug name="RE1 4335" von="Schwarzenbek" nach="Schwerin Hbf">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
+  <zug name="RE1 4338" von="Schwerin Hbf" nach="Schwanheide">
+    <via name="Hagenow Land" />
+    <via name="Boizenburg (Elbe)" />
+    <via name="Büchen" />
+  </zug>
   <zug name="RE4 13080" von="Rostock Hbf" nach="Ventschow">
     <via name="Lübeck Hbf" />
     <via name="Kiel Hbf" />

@@ -110,7 +110,11 @@
     <via name="Radeberg" />
     <via name="Langebrück (Sachs)" />
   </zug>
-  <zug name="RB60 76558" von="Bischofswerda" nach="Dresden Hbf" />
+  <zug name="RB60 76558" von="Bischofswerda" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
   <zug name="RB60 76569" von="Dresden Hbf" nach="Dresden Freiberger Straße">
     <via name="Bautzen" />
     <via name="Löbau (Sachs)" />
@@ -136,7 +140,11 @@
     <via name="Dresden Industriegelände" />
     <via name="Liberec" />
   </zug>
-  <zug name="RB61 20928" von="Bischofswerda" nach="Dresden Hbf" />
+  <zug name="RB61 20928" von="Bischofswerda" nach="Dresden Hbf">
+    <via name="Arnsdorf (Dresden)" />
+    <via name="Radeberg" />
+    <via name="Langebrück (Sachs)" />
+  </zug>
   <zug name="RB61 76541" von="Dresden Hbf" nach="Liberec">
     <via name="Neukirch (Lausitz) Ost" />
     <via name="Wilthen" />

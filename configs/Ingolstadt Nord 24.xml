@@ -242,8 +242,16 @@
   </zug>
   <zug name="RB15 84281" von="Nersingen" nach="Gundelshausen" />
   <zug name="RB15 84283" von="Nersingen" nach="Gundelshausen" />
-  <zug name="RB15 84300" von="München Flughafen Terminal" nach="Ingolstadt Nord" />
-  <zug name="RB15 84302" von="München Flughafen Terminal" nach="Ingolstadt Nord" />
+  <zug name="RB15 84300" von="München Flughafen Terminal" nach="Ingolstadt Nord">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
+  <zug name="RB15 84302" von="München Flughafen Terminal" nach="Ingolstadt Nord">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
   <zug name="RB17 84150" von="München Flughafen Terminal" nach="Nersingen">
     <via name="Weichering" />
     <via name="Rohrenfeld" />
@@ -372,6 +380,14 @@
   </zug>
   <zug name="RB17 84331" von="Nersingen" nach="Gundelshausen" />
   <zug name="RB17 84333" von="Nersingen" nach="Gundelshausen" />
-  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord" />
-  <zug name="RB17 84352" von="München Flughafen Terminal" nach="Ingolstadt Nord" />
+  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord">
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Ingolstadt Hbf" />
+  </zug>
+  <zug name="RB17 84352" von="München Flughafen Terminal" nach="Ingolstadt Nord">
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
 </zza>

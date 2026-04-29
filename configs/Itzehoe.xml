@@ -35,7 +35,11 @@
     <via name="Elmshorn" />
     <via name="Pinneberg" />
   </zug>
-  <zug name="RB61 11065" von="Keitum" nach="Itzehoe" />
+  <zug name="RB61 11065" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RB61 11084" von="Hamburg-Altona" nach="Westerland (Sylt)">
     <via name="Wilster" />
     <via name="Burg (Dithm)" />
@@ -56,7 +60,11 @@
     <via name="Elmshorn" />
     <via name="Pinneberg" />
   </zug>
-  <zug name="RB61 11115" von="Keitum" nach="Itzehoe" />
+  <zug name="RB61 11115" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RB61 11252" von="Hamburg Hbf" nach="Kiel Hbf">
     <via name="Horst (Holst)" />
     <via name="Dauenhof" />
@@ -122,7 +130,11 @@
     <via name="Krempe" />
     <via name="Glückstadt" />
   </zug>
-  <zug name="RB61 75523" von="Keitum" nach="Itzehoe" />
+  <zug name="RB61 75523" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RB61 75548" von="Kremperheide" nach="Kiel Hbf">
     <via name="Wrist" />
     <via name="Brokstedt" />
@@ -153,7 +165,11 @@
     <via name="Elmshorn" />
     <via name="Pinneberg" />
   </zug>
-  <zug name="RB62 11017" von="Keitum" nach="Itzehoe" />
+  <zug name="RB62 11017" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RB62 11100" von="Hamburg Hbf" nach="Westerland (Sylt)">
     <via name="Wilster" />
     <via name="Burg (Dithm)" />
@@ -179,7 +195,11 @@
     <via name="Burg (Dithm)" />
     <via name="St Michaelisdonn" />
   </zug>
-  <zug name="RB62 11113" von="Keitum" nach="Itzehoe" />
+  <zug name="RB62 11113" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RB62 11136" von="Hamburg Hbf" nach="Westerland (Sylt)">
     <via name="Wilster" />
     <via name="Burg (Dithm)" />
@@ -430,7 +450,11 @@
     <via name="Krempe" />
     <via name="Glückstadt" />
   </zug>
-  <zug name="RE6 11015" von="Keitum" nach="Itzehoe" />
+  <zug name="RE6 11015" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RE6 11034" von="Hamburg-Altona" nach="Westerland (Sylt)">
     <via name="Wilster" />
     <via name="Burg (Dithm)" />
@@ -476,7 +500,11 @@
     <via name="Burg (Dithm)" />
     <via name="St Michaelisdonn" />
   </zug>
-  <zug name="RE6 11063" von="Keitum" nach="Itzehoe" />
+  <zug name="RE6 11063" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RE6 11082" von="Hamburg-Altona" nach="Westerland (Sylt)">
     <via name="Wilster" />
     <via name="Burg (Dithm)" />
@@ -502,7 +530,11 @@
     <via name="Krempe" />
     <via name="Glückstadt" />
   </zug>
-  <zug name="RE6 2311" von="Keitum" nach="Itzehoe" />
+  <zug name="RE6 2311" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RE6 279" von="Kiel Hbf" nach="Hamburg Hbf">
     <via name="Kremperheide" />
     <via name="Krempe" />
@@ -543,8 +575,16 @@
     <via name="Elmshorn" />
     <via name="Pinneberg" />
   </zug>
-  <zug name="RE6 75525" von="Keitum" nach="Itzehoe" />
-  <zug name="RE6 75527" von="Keitum" nach="Itzehoe" />
+  <zug name="RE6 75525" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
+  <zug name="RE6 75527" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RE6 81748" von="Hamburg Hbf" nach="Kiel Hbf">
     <via name="Horst (Holst)" />
     <via name="Dauenhof" />
@@ -565,7 +605,11 @@
     <via name="Dauenhof" />
     <via name="Wrist" />
   </zug>
-  <zug name="RE60 2311" von="Keitum" nach="Itzehoe" />
+  <zug name="RE60 2311" von="Keitum" nach="Itzehoe">
+    <via name="Wilster" />
+    <via name="Burg (Dithm)" />
+    <via name="St Michaelisdonn" />
+  </zug>
   <zug name="RE60 4196" von="Hamburg Hbf" nach="Westerland (Sylt)">
     <via name="Wilster" />
     <via name="Burg (Dithm)" />

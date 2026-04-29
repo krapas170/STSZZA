@@ -279,7 +279,11 @@
     <via name="Netzschkau" />
   </zug>
   <zug name="RB4 80280" von="Cheb" nach="Zwickau Stadthalle" />
-  <zug name="RB5 20803" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20803" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
   <zug name="RB5 20804" von="Kraslice" nach="Cheb ws">
     <via name="Hof Hbf" />
     <via name="Neumark (Sachs)" />
@@ -290,19 +294,31 @@
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
   </zug>
-  <zug name="RB5 20809" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20809" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
   <zug name="RB5 20812" von="Kraslice" nach="Cheb">
     <via name="Hof Hbf" />
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
   </zug>
-  <zug name="RB5 20813" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20813" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
   <zug name="RB5 20816" von="Kraslice" nach="Bad Elster">
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
     <via name="Netzschkau" />
   </zug>
-  <zug name="RB5 20817" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 20817" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
   <zug name="RB5 20820" von="Falkenstein (Vogtl)" nach="Cheb">
     <via name="Hof Hbf" />
     <via name="Neumark (Sachs)" />
@@ -325,19 +341,31 @@
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
   </zug>
-  <zug name="RB5 80183" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 80183" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
   <zug name="RB5 80184" von="Kraslice" nach="Cheb ws">
     <via name="Hof Hbf" />
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
   </zug>
-  <zug name="RB5 80185" von="Mehltheuer" nach="Werdau" />
+  <zug name="RB5 80185" von="Mehltheuer" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Neumark (Sachs)" />
+    <via name="Reichenbach (Vogtl) ob Bf" />
+  </zug>
   <zug name="RB5 80186" von="Kraslice" nach="Cheb">
     <via name="Hof Hbf" />
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
   </zug>
-  <zug name="RB5 80187" von="Jocketa" nach="Werdau" />
+  <zug name="RB5 80187" von="Jocketa" nach="Werdau">
+    <via name="Hof Hbf" />
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Neumark (Sachs)" />
+  </zug>
   <zug name="RB5 80188" von="Kraslice" nach="Bad Elster">
     <via name="Neumark (Sachs)" />
     <via name="Reichenbach (Vogtl) ob Bf" />
@@ -373,38 +401,166 @@
     <via name="Zwickau Stadthalle" />
     <via name="Marktredwitz" />
   </zug>
-  <zug name="RB95 21850" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21851" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21852" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21853" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21854" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21855" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21856" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21857" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21858" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21859" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21860" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21861" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21862" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21863" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21864" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21865" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21866" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21867" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21868" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21869" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21870" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21871" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21872" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21873" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21874" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21875" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21876" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21877" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21878" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21879" von="Werdau" nach="Karlovy Vary" />
-  <zug name="RB95 21880" von="Karlovy Vary dolni n. qs" nach="Werdau" />
-  <zug name="RB95 21881" von="Werdau" nach="Karlovy Vary" />
+  <zug name="RB95 21850" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21851" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21852" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21853" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21854" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21855" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21856" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21857" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21858" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21859" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21860" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21861" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21862" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21863" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21864" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21865" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21866" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21867" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21868" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21869" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21870" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21871" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21872" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21873" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21874" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21875" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21876" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21877" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21878" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21879" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21880" von="Karlovy Vary dolni n. qs" nach="Werdau">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
+  <zug name="RB95 21881" von="Werdau" nach="Karlovy Vary">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Zwickau-Schedewitz" />
+    <via name="Cainsdorf" />
+  </zug>
   <zug name="RB96 79660" von="Hof Hbf qg" nach="Zwickau Stadthalle" />
   <zug name="RB96 79661" von="Zeitz" nach="Hof Hbf">
     <via name="Neumark (Sachs)" />

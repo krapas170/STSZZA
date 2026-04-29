@@ -108,7 +108,11 @@
     <via name="Bützow" />
   </zug>
   <zug name="RE1 2413" von="Schwaan" nach="Schwerin Hbf" />
-  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen" />
+  <zug name="RE1 3972" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Ventschow" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Bützow" />
+  </zug>
   <zug name="RE1 4300" von="Schwerin Hbf" nach="Schwanheide">
     <via name="Schwerin Mitte" />
     <via name="Schwerin Süd" />
@@ -119,8 +123,16 @@
     <via name="Blankenberg (Meckl)" />
     <via name="Bützow" />
   </zug>
-  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen" />
-  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen" />
+  <zug name="RE1 4302" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE1 4304" von="Schwerin Hbf" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
   <zug name="RE1 4305" von="Schwarzenbek" nach="Szczecin Gumience">
     <via name="Ventschow" />
     <via name="Blankenberg (Meckl)" />
@@ -156,7 +168,11 @@
     <via name="Herrnburg" />
     <via name="Lüdersdorf (Meckl)" />
   </zug>
-  <zug name="RE1 4320" von="Bad Kleinen" nach="Bobitz" />
+  <zug name="RE1 4320" von="Bad Kleinen" nach="Bobitz">
+    <via name="Schwerin Hbf" />
+    <via name="Blankenberg (Meckl)" />
+    <via name="Ventschow" />
+  </zug>
   <zug name="RE1 4323" von="Schwarzenbek" nach="Schwaan">
     <via name="Ventschow" />
     <via name="Blankenberg (Meckl)" />
@@ -292,25 +308,101 @@
     <via name="Blankenberg (Meckl)" />
     <via name="Bützow" />
   </zug>
-  <zug name="RE4 13200" von="Szczecin Gumience" nach="Bad Kleinen" />
-  <zug name="RE4 13201" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13202" von="Szczecin Gumience" nach="Bad Kleinen" />
-  <zug name="RE4 13203" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13204" von="Szczecin Gumience" nach="Bad Kleinen" />
-  <zug name="RE4 13205" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13206" von="Szczecin Gumience" nach="Bad Kleinen" />
-  <zug name="RE4 13207" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13209" von="Bad Kleinen" nach="Ueckermünde Stadthafen" />
-  <zug name="RE4 13211" von="Bad Kleinen" nach="Ueckermünde Stadthafen" />
-  <zug name="RE4 13213" von="Bad Kleinen" nach="Ueckermünde Stadthafen" />
-  <zug name="RE4 13270" von="Szczecin Gumience" nach="Bad Kleinen" />
-  <zug name="RE4 13271" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13273" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13275" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13277" von="Bad Kleinen" nach="Szczecin Gumience" />
-  <zug name="RE4 13279" von="Bad Kleinen" nach="Ueckermünde Stadthafen" />
-  <zug name="RE4 13281" von="Bad Kleinen" nach="Ueckermünde Stadthafen" />
-  <zug name="RE4 13283" von="Bad Kleinen" nach="Ueckermünde Stadthafen" />
+  <zug name="RE4 13200" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13201" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13202" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13203" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13204" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13205" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13206" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13207" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13209" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13211" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13213" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13270" von="Szczecin Gumience" nach="Bad Kleinen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13271" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13273" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13275" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13277" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13279" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13281" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
+  <zug name="RE4 13283" von="Bad Kleinen" nach="Ueckermünde Stadthafen">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
   <zug name="RE4 4302" von="Schwaan" nach="Schwarzenbek">
     <via name="Schwerin Hbf" />
     <via name="Schwerin Mitte" />
@@ -321,13 +413,21 @@
     <via name="Lübeck Hbf" />
     <via name="Kiel Hbf" />
   </zug>
-  <zug name="RE4 5351" von="Bad Kleinen" nach="Szczecin Gumience" />
+  <zug name="RE4 5351" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
   <zug name="RE4 5352" von="Rostock Hbf" nach="Ventschow">
     <via name="Schwerin Hbf" />
     <via name="Lübeck Hbf" />
     <via name="Kiel Hbf" />
   </zug>
-  <zug name="RE4 5353" von="Bad Kleinen" nach="Szczecin Gumience" />
+  <zug name="RE4 5353" von="Bad Kleinen" nach="Szczecin Gumience">
+    <via name="Lübeck St Jürgen" />
+    <via name="Herrnburg" />
+    <via name="Lüdersdorf (Meckl)" />
+  </zug>
   <zug name="RE4 5354" von="Rostock Hbf" nach="Ventschow">
     <via name="Schwerin Hbf" />
     <via name="Lübeck Hbf" />

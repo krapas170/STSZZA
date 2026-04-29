@@ -175,37 +175,61 @@
     <via name="Potsdam-Rehbrücke" />
     <via name="Wilhelmshorst" />
   </zug>
-  <zug name="RE7 3702" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3702" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
   <zug name="RE7 3703" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
     <via name="Potsdam Medienstadt Babelsberg" />
     <via name="Potsdam-Rehbrücke" />
     <via name="Wilhelmshorst" />
   </zug>
-  <zug name="RE7 3704" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3704" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
   <zug name="RE7 3705" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
     <via name="Potsdam Medienstadt Babelsberg" />
     <via name="Potsdam-Rehbrücke" />
     <via name="Wilhelmshorst" />
   </zug>
-  <zug name="RE7 3706" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3706" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
   <zug name="RE7 3707" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
     <via name="Potsdam Medienstadt Babelsberg" />
     <via name="Potsdam-Rehbrücke" />
     <via name="Wilhelmshorst" />
   </zug>
-  <zug name="RE7 3708" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3708" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
   <zug name="RE7 3709" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
     <via name="Potsdam Medienstadt Babelsberg" />
     <via name="Potsdam-Rehbrücke" />
     <via name="Wilhelmshorst" />
   </zug>
-  <zug name="RE7 3710" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3710" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
   <zug name="RE7 3711" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
     <via name="Potsdam Medienstadt Babelsberg" />
     <via name="Potsdam-Rehbrücke" />
     <via name="Wilhelmshorst" />
   </zug>
-  <zug name="RE7 3712" von="Nauen" nach="Berlin-Wannsee" />
+  <zug name="RE7 3712" von="Nauen" nach="Berlin-Wannsee">
+    <via name="Berlin Hbf" />
+    <via name="Potsdam Medienstadt Babelsberg" />
+    <via name="Potsdam-Rehbrücke" />
+  </zug>
   <zug name="RE7 3713" von="Berlin Ostbahnhof" nach="Jeber-Bergfrieden">
     <via name="Potsdam Medienstadt Babelsberg" />
     <via name="Potsdam-Rehbrücke" />

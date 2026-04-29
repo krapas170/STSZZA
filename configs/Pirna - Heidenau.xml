@@ -5,61 +5,101 @@
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16762" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16762" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16763" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16764" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16764" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16765" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16766" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16766" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16767" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16768" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16768" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16769" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16770" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16770" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16771" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16772" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16772" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16773" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16774" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16774" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16777" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16778" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16778" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16779" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16780" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16780" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16781" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />
     <via name="Pirna-Copitz" />
   </zug>
-  <zug name="RB71 16782" von="Pirna Busbf" nach="Krumhermsdorf Am Park" />
+  <zug name="RB71 16782" von="Pirna Busbf" nach="Krumhermsdorf Am Park">
+    <via name="Pirna-Copitz" />
+    <via name="Pirna-Copitz Schulstraße" />
+    <via name="Pirna-Copitz Nord" />
+  </zug>
   <zug name="RB71 16783" von="Neustadt (Sachs)" nach="Pirna Busbf">
     <via name="Pirna-Copitz Nord" />
     <via name="Pirna-Copitz Schulstraße" />

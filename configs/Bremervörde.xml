@@ -5,13 +5,19 @@
     <via name="Kutenholz" />
     <via name="Brest-Aspe" />
   </zug>
-  <zug name="RB33 82062" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82062" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82063" von="Cuxhaven" nach="Apensen">
     <via name="Hesedorf" />
     <via name="Kutenholz" />
     <via name="Brest-Aspe" />
   </zug>
-  <zug name="RB33 82064" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82064" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82066" von="Buxtehude" nach="Bremervörde" />
   <zug name="RB33 82068" von="Buxtehude" nach="Bremervörde" />
   <zug name="RB33 82600" von="Apensen" nach="Cuxhaven">
@@ -84,23 +90,44 @@
     <via name="Kutenholz" />
     <via name="Brest-Aspe" />
   </zug>
-  <zug name="RB33 82614" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82614" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82615" von="Cuxhaven" nach="Apensen">
     <via name="Hesedorf" />
     <via name="Kutenholz" />
     <via name="Brest-Aspe" />
   </zug>
-  <zug name="RB33 82616" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82616" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82617" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82618" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82618" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82619" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82620" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82620" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82621" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82622" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82622" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82623" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82624" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82624" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82625" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82626" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82626" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82627" von="Bremervörde" nach="Buxtehude" />
   <zug name="RB33 82628" von="Buxtehude" nach="Bremervörde" />
   <zug name="RB33 82629" von="Sellstedt" nach="Apensen">
@@ -215,17 +242,35 @@
     <via name="Ritterhude" />
   </zug>
   <zug name="RB33 82663" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82664" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82664" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82665" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82666" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82666" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82667" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82668" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82668" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82669" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82670" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82670" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82671" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82672" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82672" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82673" von="Bremervörde" nach="Buxtehude" />
-  <zug name="RB33 82674" von="Apensen" nach="Bremervörde" />
+  <zug name="RB33 82674" von="Apensen" nach="Bremervörde">
+    <via name="Harsefeld" />
+    <via name="Ruschwedel" />
+  </zug>
   <zug name="RB33 82675" von="Sellstedt" nach="Apensen">
     <via name="Hesedorf" />
     <via name="Kutenholz" />

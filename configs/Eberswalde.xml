@@ -15,7 +15,11 @@
     <via name="Chorin" />
     <via name="Angermünde" />
   </zug>
-  <zug name="RB61 3345" von="Wüstenfelde" nach="Eberswalde Hbf" />
+  <zug name="RB61 3345" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RB61 61278" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
     <via name="Bernau (b Berlin)" />
   </zug>
@@ -27,8 +31,16 @@
   <zug name="RB61 61280" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
     <via name="Bernau (b Berlin)" />
   </zug>
-  <zug name="RB61 61358" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RB62 1073" von="Wüstenfelde" nach="Eberswalde Hbf" />
+  <zug name="RB61 61358" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RB62 1073" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RB62 1078" von="Berlin Gesundbrunnen" nach="Züssow">
     <via name="Britz" />
     <via name="Chorin" />
@@ -60,11 +72,31 @@
     <via name="Chorin" />
     <via name="Angermünde" />
   </zug>
-  <zug name="RB62 61368" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RB62 61372" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RB62 63983" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RE10 1071" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RE10 3307" von="Wüstenfelde" nach="Eberswalde Hbf" />
+  <zug name="RB62 61368" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RB62 61372" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RB62 63983" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RE10 1071" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RE10 3307" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RE10 3344" von="Berlin Gesundbrunnen" nach="Züssow">
     <via name="Britz" />
     <via name="Chorin" />
@@ -93,7 +125,11 @@
     <via name="Chorin" />
     <via name="Angermünde" />
   </zug>
-  <zug name="RE10 63983" von="Wüstenfelde" nach="Eberswalde Hbf" />
+  <zug name="RE10 63983" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RE10 63986" von="Berlin Gesundbrunnen" nach="Züssow">
     <via name="Britz" />
     <via name="Chorin" />
@@ -162,7 +198,11 @@
     <via name="Berlin Gesundbrunnen" />
     <via name="Melchow" />
   </zug>
-  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf" />
+  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RE3 3364" von="Berlin Gesundbrunnen" nach="Melchow">
     <via name="Berlin Hbf" />
     <via name="Britz" />
@@ -188,9 +228,21 @@
     <via name="Chorin" />
     <via name="Angermünde" />
   </zug>
-  <zug name="RE3 61282" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RE3 61356" von="Wüstenfelde" nach="Eberswalde Hbf" />
-  <zug name="RE3 63985" von="Wüstenfelde" nach="Eberswalde Hbf" />
+  <zug name="RE3 61282" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RE3 61356" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
+  <zug name="RE3 63985" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RE3 63986" von="Berlin Gesundbrunnen" nach="Züssow">
     <via name="Britz" />
     <via name="Chorin" />
@@ -206,7 +258,11 @@
     <via name="Chorin" />
     <via name="Angermünde" />
   </zug>
-  <zug name="RE7 61284" von="Wüstenfelde" nach="Eberswalde Hbf" />
+  <zug name="RE7 61284" von="Wüstenfelde" nach="Eberswalde Hbf">
+    <via name="Britz" />
+    <via name="Chorin" />
+    <via name="Angermünde" />
+  </zug>
   <zug name="RE7 63984" von="Berlin Gesundbrunnen" nach="Wüstenfelde">
     <via name="Britz" />
     <via name="Chorin" />

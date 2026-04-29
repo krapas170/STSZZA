@@ -128,7 +128,11 @@
     <via name="Emmerich" />
     <via name="Praest" />
   </zug>
-  <zug name="RE19 20006" von="Duisburg Hbf" nach="Düsseldorf Flughafen" />
+  <zug name="RE19 20006" von="Duisburg Hbf" nach="Düsseldorf Flughafen">
+    <via name="Düsseldorf Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Oberhausen Hbf" />
+  </zug>
   <zug name="RE19 20007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
     <via name="Düsseldorf Hbf" />
     <via name="Emmerich" />
@@ -199,8 +203,16 @@
     <via name="Oberhausen Hbf" />
     <via name="Oberhausen-Sterkrade" />
   </zug>
-  <zug name="RE19 77004" von="Düsseldorf Flughafen" nach="Bocholt" />
-  <zug name="RE19 77006" von="Düsseldorf Flughafen" nach="Bocholt" />
+  <zug name="RE19 77004" von="Düsseldorf Flughafen" nach="Bocholt">
+    <via name="Oberhausen Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
+  <zug name="RE19 77006" von="Düsseldorf Flughafen" nach="Bocholt">
+    <via name="Oberhausen Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
   <zug name="RE19 77007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
     <via name="Düsseldorf Hbf" />
     <via name="Bocholt" />
@@ -264,9 +276,21 @@
   <zug name="RE19 77019" von="Bocholt" nach="Zevenaar">
     <via name="Arnhem Centraal" />
   </zug>
-  <zug name="RE19 77020" von="Düsseldorf Flughafen" nach="Bocholt" />
-  <zug name="RE19 77021" von="Bocholt" nach="Düsseldorf Flughafen" />
-  <zug name="RE19 77023" von="Bocholt" nach="Düsseldorf Flughafen" />
+  <zug name="RE19 77020" von="Düsseldorf Flughafen" nach="Bocholt">
+    <via name="Oberhausen Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
+  <zug name="RE19 77021" von="Bocholt" nach="Düsseldorf Flughafen">
+    <via name="Oberhausen Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
+  <zug name="RE19 77023" von="Bocholt" nach="Düsseldorf Flughafen">
+    <via name="Oberhausen Hbf" />
+    <via name="Wesel" />
+    <via name="Wesel-Blumenkamp" />
+  </zug>
   <zug name="RE2 10200" von="Dortmund Hbf" nach="Mülheim (Ruhr) Hbf">
     <via name="Düsseldorf Hbf" />
     <via name="Recklinghausen Hbf" />

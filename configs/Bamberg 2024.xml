@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Bamberg 2024">
-  <zug name="RB11 39228" von="Pölling" nach="Bamberg" />
-  <zug name="RB12 39112" von="Pölling" nach="Bamberg" />
-  <zug name="RB12 39122" von="Pölling" nach="Bamberg" />
-  <zug name="RB12 4784" von="Pölling" nach="Bamberg" />
-  <zug name="RB12 58790" von="Pölling" nach="Bamberg" />
+  <zug name="RB11 39228" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RB12 39112" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RB12 39122" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RB12 4784" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RB12 58790" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Hirschaid" />
+  </zug>
   <zug name="RB18 84445" von="Bad Rodach" nach="Nürnberg Hbf" />
   <zug name="RB18 84446" von="Nürnberg Hbf" nach="Großwalbur">
     <via name="Coburg-Neuses" />
@@ -115,37 +135,161 @@
     <via name="Hirschaid" />
   </zug>
   <zug name="RB22 79879" von="Plauen (Vogtl) ob Bf" nach="Würzburg Hbf" />
-  <zug name="RB22 84354" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84355" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84357" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84358" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84361" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84362" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84365" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84366" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84367" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84370" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84371" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84374" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84375" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84376" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84377" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84378" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84381" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84382" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84383" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84384" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84387" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84388" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84390" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84391" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84394" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84395" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84398" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84399" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84403" von="Bamberg" nach="Pretzfeld" />
-  <zug name="RB22 84404" von="Pretzfeld" nach="Bamberg" />
-  <zug name="RB22 84407" von="Bamberg" nach="Pretzfeld" />
+  <zug name="RB22 84354" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84355" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84357" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84358" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84361" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84362" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84365" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84366" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84367" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84370" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84371" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84374" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84375" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84376" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84377" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84378" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84381" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84382" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84383" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84384" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84387" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84388" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84390" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84391" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84394" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84395" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84398" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84399" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84403" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
+  <zug name="RB22 84404" von="Pretzfeld" nach="Bamberg">
+    <via name="Nürnberg Hbf" />
+    <via name="Erlangen" />
+    <via name="Forchheim (Oberfr)" />
+  </zug>
+  <zug name="RB22 84407" von="Bamberg" nach="Pretzfeld">
+    <via name="Nürnberg Hbf" />
+    <via name="Forchheim (Oberfr)" />
+    <via name="Erlangen" />
+  </zug>
   <zug name="RB24 1701" von="Erfurt Hbf" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
@@ -431,7 +575,11 @@
     <via name="Nürnberg Hbf" />
     <via name="Schweinfurt Stadt ia" />
   </zug>
-  <zug name="RB40 80731" von="Arnstadt Hbf" nach="Bamberg" />
+  <zug name="RB40 80731" von="Arnstadt Hbf" nach="Bamberg">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Oberhaid" />
+  </zug>
   <zug name="RB40 80732" von="Arnstadt Hbf" nach="Rottendorf">
     <via name="Nürnberg Hbf" />
     <via name="Schweinfurt Mitte" />
@@ -504,7 +652,11 @@
     <via name="Schweinfurt Hbf ia" />
     <via name="Nürnberg Hbf" />
   </zug>
-  <zug name="RB50 80679" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80679" von="Aschaffenburg Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Oberhaid" />
+  </zug>
   <zug name="RB50 80680" von="Euerdorf" nach="Rottendorf">
     <via name="Nürnberg Hbf" />
     <via name="Schweinfurt Mitte" />
@@ -520,20 +672,36 @@
     <via name="Oberwerrn" />
     <via name="Poppenhausen" />
   </zug>
-  <zug name="RB50 80683" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80683" von="Aschaffenburg Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Stadt ia" />
+  </zug>
   <zug name="RB50 80684" von="Euerdorf" nach="Ritschenhausen">
     <via name="Schweinfurt Mitte" />
     <via name="Oberwerrn" />
     <via name="Poppenhausen" />
   </zug>
-  <zug name="RB50 80685" von="Aschaffenburg Hbf" nach="Bamberg" />
-  <zug name="RB50 80706" von="Bamberg" nach="Würzburg Hbf" />
+  <zug name="RB50 80685" von="Aschaffenburg Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Stadt ia" />
+  </zug>
+  <zug name="RB50 80706" von="Bamberg" nach="Würzburg Hbf">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Nürnberg Hbf" />
+  </zug>
   <zug name="RB50 80709" von="Meiningen" nach="Oberhaid">
     <via name="Würzburg Hbf" />
     <via name="Schweinfurt Hbf" />
     <via name="Rottendorf" />
   </zug>
-  <zug name="RB50 80710" von="Bamberg" nach="Untermaßfeld" />
+  <zug name="RB50 80710" von="Bamberg" nach="Untermaßfeld">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Schweinfurt Stadt ia" />
+  </zug>
   <zug name="RB50 80711" von="Meiningen" nach="Würzburg Hbf" />
   <zug name="RB50 80712" von="Würzburg Hbf" nach="Rottendorf">
     <via name="Nürnberg Hbf" />
@@ -557,8 +725,16 @@
     <via name="Poppenhausen" />
   </zug>
   <zug name="RB50 80719" von="Meiningen" nach="Nürnberg Hbf" />
-  <zug name="RB50 80723" von="Bamberg" nach="Untermaßfeld" />
-  <zug name="RB50 80768" von="Bamberg" nach="Würzburg Hbf" />
+  <zug name="RB50 80723" von="Bamberg" nach="Untermaßfeld">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Schweinfurt Stadt ia" />
+  </zug>
+  <zug name="RB50 80768" von="Bamberg" nach="Würzburg Hbf">
+    <via name="Schweinfurt Hbf" />
+    <via name="Schweinfurt Hbf ia" />
+    <via name="Nürnberg Hbf" />
+  </zug>
   <zug name="RB53 58001" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
   <zug name="RB53 58009" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
   <zug name="RB53 58011" von="Fulda" nach="Nürnberg Hbf" />
@@ -587,13 +763,21 @@
     <via name="Schweinfurt Hbf" />
     <via name="Rottendorf" />
   </zug>
-  <zug name="RB53 58023" von="Fulda" nach="Bamberg" />
+  <zug name="RB53 58023" von="Fulda" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="RB53 58024" von="Gemünden (Main)" nach="Rottendorf">
     <via name="Schweinfurt Hbf" />
     <via name="Oberhaid" />
     <via name="Ebelsbach-Eltmann" />
   </zug>
-  <zug name="RB53 58025" von="Fulda" nach="Bamberg" />
+  <zug name="RB53 58025" von="Fulda" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="RB53 58175" von="Würzburg Hbf" nach="Nürnberg Hbf" />
   <zug name="RB53 58177" von="Würzburg Hbf" nach="Nürnberg Hbf" />
   <zug name="RB53 58179" von="Würzburg Hbf" nach="Nürnberg Hbf" />
@@ -626,7 +810,11 @@
     <via name="Oberhaid" />
     <via name="Ebelsbach-Eltmann" />
   </zug>
-  <zug name="RB53 58259" von="Würzburg Hbf" nach="Bamberg" />
+  <zug name="RB53 58259" von="Würzburg Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Oberhaid" />
+    <via name="Ebelsbach-Eltmann" />
+  </zug>
   <zug name="RB53 58260" von="Nürnberg Hbf" nach="Würzburg Hbf">
     <via name="Schweinfurt Hbf" />
     <via name="Oberhaid" />
@@ -858,12 +1046,36 @@
     <via name="Bad Staffelstein" />
     <via name="Lichtenfels" />
   </zug>
-  <zug name="RE10 39102" von="Pölling" nach="Bamberg" />
-  <zug name="RE10 39112" von="Pölling" nach="Bamberg" />
-  <zug name="RE10 39120" von="Pölling" nach="Bamberg" />
-  <zug name="RE10 39128" von="Pölling" nach="Bamberg" />
-  <zug name="RE10 4904" von="Pölling" nach="Bamberg" />
-  <zug name="RE10 57850" von="Pölling" nach="Bamberg" />
+  <zug name="RE10 39102" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE10 39112" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE10 39120" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE10 39128" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Hirschaid" />
+  </zug>
+  <zug name="RE10 4904" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE10 57850" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE10 58007" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
   <zug name="RE14 1507" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
@@ -891,7 +1103,11 @@
     <via name="Ebing" />
     <via name="Zapfendorf" />
   </zug>
-  <zug name="RE14 39110" von="Pölling" nach="Bamberg" />
+  <zug name="RE14 39110" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE14 4901" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
@@ -1063,14 +1279,26 @@
     <via name="Ebing" />
     <via name="Zapfendorf" />
   </zug>
-  <zug name="RE19 39130" von="Pölling" nach="Bamberg" />
+  <zug name="RE19 39130" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Hirschaid" />
+  </zug>
   <zug name="RE19 4608" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
     <via name="Hirschaid" />
   </zug>
-  <zug name="RE19 4786" von="Pölling" nach="Bamberg" />
-  <zug name="RE19 4906" von="Pölling" nach="Bamberg" />
+  <zug name="RE19 4786" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Hirschaid" />
+  </zug>
+  <zug name="RE19 4906" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Hirschaid" />
+  </zug>
   <zug name="RE19 4941" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
@@ -1081,9 +1309,21 @@
     <via name="Ebing" />
     <via name="Zapfendorf" />
   </zug>
-  <zug name="RE19 58430" von="Pölling" nach="Bamberg" />
-  <zug name="RE19 58782" von="Pölling" nach="Bamberg" />
-  <zug name="RE19 58836" von="Pölling" nach="Bamberg" />
+  <zug name="RE19 58430" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE19 58782" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE19 58836" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE19 59335" von="Erfurt Hbf" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
@@ -1129,19 +1369,31 @@
     <via name="Würzburg Hbf" />
     <via name="Fürth (Bay) Hbf" />
   </zug>
-  <zug name="RE20 4783" von="Würzburg Hbf" nach="Bamberg" />
+  <zug name="RE20 4783" von="Würzburg Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Oberhaid" />
+    <via name="Ebelsbach-Eltmann" />
+  </zug>
   <zug name="RE20 4784" von="Nürnberg Hbf" nach="Würzburg Hbf">
     <via name="Schweinfurt Hbf" />
     <via name="Oberhaid" />
     <via name="Ebelsbach-Eltmann" />
   </zug>
-  <zug name="RE20 4785" von="Würzburg Hbf" nach="Bamberg" />
+  <zug name="RE20 4785" von="Würzburg Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Oberhaid" />
+    <via name="Ebelsbach-Eltmann" />
+  </zug>
   <zug name="RE20 4798" von="Nürnberg Hbf" nach="Würzburg Hbf">
     <via name="Schweinfurt Hbf" />
     <via name="Oberhaid" />
     <via name="Ebelsbach-Eltmann" />
   </zug>
-  <zug name="RE20 58202" von="Pölling" nach="Bamberg" />
+  <zug name="RE20 58202" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE20 59336" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Hallstadt (b Bamberg)" />
     <via name="Ebing" />
@@ -1232,13 +1484,21 @@
     <via name="Ebing" />
     <via name="Zapfendorf" />
   </zug>
-  <zug name="RE29 39104" von="Pölling" nach="Bamberg" />
+  <zug name="RE29 39104" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE29 4907" von="Erfurt Hbf" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
     <via name="Hirschaid" />
   </zug>
-  <zug name="RE29 58208" von="Pölling" nach="Bamberg" />
+  <zug name="RE29 58208" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE30 3080" von="Würzburg Hbf" nach="Nürnberg Ost">
     <via name="Hof Hbf" />
     <via name="Bayreuth Hbf" />
@@ -1577,15 +1837,31 @@
     <via name="München Hbf" />
     <via name="Sulzbach-Rosenberg" />
   </zug>
-  <zug name="RE50 39100" von="Pölling" nach="Bamberg" />
-  <zug name="RE50 4904" von="Pölling" nach="Bamberg" />
-  <zug name="RE50 4942" von="Pölling" nach="Bamberg" />
+  <zug name="RE50 39100" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE50 4904" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
+  <zug name="RE50 4942" von="Pölling" nach="Bamberg">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Strullendorf" />
+  </zug>
   <zug name="RE54 1501" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Bamberg" />
     <via name="Hirschaid" />
   </zug>
-  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg" />
+  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg">
+    <via name="Schweinfurt Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE54 4608" von="Bebra" nach="Bad Staffelstein">
     <via name="Schweinfurt Hbf" />
     <via name="Hof Hbf" />

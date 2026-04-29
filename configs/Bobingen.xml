@@ -493,52 +493,116 @@
     <via name="Mögglingen (Gmünd)" />
     <via name="Wasseralfingen" />
   </zug>
-  <zug name="RB68 62700" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB68 62700" von="Bobingen" nach="Oberstdorf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
   <zug name="RB68 62701" von="Füssen" nach="München Hbf">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB68 62702" von="Bobingen" nach="Augsburg Hbf" />
+  <zug name="RB68 62702" von="Bobingen" nach="Augsburg Hbf">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+  </zug>
   <zug name="RB68 62703" von="Füssen" nach="München Hbf">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB68 62705" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB68 62707" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62710" von="Bobingen" nach="Füssen" />
-  <zug name="RB77 62712" von="Bobingen" nach="Füssen" />
-  <zug name="RB77 62714" von="Bobingen" nach="Sonthofen" />
-  <zug name="RB77 62716" von="Bobingen" nach="Füssen" />
-  <zug name="RB77 62717" von="Füssen" nach="Bobingen" />
-  <zug name="RB77 62718" von="Bobingen" nach="Sonthofen" />
-  <zug name="RB77 62720" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB68 62705" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB68 62707" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62710" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB77 62712" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB77 62714" von="Bobingen" nach="Sonthofen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RB77 62716" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB77 62717" von="Füssen" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Buchloe" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB77 62718" von="Bobingen" nach="Sonthofen">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RB77 62720" von="Bobingen" nach="Oberstdorf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
   <zug name="RB77 62721" von="Füssen" nach="München Hbf">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB77 62722" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62722" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
   <zug name="RB77 62723" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB77 62724" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB77 62724" von="Bobingen" nach="Oberstdorf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
   <zug name="RB77 62725" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB77 62726" von="Bobingen" nach="Oberstdorf" />
-  <zug name="RB77 62728" von="Bobingen" nach="Sontheim (Schwab)" />
+  <zug name="RB77 62726" von="Bobingen" nach="Oberstdorf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
+  <zug name="RB77 62728" von="Bobingen" nach="Sontheim (Schwab)">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+  </zug>
   <zug name="RB77 62729" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB77 62730" von="Bobingen" nach="Oberstdorf" />
+  <zug name="RB77 62730" von="Bobingen" nach="Oberstdorf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+  </zug>
   <zug name="RB77 62731" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
@@ -549,25 +613,89 @@
     <via name="Augsburg Hbf" />
     <via name="Oberstdorf" />
   </zug>
-  <zug name="RB77 62734" von="Bobingen" nach="Augsburg Hbf" />
-  <zug name="RB77 62736" von="Bobingen" nach="Füssen" />
-  <zug name="RB77 62738" von="Bobingen" nach="Füssen" />
+  <zug name="RB77 62734" von="Bobingen" nach="Augsburg Hbf">
+    <via name="München Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB77 62736" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB77 62738" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
   <zug name="RB77 62739" von="Sontheim (Schwab)" nach="Günzach">
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Oberstdorf" />
     <via name="Langenwang (Schwab)" />
   </zug>
-  <zug name="RB77 62740" von="Bobingen" nach="Füssen" />
-  <zug name="RB77 62741" von="Sontheim (Schwab)" nach="Bobingen" />
-  <zug name="RB77 62743" von="Füssen" nach="Bobingen" />
-  <zug name="RB77 62745" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62747" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62749" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62753" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62755" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62757" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62759" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62761" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62767" von="Weizern-Hopferau" nach="Bobingen" />
-  <zug name="RB77 62769" von="Weizern-Hopferau" nach="Bobingen" />
+  <zug name="RB77 62740" von="Bobingen" nach="Füssen">
+    <via name="Schwabmünchen" />
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+  </zug>
+  <zug name="RB77 62741" von="Sontheim (Schwab)" nach="Bobingen">
+    <via name="München-Pasing" />
+    <via name="Geltendorf" />
+    <via name="Kaufering" />
+  </zug>
+  <zug name="RB77 62743" von="Füssen" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Buchloe" />
+    <via name="München-Pasing" />
+  </zug>
+  <zug name="RB77 62745" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62747" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62749" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62753" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62755" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62757" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62759" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62761" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62767" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
+  <zug name="RB77 62769" von="Weizern-Hopferau" nach="Bobingen">
+    <via name="Schwabmünchen" />
+    <via name="Kaufbeuren" />
+    <via name="Marktoberdorf Schule" />
+  </zug>
 </zza>

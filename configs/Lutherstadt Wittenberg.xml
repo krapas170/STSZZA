@@ -175,70 +175,206 @@
     <via name="Mühlanger" />
     <via name="Elster (Elbe)" />
   </zug>
-  <zug name="RE13 16100" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16101" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16102" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16103" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16104" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16105" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16106" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
+  <zug name="RE13 16100" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16101" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16102" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16103" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16104" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16105" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16106" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
   <zug name="RE13 16107" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
     <via name="Pratau" />
     <via name="Bergwitz" />
     <via name="Radis" />
   </zug>
-  <zug name="RE13 16108" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16109" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16110" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16111" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16112" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
+  <zug name="RE13 16108" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16109" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16110" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16111" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16112" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
   <zug name="RE13 16113" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
     <via name="Dessau Süd" />
     <via name="Marke" />
     <via name="Raguhn" />
   </zug>
-  <zug name="RE13 16114" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16115" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
+  <zug name="RE13 16114" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16115" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
   <zug name="RE13 16116" von="Bitterfeld qa" nach="Petersroda">
     <via name="Leipzig Messe" />
     <via name="Rackwitz (Leipzig)" />
     <via name="Zschortau" />
   </zug>
-  <zug name="RE13 16117" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16118" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
+  <zug name="RE13 16117" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16118" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
   <zug name="RE13 16119" von="Magdeburg Herrenkrug" nach="Leipzig Hbf">
     <via name="Dessau Süd" />
     <via name="Marke" />
     <via name="Raguhn" />
   </zug>
-  <zug name="RE13 16121" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
+  <zug name="RE13 16121" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
   <zug name="RE13 16125" von="Magdeburg Herrenkrug" nach="Halle (Saale) Hbf">
     <via name="Dessau Süd" />
     <via name="Marke" />
     <via name="Raguhn" />
   </zug>
-  <zug name="RE13 16127" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16129" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16131" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16137" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16139" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16140" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16143" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16145" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
+  <zug name="RE13 16127" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16129" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16131" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16137" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16139" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16140" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16143" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16145" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
   <zug name="RE13 16147" von="Magdeburg Herrenkrug" nach="Leipzig Hbf">
     <via name="Dessau Süd" />
     <via name="Marke" />
     <via name="Raguhn" />
   </zug>
-  <zug name="RE13 16150" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16153" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 16154" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
-  <zug name="RE13 16155" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 1931" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE13 1947" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE14 1133" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE14 16123" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
-  <zug name="RE14 16135" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf" />
+  <zug name="RE13 16150" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16153" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 16154" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
+  <zug name="RE13 16155" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 1931" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE13 1947" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE14 1133" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE14 16123" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
+  <zug name="RE14 16135" von="Magdeburg Herrenkrug" nach="Lutherstadt Wittenberg Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Bitterfeld" />
+    <via name="Roßlau (Elbe) ia" />
+  </zug>
   <zug name="RE14 16140" von="Fermerswalde" nach="Meinsdorf">
     <via name="Lu. Wittenberg Altstadt" />
     <via name="Lu. Wittenb.-Piesteritz" />
@@ -274,5 +410,9 @@
     <via name="Mühlanger" />
     <via name="Elster (Elbe)" />
   </zug>
-  <zug name="RE14 37802" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa" />
+  <zug name="RE14 37802" von="Bitterfeld qa" nach="Lutherstadt Wittenberg Hbf qa">
+    <via name="Dessau Hbf ia" />
+    <via name="Magdeburg Herrenkrug" />
+    <via name="Königsborn" />
+  </zug>
 </zza>

@@ -1,62 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Hagenow">
-  <zug name="RB14 68873" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68873" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68918" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68919" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68919" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68920" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68921" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68921" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68922" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68923" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68923" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Hagenow Land" />
+  </zug>
   <zug name="RB14 68924" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68925" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68925" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68926" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68927" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68927" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Hagenow Land" />
+  </zug>
   <zug name="RB14 68928" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68929" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68929" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68930" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68931" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68931" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Hagenow Land" />
+  </zug>
   <zug name="RB14 68932" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68933" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68933" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68934" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68935" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68935" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Hagenow Land" />
+  </zug>
   <zug name="RB14 68936" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68937" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68937" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68938" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68939" von="Hagenow Stadt" nach="Plau am See Bahnhof" />
+  <zug name="RB14 68939" von="Hagenow Stadt" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Hagenow Land" />
+  </zug>
   <zug name="RB14 68940" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68941" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68941" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68942" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68943" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68943" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68944" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68945" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68945" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68946" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB14 68947" von="Hagenow Stadt" nach="Spornitz" />
+  <zug name="RB14 68947" von="Hagenow Stadt" nach="Spornitz">
+    <via name="Hagenow Land" />
+    <via name="Strohkirchen" />
+    <via name="Jasnitz" />
+  </zug>
   <zug name="RB14 68948" von="Spornitz" nach="Hagenow Stadt" />
-  <zug name="RB15 62271" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB15 62272" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62273" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB15 62274" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62275" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB15 62276" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62278" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62280" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62282" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62283" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB15 62284" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB15 62286" von="Hagenow Land" nach="Plau am See Bahnhof" />
+  <zug name="RB15 62271" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62272" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62273" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62274" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62275" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62276" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62278" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62280" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62282" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62283" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62284" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB15 62286" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
   <zug name="RB17 13154" von="Schwarzenbek" nach="Wismar">
     <via name="Schwerin Hbf" />
     <via name="Berlin Hbf" />
     <via name="Kirch-Jesar" />
   </zug>
-  <zug name="RB19 62288" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB19 62290" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB19 62292" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB19 62294" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB19 62295" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB19 62296" von="Karow (Meckl)" nach="Hagenow Land" />
-  <zug name="RB19 62297" von="Hagenow Land" nach="Plau am See Bahnhof" />
-  <zug name="RB19 62298" von="Karow (Meckl)" nach="Hagenow Land" />
+  <zug name="RB19 62288" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62290" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62292" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62294" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62295" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62296" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62297" von="Hagenow Land" nach="Plau am See Bahnhof">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
+  <zug name="RB19 62298" von="Karow (Meckl)" nach="Hagenow Land">
+    <via name="Rostock Hbf" />
+    <via name="Berlin Hbf" />
+    <via name="Ludwigslust" />
+  </zug>
   <zug name="RE1 13000" von="Schwerin Hbf" nach="Schwarzenbek">
     <via name="Boizenburg (Elbe)" />
     <via name="Büchen" />

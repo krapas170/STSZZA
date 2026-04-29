@@ -9,31 +9,87 @@
   <zug name="RB60 76505" von="Dresden Hbf" nach="Zgorzelec" />
   <zug name="RB60 76507" von="Dresden Hbf" nach="Zgorzelec" />
   <zug name="RB60 76509" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RB60 76510" von="Görlitz" nach="Dresden Industriegelände" />
+  <zug name="RB60 76510" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
   <zug name="RB60 76511" von="Dresden Hbf" nach="Zgorzelec" />
   <zug name="RB60 76513" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RB60 76514" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RB60 76515" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RB60 76516" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RB60 76517" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RB60 76518" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RB60 76519" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RB60 76520" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RB60 76521" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RB60 76523" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RB60 76514" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76515" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76516" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76517" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76518" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76519" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76520" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76521" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB60 76523" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
   <zug name="RB60 76569" von="Dresden Hbf" nach="Dresden Freiberger Straße">
     <via name="Zgorzelec" />
   </zug>
-  <zug name="RB61 20860" von="Görlitz" nach="Eibau" />
+  <zug name="RB61 20860" von="Görlitz" nach="Eibau">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
   <zug name="RB61 76543" von="Dresden Hbf" nach="Liberec">
     <via name="Zgorzelec" />
     <via name="Neukirch (Lausitz) Ost" />
     <via name="Wilthen" />
   </zug>
   <zug name="RB61 76545" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RB61 76547" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RB61 76549" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RB61 76550" von="Görlitz" nach="Dresden Industriegelände" />
+  <zug name="RB61 76547" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB61 76549" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RB61 76550" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
   <zug name="RB61 76551" von="Dresden Hbf" nach="Liberec">
     <via name="Zittau" />
     <via name="Hradek nad Nisou" />
@@ -41,25 +97,93 @@
   </zug>
   <zug name="RE1 26901" von="Dresden Hbf" nach="Zgorzelec" />
   <zug name="RE1 26903" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RE1 26905" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RE1 26908" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RE1 26910" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RE1 26912" von="Görlitz" nach="Dresden Industriegelände" />
+  <zug name="RE1 26905" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 26908" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 26910" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 26912" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
   <zug name="RE1 5671" von="Dresden Hbf" nach="Zgorzelec" />
   <zug name="RE1 5673" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RE1 5674" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RE1 5675" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RE1 5676" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RE1 5677" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RE1 5678" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RE1 5679" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RE1 5681" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE1 5674" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 5675" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 5676" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 5677" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 5678" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 5679" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE1 5681" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
   <zug name="RE2 20841" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RE2 20842" von="Görlitz" nach="Dresden Hbf" />
+  <zug name="RE2 20842" von="Görlitz" nach="Dresden Hbf">
+    <via name="Dresden Hbf qd" />
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+  </zug>
   <zug name="RE2 20843" von="Dresden Hbf" nach="Zgorzelec" />
-  <zug name="RE2 20844" von="Görlitz" nach="Dresden Industriegelände" />
-  <zug name="RE2 20845" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RE2 20846" von="Görlitz" nach="Eibau" />
-  <zug name="RE2 20847" von="Dresden Hbf" nach="Görlitz" />
-  <zug name="RE2 20849" von="Dresden Hbf" nach="Görlitz" />
+  <zug name="RE2 20844" von="Görlitz" nach="Dresden Industriegelände">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE2 20845" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE2 20846" von="Görlitz" nach="Eibau">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE2 20847" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
+  <zug name="RE2 20849" von="Dresden Hbf" nach="Görlitz">
+    <via name="Reichenbach (Oberlausitz)" />
+    <via name="Löbau (Sachs)" />
+    <via name="Bautzen" />
+  </zug>
 </zza>

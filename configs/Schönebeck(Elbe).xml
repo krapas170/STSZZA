@@ -405,13 +405,25 @@
     <via name="Kassel Hbf" />
     <via name="Erfurt Hbf" />
   </zug>
-  <zug name="RE19 16902" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 16902" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE19 16903" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE19 16908" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE19 16932" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 16908" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE19 16932" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE19 16935" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
@@ -420,32 +432,72 @@
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE19 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE19 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE19 39001" von="Stederdorf (Kr Uelzen)" nach="Schönebeck (Elbe)" />
-  <zug name="RE19 39020" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE19 39022" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 39001" von="Stederdorf (Kr Uelzen)" nach="Schönebeck (Elbe)">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Wolmirstedt" />
+  </zug>
+  <zug name="RE19 39020" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE19 39022" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE19 39029" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE19 39044" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE20 16904" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE19 39044" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 16904" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 16909" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16910" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE20 16920" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
-  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 16910" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 16920" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 16929" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 16931" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
@@ -454,58 +506,122 @@
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16936" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 16936" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
   <zug name="RE20 16937" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16938" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 16938" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
   <zug name="RE20 16939" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 16941" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16942" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16942" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 16943" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16944" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16944" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 16945" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16946" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE20 16952" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE20 16954" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 16946" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 16952" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
+  <zug name="RE20 16954" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
   <zug name="RE20 16955" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 16958" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 16958" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 2045" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen" />
-  <zug name="RE20 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 2238" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 2239" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
-  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39014" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 39004" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 39014" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
   <zug name="RE20 39015" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 39016" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 39016" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
   <zug name="RE20 39017" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 39019" von="Stederdorf (Kr Uelzen)" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
@@ -522,19 +638,47 @@
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 39030" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE20 39032" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
-  <zug name="RE20 39038" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
-  <zug name="RE20 39040" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 39030" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
+  <zug name="RE20 39032" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
+  <zug name="RE20 39038" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 39040" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 39041" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 39042" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
-  <zug name="RE20 39044" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB" />
+  <zug name="RE20 39042" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
+  <zug name="RE20 39044" von="Schönebeck-Bad Salzelmen if" nach="Uelzen ZOB">
+    <via name="Magdeburg Hbf" />
+    <via name="Stendal Hbf" />
+    <via name="Schönebeck Süd" />
+  </zug>
   <zug name="RE20 39045" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
     <via name="Uelzen ZOB" />
   </zug>
-  <zug name="RE20 39046" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)" />
+  <zug name="RE20 39046" von="Schönebeck-Bad Salzelmen if" nach="Stederdorf (Kr Uelzen)">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is qd" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE20 39047" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
     <via name="Uelzen ZOB" />
   </zug>
@@ -544,7 +688,11 @@
   <zug name="RE20 39051" von="Stederdorf (Kr Uelzen)" nach="Tangerhütte">
     <via name="Uelzen ZOB" />
   </zug>
-  <zug name="RE20 502" von="Schönebeck-Bad Salzelmen if" nach="Pretzier (Altm)" />
+  <zug name="RE20 502" von="Schönebeck-Bad Salzelmen if" nach="Pretzier (Altm)">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
   <zug name="RE20 603" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
@@ -553,8 +701,16 @@
     <via name="Schönebeck (Elbe)" />
     <via name="Schönebeck Süd" />
   </zug>
-  <zug name="RE20 800" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
-  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck" />
+  <zug name="RE20 800" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Schönebeck Süd" />
+    <via name="Schönebeck (Elbe) id" />
+  </zug>
+  <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
+    <via name="Magdeburg Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Stendal Hbf" />
+  </zug>
   <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge">
     <via name="Halle (Saale) Hbf ia" />
     <via name="Halle (Saale) Hbf" />

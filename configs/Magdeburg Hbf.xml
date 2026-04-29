@@ -1,40 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Magdeburg Hbf">
-  <zug name="RB36 80340" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80341" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80342" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80343" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80344" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80345" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80346" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80347" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80348" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80349" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80351" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80352" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80353" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80354" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80355" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80356" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80357" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80358" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80359" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80360" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80362" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80364" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80366" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80368" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80370" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80372" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80374" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80376" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80378" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80380" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80382" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80384" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RB36 80386" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RB36 80387" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RB36 80389" von="Oebisfelde" nach="Magdeburg Hbf ia" />
+  <zug name="RB36 80340" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80341" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80342" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80343" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80344" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80345" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80346" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80347" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80348" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80349" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80351" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80352" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80353" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80354" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80355" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80356" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80357" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80358" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80359" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80360" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80362" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80364" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80366" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80368" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80370" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80372" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80374" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80376" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80378" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80380" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80382" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80384" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RB36 80386" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80387" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RB36 80389" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
   <zug name="RB40 100" von="Schandelah" nach="Dortmund-Barop">
     <via name="Magdeburg Hbf ia" />
     <via name="Witten Hbf" />
@@ -275,25 +415,61 @@
     <via name="Magdeburg-Sudenburg" />
     <via name="Niederndodeleben" />
   </zug>
-  <zug name="RB41 80388" von="Schierstedt" nach="Magdeburg Hbf ia" />
-  <zug name="RB41 80390" von="Schierstedt" nach="Magdeburg Hbf ia" />
-  <zug name="RB41 80392" von="Schierstedt" nach="Magdeburg Hbf ia" />
-  <zug name="RB41 80394" von="Schierstedt" nach="Magdeburg Hbf ia" />
-  <zug name="RB41 80396" von="Schierstedt" nach="Magdeburg Hbf ia" />
+  <zug name="RB41 80388" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
+  <zug name="RB41 80390" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
+  <zug name="RB41 80392" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
+  <zug name="RB41 80394" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
+  <zug name="RB41 80396" von="Schierstedt" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
   <zug name="RB59 74551" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
     <via name="Kassel Hbf" />
     <via name="Erfurt Hbf" />
     <via name="Vellmar-Niedervellmar" />
   </zug>
-  <zug name="RB59 74581" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RB59 74581" von="Erfurt Ost" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
   <zug name="RB59 74583" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
     <via name="Kassel Hbf" />
     <via name="Erfurt Hbf" />
     <via name="Vellmar-Niedervellmar" />
   </zug>
-  <zug name="RE10 74836" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
-  <zug name="RE10 74838" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
-  <zug name="RE10 74840" von="Erfurt Ost" nach="Magdeburg Hbf ia" />
+  <zug name="RE10 74836" von="Erfurt Ost" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
+  <zug name="RE10 74838" von="Erfurt Ost" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
+  <zug name="RE10 74840" von="Erfurt Ost" nach="Magdeburg Hbf ia">
+    <via name="Schönebeck-Bad Salzelmen ia" />
+    <via name="Eggersdorf" />
+    <via name="Eickendorf" />
+  </zug>
   <zug name="RE10 74842" von="Erfurt Ost" nach="Halle (Saale) Hbf if">
     <via name="Kassel Hbf" />
     <via name="Erfurt Hbf" />
@@ -708,10 +884,34 @@
     <via name="Halle (Saale) Hbf ia" />
     <via name="Magdeburg Hasselbachplatz" />
   </zug>
-  <zug name="RE6 80292" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RE6 80293" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RE6 80294" von="Magdeburg Hbf ia" nach="Oebisfelde" />
-  <zug name="RE6 80295" von="Oebisfelde" nach="Magdeburg Hbf ia" />
-  <zug name="RE6 80296" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
-  <zug name="RE6 80298" von="Magdeburg Hbf ia" nach="Hannover Hbf" />
+  <zug name="RE6 80292" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RE6 80293" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RE6 80294" von="Magdeburg Hbf ia" nach="Oebisfelde">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RE6 80295" von="Oebisfelde" nach="Magdeburg Hbf ia">
+    <via name="Barleben" />
+    <via name="Meitzendorf" />
+    <via name="Groß Ammensleben" />
+  </zug>
+  <zug name="RE6 80296" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
+  <zug name="RE6 80298" von="Magdeburg Hbf ia" nach="Hannover Hbf">
+    <via name="Wolfsburg Hbf" />
+    <via name="Hildesheim Hbf" />
+    <via name="Barleben" />
+  </zug>
 </zza>

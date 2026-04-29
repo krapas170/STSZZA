@@ -20,7 +20,10 @@
     <via name="Eibau" />
     <via name="Langebrück (Sachs)" />
   </zug>
-  <zug name="RB61 20851" von="Zittau" nach="Liberec" />
+  <zug name="RB61 20851" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
   <zug name="RB61 20858" von="Liberec" nach="Dresden Hbf qd">
     <via name="Oberoderwitz" />
     <via name="Neugersdorf" />
@@ -34,14 +37,23 @@
     <via name="Neugersdorf" />
     <via name="Ebersbach (Sachs)" />
   </zug>
-  <zug name="RB61 20925" von="Zittau" nach="Liberec" />
-  <zug name="RB61 20929" von="Zittau" nach="Liberec" />
+  <zug name="RB61 20925" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
+  <zug name="RB61 20929" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
   <zug name="RB61 20970" von="Liberec" nach="Dresden Industriegelände">
     <via name="Niederoderwitz" />
     <via name="Eibau" />
     <via name="Langebrück (Sachs)" />
   </zug>
-  <zug name="RB61 26907" von="Zittau" nach="Liberec" />
+  <zug name="RB61 26907" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
   <zug name="RB61 76540" von="Liberec" nach="Dresden Hbf qd">
     <via name="Oberoderwitz" />
     <via name="Neugersdorf" />
@@ -65,8 +77,14 @@
     <via name="Hradek nad Nisou" />
     <via name="Chrastava" />
   </zug>
-  <zug name="RB61 76559" von="Zittau" nach="Liberec" />
-  <zug name="RE1 76553" von="Zittau" nach="Liberec" />
+  <zug name="RB61 76559" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
+  <zug name="RE1 76553" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
   <zug name="RE2 20842" von="Görlitz" nach="Dresden Hbf">
     <via name="Dresden Hbf qd" />
     <via name="Oberoderwitz" />
@@ -80,7 +98,10 @@
     <via name="Eibau" />
     <via name="Langebrück (Sachs)" />
   </zug>
-  <zug name="RE2 20853" von="Zittau" nach="Liberec" />
+  <zug name="RE2 20853" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
   <zug name="RE2 20855" von="Dresden Industriegelände" nach="Liberec">
     <via name="Hradek nad Nisou" />
     <via name="Chrastava" />
@@ -104,7 +125,10 @@
     <via name="Eibau" />
     <via name="Langebrück (Sachs)" />
   </zug>
-  <zug name="RE2 20921" von="Zittau" nach="Liberec" />
+  <zug name="RE2 20921" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
   <zug name="RE2 20960" von="Liberec" nach="Dresden Hbf qd">
     <via name="Oberoderwitz" />
     <via name="Neugersdorf" />
@@ -125,5 +149,8 @@
     <via name="Eibau" />
     <via name="Langebrück (Sachs)" />
   </zug>
-  <zug name="RE2 76555" von="Zittau" nach="Liberec" />
+  <zug name="RE2 76555" von="Zittau" nach="Liberec">
+    <via name="Hradek nad Nisou" />
+    <via name="Chrastava" />
+  </zug>
 </zza>

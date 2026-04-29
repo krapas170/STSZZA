@@ -5,31 +5,131 @@
     <via name="Berlin-Charlottenburg" />
     <via name="Berlin Zoologischer Garten" />
   </zug>
-  <zug name="RB24 18342" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 18343" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 18344" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 18346" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 18347" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 18349" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 18350" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 18352" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 18355" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 18362" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RB24 18364" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RB24 18366" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RB24 62052" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62055" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 62056" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62057" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RB24 62058" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62060" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62063" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RB24 62064" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62067" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RB24 62068" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62070" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RB24 62072" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RE8 18348" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
+  <zug name="RB24 18342" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18343" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18344" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18346" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18347" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18349" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18350" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18352" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18355" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18362" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18364" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 18366" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62052" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62055" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62056" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62057" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62058" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62060" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62063" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62064" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62067" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62068" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62070" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RB24 62072" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 18348" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
   <zug name="RE8 19805" von="Berlin Potsdamer Platz" nach="Ludwigsfelde">
     <via name="Berlin Hbf" />
     <via name="Berlin-Charlottenburg" />
@@ -45,19 +145,79 @@
     <via name="Berlin-Charlottenburg" />
     <via name="Berlin Zoologischer Garten" />
   </zug>
-  <zug name="RE8 19841" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RE8 19845" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RE8 62051" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RE8 62053" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RE8 62054" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RE8 62059" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RE8 62061" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RE8 62062" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RE8 62065" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RE8 62066" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
-  <zug name="RE8 62069" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RE8 62071" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RE8 62073" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost" />
-  <zug name="RE8 62089" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz" />
-  <zug name="RE8 62090" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt" />
+  <zug name="RE8 19841" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 19845" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62051" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62053" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62054" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62059" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62061" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62062" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62065" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62066" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62069" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62071" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62073" von="Wünsdorf-Waldstadt" nach="Berlin-Lichterfelde Ost">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62089" von="Wünsdorf-Waldstadt" nach="Berlin Potsdamer Platz">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
+  <zug name="RE8 62090" von="Berlin Potsdamer Platz" nach="Wünsdorf-Waldstadt">
+    <via name="Zossen" />
+    <via name="Dabendorf" />
+    <via name="Rangsdorf" />
+  </zug>
 </zza>

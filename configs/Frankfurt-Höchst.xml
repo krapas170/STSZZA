@@ -150,7 +150,11 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RB26 119" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 119" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 12204" von="Frankfurt-Niederrad" nach="Mainz-Mombach ig">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -181,7 +185,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RB26 12219" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 12219" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RB26 12221" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -197,8 +205,16 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RB26 12225" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RB26 12227" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 12225" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RB26 12227" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RB26 13960" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Boppard Hbf" />
     <via name="Mainz Hbf is" />
@@ -229,9 +245,21 @@
     <via name="Mainz-Mombach ia" />
     <via name="Budenheim" />
   </zug>
-  <zug name="RB26 2009" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RB26 2044" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RB26 2048" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 2009" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
+  <zug name="RB26 2044" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
+  <zug name="RB26 2048" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RB26 2525" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -477,7 +505,11 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RB26 29543" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 29543" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 29544" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -548,7 +580,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RB26 4472" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 4472" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 4481" von="Mainz Römisches Theater" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -569,8 +605,16 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RB26 5201" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RB26 650" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB26 5201" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RB26 650" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 651" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -611,7 +655,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RB75 2407" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RB75 2407" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RB75 25407" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -647,7 +695,11 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RE17 1944" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE17 1944" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE17 2042" von="Boppard Hbf" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -658,7 +710,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE17 2411" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE17 2411" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE17 25356" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -679,13 +735,21 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RE17 29523" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE17 29523" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE17 29652" von="Frankfurt-Niederrad" nach="Koblenz Hbf">
     <via name="Boppard Hbf" />
     <via name="Kaiserslautern Hbf" />
     <via name="Bingen (Rhein) Hbf" />
   </zug>
-  <zug name="RE17 29653" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE17 29653" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE17 29656" von="Mainz Römisches Theater" nach="Bingen (Rhein) Hbf">
     <via name="Kaiserslautern Hbf" />
     <via name="Hochheim (Main)" />
@@ -726,7 +790,11 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RE2 12220" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE2 12220" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE2 12222" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -792,13 +860,21 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RE2 2527" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE2 2527" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE2 2534" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RE2 25371" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE2 25371" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE2 25425" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -809,7 +885,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE2 2555" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE2 2555" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE2 29205" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -865,8 +945,16 @@
     <via name="Hochheim (Main)" />
     <via name="Mainz-Mombach ia" />
   </zug>
-  <zug name="RE2 4261" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RE2 4265" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE2 4261" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
+  <zug name="RE2 4265" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE2 4266" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -967,7 +1055,11 @@
     <via name="Budenheim" />
     <via name="Uhlerborn" />
   </zug>
-  <zug name="RE3 12224" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE3 12224" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE3 12226" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -998,7 +1090,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE3 2203" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE3 2203" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE3 228" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -1029,10 +1125,26 @@
     <via name="Kaiserslautern Hbf" />
     <via name="Neunkirchen (Saar) Hbf" />
   </zug>
-  <zug name="RE3 25417" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RE3 25423" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RE3 25429" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RE3 25431" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE3 25417" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RE3 25423" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
+  <zug name="RE3 25429" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RE3 25431" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE3 25446" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -1083,7 +1195,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE3 29659" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE3 29659" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE3 4258" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Boppard Hbf" />
     <via name="Hochheim (Main)" />
@@ -1169,7 +1285,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE4 2203" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE4 2203" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Hochheim (Main)" />
+    <via name="Mainz-Mombach ig" />
+  </zug>
   <zug name="RE4 2415" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -1180,8 +1300,16 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE4 25365" von="Rhens" nach="Frankfurt-Höchst" />
-  <zug name="RE4 25377" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE4 25365" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RE4 25377" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE4 25437" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />
@@ -1267,7 +1395,11 @@
     <via name="Mainz-Bischofsheim" />
     <via name="Rüsselsheim" />
   </zug>
-  <zug name="RE4 63671" von="Rhens" nach="Frankfurt-Höchst" />
+  <zug name="RE4 63671" von="Rhens" nach="Frankfurt-Höchst">
+    <via name="Mainz Hbf" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE4 652" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Römisches Theater" />
     <via name="Mainz-Bischofsheim" />

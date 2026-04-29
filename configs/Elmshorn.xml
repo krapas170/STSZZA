@@ -67,7 +67,10 @@
     <via name="Itzehoe" />
     <via name="Wilster" />
   </zug>
-  <zug name="RB61 4192" von="Hamburg Hbf" nach="Elmshorn" />
+  <zug name="RB61 4192" von="Hamburg Hbf" nach="Elmshorn">
+    <via name="Hamburg-Altona" />
+    <via name="Hamburg Dammtor" />
+  </zug>
   <zug name="RB61 75500" von="Hamburg Hbf" nach="Kiel Hbf">
     <via name="Herzhorn" />
     <via name="Glückstadt" />
@@ -370,7 +373,11 @@
     <via name="Kremperheide" />
     <via name="Krempe" />
   </zug>
-  <zug name="RB75 11188" von="Elmshorn" nach="Tarp" />
+  <zug name="RB75 11188" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE10 1426" von="Hamburg Hbf" nach="Langenhorn (Schlesw)">
     <via name="Glückstadt" />
     <via name="Itzehoe" />
@@ -588,8 +595,16 @@
   <zug name="RE7 11145" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
-  <zug name="RE7 11146" von="Elmshorn" nach="Tarp" />
-  <zug name="RE7 11148" von="Elmshorn" nach="Tarp" />
+  <zug name="RE7 11146" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
+  <zug name="RE7 11148" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE7 11149" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
@@ -634,7 +649,11 @@
     <via name="Itzehoe" />
     <via name="Kremperheide" />
   </zug>
-  <zug name="RE7 11188" von="Elmshorn" nach="Tarp" />
+  <zug name="RE7 11188" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE7 11190" von="Hamburg Hbf" nach="Tarp">
     <via name="Neumünster" />
     <via name="Nortorf" />
@@ -748,7 +767,11 @@
     <via name="Kremperheide" />
     <via name="Krempe" />
   </zug>
-  <zug name="RE7 11742" von="Elmshorn" nach="Tarp" />
+  <zug name="RE7 11742" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE7 11894" von="Hamburg Hbf" nach="Tarp">
     <via name="Neumünster" />
     <via name="Nortorf" />
@@ -767,7 +790,11 @@
   <zug name="RE7 11941" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
-  <zug name="RE7 11942" von="Elmshorn" nach="Tarp" />
+  <zug name="RE7 11942" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE7 1195" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
@@ -895,7 +922,11 @@
   <zug name="RE74 11147" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
-  <zug name="RE74 11148" von="Elmshorn" nach="Tarp" />
+  <zug name="RE74 11148" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE74 11150" von="Hamburg Hbf" nach="Tarp">
     <via name="Neumünster" />
     <via name="Nortorf" />
@@ -912,7 +943,11 @@
   <zug name="RE74 11195" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
-  <zug name="RE74 11796" von="Elmshorn" nach="Tarp" />
+  <zug name="RE74 11796" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE74 11895" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>
@@ -973,8 +1008,16 @@
     <via name="Nortorf" />
     <via name="Rendsburg" />
   </zug>
-  <zug name="RE74 1194" von="Elmshorn" nach="Tarp" />
-  <zug name="RE74 11940" von="Elmshorn" nach="Tarp" />
+  <zug name="RE74 1194" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
+  <zug name="RE74 11940" von="Elmshorn" nach="Tarp">
+    <via name="Neumünster" />
+    <via name="Nortorf" />
+    <via name="Rendsburg" />
+  </zug>
   <zug name="RE74 11941" von="Tarp" nach="Hamburg Hbf">
     <via name="Hamburg Dammtor" />
   </zug>

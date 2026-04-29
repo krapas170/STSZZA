@@ -2,8 +2,12 @@
 <zza station="Neu-Ulm">
   <zug name="RB15 57012" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RB15 57074" von="Leipheim" nach="Ulm Hbf" />
-  <zug name="RB15 57084" von="Leipheim" nach="Neu-Ulm" />
-  <zug name="RB15 57086" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 57084" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RB15 57086" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RB15 57095" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
@@ -27,7 +31,9 @@
   <zug name="RB15 57601" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
-  <zug name="RB15 57618" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 57618" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RB15 57674" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RB15 57679" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
@@ -41,7 +47,9 @@
   <zug name="RB15 57786" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RB15 57788" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RB15 57792" von="Leipheim" nach="Ulm Hbf" />
-  <zug name="RB15 57798" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 57798" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RB15 619" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
@@ -51,7 +59,9 @@
     <via name="Regensburg Hbf" />
     <via name="Landshut (Bay) Hbf" />
   </zug>
-  <zug name="RB15 828" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 828" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RB15 84116" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RB15 84123" von="Ulm Hbf" nach="München Flughafen Terminal">
     <via name="Ingolstadt Hbf" />
@@ -112,7 +122,9 @@
     <via name="Ulm Hbf" />
   </zug>
   <zug name="RB15 84290" von="Leipheim" nach="Ulm Hbf" />
-  <zug name="RB15 84294" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RB15 84294" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RB15 84295" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
@@ -132,9 +144,17 @@
   </zug>
   <zug name="RE75 57440" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RE75 57490" von="Leipheim" nach="Ulm Hbf" />
-  <zug name="RE75 57752" von="Oberstdorf" nach="Neu-Ulm" />
-  <zug name="RE75 57796" von="Leipheim" nach="Neu-Ulm" />
-  <zug name="RE75 84146" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE75 57752" von="Oberstdorf" nach="Neu-Ulm">
+    <via name="Ulm Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE75 57796" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
+  <zug name="RE75 84146" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RE75 84257" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
@@ -196,7 +216,9 @@
   <zug name="RE9 57485" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
-  <zug name="RE9 57616" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE9 57616" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RE9 57751" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
@@ -213,13 +235,17 @@
   <zug name="RE9 84121" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
-  <zug name="RE9 84144" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE9 84144" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RE9 84244" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RE9 84250" von="Leipheim" nach="Ulm Hbf" />
   <zug name="RE9 84267" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>
-  <zug name="RE9 84300" von="Leipheim" nach="Neu-Ulm" />
+  <zug name="RE9 84300" von="Leipheim" nach="Neu-Ulm">
+    <via name="Nersingen" />
+  </zug>
   <zug name="RE9 991" von="Ulm Hbf" nach="Leipheim">
     <via name="Nersingen" />
   </zug>

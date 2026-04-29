@@ -33,48 +33,216 @@
     <via name="Darmstadt Hbf" />
     <via name="Mannheim ARENA/Maimarkt" />
   </zug>
-  <zug name="RB62 13650" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 13664" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RB62 15492" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 15573" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RB62 38804" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 38932" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RB62 38940" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RB62 4562" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RB62 4566" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RB62 4773" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RB66 12950" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12951" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12952" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12953" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12954" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12955" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12956" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12957" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12958" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12959" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12960" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12961" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12962" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12963" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12964" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12965" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12966" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12967" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12968" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12969" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12970" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12971" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12972" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12973" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12974" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12975" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12976" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12977" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12978" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12979" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
-  <zug name="RB66 12980" von="Mannheim Hbf" nach="Lauterecken-Grumbach" />
-  <zug name="RB66 12981" von="Lauterecken-Grumbach" nach="Mannheim Hbf" />
+  <zug name="RB62 13650" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RB62 13664" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RB62 15492" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RB62 15573" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RB62 38804" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RB62 38932" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RB62 38940" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RB62 4562" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RB62 4566" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RB62 4773" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RB66 12950" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12951" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12952" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12953" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12954" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12955" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12956" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12957" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12958" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12959" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12960" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12961" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12962" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12963" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12964" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12965" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12966" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12967" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12968" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12969" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12970" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12971" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12972" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12973" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12974" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12975" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12976" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12977" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12978" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12979" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12980" von="Mannheim Hbf" nach="Lauterecken-Grumbach">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
+  <zug name="RB66 12981" von="Lauterecken-Grumbach" nach="Mannheim Hbf">
+    <via name="Kaiserslautern Hbf" />
+    <via name="Kaiserslautern Pfaffwerk" />
+    <via name="Kaiserslautern West" />
+  </zug>
   <zug name="RB66 25476" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
     <via name="Heidelberg-Pfaffengrund/Wieblingen" />
   </zug>
@@ -84,16 +252,36 @@
   <zug name="RB66 38500" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
     <via name="Heidelberg-Pfaffengrund/Wieblingen" />
   </zug>
-  <zug name="RB67 12562" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RB67 12562" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB67 12898" von="Kaiserslautern Hbf" nach="Saarbrücken Ost">
     <via name="Ludwigshafen (Rh) Hbf" />
     <via name="Neustadt (Weinstr) Hbf" />
     <via name="Homburg (Saar) Hbf" />
   </zug>
-  <zug name="RB67 38118" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RB67 38202" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB67 38212" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB67 38316" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RB67 38118" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RB67 38202" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB67 38212" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB67 38316" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB68 15339" von="Ludwigshafen (Rhein) Mitte" nach="Heidelberg-Pfaffengrund/Wieblingen">
     <via name="Mannheim ARENA/Maimarkt" />
     <via name="Mannheim-Seckenheim" />
@@ -104,38 +292,134 @@
     <via name="Darmstadt Hbf" />
     <via name="Frankfurt (Main) Hbf" />
   </zug>
-  <zug name="RB70 12500" von="Mannheim Hbf" nach="Koblenz Hbf" />
-  <zug name="RB70 12502" von="Mannheim Hbf" nach="Koblenz Hbf" />
-  <zug name="RB70 38200" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB70 38204" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB70 38224" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RB70 38254" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB70 38302" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB70 38322" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RB70 9586" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB71 12558" von="Mannheim Hbf" nach="Ehrang Ort" />
-  <zug name="RB71 38214" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB71 38222" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB71 38260" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB71 38264" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB71 38322" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RB71 38412" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RB71 4113" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RB70 12500" von="Mannheim Hbf" nach="Koblenz Hbf">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB70 12502" von="Mannheim Hbf" nach="Koblenz Hbf">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB70 38200" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB70 38204" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB70 38224" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RB70 38254" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB70 38302" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB70 38322" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RB70 9586" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 12558" von="Mannheim Hbf" nach="Ehrang Ort">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 38214" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 38222" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 38260" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 38264" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 38322" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RB71 38412" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB71 4113" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB82 38089" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
     <via name="Heidelberg-Pfaffengrund/Wieblingen" />
   </zug>
-  <zug name="RE1 12012" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RE1 12516" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RE1 12560" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RE1 12854" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RE1 12012" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RE1 12516" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RE1 12560" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RE1 12854" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE1 38031" von="Ludwigshafen (Rhein) Mitte" nach="Mannheim Hbf" />
   <zug name="RE1 38110" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE1 38210" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RE1 38210" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE1 38214" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
   <zug name="RE1 38302" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE1 38310" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RE1 38310" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE1 38324" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE1 38380" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RE1 38380" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE1 38405" von="Ludwigshafen (Rhein) Mitte" nach="Heidelberg-Pfaffengrund/Wieblingen">
     <via name="Mannheim ARENA/Maimarkt" />
     <via name="Mannheim-Seckenheim" />
@@ -147,7 +431,11 @@
     <via name="Mannheim-Seckenheim" />
     <via name="Mannheim-Friedrichsfeld Süd" />
   </zug>
-  <zug name="RE1 38854" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RE1 38854" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE1 38924" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
   <zug name="RE1 4115" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ehrang Ort">
     <via name="Saarlouis Hbf" />
@@ -164,14 +452,46 @@
     <via name="Mannheim-Seckenheim" />
     <via name="Mannheim-Friedrichsfeld Süd" />
   </zug>
-  <zug name="RE1 9508" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RE10a 19202" von="Osterburken" nach="Mannheim Hbf" />
-  <zug name="RE10a 19255" von="Mannheim ARENA/Maimarkt" nach="Mannheim Hbf" />
-  <zug name="RE10a 38118" von="Osterburken" nach="Mannheim Hbf" />
-  <zug name="RE10a 38212" von="Osterburken" nach="Mannheim Hbf" />
-  <zug name="RE10a 38214" von="Osterburken" nach="Mannheim Hbf" />
-  <zug name="RE10a 38228" von="Osterburken" nach="Mannheim Hbf" />
-  <zug name="RE2 38104" von="Osterburken" nach="Mannheim Hbf" />
+  <zug name="RE1 9508" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RE10a 19202" von="Osterburken" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim ARENA/Maimarkt" />
+    <via name="Mannheim-Seckenheim" />
+  </zug>
+  <zug name="RE10a 19255" von="Mannheim ARENA/Maimarkt" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+    <via name="Osterburken" />
+  </zug>
+  <zug name="RE10a 38118" von="Osterburken" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim ARENA/Maimarkt" />
+    <via name="Mannheim-Seckenheim" />
+  </zug>
+  <zug name="RE10a 38212" von="Osterburken" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim ARENA/Maimarkt" />
+    <via name="Mannheim-Seckenheim" />
+  </zug>
+  <zug name="RE10a 38214" von="Osterburken" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim ARENA/Maimarkt" />
+    <via name="Mannheim-Seckenheim" />
+  </zug>
+  <zug name="RE10a 38228" von="Osterburken" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim ARENA/Maimarkt" />
+    <via name="Mannheim-Seckenheim" />
+  </zug>
+  <zug name="RE2 38104" von="Osterburken" nach="Mannheim Hbf">
+    <via name="Heidelberg Hbf" />
+    <via name="Mannheim ARENA/Maimarkt" />
+    <via name="Mannheim-Seckenheim" />
+  </zug>
   <zug name="RE40 38605" von="Ludwigshafen (Rhein) Mitte" nach="Heidelberg-Pfaffengrund/Wieblingen">
     <via name="Mannheim ARENA/Maimarkt" />
     <via name="Mannheim-Seckenheim" />
@@ -182,9 +502,21 @@
     <via name="Mannheim-Seckenheim" />
     <via name="Mannheim-Friedrichsfeld Süd" />
   </zug>
-  <zug name="RE6 38216" von="Mannheim Hbf" nach="Saarbrücken Ost" />
-  <zug name="RE6 38320" von="Mannheim Hbf" nach="Frankenstein (Pfalz)" />
-  <zug name="RE6 38402" von="Mannheim Hbf" nach="Saarbrücken Ost" />
+  <zug name="RE6 38216" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RE6 38320" von="Mannheim Hbf" nach="Frankenstein (Pfalz)">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
+  <zug name="RE6 38402" von="Mannheim Hbf" nach="Saarbrücken Ost">
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Neustadt (Weinstr) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE60 15300" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
     <via name="Weinheim (Bergstr) Hbf" />
     <via name="Darmstadt Hbf" />
@@ -315,28 +647,108 @@
     <via name="Neu-Edingen/Friedrichsfeld" />
     <via name="Ladenburg" />
   </zug>
-  <zug name="RE68 38531" von="Frankfurt (Main) Hbf" nach="Mannheim Hbf" />
+  <zug name="RE68 38531" von="Frankfurt (Main) Hbf" nach="Mannheim Hbf">
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Darmstadt Hbf" />
+    <via name="Ludwigshafen (Rhein) Mitte" />
+  </zug>
   <zug name="RE68 4650" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
   <zug name="RE68 4652" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE70 13651" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 13662" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RE70 13666" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RE70 15490" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 15571" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 38766" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38800" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38802" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38803" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 38807" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 38901" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 38907" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 38936" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RE70 38944" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RE70 4550" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 4551" von="Gernsheim" nach="Mannheim Hbf" />
-  <zug name="RE70 4560" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RE70 4564" von="Mannheim Hbf" nach="Biblis" />
-  <zug name="RE70 4588" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
+  <zug name="RE70 13651" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 13662" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 13666" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 15490" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 15571" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38766" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38800" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38802" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38803" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38807" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38901" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38907" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 38936" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 38944" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 4550" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 4551" von="Gernsheim" nach="Mannheim Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
+  <zug name="RE70 4560" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 4564" von="Mannheim Hbf" nach="Biblis">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Waldhof" />
+    <via name="Lampertheim" />
+  </zug>
+  <zug name="RE70 4588" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Mannheim Handelshafen" />
+    <via name="Mannheim-Neckarstadt" />
+    <via name="Mannheim-Luzenberg" />
+  </zug>
   <zug name="RE73 38100" von="Heidelberg-Pfaffengrund/Wieblingen" nach="Ludwigshafen (Rhein) Mitte" />
   <zug name="RE73 38301" von="Ludwigshafen (Rhein) Mitte" nach="Heidelberg-Pfaffengrund/Wieblingen">
     <via name="Mannheim ARENA/Maimarkt" />

@@ -18,12 +18,20 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RB40 30753" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30753" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RB40 30754" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RB40 30755" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB40 30755" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RB40 30756" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
@@ -77,39 +85,171 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
   <zug name="RB91 2227" von="Essen Hbf" nach="Welschen Ennest">
     <via name="Dortmund Hbf" />
     <via name="Witten Hbf" />
@@ -142,7 +282,11 @@
     <via name="Witten Hbf" />
     <via name="Hagen Hbf" />
   </zug>
-  <zug name="RB91 29994" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 29994" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RB91 30760" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
@@ -180,8 +324,16 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RB91 31332" von="Bochum Hbf" nach="Siegen-Weidenau" />
-  <zug name="RB91 31334" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31332" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31334" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RB91 31336" von="Essen Hbf" nach="Siegen-Weidenau">
     <via name="Dortmund Hbf" />
     <via name="Witten Hbf" />
@@ -205,11 +357,31 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RB91 31374" von="Bochum Hbf" nach="Siegen-Weidenau" />
-  <zug name="RB91 31376" von="Bochum Hbf" nach="Siegen-Weidenau" />
-  <zug name="RB91 31378" von="Bochum Hbf" nach="Siegen-Weidenau" />
-  <zug name="RB91 31380" von="Bochum Hbf" nach="Siegen-Weidenau" />
-  <zug name="RB91 31382" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 31374" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31376" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31378" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31380" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
+  <zug name="RB91 31382" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RB91 31383" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
@@ -239,7 +411,11 @@
     <via name="Witten Hbf" />
     <via name="Hagen Hbf" />
   </zug>
-  <zug name="RB91 52223" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 52223" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RB91 52225" von="Essen Hbf" nach="Siegen-Weidenau">
     <via name="Dortmund Hbf" />
     <via name="Witten Hbf" />
@@ -249,7 +425,11 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RB91 61597" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RB91 61597" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RE16 2326" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
@@ -309,7 +489,11 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RE34 2223" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 2223" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RE34 2225" von="Dortmund-Barop" nach="Siegen-Weidenau">
     <via name="Dortmund Hbf" />
     <via name="Hagen Hbf" />
@@ -346,7 +530,11 @@
     <via name="Witten Hbf" />
     <via name="Hagen Hbf" />
   </zug>
-  <zug name="RE34 33080" von="Bochum Hbf" nach="Siegen-Weidenau" />
+  <zug name="RE34 33080" von="Bochum Hbf" nach="Siegen-Weidenau">
+    <via name="Dortmund Hbf" />
+    <via name="Witten Hbf" />
+    <via name="Hagen Hbf" />
+  </zug>
   <zug name="RE34 33081" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
@@ -364,19 +552,79 @@
     <via name="Wattenscheid" />
     <via name="Essen-Kray Süd" />
   </zug>
-  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
+  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Recklinghausen Hbf" />
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Bochum West" />
+  </zug>
 </zza>

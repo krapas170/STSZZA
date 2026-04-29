@@ -589,54 +589,246 @@
     <via name="Letmathe Dechenhöhle" />
     <via name="Altena (Westf)" />
   </zug>
-  <zug name="RB92 24390" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 24391" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 24393" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 24394" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 24398" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 24399" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61674" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61675" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61676" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61677" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61678" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61679" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61850" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61851" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61852" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61853" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61854" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61855" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61856" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61857" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61858" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61859" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61860" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61861" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61862" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61863" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61864" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61865" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61866" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61867" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61868" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61869" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61870" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61871" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61872" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61873" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61874" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61875" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61876" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61877" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB92 61878" von="Hagen Hbf" nach="Olpe" />
-  <zug name="RB92 61889" von="Olpe" nach="Hagen Hbf" />
-  <zug name="RB97 23200" von="Usseln" nach="Hagen Hbf" />
-  <zug name="RB97 23202" von="Usseln" nach="Hagen Hbf" />
-  <zug name="RB97 23204" von="Usseln" nach="Hagen Hbf" />
-  <zug name="RB97 23205" von="Hagen Hbf" nach="Usseln" />
-  <zug name="RB97 23206" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
-  <zug name="RB97 23207" von="Hagen Hbf" nach="Usseln" />
+  <zug name="RB92 24390" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 24391" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 24393" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 24394" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 24398" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 24399" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61674" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61675" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61676" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61677" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61678" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61679" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61850" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61851" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61852" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61853" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61854" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61855" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61856" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61857" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61858" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61859" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61860" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61861" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61862" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61863" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61864" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61865" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61866" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61867" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61868" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61869" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61870" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61871" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61872" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61873" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61874" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61875" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61876" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61877" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61878" von="Hagen Hbf" nach="Olpe">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB92 61889" von="Olpe" nach="Hagen Hbf">
+    <via name="Finnentrop" />
+    <via name="Heggen" />
+    <via name="Attendorn" />
+  </zug>
+  <zug name="RB97 23200" von="Usseln" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+  </zug>
+  <zug name="RB97 23202" von="Usseln" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+  </zug>
+  <zug name="RB97 23204" von="Usseln" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+  </zug>
+  <zug name="RB97 23205" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RB97 23206" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23207" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
   <zug name="RB97 23211" von="Warburg (Westf)" nach="Usseln">
     <via name="Willingen" />
   </zug>
@@ -648,13 +840,41 @@
     <via name="Dortmund Hbf" />
     <via name="Willingen" />
   </zug>
-  <zug name="RB97 23223" von="Hagen Hbf" nach="Usseln" />
-  <zug name="RB97 23242" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
-  <zug name="RB97 23244" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
-  <zug name="RB97 23247" von="Hagen Hbf" nach="Usseln" />
-  <zug name="RB97 23253" von="Hagen Hbf" nach="Usseln" />
-  <zug name="RB97 23261" von="Hagen Hbf" nach="Usseln" />
-  <zug name="RB97 23263" von="Hagen Hbf" nach="Usseln" />
+  <zug name="RB97 23223" von="Hagen Hbf" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+  </zug>
+  <zug name="RB97 23242" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23244" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Willingen" />
+  </zug>
+  <zug name="RB97 23247" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RB97 23253" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
+  <zug name="RB97 23261" von="Hagen Hbf" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+  </zug>
+  <zug name="RB97 23263" von="Hagen Hbf" nach="Usseln">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+  </zug>
   <zug name="RE16 2326" von="Siegen-Weidenau" nach="Essen Hbf">
     <via name="Witten Hbf" />
     <via name="Dortmund Hbf" />
@@ -728,22 +948,38 @@
     <via name="Olsberg" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10704" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10704" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Willingen" />
+    <via name="Usseln" />
+  </zug>
   <zug name="RE17 10705" von="Schwerte (Ruhr)" nach="Usseln">
     <via name="Olsberg" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10706" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10706" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Willingen" />
+    <via name="Usseln" />
+  </zug>
   <zug name="RE17 10707" von="Schwerte (Ruhr)" nach="Usseln">
     <via name="Olsberg" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10708" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10708" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Willingen" />
+    <via name="Usseln" />
+  </zug>
   <zug name="RE17 10709" von="Schwerte (Ruhr)" nach="Usseln">
     <via name="Olsberg" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10710" von="Warburg (Westf)" nach="Hagen Hbf" />
+  <zug name="RE17 10710" von="Warburg (Westf)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Willingen" />
+    <via name="Usseln" />
+  </zug>
   <zug name="RE17 10711" von="Schwerte (Ruhr)" nach="Usseln">
     <via name="Dortmund Hbf" />
     <via name="Willingen" />
@@ -841,7 +1077,11 @@
   <zug name="RE57 10757" von="Dortmund Hbf" nach="Usseln">
     <via name="Willingen" />
   </zug>
-  <zug name="RE57 10779" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RE57 10779" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Willingen" />
+  </zug>
   <zug name="RE57 10780" von="Warburg (Westf)" nach="Usseln">
     <via name="Willingen" />
   </zug>
@@ -873,5 +1113,9 @@
     <via name="Willingen" />
   </zug>
   <zug name="RE8 10358" von="Aachen Schanz" nach="Dortmund Hbf" />
-  <zug name="RE97 23213" von="Hagen Hbf" nach="Usseln" />
+  <zug name="RE97 23213" von="Hagen Hbf" nach="Usseln">
+    <via name="Bestwig" />
+    <via name="Olsberg" />
+    <via name="Brilon Stadt" />
+  </zug>
 </zza>

@@ -90,13 +90,21 @@
     <via name="Magdeburg-Salbke" />
     <via name="Schönebeck-Frohse" />
   </zug>
-  <zug name="RE20 1605" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 1605" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
   <zug name="RE20 16928" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
     <via name="Magdeburg Hbf" />
     <via name="Magdeburg Hbf is" />
     <via name="Stendal Hbf" />
   </zug>
-  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16930" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+  </zug>
   <zug name="RE20 16936" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
     <via name="Magdeburg Hbf" />
     <via name="Magdeburg Hasselbachplatz" />
@@ -107,10 +115,26 @@
     <via name="Magdeburg Hasselbachplatz" />
     <via name="Barleber See" />
   </zug>
-  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
-  <zug name="RE20 16947" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
-  <zug name="RE20 16949" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
-  <zug name="RE20 16953" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau" />
+  <zug name="RE20 16940" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE20 16947" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
+  <zug name="RE20 16949" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
+  <zug name="RE20 16953" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
   <zug name="RE20 16955" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Magdeburg SKET Industriepark" />
     <via name="Magdeburg-Salbke" />
@@ -126,8 +150,16 @@
     <via name="Magdeburg Hbf is" />
     <via name="Stendal Hbf" />
   </zug>
-  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39006" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE20 39008" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+  </zug>
   <zug name="RE20 39014" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
     <via name="Magdeburg Hbf" />
     <via name="Magdeburg Hasselbachplatz" />
@@ -138,12 +170,36 @@
     <via name="Magdeburg Hasselbachplatz" />
     <via name="Barleber See" />
   </zug>
-  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39031" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39033" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39035" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39037" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau" />
-  <zug name="RE20 39039" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau" />
+  <zug name="RE20 39018" von="Schönebeck-Bad Salzelmen if" nach="Magdeburg-Buckau">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf is" />
+    <via name="Magdeburg Hbf" />
+  </zug>
+  <zug name="RE20 39031" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
+  <zug name="RE20 39033" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
+  <zug name="RE20 39035" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
+  <zug name="RE20 39037" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
+  <zug name="RE20 39039" von="Stederdorf (Kr Uelzen)" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
   <zug name="RE20 39041" von="Soltendieck" nach="Schönebeck-Bad Salzelmen if">
     <via name="Magdeburg SKET Industriepark" />
     <via name="Magdeburg-Salbke" />
@@ -154,7 +210,11 @@
     <via name="Magdeburg Hasselbachplatz" />
     <via name="Barleber See" />
   </zug>
-  <zug name="RE20 803" von="Uelzen ZOB" nach="Magdeburg-Buckau" />
+  <zug name="RE20 803" von="Uelzen ZOB" nach="Magdeburg-Buckau">
+    <via name="Barleber See" />
+    <via name="Stendal-Stadtsee" />
+    <via name="Stendal Hochschule" />
+  </zug>
   <zug name="RE20 806" von="Schönebeck-Bad Salzelmen if" nach="Soltendieck">
     <via name="Magdeburg Hbf" />
     <via name="Magdeburg Hbf is" />

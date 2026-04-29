@@ -40,7 +40,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RB53 78949" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RB53 78949" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RB53 78975" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -484,7 +488,11 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
   </zug>
-  <zug name="RB74 58129" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RB74 58129" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RB74 58140" von="München Hbf" nach="Lindau-Insel">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -500,7 +508,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RB74 62741" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RB74 62741" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RB74 7886" von="München-Pasing" nach="Lindau-Insel">
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
@@ -519,7 +531,11 @@
   <zug name="RB74 78914" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
     <via name="München-Pasing" />
   </zug>
-  <zug name="RB74 78947" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RB74 78947" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RB74 78959" von="München Hbf" nach="Lindau-Insel">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -658,7 +674,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RB92 17864" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RB92 17864" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RB92 17871" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -750,13 +770,21 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Kaufering" />
   </zug>
-  <zug name="RB94 57630" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RB94 57630" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RB94 57635" von="München Hbf" nach="Sonthofen">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Kaufering" />
   </zug>
-  <zug name="RE17 3289" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE17 3289" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE17 3380" von="München Hbf" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
@@ -857,8 +885,16 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RE7 58131" von="Oberstdorf" nach="Geltendorf" />
-  <zug name="RE7 58136" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RE7 58131" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
+  <zug name="RE7 58136" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RE7 62700" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -905,7 +941,11 @@
   <zug name="RE70 3876" von="München Hbf" nach="Augsburg Hbf">
     <via name="Kaufering" />
   </zug>
-  <zug name="RE70 3877" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE70 3877" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE70 3897" von="Buchloe" nach="München Hbf">
     <via name="München-Pasing" />
   </zug>
@@ -946,7 +986,11 @@
   <zug name="RE70 7895" von="Lindau-Insel" nach="München Hbf ia">
     <via name="München-Pasing" />
   </zug>
-  <zug name="RE70 78953" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RE70 78953" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RE70 7897" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
     <via name="München-Pasing" />
   </zug>
@@ -1008,9 +1052,21 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RE72 25819" von="Geltendorf" nach="Lindau-Insel" />
-  <zug name="RE72 3296" von="Geltendorf" nach="Lindau-Insel" />
-  <zug name="RE72 3389" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE72 25819" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 3296" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RE72 3389" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE72 5565" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -1218,7 +1274,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RE76 5593" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RE76 5593" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RE76 57652" von="München Hbf" nach="Sonthofen">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
@@ -1253,7 +1313,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RE76 7877" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE76 7877" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE76 7878" von="München Hbf" nach="Augsburg Hbf">
     <via name="Kaufering" />
   </zug>
@@ -1267,11 +1331,19 @@
     <via name="Rammingen (Bay)" />
     <via name="Mindelheim" />
   </zug>
-  <zug name="RE76 78951" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RE76 78951" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RE76 78964" von="Lindau-Insel" nach="München Hbf ia rs">
     <via name="München-Pasing" />
   </zug>
-  <zug name="RE76 7897" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE76 7897" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE76 78982" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
     <via name="München-Pasing" />
   </zug>
@@ -1323,8 +1395,16 @@
   <zug name="RE79 57411" von="Sontheim (Schwab)" nach="München Hbf">
     <via name="München-Pasing" />
   </zug>
-  <zug name="RE79 57413" von="Sontheim (Schwab)" nach="Geltendorf" />
-  <zug name="RE79 78918" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE79 57413" von="Sontheim (Schwab)" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Kaufbeuren" />
+  </zug>
+  <zug name="RE79 78918" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE96 3285" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
     <via name="München-Pasing" />
   </zug>
@@ -1349,7 +1429,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RE96 5591" von="Geltendorf" nach="Lindau-Insel" />
+  <zug name="RE96 5591" von="Geltendorf" nach="Lindau-Insel">
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RE96 5597" von="München Hbf" nach="Lindau-Insel">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
@@ -1360,7 +1444,11 @@
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
   </zug>
-  <zug name="RE96 57415" von="Oberstdorf" nach="Geltendorf" />
+  <zug name="RE96 57415" von="Oberstdorf" nach="Geltendorf">
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Kaufering" />
+    <via name="Schwabmünchen" />
+  </zug>
   <zug name="RE96 58114" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />

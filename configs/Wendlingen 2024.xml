@@ -19,9 +19,15 @@
   <zug name="IRE200 16050" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
     <via name="Stuttgart Hbf" />
   </zug>
-  <zug name="IRE200 16079" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
-  <zug name="IRE200 16081" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
-  <zug name="IRE200 16083" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 16079" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IRE200 16081" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb">
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="IRE200 16083" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb">
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="IRE200 19112" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
     <via name="Stuttgart Hbf (tief)" />
     <via name="Stuttgart Hbf" />
@@ -32,12 +38,16 @@
   <zug name="IRE200 561" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb">
     <via name="Stuttgart Hbf" />
   </zug>
-  <zug name="IRE200 617" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 617" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb">
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="IRE200 618" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
     <via name="Stuttgart Hbf (tief)" />
     <via name="Stuttgart Hbf" />
   </zug>
-  <zug name="IRE200 699" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="IRE200 699" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb">
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="IRE200 714" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
     <via name="Stuttgart Hbf (tief)" />
     <via name="Stuttgart Hbf" />
@@ -220,13 +230,21 @@
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
   </zug>
-  <zug name="MEX16 19109" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19109" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+  </zug>
   <zug name="MEX16 19110" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
     <via name="Plochingen" />
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
   </zug>
-  <zug name="MEX16 19111" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19111" von="Wendlingen (Neckar)" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+  </zug>
   <zug name="MEX16 19112" von="Beimerstetten" nach="Stuttgart Hbf">
     <via name="Plochingen" />
     <via name="Esslingen (Neckar)" />
@@ -347,11 +365,19 @@
     <via name="Oberboihingen" />
     <via name="Nürtingen" />
   </zug>
-  <zug name="MEX16 215" von="Wendlingen (Neckar)" nach="Beimerstetten" />
+  <zug name="MEX16 215" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Stuttgart Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+  </zug>
   <zug name="MEX16 2410" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
     <via name="Stuttgart Hbf" />
   </zug>
-  <zug name="MEX16 4243" von="Wendlingen (Neckar)" nach="Beimerstetten" />
+  <zug name="MEX16 4243" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Stuttgart Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+  </zug>
   <zug name="MEX16 460" von="Merklingen - Schwäbische Alb" nach="Reichenbach (Fils)">
     <via name="Stuttgart Hbf (tief)" />
     <via name="Stuttgart Hbf" />
@@ -360,7 +386,11 @@
   <zug name="MEX16 614" von="Merklingen - Schwäbische Alb" nach="Tübingen Hbf">
     <via name="Stuttgart Hbf" />
   </zug>
-  <zug name="MEX16 619" von="Wendlingen (Neckar)" nach="Beimerstetten" />
+  <zug name="MEX16 619" von="Wendlingen (Neckar)" nach="Beimerstetten">
+    <via name="Stuttgart Hbf" />
+    <via name="Merklingen - Schwäbische Alb" />
+    <via name="Plochingen" />
+  </zug>
   <zug name="MEX16 79475" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb">
     <via name="Stuttgart Hbf" />
   </zug>
@@ -637,7 +667,11 @@
     <via name="Nürtingen" />
   </zug>
   <zug name="RE14a 17628" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen" />
-  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen" />
+  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen">
+    <via name="Stuttgart Hbf" />
+    <via name="Plochingen" />
+    <via name="Esslingen (Neckar)" />
+  </zug>
   <zug name="RE14a 7100" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen" />
   <zug name="RE14a 7180" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen" />
   <zug name="RE14a 7701" von="Kirchheim (Teck) -Ötlingen" nach="Nufringen">
@@ -656,7 +690,9 @@
     <via name="Wernau (Neckar)" />
     <via name="Plochingen" />
   </zug>
-  <zug name="RE5 16041" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb" />
+  <zug name="RE5 16041" von="Wendlingen (Neckar)" nach="Merklingen - Schwäbische Alb">
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="RE5 16045" von="Tübingen Hbf" nach="Merklingen - Schwäbische Alb">
     <via name="Stuttgart Hbf" />
   </zug>

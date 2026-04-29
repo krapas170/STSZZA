@@ -190,52 +190,236 @@
     <via name="Castrop-Rauxel Hbf" />
     <via name="Herne" />
   </zug>
-  <zug name="RB46 31397" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31399" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31421" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31423" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31425" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31427" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31429" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31431" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31433" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31487" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31491" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31493" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31495" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RB46 31397" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31399" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31420" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31421" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31422" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31423" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31424" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31425" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31426" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31427" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31428" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31429" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31430" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31431" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31432" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31433" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31434" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31435" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31436" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31437" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31438" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31439" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31440" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31441" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31442" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31443" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31444" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31445" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31446" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31447" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31448" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31449" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31450" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31451" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31453" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31476" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31487" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31488" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31490" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31491" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31492" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31493" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31494" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31495" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31496" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RB46 31498" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
   <zug name="RB90 10901" von="Köln Messe/Deutz" nach="Eiserfeld (Sieg)">
     <via name="Freusburg Siedlung" />
     <via name="Brachbach" />
@@ -947,24 +1131,96 @@
     <via name="Duisburg Hbf" />
     <via name="Düsseldorf Hbf" />
   </zug>
-  <zug name="RE41 16212" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16214" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16216" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd" />
-  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
-  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf" />
-  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf" />
+  <zug name="RE41 16212" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16213" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16214" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16215" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16216" von="Gelsenkirchen Hbf" nach="Recklinghausen Süd">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16217" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16218" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16219" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16220" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16221" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16222" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16223" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16224" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16225" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16226" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16227" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16228" von="Gelsenkirchen Hbf" nach="Bochum Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
+  <zug name="RE41 16229" von="Bochum Hbf" nach="Gelsenkirchen Hbf">
+    <via name="Wanne-Eickel Hbf" />
+    <via name="Recklinghausen Hbf" />
+    <via name="Haltern am See" />
+  </zug>
   <zug name="RE42 10100" von="Münster-Albachten" nach="Düsseldorf Hbf">
     <via name="Essen Hbf" />
     <via name="Mülheim (Ruhr) Hbf" />

@@ -200,7 +200,9 @@
     <via name="Langenhorn (Schlesw)" />
     <via name="Niebüll" />
   </zug>
-  <zug name="RE6 11045" von="Langenhorn (Schlesw)" nach="Husum" />
+  <zug name="RE6 11045" von="Langenhorn (Schlesw)" nach="Husum">
+    <via name="Bredstedt" />
+  </zug>
   <zug name="RE6 11046" von="Hamburg-Altona" nach="Westerland (Sylt)">
     <via name="Bredstedt" />
     <via name="Langenhorn (Schlesw)" />

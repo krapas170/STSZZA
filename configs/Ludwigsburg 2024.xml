@@ -1,44 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Ludwigsburg 2024">
-  <zug name="IRE1 1068" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="IRE1 1511" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="IRE1 19000" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="IRE1 19001" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="IRE1 19002" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="IRE1 19003" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="IRE1 19005" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="IRE1 19007" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="IRE1 19008" von="Ludwigsburg" nach="Bretten" />
-  <zug name="IRE1 19010" von="Ludwigsburg" nach="Bretten" />
-  <zug name="IRE1 19038" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="IRE1 19538" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="IRE1 19547" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="IRE1 19550" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="IRE1 19554" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="IRE1 19558" von="Ludwigsburg" nach="Mühlacker" />
-  <zug name="IRE1 19601" von="Karlsruhe-Durlach )" nach="Ludwigsburg" />
-  <zug name="IRE1 19605" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="IRE1 19609" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
+  <zug name="IRE1 1068" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 1511" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 19000" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19001" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19002" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19003" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19005" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19007" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19008" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19010" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19038" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 19538" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 19547" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 19550" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19554" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19558" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19601" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 19605" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 19609" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="IRE1 19671" von="Karlsruhe-Durlach" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="IRE1 19672" von="Ludwigsburg" nach="Bretten" />
-  <zug name="IRE1 19673" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="IRE1 19674" von="Ludwigsburg" nach="Mühlacker" />
+  <zug name="IRE1 19672" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19673" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 19674" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="IRE1 19689" von="Karlsruhe-Durlach" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="IRE1 2059" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="IRE1 2162" von="Ludwigsburg" nach="Mühlacker" />
-  <zug name="IRE1 2164" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="IRE1 2181" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="IRE1 2298" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="IRE1 267" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="IRE1 9508" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="IRE1 2059" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 2162" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="IRE1 2164" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 2181" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 2298" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 267" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="IRE1 9508" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="IRE1 9599" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
   <zug name="MEX12 19208" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
@@ -50,7 +166,11 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX12 19217" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX12 19217" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="MEX12 19220" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -67,126 +187,406 @@
     <via name="Bietigheim-Bissingen" />
   </zug>
   <zug name="MEX12 19351" von="Lauda" nach="Stuttgart Hbf" />
-  <zug name="MEX12 19355" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX12 19357" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX12 19355" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="MEX12 19357" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="MEX12 19375" von="Neudenau" nach="Stuttgart Hbf" />
   <zug name="MEX12 19377" von="Neudenau" nach="Stuttgart Hbf" />
-  <zug name="MEX17a 1061" von="Karlsruhe-Durlach )" nach="Ludwigsburg" />
-  <zug name="MEX17a 1118" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 19002" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 19003" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17a 19004" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 19005" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17a 19006" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 1061" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 1118" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19002" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19003" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19004" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19005" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19006" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX17a 19035" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
   <zug name="MEX17a 19037" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
   <zug name="MEX17a 19297" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
-  <zug name="MEX17a 19362" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19369" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 1949" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 19500" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 19362" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19369" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 1949" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19500" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="MEX17a 19501" von="Karlsruhe-Durlach )" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19502" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 19502" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX17a 19503" von="Karlsruhe-Durlach" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19504" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 19505" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19507" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19508" von="Ludwigsburg" nach="Bretten" />
+  <zug name="MEX17a 19504" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19505" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19507" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19508" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX17a 19509" von="Karlsruhe-Durlach" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19510" von="Ludwigsburg" nach="Bretten" />
-  <zug name="MEX17a 19511" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19536" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 19510" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19511" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19536" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="MEX17a 19539" von="Karlsruhe-Durlach )" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19540" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 19540" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX17a 19541" von="Karlsruhe-Durlach )" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19542" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19543" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19544" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 19542" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19543" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19544" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="MEX17a 19545" von="Karlsruhe-Durlach )" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19546" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19547" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19548" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19549" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19556" von="Ludwigsburg" nach="Bretten" />
-  <zug name="MEX17a 19558" von="Ludwigsburg" nach="Bretten" />
+  <zug name="MEX17a 19546" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19547" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19548" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19549" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19556" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19558" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX17a 19575" von="Karlsruhe-Durlach )" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17a 19583" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17a 19584" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19602" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 19604" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19608" von="Ludwigsburg" nach="Mühlacker" />
-  <zug name="MEX17a 19610" von="Ludwigsburg" nach="Mühlacker" />
-  <zug name="MEX17a 19642" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19670" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="MEX17a 19673" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17a 2063" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17a 215" von="Karlsruhe-Durlach )" nach="Ludwigsburg" />
-  <zug name="MEX17a 2326" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17a 56721" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17a 937" von="Karlsruhe-Durlach )" nach="Ludwigsburg" />
-  <zug name="MEX17a 9594" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17c 1178" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17c 19010" von="Ludwigsburg" nach="Mühlacker" />
-  <zug name="MEX17c 19505" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17c 19507" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17c 19543" von="Karlsruhe-Durlach )" nach="Ludwigsburg" />
-  <zug name="MEX17c 19546" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17c 19550" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17c 19601" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17c 19602" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17a 19583" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19584" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19602" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 19604" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19608" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19610" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19642" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19670" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17a 19673" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 2063" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 215" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 2326" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 56721" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 937" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17a 9594" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 1178" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19010" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19505" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19507" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19543" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19546" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19550" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19601" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19602" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX17c 19603" von="Karlsruhe-Durlach" nach="Ötisheim">
     <via name="Heidelberg Hbf" />
     <via name="Wiesloch-Walldorf" />
     <via name="Bad Schönborn-Kronau" />
   </zug>
-  <zug name="MEX17c 19604" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="MEX17c 19605" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17c 19606" von="Ludwigsburg" nach="Bretten" />
-  <zug name="MEX17c 19607" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17c 19608" von="Ludwigsburg" nach="Bretten" />
-  <zug name="MEX17c 19609" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17c 19610" von="Ludwigsburg" nach="Bretten" />
-  <zug name="MEX17c 19611" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="MEX17c 19673" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
-  <zug name="MEX17c 2057" von="Ludwigsburg" nach="Mühlacker" />
-  <zug name="MEX17c 89458" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="MEX17c 19604" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 19605" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19606" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19607" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19608" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19609" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19610" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19611" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 19673" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="MEX17c 2057" von="Ludwigsburg" nach="Mühlacker">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="MEX17c 89458" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="MEX18 19200" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX18 19201" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX18 19203" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX18 19205" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX18 19209" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19201" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Reutlingen Hbf" />
+  </zug>
+  <zug name="MEX18 19203" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Reutlingen Hbf" />
+  </zug>
+  <zug name="MEX18 19205" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Reutlingen Hbf" />
+  </zug>
+  <zug name="MEX18 19209" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Reutlingen Hbf" />
+  </zug>
   <zug name="MEX18 19210" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -198,7 +598,11 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX18 19213" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19213" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="MEX18 19214" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -214,8 +618,16 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX18 19257" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX18 19301" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19257" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Reutlingen Hbf" />
+  </zug>
+  <zug name="MEX18 19301" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Reutlingen Hbf" />
+  </zug>
   <zug name="MEX18 19303" von="Lauda" nach="Stuttgart Hbf" />
   <zug name="MEX18 19304" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
@@ -227,40 +639,136 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX18 19307" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19307" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="MEX18 19308" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX18 19309" von="Stuttgart Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19309" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
   <zug name="MEX18 19310" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Bietigheim-Bissingen" />
   </zug>
-  <zug name="MEX18 19353" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="RB17a 2326" von="Ludwigsburg" nach="Karlsruhe-Durlach" />
-  <zug name="RB17c 19246" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19248" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19285" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 19287" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 19600" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19625" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 19636" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19638" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19640" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19641" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 19660" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19664" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 19669" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 26128" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 89452" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 89453" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 89454" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 89455" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RB17c 89456" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RB17c 89457" von="Heidelberg Hbf" nach="Ludwigsburg" />
+  <zug name="MEX18 19353" von="Stuttgart Hbf" nach="Ludwigsburg">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Würzburg Hbf" />
+  </zug>
+  <zug name="RB17a 2326" von="Ludwigsburg" nach="Karlsruhe-Durlach">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="RB17c 19246" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19248" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19285" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19287" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19600" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19625" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19636" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19638" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19640" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19641" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19660" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19664" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 19669" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 26128" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 89452" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 89453" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 89454" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 89455" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 89456" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RB17c 89457" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="RB18 19300" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -275,7 +783,11 @@
   <zug name="RB18 19311" von="Würzburg Hbf" nach="Stuttgart Hbf" />
   <zug name="RB18 19345" von="Neudenau" nach="Stuttgart Hbf" />
   <zug name="RB18 19347" von="Lauda" nach="Stuttgart Hbf" />
-  <zug name="RB8 1172" von="Karlsruhe-Durlach" nach="Ludwigsburg" />
+  <zug name="RB8 1172" von="Karlsruhe-Durlach" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="RB8 19048" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -290,7 +802,11 @@
   <zug name="RB8 19089" von="Neudenau" nach="Stuttgart Hbf" />
   <zug name="RB8 19091" von="Lauda" nach="Stuttgart Hbf" />
   <zug name="RB8 19093" von="Lauda" nach="Stuttgart Hbf" />
-  <zug name="RB8 19583" von="Karlsruhe-Durlach )" nach="Ludwigsburg" />
+  <zug name="RB8 19583" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="RB8 56721" von="Lauda" nach="Stuttgart Hbf" />
   <zug name="RB8 56731" von="Neudenau" nach="Stuttgart Hbf" />
   <zug name="RB85 23454" von="Stuttgart Hbf" nach="c Schrozberg">
@@ -332,52 +848,144 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Würzburg Hbf" />
   </zug>
-  <zug name="RE1 19036" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="RE1 19036" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Pforzheim Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="RE1 19037" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
   <zug name="RE1 19579" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
   <zug name="RE1 1997" von="Bietigheim-Bissingen" nach="Ludwigsburg" />
-  <zug name="RE17b 19004" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RE17b 19289" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RE17b 19598" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RE17b 19644" von="Ludwigsburg" nach="Bretten" />
-  <zug name="RE40 15802" von="Heidelberg Hbf" nach="Ludwigsburg" />
+  <zug name="RE17b 19004" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE17b 19289" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE17b 19598" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE17b 19644" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE40 15802" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="RE73 15816" von="Weingarten (Baden)" nach="Heidelberg Hbf">
     <via name="Bietigheim-Bissingen" />
     <via name="Ellental" />
     <via name="Sachsenheim" />
   </zug>
-  <zug name="RE73 19504" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RE73 19506" von="Ludwigsburg" nach="Heidelberg Hbf" />
+  <zug name="RE73 19504" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 19506" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="RE73 26120" von="Weingarten (Baden)" nach="Heidelberg Hbf">
     <via name="Bietigheim-Bissingen" />
     <via name="Ellental" />
     <via name="Sachsenheim" />
   </zug>
-  <zug name="RE73 26121" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg" />
-  <zug name="RE73 26122" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RE73 26123" von="Heidelberg Hbf" nach="Ludwigsburg" />
+  <zug name="RE73 26121" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="RE73 26122" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26123" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="RE73 26124" von="Weingarten (Baden)" nach="Heidelberg Hbf">
     <via name="Bietigheim-Bissingen" />
     <via name="Ellental" />
     <via name="Sachsenheim" />
   </zug>
-  <zug name="RE73 26125" von="Heidelberg Hbf" nach="Ludwigsburg" />
+  <zug name="RE73 26125" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
   <zug name="RE73 26126" von="Weingarten (Baden)" nach="Heidelberg Hbf">
     <via name="Bietigheim-Bissingen" />
     <via name="Ellental" />
     <via name="Sachsenheim" />
   </zug>
-  <zug name="RE73 26127" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg" />
-  <zug name="RE73 26132" von="Ludwigsburg" nach="Bretten" />
-  <zug name="RE73 26134" von="Ludwigsburg" nach="Bretten" />
-  <zug name="RE73 26160" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RE73 26161" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RE73 26162" von="Ludwigsburg" nach="Heidelberg Hbf" />
-  <zug name="RE73 26163" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RE73 26164" von="Ludwigsburg" nach="Bretten" />
-  <zug name="RE73 26165" von="Heidelberg Hbf" nach="Ludwigsburg" />
-  <zug name="RE73 26166" von="Ludwigsburg" nach="Bretten" />
-  <zug name="RE73 26167" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg" />
+  <zug name="RE73 26127" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
+  <zug name="RE73 26132" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26134" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26160" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26161" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26162" von="Ludwigsburg" nach="Heidelberg Hbf">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26163" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26164" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26165" von="Heidelberg Hbf" nach="Ludwigsburg">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26166" von="Ludwigsburg" nach="Bretten">
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+    <via name="Sachsenheim" />
+  </zug>
+  <zug name="RE73 26167" von="Heidelberg-Kirchheim/Rohrbach" nach="Ludwigsburg">
+    <via name="Heidelberg Hbf" />
+    <via name="Bietigheim-Bissingen" />
+    <via name="Ellental" />
+  </zug>
   <zug name="RE8 19052" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />

@@ -1,36 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Priort">
-  <zug name="RB21 18240" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18240" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Marquardt" />
+    <via name="Golm" />
+  </zug>
   <zug name="RB21 18241" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
     <via name="Marquardt" />
     <via name="Golm" />
     <via name="Potsdam Park Sanssouci" />
   </zug>
-  <zug name="RB21 18242" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18242" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Marquardt" />
+    <via name="Golm" />
+  </zug>
   <zug name="RB21 18243" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
     <via name="Marquardt" />
     <via name="Golm" />
     <via name="Potsdam Park Sanssouci" />
   </zug>
-  <zug name="RB21 18244" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18244" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Marquardt" />
+    <via name="Golm" />
+  </zug>
   <zug name="RB21 18245" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
     <via name="Marquardt" />
     <via name="Golm" />
     <via name="Potsdam Park Sanssouci" />
   </zug>
-  <zug name="RB21 18246" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18246" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Marquardt" />
+    <via name="Golm" />
+  </zug>
   <zug name="RB21 18247" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
     <via name="Marquardt" />
     <via name="Golm" />
     <via name="Potsdam Park Sanssouci" />
   </zug>
-  <zug name="RB21 18248" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18248" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Marquardt" />
+    <via name="Golm" />
+  </zug>
   <zug name="RB21 18249" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
     <via name="Marquardt" />
     <via name="Golm" />
     <via name="Potsdam Park Sanssouci" />
   </zug>
-  <zug name="RB21 18250" von="Stendal Hbf" nach="Priort" />
+  <zug name="RB21 18250" von="Stendal Hbf" nach="Priort">
+    <via name="Berlin Hbf" />
+    <via name="Marquardt" />
+    <via name="Golm" />
+  </zug>
   <zug name="RB21 18251" von="Berlin Südkreuz" nach="Potsdam Charlottenhof">
     <via name="Marquardt" />
     <via name="Golm" />

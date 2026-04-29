@@ -17,35 +17,91 @@
     <via name="Dresden Bischofsplatz" />
     <via name="Dresden-Pieschen" />
   </zug>
-  <zug name="RB31 18000" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18000" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB31 18001" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
     <via name="Glaubitz (Riesa)" />
     <via name="Nünchritz" />
     <via name="Radebeul-Zitzschewig" />
   </zug>
-  <zug name="RB31 18002" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
-  <zug name="RB31 18003" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RB31 18004" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
-  <zug name="RB31 18005" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RB31 18006" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
-  <zug name="RB31 18007" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RB31 18008" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
+  <zug name="RB31 18002" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18003" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18004" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18005" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18006" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18007" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18008" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB31 18009" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
     <via name="Glaubitz (Riesa)" />
     <via name="Nünchritz" />
     <via name="Großenhain Cottb Bf wj" />
   </zug>
-  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)" />
-  <zug name="RB31 18011" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18010" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18011" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18012" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB31 18013" von="Leuthen (Cottbus)" nach="Dresden Freiberger Str.">
     <via name="Radebeul-Zitzschewig" />
     <via name="Rdbl.-Kötzschenbroda" />
     <via name="Radebeul-Weintraube" />
   </zug>
-  <zug name="RB31 18014" von="Dresden-Neustadt" nach="Sedlitz Ost" />
-  <zug name="RB31 18015" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RB31 18016" von="Dresden-Neustadt" nach="Sedlitz Ost" />
+  <zug name="RB31 18014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18015" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 18016" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB31 18029" von="Priestewitz" nach="Dresden Freiberger Str.">
     <via name="Dresden Mitte" />
   </zug>
@@ -59,7 +115,11 @@
     <via name="Nünchritz" />
     <via name="Radebeul-Zitzschewig" />
   </zug>
-  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)" />
+  <zug name="RB31 18042" von="Dresden-Neustadt" nach="Glaubitz (Riesa)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB31 18046" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
     <via name="Dresden Bischofsplatz" />
     <via name="Dresden-Pieschen" />
@@ -137,8 +197,16 @@
     <via name="Dresden-Pieschen" />
     <via name="Dresden-Trachau" />
   </zug>
-  <zug name="RB31 43010" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
-  <zug name="RB31 43014" von="Dresden-Neustadt" nach="Sedlitz Ost" />
+  <zug name="RB31 43010" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB31 43014" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB33 16602" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16608" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16610" von="Kamenz (Sachs)" nach="Dresden Mitte" />
@@ -166,10 +234,22 @@
   <zug name="RB33 16622" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16624" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16640" von="Kamenz (Sachs)" nach="Dresden Mitte" />
-  <zug name="RB33 16641" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB33 16641" von="Dresden-Neustadt" nach="Kamenz (Sachs)">
+    <via name="Weixdorf Bad" />
+    <via name="Weixdorf" />
+    <via name="Hermsdorf (Dresden)" />
+  </zug>
   <zug name="RB33 16642" von="Kamenz (Sachs)" nach="Dresden Mitte" />
-  <zug name="RB33 16651" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
-  <zug name="RB33 16653" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB33 16651" von="Dresden-Neustadt" nach="Kamenz (Sachs)">
+    <via name="Weixdorf Bad" />
+    <via name="Weixdorf" />
+    <via name="Hermsdorf (Dresden)" />
+  </zug>
+  <zug name="RB33 16653" von="Dresden-Neustadt" nach="Kamenz (Sachs)">
+    <via name="Weixdorf Bad" />
+    <via name="Weixdorf" />
+    <via name="Hermsdorf (Dresden)" />
+  </zug>
   <zug name="RB33 16740" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16746" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16960" von="Kamenz (Sachs)" nach="Dresden Mitte" />
@@ -202,7 +282,11 @@
   </zug>
   <zug name="RB33 16980" von="Kamenz (Sachs)" nach="Dresden Mitte" />
   <zug name="RB33 16982" von="Kamenz (Sachs)" nach="Dresden Mitte" />
-  <zug name="RB33 16999" von="Dresden-Neustadt" nach="Kamenz (Sachs)" />
+  <zug name="RB33 16999" von="Dresden-Neustadt" nach="Kamenz (Sachs)">
+    <via name="Weixdorf Bad" />
+    <via name="Weixdorf" />
+    <via name="Hermsdorf (Dresden)" />
+  </zug>
   <zug name="RB33 26902" von="Arnsdorf (Dresden)" nach="Dresden Hbf">
     <via name="Dresden Mitte" />
     <via name="Dresden Freiberger Straße" />
@@ -256,32 +340,56 @@
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt" />
+  <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Cottbus Hbf" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
   <zug name="RB49 18422" von="Leipzig Hbf" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RB49 18423" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18423" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB49 18424" von="Leipzig Hbf" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RB49 18425" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18425" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RB49 18430" von="Dresden-Neustadt" nach="Sedlitz Ost" />
-  <zug name="RB49 18445" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RB49 18430" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RB49 18445" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RB60 16601" von="Dresden Hbf" nach="Radeberg">
     <via name="Dresden Industriegelände" />
     <via name="Dresden-Klotzsche" />
@@ -669,43 +777,71 @@
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE11 18181" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt" />
+  <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Cottbus Hbf" />
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+  </zug>
   <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
@@ -716,7 +852,11 @@
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE13 18062" von="Dresden-Neustadt" nach="Sedlitz Ost" />
+  <zug name="RE13 18062" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE15 1559" von="Niederau" nach="Dresden Freiberger Str.">
     <via name="Dresden Mitte" />
   </zug>
@@ -733,11 +873,31 @@
   <zug name="RE15 18015" von="Großenhain Cottb Bf" nach="Dresden Freiberger Str.">
     <via name="Dresden Mitte" />
   </zug>
-  <zug name="RE15 18280" von="Dresden-Neustadt" nach="Leuthen (Cottbus)" />
-  <zug name="RE15 18281" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RE15 18282" von="Dresden-Neustadt" nach="Sedlitz Ost" />
-  <zug name="RE15 18283" von="Leuthen (Cottbus)" nach="Dresden-Neustadt" />
-  <zug name="RE15 18285" von="Hoyerswerda" nach="Dresden-Neustadt" />
+  <zug name="RE15 18280" von="Dresden-Neustadt" nach="Leuthen (Cottbus)">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RE15 18281" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RE15 18282" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RE15 18283" von="Leuthen (Cottbus)" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RE15 18285" von="Hoyerswerda" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE15 18289" von="Niederau" nach="Dresden Freiberger Str.">
     <via name="Dresden Mitte" />
   </zug>
@@ -771,20 +931,36 @@
     <via name="Dresden-Pieschen" />
     <via name="Dresden-Trachau" />
   </zug>
-  <zug name="RE18 18401" von="Cottbus Hbf" nach="Dresden-Neustadt" />
-  <zug name="RE18 18403" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18401" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
+  <zug name="RE18 18403" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt" />
+  <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda">
     <via name="Dresden-Friedrichstadt" />
     <via name="Dresden-Cotta" />
     <via name="Dresden-Kemnitz" />
   </zug>
-  <zug name="RE18 18408" von="Dresden-Neustadt" nach="Sedlitz Ost" />
+  <zug name="RE18 18408" von="Dresden-Neustadt" nach="Sedlitz Ost">
+    <via name="Dresden-Friedrichstadt" />
+    <via name="Dresden-Cotta" />
+    <via name="Dresden-Kemnitz" />
+  </zug>
   <zug name="RE18 2446" von="Dresden Freiberger Str." nach="Glaubitz (Riesa)">
     <via name="Dresden Bischofsplatz" />
     <via name="Dresden-Pieschen" />

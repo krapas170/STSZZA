@@ -296,15 +296,31 @@
     <via name="Duisburg-Hochfeld Süd" />
     <via name="Rheinhausen Ost" />
   </zug>
-  <zug name="RE19 20000" von="Duisburg Hbf" nach="Arnhem Centraal" />
-  <zug name="RE19 20002" von="Duisburg Hbf" nach="Arnhem Centraal" />
-  <zug name="RE19 20004" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE19 20000" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE19 20002" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE19 20004" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
   <zug name="RE19 20005" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
     <via name="Düsseldorf Hbf" />
     <via name="Düsseldorf Flughafen" />
     <via name="Emmerich" />
   </zug>
-  <zug name="RE19 20006" von="Duisburg Hbf" nach="Düsseldorf Flughafen" />
+  <zug name="RE19 20006" von="Duisburg Hbf" nach="Düsseldorf Flughafen">
+    <via name="Oberhausen Hbf" />
+    <via name="Arnhem Centraal" />
+    <via name="Düsseldorf Hbf" />
+  </zug>
   <zug name="RE19 20007" von="Dortmund Hbf" nach="Oberhausen-Sterkrade">
     <via name="Düsseldorf Hbf" />
     <via name="Düsseldorf Flughafen" />
@@ -513,7 +529,11 @@
     <via name="Recklinghausen Hbf" />
     <via name="Essen Hbf" />
   </zug>
-  <zug name="RE3 89865" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89865" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
   <zug name="RE3 89867" von="Düsseldorf Hbf" nach="Arnhem Centraal">
     <via name="Oberhausen Hbf" />
     <via name="Oberhausen-Sterkrade" />
@@ -538,11 +558,31 @@
     <via name="Oberhausen Hbf" />
     <via name="Oberhausen-Sterkrade" />
   </zug>
-  <zug name="RE3 89903" von="Duisburg Hbf" nach="Arnhem Centraal" />
-  <zug name="RE3 89905" von="Duisburg Hbf" nach="Arnhem Centraal" />
-  <zug name="RE3 89907" von="Duisburg Hbf" nach="Arnhem Centraal" />
-  <zug name="RE3 89909" von="Duisburg Hbf" nach="Arnhem Centraal" />
-  <zug name="RE3 89911" von="Duisburg Hbf" nach="Arnhem Centraal" />
+  <zug name="RE3 89903" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89905" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89907" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89909" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
+  <zug name="RE3 89911" von="Duisburg Hbf" nach="Arnhem Centraal">
+    <via name="Oberhausen Hbf" />
+    <via name="Oberhausen-Sterkrade" />
+    <via name="Oberhausen-Holten" />
+  </zug>
   <zug name="RE42 10100" von="Münster-Albachten" nach="Düsseldorf Hbf">
     <via name="Düsseldorf Flughafen" />
   </zug>

@@ -135,16 +135,36 @@
     <via name="Bernburg-Roschwitz" />
     <via name="Baalberge" />
   </zug>
-  <zug name="RB47 75684" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RB47 75684" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
   <zug name="RB47 75685" von="Magdeburg Hasselbachplatz" nach="Leipzig Hbf (tief)">
     <via name="Halle (Saale) Hbf is" />
     <via name="Bernburg-Roschwitz" />
     <via name="Baalberge" />
   </zug>
-  <zug name="RB47 75686" von="Bernburg Hbf" nach="Hildesheim Hbf" />
-  <zug name="RB47 75688" von="Bernburg Hbf" nach="Hildesheim Hbf" />
-  <zug name="RB47 75690" von="Bernburg Hbf" nach="Hildesheim Hbf" />
-  <zug name="RB47 75692" von="Bernburg Hbf" nach="Vienenburg" />
+  <zug name="RB47 75686" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RB47 75688" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RB47 75690" von="Bernburg Hbf" nach="Hildesheim Hbf">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
+  <zug name="RB47 75692" von="Bernburg Hbf" nach="Vienenburg">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+  </zug>
   <zug name="RB47 75706" von="Leipzig/Halle Flughafen" nach="Stapelburg">
     <via name="Bernburg Hbf ia" />
     <via name="Wernigerode Hbf" />
@@ -510,17 +530,61 @@
     <via name="Bernburg-Roschwitz" />
     <via name="Baalberge" />
   </zug>
-  <zug name="RE30 16318" von="Bernburg Hbf" nach="Magdeburg Südost" />
-  <zug name="RE30 16320" von="Bernburg Hbf" nach="Magdeburg Südost" />
-  <zug name="RE30 16322" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16324" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16326" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16328" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16330" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16332" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16334" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16336" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
-  <zug name="RE30 16338" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz" />
+  <zug name="RE30 16318" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16320" von="Bernburg Hbf" nach="Magdeburg Südost">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16322" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16324" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16326" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16328" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16330" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16332" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16334" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16336" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
+  <zug name="RE30 16338" von="Bernburg Hbf" nach="Magdeburg Hasselbachplatz">
+    <via name="Gnadau" />
+    <via name="Schönebeck-Felgeleben" />
+    <via name="Schönebeck-Frohse" />
+  </zug>
   <zug name="RE4 75702" von="Leipzig/Halle Flughafen" nach="Stapelburg">
     <via name="Bernburg Hbf ia" />
     <via name="Wernigerode Hbf" />

@@ -115,7 +115,11 @@
     <via name="Elsterwerda-Biehla" />
     <via name="Plessa" />
   </zug>
-  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt">
     <via name="Cottbus Hbf" />
     <via name="Beilrode" />
@@ -131,8 +135,16 @@
     <via name="Elsterwerda-Biehla" />
     <via name="Plessa" />
   </zug>
-  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda" />
-  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RB49 37404" von="Leipzig Hbf" nach="Schwarzkollm">
     <via name="Bad Liebenwerda" />
     <via name="Elsterwerda-Biehla" />
@@ -370,13 +382,21 @@
     <via name="Torgau" />
     <via name="Mockrehna" />
   </zug>
-  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Beilrode" />
     <via name="Torgau" />
     <via name="Mockrehna" />
   </zug>
-  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
     <via name="Cottbus Hbf" />
     <via name="Beilrode" />
@@ -480,12 +500,36 @@
     <via name="Hoyerswerda" />
     <via name="Ruhland" />
   </zug>
-  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda" />
-  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda" />
-  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda" />
-  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda" />
-  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand" />
-  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE15 18181" von="Hoyerswerda" nach="Taucha (Leipzig)">
     <via name="Beilrode" />
     <via name="Torgau" />
@@ -526,6 +570,14 @@
     <via name="Torgau" />
     <via name="Mockrehna" />
   </zug>
-  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda" />
-  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
+  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
 </zza>

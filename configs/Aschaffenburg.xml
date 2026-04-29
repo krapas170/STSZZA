@@ -1,67 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Aschaffenburg">
-  <zug name="RB50 80670" von="Euerdorf" nach="Aschaffenburg Hbf" />
-  <zug name="RB50 80671" von="Aschaffenburg Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB50 80670" von="Euerdorf" nach="Aschaffenburg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Gemünden (Main)" />
+    <via name="Kleingemünden" />
+  </zug>
+  <zug name="RB50 80671" von="Aschaffenburg Hbf" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
   <zug name="RB50 80672" von="Euerdorf" nach="Untermaßfeld">
     <via name="Schweinfurt Hbf" />
     <via name="Schweinfurt Hbf ia" />
     <via name="Bamberg" />
   </zug>
-  <zug name="RB50 80673" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80673" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Gemünden (Main)" />
+    <via name="Kleingemünden" />
+  </zug>
   <zug name="RB50 80674" von="Euerdorf" nach="Untermaßfeld">
     <via name="Schweinfurt Hbf" />
     <via name="Schweinfurt Hbf ia" />
     <via name="Bamberg" />
   </zug>
-  <zug name="RB50 80675" von="Aschaffenburg Hbf" nach="Nürnberg Hbf" />
-  <zug name="RB50 80676" von="Euerdorf" nach="Aschaffenburg Hbf" />
-  <zug name="RB50 80677" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80675" von="Aschaffenburg Hbf" nach="Nürnberg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
+  <zug name="RB50 80676" von="Euerdorf" nach="Aschaffenburg Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Gemünden (Main)" />
+    <via name="Kleingemünden" />
+  </zug>
+  <zug name="RB50 80677" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Gemünden (Main)" />
+    <via name="Kleingemünden" />
+  </zug>
   <zug name="RB50 80678" von="Euerdorf" nach="Rottendorf">
     <via name="Schweinfurt Hbf" />
     <via name="Schweinfurt Hbf ia" />
     <via name="Nürnberg Hbf" />
   </zug>
-  <zug name="RB50 80679" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80679" von="Aschaffenburg Hbf" nach="Bamberg">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
   <zug name="RB50 80680" von="Euerdorf" nach="Rottendorf">
     <via name="Schweinfurt Hbf" />
     <via name="Nürnberg Hbf" />
     <via name="Bamberg" />
   </zug>
-  <zug name="RB50 80681" von="Aschaffenburg Hbf" nach="Oberhaid" />
+  <zug name="RB50 80681" von="Aschaffenburg Hbf" nach="Oberhaid">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
   <zug name="RB50 80682" von="Euerdorf" nach="Ritschenhausen">
     <via name="Schweinfurt Hbf" />
     <via name="Bamberg" />
     <via name="Schweinfurt Mitte" />
   </zug>
-  <zug name="RB50 80683" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80683" von="Aschaffenburg Hbf" nach="Bamberg">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
   <zug name="RB50 80684" von="Euerdorf" nach="Ritschenhausen">
     <via name="Schweinfurt Hbf" />
     <via name="Bamberg" />
     <via name="Schweinfurt Mitte" />
   </zug>
-  <zug name="RB50 80685" von="Aschaffenburg Hbf" nach="Bamberg" />
+  <zug name="RB50 80685" von="Aschaffenburg Hbf" nach="Bamberg">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
   <zug name="RB50 80686" von="Euerdorf" nach="Ritschenhausen">
     <via name="Schweinfurt Mitte" />
     <via name="Ebenhausen (Unterfr)" />
     <via name="Rottershausen" />
   </zug>
-  <zug name="RB50 80687" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80687" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Gemünden (Main)" />
+    <via name="Kleingemünden" />
+  </zug>
   <zug name="RB50 80688" von="Euerdorf" nach="Ritschenhausen">
     <via name="Schweinfurt Mitte" />
     <via name="Ebenhausen (Unterfr)" />
     <via name="Rottershausen" />
   </zug>
-  <zug name="RB50 80689" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf" />
+  <zug name="RB50 80689" von="Aschaffenburg Hbf" nach="Schweinfurt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Gemünden (Main)" />
+    <via name="Kleingemünden" />
+  </zug>
   <zug name="RB50 80690" von="Euerdorf" nach="Ritschenhausen">
     <via name="Schweinfurt Mitte" />
     <via name="Ebenhausen (Unterfr)" />
     <via name="Rottershausen" />
   </zug>
-  <zug name="RB50 80691" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
-  <zug name="RB50 80693" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
-  <zug name="RB50 80695" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
-  <zug name="RB50 80697" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
-  <zug name="RB50 80699" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia" />
+  <zug name="RB50 80691" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
+  <zug name="RB50 80693" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
+  <zug name="RB50 80695" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
+  <zug name="RB50 80697" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
+  <zug name="RB50 80699" von="Aschaffenburg Hbf" nach="Schweinfurt Stadt ia">
+    <via name="Würzburg Hbf" />
+    <via name="Schweinfurt Hbf" />
+    <via name="Gemünden (Main)" />
+  </zug>
   <zug name="RB53 58001" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
     <via name="Würzburg Hbf" />
     <via name="Hösbach" />
@@ -307,22 +375,86 @@
   <zug name="RB58 28677" von="Rüsselsheim Opelwerk" nach="Laufach">
     <via name="Hösbach" />
   </zug>
-  <zug name="RB75 28722" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28724" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28726" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28728" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28772" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28774" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28776" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28778" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63668" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63670" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63672" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63674" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63686" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63688" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63690" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63692" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
+  <zug name="RB75 28722" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28724" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28726" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28728" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28772" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28774" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28776" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28778" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63668" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63670" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63672" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63674" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63686" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63688" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63690" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63692" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia">
+    <via name="Babenhausen (Hess)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
   <zug name="RB79 58003" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
     <via name="Würzburg Hbf" />
     <via name="Hösbach" />
@@ -339,22 +471,54 @@
     <via name="Laufach" />
   </zug>
   <zug name="RB88 23300" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23301" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23301" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23302" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23303" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23303" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23304" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23305" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23305" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23306" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23307" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23307" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23308" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23309" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23309" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23310" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23311" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23311" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23312" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
   <zug name="RB88 23314" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23337" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23337" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23338" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RB88 23339" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RB88 23339" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RB88 23380" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
   <zug name="RE10 58007" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
     <via name="Würzburg Hbf" />
@@ -521,15 +685,27 @@
     <via name="Kleinostheim" />
     <via name="Rückersbacher Schlucht" />
   </zug>
-  <zug name="RE87 23381" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 23381" von="Aschaffenburg Hochschule" nach="Satteldorf">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RE87 23382" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
-  <zug name="RE87 23383" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RE87 23383" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RE87 23384" von="Wertheim-Bestenheid" nach="c Schrozberg">
     <via name="Aschaffenburg Hochschule" />
     <via name="Satteldorf" />
     <via name="Wallhausen (Württ)" />
   </zug>
-  <zug name="RE87 23385" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid" />
+  <zug name="RE87 23385" von="Aschaffenburg Hochschule" nach="Wertheim-Bestenheid">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RE87 23386" von="Wertheim-Bestenheid" nach="Aschaffenburg Hochschule" />
   <zug name="RE87 23396" von="Wertheim-Bestenheid" nach="c Schrozberg">
     <via name="Aschaffenburg Hochschule" />
@@ -541,13 +717,29 @@
     <via name="Satteldorf" />
     <via name="Wallhausen (Württ)" />
   </zug>
-  <zug name="RE87 4381" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 4381" von="Aschaffenburg Hochschule" nach="Satteldorf">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
   <zug name="RE87 4382" von="Wertheim-Bestenheid" nach="c Schrozberg">
     <via name="Aschaffenburg Hochschule" />
     <via name="Satteldorf" />
     <via name="Wallhausen (Württ)" />
   </zug>
-  <zug name="RE87 4383" von="Aschaffenburg Hochschule" nach="Satteldorf" />
-  <zug name="RE87 4385" von="Aschaffenburg Hochschule" nach="Satteldorf" />
-  <zug name="RE87 4387" von="Aschaffenburg Hochschule" nach="Satteldorf" />
+  <zug name="RE87 4383" von="Aschaffenburg Hochschule" nach="Satteldorf">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
+  <zug name="RE87 4385" von="Aschaffenburg Hochschule" nach="Satteldorf">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
+  <zug name="RE87 4387" von="Aschaffenburg Hochschule" nach="Satteldorf">
+    <via name="Aschaffenburg Süd" />
+    <via name="Obernau" />
+    <via name="Sulzbach (Main)" />
+  </zug>
 </zza>

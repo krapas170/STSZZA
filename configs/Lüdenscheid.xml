@@ -1,34 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Lüdenscheid">
-  <zug name="RB52 14650" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14650" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14651" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14652" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14652" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14653" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14654" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14654" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14655" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14656" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14656" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14657" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14658" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14658" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14659" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14660" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14660" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14661" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14662" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14662" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14663" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14664" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14664" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14665" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14666" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14666" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14667" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14668" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14668" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14669" von="Dortmund Hbf" nach="Lüdenscheid" />
   <zug name="RB52 14671" von="Dortmund Hbf" nach="Lüdenscheid" />
   <zug name="RB52 14673" von="Dortmund Hbf" nach="Lüdenscheid" />
   <zug name="RB52 14675" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14690" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14690" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 14691" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 14692" von="Lüdenscheid" nach="Dortmund Hbf" />
-  <zug name="RB52 52088" von="Lüdenscheid" nach="Dortmund Hbf" />
-  <zug name="RB52 52090" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 14692" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
+  <zug name="RB52 52088" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
+  <zug name="RB52 52090" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 5239" von="Dortmund Hbf" nach="Lüdenscheid" />
-  <zug name="RB52 5240" von="Lüdenscheid" nach="Dortmund Hbf" />
+  <zug name="RB52 5240" von="Lüdenscheid" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Lüdenscheid-Brügge" />
+    <via name="Schalksmühle" />
+  </zug>
   <zug name="RB52 5241" von="Dortmund Hbf" nach="Lüdenscheid" />
 </zza>

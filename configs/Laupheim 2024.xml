@@ -178,7 +178,11 @@
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
   </zug>
-  <zug name="RB91 17703" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB91 17703" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB91 17708" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -230,12 +234,20 @@
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RB91 32681" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB91 32681" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB91 32682" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
   </zug>
-  <zug name="RB91 32695" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB91 32695" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB91 4205" von="Ulm-Donautal" nach="Lindau-Aeschach">
     <via name="Laupheim Stadt" />
     <via name="Schemmerberg" />
@@ -262,7 +274,11 @@
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RB91 87551" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB91 87551" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB91 87552" von="Kressbronn" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -289,7 +305,11 @@
     <via name="Laupheim Stadt" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RB93 17701" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB93 17701" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB93 17704" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -321,7 +341,11 @@
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RB93 32655" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB93 32655" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB93 32658" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -334,7 +358,11 @@
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
   </zug>
-  <zug name="RB93 32683" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB93 32683" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB93 32692" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -371,7 +399,11 @@
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RB93 87555" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RB93 87555" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RB93 87563" von="Ulm-Donautal" nach="Lindau-Aeschach">
     <via name="Laupheim Stadt" />
     <via name="Schemmerberg" />
@@ -386,7 +418,11 @@
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RE3 32601" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RE3 32601" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RE3 32612" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -395,8 +431,16 @@
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
   </zug>
-  <zug name="RE3 32681" von="Laupheim West" nach="Lindau-Aeschach" />
-  <zug name="RE3 32695" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RE3 32681" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
+  <zug name="RE3 32695" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RE3 32698" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -406,7 +450,11 @@
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RE3 87553" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RE3 87553" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RE3 87556" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
@@ -461,13 +509,21 @@
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />
   </zug>
-  <zug name="RE5 32657" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RE5 32657" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RE5 32665" von="Ulm-Donautal" nach="Aulendorf">
     <via name="Laupheim Stadt" />
     <via name="Schemmerberg" />
     <via name="Biberach (Riß)" />
   </zug>
-  <zug name="RE5 32697" von="Laupheim West" nach="Lindau-Aeschach" />
+  <zug name="RE5 32697" von="Laupheim West" nach="Lindau-Aeschach">
+    <via name="Laupheim Stadt" />
+    <via name="Biberach (Riß)" />
+    <via name="Biberach (Riß) Süd" />
+  </zug>
   <zug name="RE5 4240" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Laupheim West" />
     <via name="Erbach (Württ)" />

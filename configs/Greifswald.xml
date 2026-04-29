@@ -1,53 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Greifswald">
-  <zug name="RB12 13223" von="Bentwisch" nach="Greifswald" />
-  <zug name="RB12 13225" von="Bentwisch" nach="Greifswald" />
-  <zug name="RB12 13227" von="Bentwisch" nach="Greifswald" />
-  <zug name="RB12 13229" von="Bentwisch" nach="Greifswald" />
-  <zug name="RB12 63911" von="Bentwisch" nach="Greifswald" />
-  <zug name="RB23 18749" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18800" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18801" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18802" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18803" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18804" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18805" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18806" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18807" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18808" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18809" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18810" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18811" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18812" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18813" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18814" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18815" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18816" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18817" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18819" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18842" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18844" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18847" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18849" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18850" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18851" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18852" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18853" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18854" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18855" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18856" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 18857" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 18859" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 87800" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 87801" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 87802" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 87803" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 87804" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 87805" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 87807" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 87808" von="Swinoujscie Centrum" nach="Greifswald" />
-  <zug name="RB23 87809" von="Greifswald" nach="Swinoujscie Centrum" />
-  <zug name="RB23 87814" von="Swinoujscie Centrum" nach="Greifswald" />
+  <zug name="RB12 13223" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RB12 13225" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RB12 13227" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RB12 13229" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RB12 63911" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RB23 18749" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18800" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18801" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18802" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18803" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18804" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18805" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18806" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18807" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18808" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18809" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18810" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18811" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18812" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18813" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18814" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18815" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18816" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18817" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18819" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18842" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18844" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18847" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18849" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18850" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18851" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18852" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18853" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18854" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18855" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18856" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18857" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 18859" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87800" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87801" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87802" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87803" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87804" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87805" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87807" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87808" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87809" von="Greifswald" nach="Swinoujscie Centrum">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
+  <zug name="RB23 87814" von="Swinoujscie Centrum" nach="Greifswald">
+    <via name="Züssow" />
+    <via name="Karlsburg" />
+    <via name="Buddenhagen" />
+  </zug>
   <zug name="RB60 61346" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
     <via name="Eberswalde Hbf" />
     <via name="Berlin Hbf" />
@@ -153,7 +345,11 @@
     <via name="Groß Kiesow" />
     <via name="Züssow" />
   </zug>
-  <zug name="RE10 63985" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE10 63985" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
   <zug name="RE10 63999" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
     <via name="Eberswalde Hbf" />
     <via name="Greifswald Süd" />
@@ -264,16 +460,64 @@
     <via name="Jeeser" />
     <via name="Miltzow" />
   </zug>
-  <zug name="RE9 1073" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63901" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63903" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63905" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63907" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63911" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63941" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63943" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63945" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63947" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 63975" von="Bentwisch" nach="Greifswald" />
-  <zug name="RE9 733" von="Bentwisch" nach="Greifswald" />
+  <zug name="RE9 1073" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63901" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63903" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63905" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63907" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63911" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63941" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63943" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63945" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63947" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 63975" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
+  <zug name="RE9 733" von="Bentwisch" nach="Greifswald">
+    <via name="Sassnitz" />
+    <via name="Lancken" />
+    <via name="Sagard" />
+  </zug>
 </zza>

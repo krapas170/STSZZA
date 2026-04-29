@@ -92,7 +92,10 @@
     <via name="Löwental" />
     <via name="Friedrichshafen Flughafen" />
   </zug>
-  <zug name="IRE3 4822" von="Kressbronn" nach="Friedrichshafen Stadt" />
+  <zug name="IRE3 4822" von="Kressbronn" nach="Friedrichshafen Stadt">
+    <via name="Friedrichshafen Ost" />
+    <via name="Eriskirch" />
+  </zug>
   <zug name="IRE3 4829" von="Biberach (Riß) Süd" nach="Friedrichshafen Hafen" />
   <zug name="IRE3 87558" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Friedrichshafen Hafen" />
@@ -319,31 +322,111 @@
     <via name="Hettenhausen" />
     <via name="Altenfeld (Rhön)" />
   </zug>
-  <zug name="RB53 17844" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt" />
-  <zug name="RB53 17852" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt" />
-  <zug name="RB53 78915" von="München Hbf qs" nach="Friedrichshafen Stadt" />
-  <zug name="RB53 78919" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB53 78975" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB68 25804" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RB68 5558" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RB68 58116" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB74 25802" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RB74 25807" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB74 3879" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RB74 57218" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB74 57524" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB53 17844" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt">
+    <via name="München Hbf" />
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RB53 17852" von="Wangen (Allgäu)" nach="Friedrichshafen Stadt">
+    <via name="München Hbf qs" />
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RB53 78915" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB53 78919" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB53 78975" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB68 25804" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RB68 5558" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RB68 58116" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB74 25802" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RB74 25807" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB74 3879" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RB74 57218" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB74 57524" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RB74 58110" von="München Hbf qs" nach="Sonthofen">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
   </zug>
-  <zug name="RB74 58123" von="Friedrichshafen Stadt" nach="München Hbf" />
-  <zug name="RB74 58131" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RB74 58133" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RB74 78905" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB74 78913" von="München Hbf qs" nach="Friedrichshafen Stadt" />
-  <zug name="RB74 78914" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RB89 5563" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB74 58123" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RB74 58131" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RB74 58133" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RB74 78905" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB74 78913" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB74 78914" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RB89 5563" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RB91 17700" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Friedrichshafen Hafen" />
     <via name="Löwental" />
@@ -475,20 +558,56 @@
     <via name="Löwental" />
     <via name="Friedrichshafen Flughafen" />
   </zug>
-  <zug name="RB92 17871" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB92 5551" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB92 5561" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB92 57507" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RB92 57509" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RB92 57644" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB92 58108" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RB92 78901" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RB92 17871" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB92 5551" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB92 5561" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB92 57507" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RB92 57509" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RB92 57644" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB92 58108" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RB92 78901" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RB92 78908" von="Sigmaringendorf" nach="München Hbf ia">
     <via name="Lindau-Reutin" />
     <via name="Lindau-Insel" />
     <via name="Bregenz" />
   </zug>
-  <zug name="RB92 78970" von="Friedrichshafen Stadt" nach="München Hbf ia" />
+  <zug name="RB92 78970" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
   <zug name="RB93 17701" von="Laupheim West" nach="Lindau-Aeschach">
     <via name="Friedrichshafen Hafen" />
     <via name="Friedrichshafen Ost" />
@@ -504,7 +623,10 @@
     <via name="Friedrichshafen Ost" />
     <via name="Eriskirch" />
   </zug>
-  <zug name="RB93 17738" von="Kressbronn" nach="Friedrichshafen Stadt" />
+  <zug name="RB93 17738" von="Kressbronn" nach="Friedrichshafen Stadt">
+    <via name="Friedrichshafen Ost" />
+    <via name="Eriskirch" />
+  </zug>
   <zug name="RB93 17740" von="Lindau-Aeschach" nach="Ulm-Donautal">
     <via name="Friedrichshafen Hafen" />
     <via name="Löwental" />
@@ -706,7 +828,10 @@
     <via name="Löwental" />
     <via name="Friedrichshafen Flughafen" />
   </zug>
-  <zug name="RE5 4828" von="Kressbronn" nach="Friedrichshafen Stadt" />
+  <zug name="RE5 4828" von="Kressbronn" nach="Friedrichshafen Stadt">
+    <via name="Friedrichshafen Ost" />
+    <via name="Eriskirch" />
+  </zug>
   <zug name="RE5 79489" von="Ulm-Donautal" nach="Lindau-Aeschach">
     <via name="Friedrichshafen Hafen" />
     <via name="Friedrichshafen Ost" />
@@ -727,65 +852,201 @@
     <via name="Löwental" />
     <via name="Friedrichshafen Flughafen" />
   </zug>
-  <zug name="RE7 17854" von="München Hbf qs" nach="Friedrichshafen Stadt" />
-  <zug name="RE7 3289" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RE7 5550" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RE7 5566" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RE7 58112" von="München Hbf qs" nach="Friedrichshafen Stadt" />
-  <zug name="RE7 62700" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE70 25803" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE7 17854" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE7 3289" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RE7 5550" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE7 5566" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RE7 58112" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE7 62700" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE70 25803" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RE70 3872" von="München Hbf qs" nach="Sonthofen">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
   </zug>
-  <zug name="RE70 3875" von="Friedrichshafen Stadt" nach="München Hbf" />
-  <zug name="RE70 57505" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RE70 7879" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RE70 78917" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE70 7897" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RE71 3874" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE71 5564" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
+  <zug name="RE70 3875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE70 57505" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE70 7879" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RE70 78917" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE70 7897" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE71 3874" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE71 5564" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
   <zug name="RE71 57500" von="München Hbf" nach="Sonthofen">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE71 57502" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE71 7875" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RE71 7877" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RE72 25805" von="München Hbf qs" nach="Friedrichshafen Stadt" />
-  <zug name="RE72 5565" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE72 78903" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE71 57502" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="München Hbf qs" />
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+  </zug>
+  <zug name="RE71 7875" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE71 7877" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE72 25805" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE72 5565" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE72 78903" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RE72 78910" von="Sigmaringendorf" nach="München Hbf ia">
     <via name="Lindau-Reutin" />
     <via name="Lindau-Insel" />
     <via name="Bregenz" />
   </zug>
-  <zug name="RE72 78911" von="München Hbf qs" nach="Friedrichshafen Stadt" />
+  <zug name="RE72 78911" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RE72 78912" von="Sontheim (Schwab)" nach="Augsburg Hbf">
     <via name="München Hbf ia" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Lindau-Reutin qg" />
   </zug>
-  <zug name="RE72 78918" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RE72 78981" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE76 25810" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf" />
-  <zug name="RE76 58121" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RE76 58129" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
+  <zug name="RE72 78918" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RE72 78981" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE76 25810" von="Friedrichshafen Stadt qg" nach="Türkheim (Bay) Bf">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz eg" />
+  </zug>
+  <zug name="RE76 58121" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE76 58129" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
   <zug name="RE76 7872" von="München Hbf qs" nach="Sonthofen">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
   </zug>
-  <zug name="RE76 7875" von="Friedrichshafen Stadt" nach="München Hbf" />
-  <zug name="RE76 78982" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RE96 3285" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RE96 3875" von="Friedrichshafen Stadt" nach="München Hbf ia" />
-  <zug name="RE96 5552" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
-  <zug name="RE96 5553" von="München Hbf" nach="Friedrichshafen Stadt" />
-  <zug name="RE96 5559" von="München Hbf qs" nach="Friedrichshafen Stadt" />
-  <zug name="RE96 58114" von="München Hbf" nach="Friedrichshafen Stadt" />
+  <zug name="RE76 7875" von="Friedrichshafen Stadt" nach="München Hbf">
+    <via name="München Hbf ia" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="Augsburg Hbf" />
+  </zug>
+  <zug name="RE76 78982" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE96 3285" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE96 3875" von="Friedrichshafen Stadt" nach="München Hbf ia">
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE96 5552" von="Friedrichshafen Stadt qg" nach="München Hbf ia">
+    <via name="Lindau-Reutin qg" />
+    <via name="Lindau-Insel" />
+    <via name="Bregenz" />
+  </zug>
+  <zug name="RE96 5553" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE96 5559" von="München Hbf qs" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
+  <zug name="RE96 58114" von="München Hbf" nach="Friedrichshafen Stadt">
+    <via name="Bregenz" />
+    <via name="Lindau-Reutin" />
+    <via name="Lindau-Reutin is" />
+  </zug>
   <zug name="RE96 78920" von="Sigmaringendorf" nach="Türkheim (Bay) Bf">
     <via name="Lindau-Reutin qg" />
     <via name="Lindau-Insel" />

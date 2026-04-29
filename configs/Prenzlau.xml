@@ -145,7 +145,11 @@
     <via name="Pasewalk" />
     <via name="Jatznick" />
   </zug>
-  <zug name="RE10 63997" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE10 63997" von="Prenzlau" nach="Berlin Gesundbrunnen">
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+    <via name="Wilmersdorf (Angerm)" />
+  </zug>
   <zug name="RE10 63999" von="Wüstenfelde" nach="Berlin Gesundbrunnen">
     <via name="Eberswalde Hbf" />
     <via name="Seehausen (Uckermark)" />
@@ -186,8 +190,16 @@
     <via name="Seehausen (Uckermark)" />
     <via name="Warnitz (Uckermark)" />
   </zug>
-  <zug name="RE3 3321" von="Prenzlau" nach="Schönefeld (bei Berlin)" />
-  <zug name="RE3 3323" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE3 3321" von="Prenzlau" nach="Schönefeld (bei Berlin)">
+    <via name="Berlin Hbf" />
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+  </zug>
+  <zug name="RE3 3323" von="Prenzlau" nach="Berlin Gesundbrunnen">
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+    <via name="Wilmersdorf (Angerm)" />
+  </zug>
   <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
     <via name="Eberswalde Hbf" />
     <via name="Seehausen (Uckermark)" />
@@ -218,7 +230,11 @@
     <via name="Schwedt (Oder) Mitte" />
     <via name="Pinnow (Uckermark)" />
   </zug>
-  <zug name="RE3 3361" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE3 3361" von="Prenzlau" nach="Berlin Gesundbrunnen">
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+    <via name="Wilmersdorf (Angerm)" />
+  </zug>
   <zug name="RE3 3364" von="Berlin Gesundbrunnen" nach="Melchow">
     <via name="Berlin Hbf" />
     <via name="Nechlin" />
@@ -269,7 +285,11 @@
     <via name="Pasewalk" />
     <via name="Jatznick" />
   </zug>
-  <zug name="RE7 13039" von="Prenzlau" nach="Berlin Gesundbrunnen" />
+  <zug name="RE7 13039" von="Prenzlau" nach="Berlin Gesundbrunnen">
+    <via name="Seehausen (Uckermark)" />
+    <via name="Warnitz (Uckermark)" />
+    <via name="Wilmersdorf (Angerm)" />
+  </zug>
   <zug name="RE7 3530" von="Berlin Gesundbrunnen" nach="Züssow">
     <via name="Nechlin" />
     <via name="Pasewalk" />

@@ -150,9 +150,15 @@
     <via name="Wiesenfeld (b Coburg)" />
     <via name="Meeder" />
   </zug>
-  <zug name="RB18 84476" von="Nürnberg Hbf" nach="Coburg" />
-  <zug name="RB18 84478" von="Nürnberg Hbf" nach="Coburg" />
-  <zug name="RB18 84480" von="Nürnberg Hbf" nach="Coburg" />
+  <zug name="RB18 84476" von="Nürnberg Hbf" nach="Coburg">
+    <via name="Bamberg" />
+  </zug>
+  <zug name="RB18 84478" von="Nürnberg Hbf" nach="Coburg">
+    <via name="Bamberg" />
+  </zug>
+  <zug name="RB18 84480" von="Nürnberg Hbf" nach="Coburg">
+    <via name="Bamberg" />
+  </zug>
   <zug name="RB18 84481" von="Bad Rodach" nach="Nürnberg Hbf">
     <via name="Coburg-Beiersdorf" />
     <via name="Coburg-Neuses" />
@@ -163,7 +169,11 @@
     <via name="Wiesenfeld (b Coburg)" />
     <via name="Meeder" />
   </zug>
-  <zug name="RB22 4961" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RB22 4961" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RB22 501" von="Erfurt Hbf" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Mönchröden" />
@@ -219,7 +229,11 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RB25 4943" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RB25 4943" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RB25 4983" von="Erfurt Hbf" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Mönchröden" />
@@ -245,7 +259,11 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RB26 79879" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RB26 79879" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RB26 84364" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -373,7 +391,11 @@
   <zug name="RB41 81141" von="Neuhaus am Rennweg" nach="Untermaßfeld">
     <via name="Nürnberg Hbf" />
   </zug>
-  <zug name="RE14 1507" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE14 1507" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE14 1604" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -394,7 +416,11 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RE14 4901" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE14 4901" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE14 4942" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -455,8 +481,16 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RE19 4608" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
-  <zug name="RE19 4941" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE19 4608" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
+  <zug name="RE19 4941" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE19 4964" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -512,19 +546,31 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RE28 297" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE28 297" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE28 3478" von="Erfurt Hbf" nach="Nürnberg Hbf">
     <via name="Fürth (Bay) Hbf" />
     <via name="Mönchröden" />
     <via name="Rödental Mitte" />
   </zug>
-  <zug name="RE28 3566" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE28 3566" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE28 4900" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RE28 4963" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE28 4963" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE28 4982" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -560,7 +606,11 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RE28 84363" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE28 84363" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE28 84604" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -636,7 +686,11 @@
     <via name="Mönchröden" />
     <via name="Rödental Mitte" />
   </zug>
-  <zug name="RE35 59361" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE35 59361" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE38 3486" von="Würzburg Hbf" nach="Nürnberg Ost">
     <via name="Erfurt Hbf" />
     <via name="Bayreuth Hbf" />
@@ -647,7 +701,11 @@
     <via name="Creidlitz" />
     <via name="Coburg" />
   </zug>
-  <zug name="RE38 59331" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE38 59331" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE38 59366" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />
@@ -658,7 +716,11 @@
     <via name="Mönchröden" />
     <via name="Rödental Mitte" />
   </zug>
-  <zug name="RE54 1501" von="Neustadt (b Coburg)" nach="Nürnberg Hbf" />
+  <zug name="RE54 1501" von="Neustadt (b Coburg)" nach="Nürnberg Hbf">
+    <via name="Fürth (Bay) Hbf" />
+    <via name="Mönchröden" />
+    <via name="Rödental Mitte" />
+  </zug>
   <zug name="RE54 4641" von="Nürnberg Hbf" nach="Erfurt Hbf">
     <via name="Grub am Forst" />
     <via name="Creidlitz" />

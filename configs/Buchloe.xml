@@ -75,7 +75,11 @@
     <via name="Augsburg Hbf" />
     <via name="Schwabmünchen" />
   </zug>
-  <zug name="RB68 62704" von="Buchloe" nach="Lindau-Insel" />
+  <zug name="RB68 62704" von="Buchloe" nach="Lindau-Insel">
+    <via name="Kaufbeuren" />
+    <via name="Kaufering" />
+    <via name="Türkheim (Bay) Bf" />
+  </zug>
   <zug name="RB68 62706" von="Buchloe" nach="Kaufbeuren" />
   <zug name="RB68 62713" von="Lindau-Insel" nach="Kaufbeuren">
     <via name="München Hbf ia" />
@@ -688,7 +692,11 @@
     <via name="Kaufbeuren" />
     <via name="Biessenhofen" />
   </zug>
-  <zug name="RE17 57667" von="Buchloe" nach="München Hbf" />
+  <zug name="RE17 57667" von="Buchloe" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
   <zug name="RE7 17854" von="München Hbf qs" nach="Friedrichshafen Stadt">
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
@@ -754,7 +762,11 @@
     <via name="Rammingen (Bay)" />
     <via name="Mindelheim" />
   </zug>
-  <zug name="RE7 57649" von="Buchloe" nach="München Hbf" />
+  <zug name="RE7 57649" von="Buchloe" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
   <zug name="RE7 58112" von="München Hbf qs" nach="Friedrichshafen Stadt">
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
@@ -808,7 +820,11 @@
     <via name="Schwabmünchen" />
     <via name="Kaufering" />
   </zug>
-  <zug name="RE70 3897" von="Buchloe" nach="München Hbf" />
+  <zug name="RE70 3897" von="Buchloe" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
   <zug name="RE70 5567" von="München Hbf" nach="Lindau-Insel">
     <via name="Türkheim (Bay) Bf" />
     <via name="Rammingen (Bay)" />
@@ -1293,7 +1309,11 @@
     <via name="Kaufbeuren" />
     <via name="Biessenhofen" />
   </zug>
-  <zug name="RE76 57665" von="Buchloe" nach="München Hbf" />
+  <zug name="RE76 57665" von="Buchloe" nach="München Hbf">
+    <via name="Augsburg Hbf" />
+    <via name="Schwabmünchen" />
+    <via name="Kaufering" />
+  </zug>
   <zug name="RE76 58121" von="Friedrichshafen Stadt" nach="München Hbf ia">
     <via name="Kaufering" />
     <via name="Landsberg (Lech)" />

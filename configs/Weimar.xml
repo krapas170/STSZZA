@@ -283,74 +283,138 @@
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80927" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80927" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80928" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80929" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80929" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80930" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80931" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80931" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80932" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80933" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80933" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80934" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80935" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80935" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80936" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80937" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80937" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80938" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80939" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80939" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80940" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80941" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80941" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80942" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80943" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80943" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80944" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80945" von="Weimar" nach="Kranichfeld" />
-  <zug name="RB26 80959" von="Weimar" nach="Kranichfeld" />
-  <zug name="RB26 80961" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80945" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
+  <zug name="RB26 80959" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
+  <zug name="RB26 80961" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80962" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80963" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80963" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80964" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80965" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80965" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80966" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80967" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80967" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80968" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />
   </zug>
-  <zug name="RB26 80969" von="Weimar" nach="Kranichfeld" />
+  <zug name="RB26 80969" von="Weimar" nach="Kranichfeld">
+    <via name="Weimar West" />
+    <via name="Weimar Berkaer Bf" />
+    <via name="Nohra (Weimar)" />
+  </zug>
   <zug name="RB26 80970" von="Kranichfeld" nach="Weimar West">
     <via name="Nohra (Weimar)" />
     <via name="Weimar Berkaer Bf" />

@@ -160,55 +160,135 @@
     <via name="Hennen" />
     <via name="Kalthof (Kr Iserlohn)" />
   </zug>
-  <zug name="RB97 23206" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
-  <zug name="RB97 23208" von="Schwerte (Ruhr)" nach="Willingen" />
+  <zug name="RB97 23206" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RB97 23208" von="Schwerte (Ruhr)" nach="Willingen">
+    <via name="Fröndenberg" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
   <zug name="RB97 23211" von="Warburg (Westf)" nach="Usseln">
     <via name="Hagen Hbf" />
     <via name="Willingen" />
   </zug>
-  <zug name="RB97 23212" von="Schwerte (Ruhr)" nach="Willingen" />
-  <zug name="RB97 23242" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
-  <zug name="RB97 23244" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
-  <zug name="RE17 10700" von="Warburg (Westf)" nach="Schwerte (Ruhr)" />
-  <zug name="RE17 10701" von="Schwerte (Ruhr)" nach="Usseln" />
-  <zug name="RE17 10702" von="Warburg (Westf)" nach="Schwerte (Ruhr)" />
-  <zug name="RE17 10703" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RB97 23212" von="Schwerte (Ruhr)" nach="Willingen">
+    <via name="Fröndenberg" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RB97 23242" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RB97 23244" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RE17 10700" von="Warburg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Fröndenberg" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE17 10701" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RE17 10702" von="Warburg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Fröndenberg" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE17 10703" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE17 10704" von="Warburg (Westf)" nach="Hagen Hbf">
     <via name="Dortmund Hbf" />
     <via name="Usseln" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10705" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10705" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE17 10706" von="Warburg (Westf)" nach="Hagen Hbf">
     <via name="Dortmund Hbf" />
     <via name="Usseln" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10707" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10707" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE17 10708" von="Warburg (Westf)" nach="Hagen Hbf">
     <via name="Dortmund Hbf" />
     <via name="Usseln" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10709" von="Schwerte (Ruhr)" nach="Usseln" />
+  <zug name="RE17 10709" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE17 10710" von="Warburg (Westf)" nach="Hagen Hbf">
     <via name="Dortmund Hbf" />
     <via name="Usseln" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE17 10711" von="Schwerte (Ruhr)" nach="Usseln" />
-  <zug name="RE17 10713" von="Schwerte (Ruhr)" nach="Usseln" />
-  <zug name="RE17 10715" von="Schwerte (Ruhr)" nach="Usseln" />
-  <zug name="RE17 10717" von="Schwerte (Ruhr)" nach="Usseln" />
-  <zug name="RE17 10719" von="Schwerte (Ruhr)" nach="Usseln" />
-  <zug name="RE17 10721" von="Schwerte (Ruhr)" nach="Marsberg" />
-  <zug name="RE57 10750" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE17 10711" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Fröndenberg" />
+  </zug>
+  <zug name="RE17 10713" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Fröndenberg" />
+  </zug>
+  <zug name="RE17 10715" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Fröndenberg" />
+  </zug>
+  <zug name="RE17 10717" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Fröndenberg" />
+  </zug>
+  <zug name="RE17 10719" von="Schwerte (Ruhr)" nach="Usseln">
+    <via name="Hagen Hbf" />
+    <via name="Dortmund Hbf" />
+    <via name="Fröndenberg" />
+  </zug>
+  <zug name="RE17 10721" von="Schwerte (Ruhr)" nach="Marsberg">
+    <via name="Fröndenberg" />
+    <via name="Wickede (Ruhr)" />
+    <via name="Neheim-Hüsten" />
+  </zug>
+  <zug name="RE57 10750" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE57 10751" von="Dortmund Hbf" nach="Scherfede">
     <via name="Brilon Wald" />
     <via name="Brilon Stadt" />
     <via name="Hoppecke" />
   </zug>
-  <zug name="RE57 10752" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
+  <zug name="RE57 10752" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE57 10753" von="Dortmund Hbf" nach="Usseln">
     <via name="Hagen Hbf" />
     <via name="Brilon Wald" />
@@ -234,14 +314,30 @@
     <via name="Brilon Wald" />
     <via name="Brilon Stadt" />
   </zug>
-  <zug name="RE57 10776" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
-  <zug name="RE57 10778" von="Winterberg (Westf)" nach="Schwerte (Ruhr)" />
-  <zug name="RE57 10779" von="Schwerte (Ruhr)" nach="Hagen Hbf" />
+  <zug name="RE57 10776" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RE57 10778" von="Winterberg (Westf)" nach="Schwerte (Ruhr)">
+    <via name="Dortmund Hbf" />
+    <via name="Olsberg" />
+    <via name="Brilon Wald" />
+  </zug>
+  <zug name="RE57 10779" von="Schwerte (Ruhr)" nach="Hagen Hbf">
+    <via name="Dortmund Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE57 10780" von="Warburg (Westf)" nach="Usseln">
     <via name="Hagen Hbf" />
     <via name="Willingen" />
   </zug>
-  <zug name="RE57 10781" von="Schwerte (Ruhr)" nach="Dortmund Hbf" />
+  <zug name="RE57 10781" von="Schwerte (Ruhr)" nach="Dortmund Hbf">
+    <via name="Hagen Hbf" />
+    <via name="Bestwig" />
+    <via name="Brilon Wald" />
+  </zug>
   <zug name="RE57 10787" von="Dortmund Hbf" nach="Scherfede">
     <via name="Brilon Wald" />
     <via name="Brilon Stadt" />

@@ -269,13 +269,29 @@
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB58 28602" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28603" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RB58 28603" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28604" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28605" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf" />
+  <zug name="RB58 28605" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28606" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28607" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RB58 28607" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28608" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28609" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf" />
+  <zug name="RB58 28609" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28610" von="Laufach" nach="Rüsselsheim Opelwerk" />
   <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf">
     <via name="Aschaffenburg Hbf" />
@@ -289,7 +305,11 @@
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB58 28614" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28615" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RB58 28615" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28616" von="Laufach" nach="Rüsselsheim Opelwerk" />
   <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach">
     <via name="Aschaffenburg Hbf" />
@@ -297,7 +317,11 @@
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB58 28618" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28619" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf" />
+  <zug name="RB58 28619" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28620" von="Laufach" nach="Rüsselsheim Opelwerk" />
   <zug name="RB58 28621" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
     <via name="Hanau Hbf" />
@@ -309,9 +333,17 @@
     <via name="Rüsselsheim Opelwerk" />
     <via name="Würzburg-Zell" />
   </zug>
-  <zug name="RB58 28623" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RB58 28623" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28624" von="Bebra" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28625" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf" />
+  <zug name="RB58 28625" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28626" von="Laufach" nach="Rüsselsheim Opelwerk" />
   <zug name="RB58 28628" von="Laufach" nach="Rüsselsheim Opelwerk" />
   <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach">
@@ -330,7 +362,11 @@
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB58 28676" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RB58 28677" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RB58 28677" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB65 12201" von="Rhens" nach="Frankfurt-Niederrad" />
   <zug name="RB65 25455" von="Rhens" nach="Frankfurt-Niederrad" />
   <zug name="RB75 25407" von="Rhens" nach="Frankfurt-Niederrad" />
@@ -717,7 +753,11 @@
     <via name="Rüsselsheim" />
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RE54 4609" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf" />
+  <zug name="RE54 4609" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE54 4613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
     <via name="Hanau Hbf" />
     <via name="Aschaffenburg Hbf" />
@@ -734,13 +774,21 @@
     <via name="Rüsselsheim Opelwerk" />
     <via name="Würzburg-Zell" />
   </zug>
-  <zug name="RE55 4601" von="Rüsselsheim Opelwerk" nach="Oberhaid" />
+  <zug name="RE55 4601" von="Rüsselsheim Opelwerk" nach="Oberhaid">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf">
     <via name="Würzburg Hbf" />
     <via name="Rüsselsheim Opelwerk" />
     <via name="Würzburg-Zell" />
   </zug>
-  <zug name="RE55 4603" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf" />
+  <zug name="RE55 4603" von="Rüsselsheim Opelwerk" nach="Nürnberg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf">
     <via name="Würzburg Hbf" />
     <via name="Rüsselsheim Opelwerk" />
@@ -766,14 +814,34 @@
     <via name="Rüsselsheim Opelwerk" />
     <via name="Würzburg-Zell" />
   </zug>
-  <zug name="RE55 4647" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf" />
+  <zug name="RE55 4647" von="Rüsselsheim Opelwerk" nach="Würzburg Hbf">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE59 28680" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RE59 28681" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RE59 28681" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE59 28682" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RE59 28683" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RE59 28683" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE59 28684" von="Laufach" nach="Rüsselsheim Opelwerk" />
-  <zug name="RE59 28685" von="Rüsselsheim Opelwerk" nach="Laufach" />
-  <zug name="RE59 28687" von="Rüsselsheim Opelwerk" nach="Laufach" />
+  <zug name="RE59 28685" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE59 28687" von="Rüsselsheim Opelwerk" nach="Laufach">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="S8 35884" von="Steinheim (Main)" nach="Wiesbaden Ost">
     <via name="Mainz Hbf" />
     <via name="Rüsselsheim Opelwerk" />

@@ -167,19 +167,31 @@
     <via name="Besigheim" />
   </zug>
   <zug name="MEX12 19217" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX12 19219" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="MEX12 19219" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="MEX12 19220" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Besigheim" />
   </zug>
-  <zug name="MEX12 19221" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="MEX12 19221" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="MEX12 19222" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Besigheim" />
   </zug>
-  <zug name="MEX12 19223" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="MEX12 19223" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="MEX12 19224" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -190,7 +202,11 @@
   </zug>
   <zug name="MEX12 19355" von="Stuttgart Hbf" nach="Ludwigsburg" />
   <zug name="MEX12 19357" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX12 57963" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="MEX12 57963" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="MEX17a 1061" von="Karlsruhe-Durlach )" nach="Ludwigsburg">
     <via name="Sersheim" />
     <via name="Sachsenheim" />
@@ -619,11 +635,27 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Besigheim" />
   </zug>
-  <zug name="MEX18 19313" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
-  <zug name="MEX18 19315" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
-  <zug name="MEX18 19317" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="MEX18 19313" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
+  <zug name="MEX18 19315" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
+  <zug name="MEX18 19317" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="MEX18 19353" von="Stuttgart Hbf" nach="Ludwigsburg" />
-  <zug name="MEX18 56725" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="MEX18 56725" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RB17a 2326" von="Ludwigsburg" nach="Karlsruhe-Durlach">
     <via name="Pforzheim Hbf" />
     <via name="Ellental" />
@@ -780,7 +812,11 @@
   <zug name="RB8 56721" von="Lauda" nach="Stuttgart Hbf">
     <via name="Ludwigsburg" />
   </zug>
-  <zug name="RB85 19319" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RB85 19319" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RB85 23454" von="Stuttgart Hbf" nach="c Schrozberg">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -808,19 +844,31 @@
     <via name="Bad Friedrichshall Hbf" />
     <via name="Würzburg Hbf" />
   </zug>
-  <zug name="RB85 57957" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RB85 57957" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RB85 57958" von="Stuttgart Hbf" nach="c Schrozberg">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Würzburg Hbf" />
   </zug>
-  <zug name="RB85 57959" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RB85 57959" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RB85 57960" von="Stuttgart Hbf" nach="c Schrozberg">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Würzburg Hbf" />
   </zug>
-  <zug name="RB85 57961" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RB85 57961" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RB85 57962" von="Stuttgart Hbf" nach="c Schrozberg">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -969,7 +1017,11 @@
     <via name="Sachsenheim" />
     <via name="Ellental" />
   </zug>
-  <zug name="RE8 119" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RE8 119" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RE8 19052" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
@@ -999,13 +1051,21 @@
   <zug name="RE8 19059" von="Würzburg Hbf" nach="Stuttgart Hbf">
     <via name="Ludwigsburg" />
   </zug>
-  <zug name="RE8 19061" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RE8 19061" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RE8 19062" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />
     <via name="Besigheim" />
   </zug>
-  <zug name="RE8 19063" von="Würzburg Hbf" nach="Bietigheim-Bissingen" />
+  <zug name="RE8 19063" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
+    <via name="Heilbronn Hbf" />
+    <via name="Bad Friedrichshall Hbf" />
+    <via name="Besigheim" />
+  </zug>
   <zug name="RE8 19064" von="Stuttgart Hbf" nach="Würzburg Hbf">
     <via name="Heilbronn Hbf" />
     <via name="Bad Friedrichshall Hbf" />

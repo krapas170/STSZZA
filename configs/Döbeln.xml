@@ -1,21 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Döbeln">
-  <zug name="RB110 27701" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27703" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27705" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27707" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27709" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27711" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27713" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27715" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27717" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27719" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27721" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27723" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27725" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27727" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27729" von="Döbeln Hbf" nach="Leipzig Hbf" />
-  <zug name="RB110 27761" von="Döbeln Hbf" nach="Leipzig Hbf" />
+  <zug name="RB110 27701" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27703" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27705" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27707" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27709" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27711" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27713" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27715" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27717" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27719" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27721" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27723" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27725" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27727" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27729" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
+  <zug name="RB110 27761" von="Döbeln Hbf" nach="Leipzig Hbf">
+    <via name="Westewitz-Hochweitzschen" />
+    <via name="Klosterbuch" />
+    <via name="Leisnig" />
+  </zug>
   <zug name="RB45 2171" von="Prösen" nach="Chemnitz Hbf">
     <via name="Limmritz (Sachs)" />
     <via name="Steina" />

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="SFS Köln-Rhein/Main 2024">
-  <zug name="FLX10 2421" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="FLX10 2421" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="MEX12 19208" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Wittighausen" />
     <via name="Gaubüttelbrunn" />
@@ -502,7 +506,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 12213" von="Mainz Römisches Theater" nach="Mainz-Mombach ig" />
+  <zug name="RB26 12213" von="Mainz Römisches Theater" nach="Mainz-Mombach ig">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 12215" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -527,7 +535,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Mainz Römisches Theater" />
   </zug>
-  <zug name="RB26 12224" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 12224" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 12225" von="Rhens" nach="Frankfurt-Höchst">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -542,7 +554,11 @@
   <zug name="RB26 12385" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB26 127" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 127" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Boppard Hbf" />
+    <via name="Mainz-Mombach ia" />
+  </zug>
   <zug name="RB26 13960" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -628,32 +644,68 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 25358" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25358" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25359" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Mainz Hbf" />
     <via name="Neunkirchen (Saar) Hbf" />
     <via name="Kaiserslautern Hbf" />
   </zug>
-  <zug name="RB26 25360" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25360" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25362" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Mainz Hbf is" />
   </zug>
   <zug name="RB26 25363" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25364" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 25364" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt-Höchst" />
+  </zug>
   <zug name="RB26 25365" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25366" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 25366" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB26 25367" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB26 25368" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 25368" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB26 25369" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB26 25370" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 25370" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB26 25371" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB26 25372" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 25372" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB26 25373" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25376" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25376" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25377" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25378" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25378" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25379" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB26 25380" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
@@ -661,7 +713,11 @@
     <via name="Boppard Hbf" />
   </zug>
   <zug name="RB26 25381" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25382" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25382" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25383" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -723,10 +779,22 @@
   </zug>
   <zug name="RB26 25421" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RB26 25423" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25424" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 25424" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt-Höchst" />
+  </zug>
   <zug name="RB26 25425" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25426" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RB26 25428" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 25426" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RB26 25428" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB26 25429" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB26 25430" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
@@ -745,13 +813,21 @@
     <via name="Mainz Römisches Theater" />
   </zug>
   <zug name="RB26 25435" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB26 25436" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25436" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25437" von="Rhens" nach="Frankfurt (M) Flughafen Fernbf">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 25438" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25438" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25439" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB26 25440" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
@@ -768,14 +844,26 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 25444" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB26 25446" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 25444" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB26 25446" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 25449" von="Rhens" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Mainz Hbf" />
     <via name="Neunkirchen (Saar) Hbf" />
     <via name="Bingen (Rhein) Hbf ta" />
   </zug>
-  <zug name="RB26 25450" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 25450" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB26 25451" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -853,7 +941,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 29514" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 29514" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt-Höchst" />
+  </zug>
   <zug name="RB26 29521" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -864,7 +956,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 29542" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 29542" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 29543" von="Rhens" nach="Frankfurt-Höchst">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -879,14 +975,34 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB26 29552" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB26 29560" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB26 29570" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 29552" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB26 29560" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB26 29570" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB26 29605" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB26 29614" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB26 29648" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 29614" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB26 29648" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB26 29650" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -951,7 +1067,11 @@
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
   </zug>
-  <zug name="RB26 4481" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB26 4481" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB26 4482" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -998,7 +1118,11 @@
   <zug name="RB26 76721" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB26 76732" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB26 76732" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB26 76741" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -1007,59 +1131,107 @@
     <via name="Burgkunstadt" />
     <via name="Michelau (Oberfr)" />
   </zug>
-  <zug name="RB26 81493" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB26 81493" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB26 81494" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB26 921" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB31 25436" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RB31 25436" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RB31 2554" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RB31 29230" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
-  <zug name="RB31 29232" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
-  <zug name="RB31 29234" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
-  <zug name="RB31 29236" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RB31 29230" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
+  <zug name="RB31 29232" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
+  <zug name="RB31 29234" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
+  <zug name="RB31 29236" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RB31 29237" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RB31 29238" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RB31 29238" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RB31 29239" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RB31 29240" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RB31 29240" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RB31 29241" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RB31 29242" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RB31 29242" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RB31 29243" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RB31 29244" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RB31 29244" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RB31 29245" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RB31 29246" von="Mainz Hbf" nach="Armsheim" />
+  <zug name="RB31 29246" von="Mainz Hbf" nach="Armsheim">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RB31 29247" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RB31 29248" von="Mainz Hbf" nach="Alzey" />
+  <zug name="RB31 29248" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RB31 29249" von="Kirchheimbolanden qa" nach="Welgesheim-Zotzenheim">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
@@ -1070,33 +1242,105 @@
     <via name="Worms-Pfeddersheim" />
     <via name="Eppelsheim (Rheinhess)" />
   </zug>
-  <zug name="RB31 29252" von="Mainz Hbf" nach="Alzey" />
+  <zug name="RB31 29252" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RB31 29253" von="Kirchheimbolanden" nach="Welgesheim-Zotzenheim">
     <via name="Worms Hbf" />
     <via name="Worms-Pfeddersheim" />
     <via name="Eppelsheim (Rheinhess)" />
   </zug>
-  <zug name="RB31 29254" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RB31 29255" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RB31 29256" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RB31 29257" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RB31 29258" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RB31 29259" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RB31 29261" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RB31 29262" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RB31 29263" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RB31 29264" von="Mainz Waggonfabrik" nach="Koblenz Hbf" />
-  <zug name="RB31 29265" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RB31 29267" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29269" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29271" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29273" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29275" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29277" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29279" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29280" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
-  <zug name="RB31 29281" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB31 29282" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RB31 29254" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RB31 29255" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RB31 29256" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RB31 29257" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RB31 29258" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RB31 29259" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RB31 29261" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RB31 29262" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RB31 29263" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RB31 29264" von="Mainz Waggonfabrik" nach="Koblenz Hbf">
+    <via name="Worms Hbf" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RB31 29265" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RB31 29267" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29269" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29271" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29273" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29275" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29277" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29279" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29280" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
+  <zug name="RB31 29281" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB31 29282" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RB31 29299" von="Alzey" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Armsheim" />
@@ -1112,11 +1356,19 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RB33 12390" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 12390" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 12391" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 12392" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 12392" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 12393" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -1136,49 +1388,121 @@
   <zug name="RB33 25375" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29500" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29502" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29550" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29500" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29502" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29550" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29551" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29552" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29554" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29552" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29554" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29555" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29556" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29558" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29556" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29558" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29559" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB33 29561" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29562" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29562" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29563" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB33 29564" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29564" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29565" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB33 29566" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29566" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB33 29567" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB33 29568" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29568" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB33 29569" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RB33 29571" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RB33 29573" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB33 29575" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29576" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29576" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29577" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB33 29578" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29578" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29579" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB33 29580" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29580" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29581" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB33 29582" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29584" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29582" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29584" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29585" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB33 29586" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RB33 29588" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29586" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RB33 29588" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29590" von="Frankfurt (M) Flughafen" nach="Jägersfreude">
     <via name="Bingen (Rhein) Hbf" />
     <via name="Kaiserslautern Hbf" />
@@ -1197,146 +1521,389 @@
   <zug name="RB33 29593" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29594" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29594" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29595" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RB33 29596" von="Welgesheim-Zotzenheim" nach="Jägersfreude">
     <via name="Mainz Hbf is" />
     <via name="Bingen (Rhein) Hbf" />
     <via name="Kaiserslautern Hbf" />
   </zug>
-  <zug name="RB33 29598" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29598" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29599" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB33 29639" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29640" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29640" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29641" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB33 29643" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29644" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29644" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29645" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29646" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 29646" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB33 29647" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB33 29653" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29659" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29653" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29659" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29669" von="Alzey" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Jägersfreude" />
     <via name="Dudweiler" />
     <via name="Sulzbach (Saar)" />
   </zug>
-  <zug name="RB33 29670" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB33 29674" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29670" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB33 29674" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29675" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB33 29676" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29676" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB33 29677" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB33 29678" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB33 29678" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB33 29681" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB33 38610" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
   <zug name="RB33 38620" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
-  <zug name="RB33 63652" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB33 63652" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 25355" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB34 25434" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RB34 29514" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 25434" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RB34 29514" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29553" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB34 29561" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB34 29600" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29600" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29601" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB34 29605" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB34 29606" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29606" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29607" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB34 29608" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB34 29610" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29608" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB34 29610" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29611" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29612" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29612" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29613" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RB34 29615" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB34 29616" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB34 29616" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB34 29617" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB34 29618" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB34 29618" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB34 29619" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29620" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB34 29620" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB34 29621" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29622" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB34 29622" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB34 29625" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB34 29627" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29628" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29628" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29629" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29630" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29630" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29631" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB34 29633" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29634" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB34 29634" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB34 29635" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB34 29642" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB34 29642" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB34 76719" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB35 13829" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RB35 29297" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RB37 88000" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88001" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88002" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88003" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88004" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88005" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88006" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88007" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88008" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88009" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88010" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88011" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88012" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88013" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88015" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88017" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88019" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88021" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88023" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88025" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88027" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88029" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88030" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88031" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88032" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88033" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88034" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88035" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88036" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88037" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88038" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88039" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88040" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88041" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88042" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB37 88043" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88044" von="Boppard-Buchholz" nach="Mainz Hbf" />
-  <zug name="RB37 88045" von="Emmelshausen" nach="Mainz Hbf" />
-  <zug name="RB37 88050" von="Mainz Hbf" nach="Emmelshausen" />
-  <zug name="RB40 15100" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB40 15104" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB40 15106" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB35 13829" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
+  <zug name="RB35 29297" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RB37 88000" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88001" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88002" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88003" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88004" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88005" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88006" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88007" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88008" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88009" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88010" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88011" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88012" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88013" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88015" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88017" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88019" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88021" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88023" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88025" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88027" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88029" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88030" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88031" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88032" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88033" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88034" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88035" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88036" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88037" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88038" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88039" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88040" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88041" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88042" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88043" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88044" von="Boppard-Buchholz" nach="Mainz Hbf">
+    <via name="Emmelshausen" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88045" von="Emmelshausen" nach="Mainz Hbf">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB37 88050" von="Mainz Hbf" nach="Emmelshausen">
+    <via name="Boppard-Buchholz" />
+    <via name="Ehr" />
+  </zug>
+  <zug name="RB40 15100" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB40 15104" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB40 15106" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
   <zug name="RB40 15107" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
   <zug name="RB40 15135" von="Frankfurt (Main) West" nach="Frankfurt (Main) Hbf" />
   <zug name="RB40 15137" von="Bebra" nach="Frankfurt (Main) West">
@@ -1344,75 +1911,283 @@
     <via name="Frankfurt (Main) Süd" />
     <via name="Wölfersheim-Södel" />
   </zug>
-  <zug name="RB40 15144" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB40 15144" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
   <zug name="RB40 15145" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB41 15000" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB41 15002" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
+  <zug name="RB41 15000" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB41 15002" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
   <zug name="RB41 15003" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB41 15004" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB41 15004" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
   <zug name="RB41 15005" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB41 15006" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB41 15008" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)" />
-  <zug name="RB41 15010" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)" />
-  <zug name="RB41 15012" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB41 15014" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB41 15036" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB41 15006" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB41 15008" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB41 15010" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB41 15012" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB41 15014" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB41 15036" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB41 15037" von="Bebra" nach="Frankfurt (Main) West">
     <via name="Frankfurt (Main) Hbf" />
     <via name="Frankfurt (Main) Süd" />
     <via name="Wölfersheim-Södel" />
   </zug>
-  <zug name="RB41 15038" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB41 15038" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB41 15039" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB41 15040" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB41 15042" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB41 15040" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB41 15042" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
   <zug name="RB41 15043" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB41 15044" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB41 15044" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
   <zug name="RB41 15045" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB41 15046" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB41 15052" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB41 15180" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB41 76920" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB41 15046" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB41 15052" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB41 15180" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB41 76920" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB44 616" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
   <zug name="RB45 38602" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
-  <zug name="RB46 13607" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RB46 29697" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RB46 38625" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RB47 29300" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29312" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29314" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB47 29316" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB47 29318" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB47 29320" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB47 29322" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB47 29360" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
+  <zug name="RB46 13607" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
+  <zug name="RB46 29697" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
+  <zug name="RB46 38625" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
+  <zug name="RB47 29300" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29312" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29314" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29316" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29318" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29320" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29322" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29360" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
   <zug name="RB47 29361" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB47 29362" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29364" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29370" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29372" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29374" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29376" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB47 29378" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB48 29400" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB48 29402" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB48 29404" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
-  <zug name="RB48 29406" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)" />
-  <zug name="RB48 29408" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)" />
-  <zug name="RB48 29410" von="Frankfurt (Main) Hbf" nach="Nidda" />
+  <zug name="RB47 29362" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29364" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29370" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29372" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29374" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29376" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB47 29378" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29400" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29402" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29404" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29406" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29408" von="Frankfurt (Main) Hbf" nach="Dorheim (Wetterau)">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29410" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
   <zug name="RB48 29411" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB48 29412" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB48 29414" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB48 29416" von="Frankfurt (Main) Hbf" nach="Nidda" />
-  <zug name="RB48 29440" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel" />
+  <zug name="RB48 29412" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29414" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29416" von="Frankfurt (Main) Hbf" nach="Nidda">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
+  <zug name="RB48 29440" von="Frankfurt (Main) Hbf" nach="Wölfersheim-Södel">
+    <via name="Frankfurt (Main) West" />
+    <via name="Bad Vilbel" />
+    <via name="Friedberg (Hess)" />
+  </zug>
   <zug name="RB48 29441" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
   <zug name="RB48 29443" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB49 15074" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB49 15150" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB49 15154" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB49 15164" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB49 15170" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RB49 76922" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RB49 15074" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB49 15150" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB49 15154" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB49 15164" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB49 15170" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RB49 76922" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB5 24202" von="Hünfeld" nach="Neuhof (Kr Fulda)">
     <via name="Offenbach (Main) Hbf" />
     <via name="Hanau Hbf" />
@@ -1553,21 +2328,39 @@
     <via name="Schweinfurt Hbf" />
     <via name="Kleingemünden" />
   </zug>
-  <zug name="RB51 15500" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RB51 15500" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB51 15501" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RB51 15504" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RB51 15504" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB51 15505" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RB51 15506" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RB51 15506" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB51 15507" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RB51 15510" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
-  <zug name="RB51 15512" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
-  <zug name="RB51 15514" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
+  <zug name="RB51 15510" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15512" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RB51 15514" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB51 15537" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
@@ -1580,38 +2373,74 @@
   <zug name="RB51 15543" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RB51 15560" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RB51 15560" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB51 15561" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RB53 58000" von="Gemünden (Main)" nach="Schlüchtern" />
-  <zug name="RB53 58001" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
-  <zug name="RB53 58002" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58000" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
+  <zug name="RB53 58001" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB53 58002" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB53 58005" von="Fulda" nach="Würzburg Hbf">
     <via name="Sterbfritz" />
     <via name="Jossa" />
     <via name="Obersinn" />
   </zug>
-  <zug name="RB53 58006" von="Gemünden (Main)" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB53 58009" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
+  <zug name="RB53 58006" von="Gemünden (Main)" nach="Frankfurt (Main) Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Darmstadt Hbf" />
+    <via name="Rieneck" />
+  </zug>
+  <zug name="RB53 58009" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
   <zug name="RB53 58011" von="Fulda" nach="Nürnberg Hbf">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
     <via name="Sterbfritz" />
   </zug>
-  <zug name="RB53 58012" von="Gemünden (Main)" nach="Rottendorf" />
+  <zug name="RB53 58012" von="Gemünden (Main)" nach="Rottendorf">
+    <via name="Würzburg Hbf" />
+    <via name="Darmstadt Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="RB53 58013" von="Fulda" nach="Würzburg Hbf">
     <via name="Sterbfritz" />
     <via name="Jossa" />
     <via name="Obersinn" />
   </zug>
-  <zug name="RB53 58016" von="Gemünden (Main)" nach="Rottendorf" />
+  <zug name="RB53 58016" von="Gemünden (Main)" nach="Rottendorf">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
   <zug name="RB53 58019" von="Fulda" nach="Oberhaid">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
     <via name="Nürnberg Hbf" />
   </zug>
-  <zug name="RB53 58020" von="Gemünden (Main)" nach="Rottendorf" />
+  <zug name="RB53 58020" von="Gemünden (Main)" nach="Rottendorf">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
   <zug name="RB53 58021" von="Fulda" nach="Oberhaid">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
@@ -1622,27 +2451,51 @@
     <via name="Aschaffenburg Hbf" />
     <via name="Schweinfurt Hbf" />
   </zug>
-  <zug name="RB53 58024" von="Gemünden (Main)" nach="Rottendorf" />
+  <zug name="RB53 58024" von="Gemünden (Main)" nach="Rottendorf">
+    <via name="Würzburg Hbf" />
+    <via name="Nürnberg Hbf" />
+    <via name="Schweinfurt Hbf" />
+  </zug>
   <zug name="RB53 58025" von="Fulda" nach="Bamberg">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
     <via name="Schweinfurt Hbf" />
   </zug>
-  <zug name="RB53 58027" von="Frankfurt (Main) Süd" nach="Würzburg Hbf" />
-  <zug name="RB53 58028" von="Gemünden (Main)" nach="Laufach" />
+  <zug name="RB53 58027" von="Frankfurt (Main) Süd" nach="Würzburg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Hösbach" />
+    <via name="Laufach" />
+  </zug>
+  <zug name="RB53 58028" von="Gemünden (Main)" nach="Laufach">
+    <via name="Würzburg Hbf" />
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+  </zug>
   <zug name="RB53 58029" von="Fulda" nach="Würzburg-Zell">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
     <via name="Sterbfritz" />
   </zug>
-  <zug name="RB53 58030" von="Gemünden (Main)" nach="Laufach" />
-  <zug name="RB53 58032" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58030" von="Gemünden (Main)" nach="Laufach">
+    <via name="Würzburg Hbf" />
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+  </zug>
+  <zug name="RB53 58032" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB53 58035" von="Fulda" nach="Würzburg-Zell">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
     <via name="Sterbfritz" />
   </zug>
-  <zug name="RB53 58036" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58036" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB53 58037" von="Fulda" nach="Würzburg-Zell">
     <via name="Würzburg Hbf" />
     <via name="Aschaffenburg Hbf" />
@@ -1663,86 +2516,146 @@
     <via name="Jossa" />
     <via name="Obersinn" />
   </zug>
-  <zug name="RB53 58044" von="Gemünden (Main)" nach="Schlüchtern" />
-  <zug name="RB53 58048" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58044" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
+  <zug name="RB53 58048" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB53 58049" von="Fulda" nach="Würzburg Hbf">
     <via name="Sterbfritz" />
     <via name="Jossa" />
     <via name="Obersinn" />
   </zug>
-  <zug name="RB53 58050" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58050" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB53 58053" von="Fulda" nach="Würzburg Hbf">
     <via name="Sterbfritz" />
     <via name="Jossa" />
     <via name="Obersinn" />
   </zug>
-  <zug name="RB53 58054" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58054" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB53 58057" von="Fulda" nach="Würzburg Hbf">
     <via name="Sterbfritz" />
     <via name="Jossa" />
     <via name="Obersinn" />
   </zug>
-  <zug name="RB53 58060" von="Gemünden (Main)" nach="Schlüchtern" />
+  <zug name="RB53 58060" von="Gemünden (Main)" nach="Schlüchtern">
+    <via name="Rieneck" />
+    <via name="Burgsinn" />
+    <via name="Mittelsinn" />
+  </zug>
   <zug name="RB56 23600" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23601" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23601" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23602" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23603" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23603" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23604" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23605" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23605" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23606" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23607" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23607" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23608" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23609" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23609" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23610" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23611" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23611" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23612" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23614" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23615" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23615" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB56 23616" von="Schöllkrippen" nach="Frankfurt (Main) Hbf">
     <via name="Hanau Hbf" />
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RB56 23639" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RB56 23639" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Hanau Hbf" />
+    <via name="Großauheim (Kr Hanau)" />
+    <via name="Großkrotzenburg" />
+  </zug>
   <zug name="RB58 28600" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28601" von="Frankfurt (Main) Hbf" nach="Laufach" />
+  <zug name="RB58 28601" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28602" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -1788,13 +2701,21 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB58 28611" von="Frankfurt (Main) Hbf" nach="Nürnberg Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28612" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28613" von="Frankfurt (Main) Hbf" nach="Laufach" />
+  <zug name="RB58 28613" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28614" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -1810,7 +2731,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach" />
+  <zug name="RB58 28617" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28618" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -1826,7 +2751,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28621" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf" />
+  <zug name="RB58 28621" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf">
     <via name="Frankfurt (Main) Hbf" />
     <via name="Aschaffenburg Hbf" />
@@ -1852,7 +2781,9 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28627" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
+  <zug name="RB58 28627" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB58 28628" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -1903,9 +2834,21 @@
     <via name="Würzburg Hbf" />
     <via name="Großkrotzenburg" />
   </zug>
-  <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach" />
-  <zug name="RB58 28673" von="Frankfurt (Main) Hbf" nach="Laufach" />
-  <zug name="RB58 28675" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf" />
+  <zug name="RB58 28671" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28673" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RB58 28675" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RB58 28676" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -1916,48 +2859,152 @@
     <via name="Hanau Hbf" />
     <via name="Aschaffenburg Hbf" />
   </zug>
-  <zug name="RB58 28679" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RB58 28679" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RB61 15460" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15461" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
-  <zug name="RB61 15463" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
-  <zug name="RB61 15465" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
-  <zug name="RB61 15491" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
-  <zug name="RB61 15493" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15461" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
+  <zug name="RB61 15463" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
+  <zug name="RB61 15465" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
+  <zug name="RB61 15491" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
+  <zug name="RB61 15493" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15600" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15601" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15601" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15602" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15603" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15603" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15604" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15605" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15605" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15606" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15607" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15607" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15608" von="Dieburg" nach="Frankfurt (Main) Hbf" />
   <zug name="RB61 15610" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15611" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15611" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15612" von="Dieburg" nach="Frankfurt (Main) Hbf" />
   <zug name="RB61 15614" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15615" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15615" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15616" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15617" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15617" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15618" von="Dieburg" nach="Frankfurt (Main) Hbf" />
   <zug name="RB61 15620" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15621" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15621" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15622" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15623" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15623" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15624" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15627" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
+  <zug name="RB61 15627" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
   <zug name="RB61 15628" von="Dieburg" nach="Frankfurt (Main) Hbf" />
   <zug name="RB61 15670" von="Dieburg" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB61 15679" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)" />
-  <zug name="RB61 38515" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 13650" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 13663" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RB62 15492" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 38804" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RB62 38819" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RB62 38823" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RB62 4561" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RB62 4565" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
+  <zug name="RB61 15679" von="Frankfurt (Main) Hbf" nach="Münster (Hessen)">
+    <via name="Dreieich-Buchschlag" />
+    <via name="Dreieich-Sprendlingen" />
+    <via name="Dreieich-Weibelfeld" />
+  </zug>
+  <zug name="RB61 38515" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RB62 13650" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 13663" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 15492" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 38804" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 38819" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 38823" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 4561" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RB62 4565" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
   <zug name="RB65 12201" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -2014,24 +3061,52 @@
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB65 76727" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB66 25476" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RB66 25510" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RB66 38500" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
+  <zug name="RB66 25476" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RB66 25510" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RB66 38500" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
   <zug name="RB69 13815" von="Heidelberg Hbf" nach="Fürth (Odenw)">
     <via name="Birkenau" />
     <via name="Reisen (Hess)" />
     <via name="Mörlenbach" />
   </zug>
   <zug name="RB69 29286" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
-  <zug name="RB73 12840" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 12840" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 12841" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 12842" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 12842" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 12843" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 12844" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 12844" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 12845" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB73 25364" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 25364" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 29523" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -2039,58 +3114,146 @@
   <zug name="RB73 29679" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 63668" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RB73 63670" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 63668" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RB73 63670" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76651" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76652" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76652" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76653" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76654" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76654" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76655" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76656" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76656" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76657" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB73 76658" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76658" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76659" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB73 76660" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76660" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76661" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB73 76662" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76662" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76663" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76664" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76666" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76664" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76666" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB73 76667" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76668" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76668" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB73 76669" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76670" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76670" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB73 76671" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76672" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76672" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB73 76673" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76674" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76674" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB73 76675" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76676" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76676" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76677" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76678" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76678" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76679" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76680" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76680" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76681" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76682" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76682" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76683" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76684" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76700" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76684" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76700" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76701" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76702" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76702" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76703" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76704" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76704" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76705" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -2100,44 +3263,120 @@
     <via name="Kaiserslautern Hbf" />
   </zug>
   <zug name="RB73 76707" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76708" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76708" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76709" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76710" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76710" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76711" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB73 76712" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76712" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76713" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RB73 76714" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76714" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76715" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76716" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76716" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76717" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76718" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76720" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76718" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76720" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76723" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76724" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76724" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB73 76725" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76726" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RB73 76728" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76726" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RB73 76728" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RB73 76729" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76730" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RB73 76730" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RB73 76731" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RB73 76733" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB73 76734" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76734" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76735" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76736" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76736" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB73 76737" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
   <zug name="RB73 76739" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB73 76740" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76742" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76744" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76746" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76748" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RB73 76794" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB73 76740" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76742" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76744" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76746" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76748" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RB73 76794" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB75 2407" von="Rhens" nach="Frankfurt-Höchst">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -2150,130 +3389,538 @@
   <zug name="RB75 25551" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RB75 25552" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RB75 25552" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RB75 25553" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RB75 25554" von="Mainz Römisches Theater" nach="Jägersfreude" />
-  <zug name="RB75 28700" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28701" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28702" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28703" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28704" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28705" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28706" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28707" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28708" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28709" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28710" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28711" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28712" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28713" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28714" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28715" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28716" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28717" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28718" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28719" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28720" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28721" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 25554" von="Mainz Römisches Theater" nach="Jägersfreude">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RB75 28700" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28701" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28702" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28703" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28704" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28705" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28706" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28707" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28708" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28709" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28710" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28711" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28712" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28713" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28714" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28715" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28716" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28717" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28718" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28719" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28720" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28721" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28722" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28723" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28723" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28724" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28725" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28725" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28726" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28727" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28727" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28728" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28729" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28730" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28731" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28732" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28733" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28734" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28735" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28736" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28737" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28738" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28739" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28740" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28741" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28742" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28743" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28744" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28745" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28751" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28752" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28753" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28754" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28755" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28756" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28757" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28758" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28760" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28765" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28767" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 28768" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28769" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 28770" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28771" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28729" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28730" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28731" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28732" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28733" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28734" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28735" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28736" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28737" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28738" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28739" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28740" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28741" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28742" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28743" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28744" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28745" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28751" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28752" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28753" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28754" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28755" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28756" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28757" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 28758" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28760" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 28765" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28767" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 28768" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28769" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 28770" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 28771" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28772" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28773" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28773" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28774" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28775" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28775" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28776" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28777" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28777" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 28778" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 28785" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 28785" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
   <zug name="RB75 5206" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RB75 63650" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63651" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 63652" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63653" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 63654" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63655" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 63656" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63657" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 63658" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63659" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63660" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63661" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63662" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63663" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63664" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63665" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63666" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63667" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63650" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 63651" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 63652" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 63653" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 63654" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 63655" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 63656" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 63657" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Mainz-Kastel" />
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+  </zug>
+  <zug name="RB75 63658" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 63659" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63660" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63661" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63662" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63663" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63664" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63665" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63666" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63667" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
   <zug name="RB75 63668" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63669" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 63669" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63670" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63671" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 63671" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63672" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63673" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
+  <zug name="RB75 63673" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63674" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63675" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63676" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63677" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63678" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63679" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63680" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63681" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63682" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63683" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB75 63684" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63685" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 63675" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63676" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63677" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63678" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63679" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63680" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63681" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63682" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63683" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Darmstadt Hbf" />
+    <via name="Mainz-Kastel" />
+    <via name="Dieburg" />
+  </zug>
+  <zug name="RB75 63684" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Dieburg" />
+    <via name="Weiterstadt" />
+  </zug>
+  <zug name="RB75 63685" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63686" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63687" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 63687" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63688" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63689" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 63689" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63690" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63691" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
+  <zug name="RB75 63691" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
   <zug name="RB75 63692" von="Aschaffenburg Hbf" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63693" von="Mainz-Gustavsburg ia" nach="Mainaschaff" />
-  <zug name="RB75 63694" von="Mainaschaff" nach="Mainz-Gustavsburg ia" />
-  <zug name="RB75 63695" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)" />
-  <zug name="RB79 58003" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
+  <zug name="RB75 63693" von="Mainz-Gustavsburg ia" nach="Mainaschaff">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB75 63694" von="Mainaschaff" nach="Mainz-Gustavsburg ia">
+    <via name="Stockstadt (Main)" />
+    <via name="Hergershausen" />
+    <via name="Altheim (Hess)" />
+  </zug>
+  <zug name="RB75 63695" von="Mainz-Gustavsburg ia" nach="Babenhausen (Hess)">
+    <via name="Nauheim (b Gr.Gerau)" />
+    <via name="Groß Gerau" />
+    <via name="Klein Gerau" />
+  </zug>
+  <zug name="RB79 58003" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
   <zug name="RB79 58004" von="Würzburg Hbf" nach="Frankfurt (Main) Hbf">
     <via name="Darmstadt Hbf" />
     <via name="Wernfeld" />
@@ -2284,8 +3931,16 @@
     <via name="Wernfeld" />
     <via name="Gemünden (Main)" />
   </zug>
-  <zug name="RB79 58015" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
-  <zug name="RB79 58291" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
+  <zug name="RB79 58015" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
+  <zug name="RB79 58291" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
   <zug name="RB79 58292" von="Würzburg Hbf" nach="Frankfurt (Main) Hbf">
     <via name="Darmstadt Hbf" />
     <via name="Wernfeld" />
@@ -2301,7 +3956,11 @@
     <via name="Gaubüttelbrunn" />
     <via name="Kirchheim (Unterfr)" />
   </zug>
-  <zug name="RB82 38089" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
+  <zug name="RB82 38089" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
   <zug name="RB85 19319" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
     <via name="Bad Friedrichshall Hbf" />
     <via name="Heilbronn Hbf" />
@@ -2518,7 +4177,11 @@
     <via name="Mainleus" />
     <via name="Kulmbach" />
   </zug>
-  <zug name="RE10 58007" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
+  <zug name="RE10 58007" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
   <zug name="RE10 58080" von="Nürnberg Hbf" nach="Würzburg Hbf">
     <via name="Dettelbach Bahnhof" />
   </zug>
@@ -2657,67 +4320,145 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE13 29200" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RE13 29200" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RE13 29201" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RE13 29202" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RE13 29202" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RE13 29203" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RE13 29204" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim" />
+  <zug name="RE13 29204" von="Mainz Waggonfabrik" nach="Worms-Pfeddersheim">
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+    <via name="Klein Winternheim-Ober Olm" />
+  </zug>
   <zug name="RE13 29205" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RE13 29206" von="Mainz Hbf" nach="Worms-Pfeddersheim" />
+  <zug name="RE13 29206" von="Mainz Hbf" nach="Worms-Pfeddersheim">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RE13 29207" von="Kirchheimbolanden qa" nach="Koblenz Hbf">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RE13 29208" von="Mainz Hbf" nach="Armsheim" />
+  <zug name="RE13 29208" von="Mainz Hbf" nach="Armsheim">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RE13 29209" von="Kirchheimbolanden qa" nach="Welgesheim-Zotzenheim">
     <via name="Worms Hbf" />
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RE13 29210" von="Mainz Hbf" nach="Alzey" />
+  <zug name="RE13 29210" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RE13 29211" von="Kirchheimbolanden qa" nach="Alzey">
     <via name="Mainz-Gonsenheim" />
     <via name="Mainz Waggonfabrik" />
   </zug>
-  <zug name="RE13 29212" von="Mainz Hbf" nach="Alzey" />
+  <zug name="RE13 29212" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RE13 29213" von="Kirchheimbolanden" nach="Welgesheim-Zotzenheim">
     <via name="Worms Hbf" />
     <via name="Worms-Pfeddersheim" />
     <via name="Eppelsheim (Rheinhess)" />
   </zug>
-  <zug name="RE13 29214" von="Mainz Hbf" nach="Alzey" />
+  <zug name="RE13 29214" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
   <zug name="RE13 29215" von="Kirchheimbolanden" nach="Welgesheim-Zotzenheim">
     <via name="Worms Hbf" />
     <via name="Worms-Pfeddersheim" />
     <via name="Eppelsheim (Rheinhess)" />
   </zug>
-  <zug name="RE13 29216" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RE13 29217" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RE13 29218" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RE13 29219" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RE13 29220" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RE13 29221" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RE13 29222" von="Mainz Hbf" nach="Alzey" />
-  <zug name="RE13 29223" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RE13 29225" von="Kirchheimbolanden" nach="Mainz Hbf" />
-  <zug name="RE13 29227" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RE13 29229" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RE13 29231" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RE13 29233" von="Alzey" nach="Mainz Hbf" />
-  <zug name="RE13 29235" von="Alzey" nach="Mainz Hbf" />
+  <zug name="RE13 29216" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RE13 29217" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RE13 29218" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RE13 29219" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RE13 29220" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RE13 29221" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RE13 29222" von="Mainz Hbf" nach="Alzey">
+    <via name="Mainz Waggonfabrik" />
+    <via name="Mainz-Gonsenheim" />
+    <via name="Mainz-Marienborn" />
+  </zug>
+  <zug name="RE13 29223" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RE13 29225" von="Kirchheimbolanden" nach="Mainz Hbf">
+    <via name="Saulheim" />
+    <via name="Wörrstadt" />
+    <via name="Armsheim" />
+  </zug>
+  <zug name="RE13 29227" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RE13 29229" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RE13 29231" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RE13 29233" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
+  <zug name="RE13 29235" von="Alzey" nach="Mainz Hbf">
+    <via name="Albig" />
+  </zug>
   <zug name="RE13 29250" von="Kirchheimbolanden qa" nach="Alzey Süd">
     <via name="Worms Hbf" />
     <via name="Koblenz Hbf" />
@@ -2728,10 +4469,22 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE14 12207" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE14 12207" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
   <zug name="RE14 13301" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
-  <zug name="RE14 38601" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE14 38617" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE14 38601" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
+  <zug name="RE14 38617" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
   <zug name="RE15 12382" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -2745,9 +4498,17 @@
     <via name="Neunkirchen (Saar) Hbf" />
     <via name="Mainz-Mombach" />
   </zug>
-  <zug name="RE15 12386" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RE15 12386" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RE15 12387" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RE15 12388" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE15 12388" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE15 12735" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -2759,7 +4520,11 @@
   <zug name="RE15 29537" von="Kaiserslautern Hbf" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RE15 29540" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE15 29540" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE15 29599" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -2794,8 +4559,16 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE17 25376" von="Mainz Römisches Theater" nach="Rhens" />
-  <zug name="RE17 25422" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE17 25376" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
+  <zug name="RE17 25422" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE17 25552" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -2810,7 +4583,11 @@
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
   </zug>
-  <zug name="RE17 29624" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RE17 29624" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RE17 29651" von="Koblenz Hbf" nach="Jägersfreude">
     <via name="Mainz Hbf is" />
     <via name="Neunkirchen (Saar) Hbf" />
@@ -2825,10 +4602,26 @@
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
   </zug>
-  <zug name="RE17 29655" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RE17 29656" von="Mainz Römisches Theater" nach="Bingen (Rhein) Hbf" />
-  <zug name="RE17 29657" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RE17 29661" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE17 29655" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RE17 29656" von="Mainz Römisches Theater" nach="Bingen (Rhein) Hbf">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RE17 29657" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
+  <zug name="RE17 29661" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE17 29664" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -2898,7 +4691,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Mainz Römisches Theater" />
   </zug>
-  <zug name="RE2 2047" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE2 2047" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt-Höchst" />
+  </zug>
   <zug name="RE2 2049" von="Frankfurt-Niederrad" nach="Oberwesel">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -2997,7 +4794,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE2 29662" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE2 29662" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE2 29671" von="Rhens" nach="Frankfurt (M) Flughafen Fernbf">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -3063,7 +4864,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE21 29667" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE21 29667" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE21 29668" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RE3 100" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
@@ -3075,7 +4880,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE3 118" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE3 118" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE3 12206" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -3096,7 +4905,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE3 12212" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE3 12212" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt-Höchst" />
+  </zug>
   <zug name="RE3 12216" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -3160,7 +4973,11 @@
     <via name="Frankfurt-Höchst" />
     <via name="Mainz Römisches Theater" />
   </zug>
-  <zug name="RE3 2410" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE3 2410" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt-Höchst" />
+  </zug>
   <zug name="RE3 25351" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -3215,7 +5032,11 @@
   <zug name="RE3 29505" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RE3 29506" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29506" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29507" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -3225,30 +5046,70 @@
     <via name="Boppard Hbf" />
   </zug>
   <zug name="RE3 29509" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RE3 29510" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29510" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29511" von="Rhens" nach="Frankfurt (M) Flughafen Fernbf">
     <via name="Mainz Hbf" />
     <via name="Neunkirchen (Saar) Hbf" />
     <via name="Kaiserslautern Hbf" />
   </zug>
-  <zug name="RE3 29512" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29512" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29513" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RE3 29515" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RE3 29516" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RE3 29516" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RE3 29517" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
-  <zug name="RE3 29518" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RE3 29518" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RE3 29519" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RE3 29520" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RE3 29520" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+    <via name="Budenheim" />
+  </zug>
   <zug name="RE3 29521" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RE3 29522" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RE3 29524" von="Mainz-Mombach" nach="Jägersfreude" />
+  <zug name="RE3 29522" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RE3 29524" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
   <zug name="RE3 29525" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RE3 29526" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29526" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29527" von="St Wendel" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RE3 29528" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RE3 29530" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29528" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RE3 29530" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29531" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RE3 29532" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
@@ -3256,13 +5117,29 @@
     <via name="Boppard Hbf" />
   </zug>
   <zug name="RE3 29533" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
-  <zug name="RE3 29534" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29534" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29535" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
-  <zug name="RE3 29536" von="Mainz Hbf" nach="Jägersfreude" />
-  <zug name="RE3 29538" von="Mainz-Mombach" nach="Jägersfreude" />
-  <zug name="RE3 29546" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29536" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
+  <zug name="RE3 29538" von="Mainz-Mombach" nach="Jägersfreude">
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+    <via name="Neunkirchen (Saar) Hbf" />
+  </zug>
+  <zug name="RE3 29546" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29547" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf" />
   <zug name="RE3 29548" von="Frankfurt-Niederrad" nach="Jägersfreude">
     <via name="Mainz Hbf" />
@@ -3274,7 +5151,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE3 29574" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29574" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29605" von="Jägersfreude" nach="Frankfurt (M) Flughafen Regionalbf">
     <via name="Frankfurt (M) Flughafen Fernbf" />
   </zug>
@@ -3283,7 +5164,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE3 29638" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 29638" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 29649" von="Jägersfreude" nach="Frankfurt (M) Flughafen Fernbf" />
   <zug name="RE3 29652" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
@@ -3344,7 +5229,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE3 76722" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE3 76722" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE3 921" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -3516,7 +5405,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE4 12203" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 12203" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
   <zug name="RE4 12206" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
   <zug name="RE4 12208" von="Ludwigshafen (Rhein) Mitte" nach="Mainz Römisches Theater" />
   <zug name="RE4 12210" von="Frankfurt-Niederrad" nach="Oberwesel">
@@ -3529,13 +5422,21 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE4 12223" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE4 12223" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE4 12774" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE4 13529" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 13529" von="Mainz Römisches Theater" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Worms Hbf" />
+    <via name="Frankenthal Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+  </zug>
   <zug name="RE4 1548" von="Rhens" nach="Frankfurt-Niederrad">
     <via name="Mainz Hbf" />
     <via name="Hochheim (Main)" />
@@ -3588,7 +5489,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Boppard Hbf" />
   </zug>
-  <zug name="RE4 29526" von="Mainz Römisches Theater" nach="Rhens" />
+  <zug name="RE4 29526" von="Mainz Römisches Theater" nach="Rhens">
+    <via name="Mainz Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Boppard Hbf" />
+  </zug>
   <zug name="RE4 29528" von="Frankfurt-Niederrad" nach="Rhens">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -3605,7 +5510,11 @@
     <via name="Hochheim (Main)" />
     <via name="Frankfurt-Höchst" />
   </zug>
-  <zug name="RE4 29696" von="Mainz Hbf" nach="Jägersfreude" />
+  <zug name="RE4 29696" von="Mainz Hbf" nach="Jägersfreude">
+    <via name="Mainz Hbf is" />
+    <via name="Bingen (Rhein) Hbf" />
+    <via name="Kaiserslautern Hbf" />
+  </zug>
   <zug name="RE4 4254" von="Frankfurt-Niederrad" nach="Oberwesel">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -3658,7 +5567,11 @@
   <zug name="RE5 24148" von="Hünfeld" nach="Offenbach (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE5 2426" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RE5 2426" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RE5 24262" von="Fulda" nach="Neuhof (Kr Fulda)">
     <via name="Offenbach (Main) Hbf" />
     <via name="Hanau Hbf" />
@@ -3667,32 +5580,62 @@
   <zug name="RE5 24268" von="Hünfeld" nach="Offenbach (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE5 2429" von="Langenselbold" nach="Offenbach (Main) Hbf" />
+  <zug name="RE5 2429" von="Langenselbold" nach="Offenbach (Main) Hbf">
+    <via name="Hanau Hbf" />
+  </zug>
   <zug name="RE5 4591" von="Fulda ia" nach="Bebra">
     <via name="Offenbach (Main) Hbf" />
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE50 15545" von="Frankfurt (Main) Hbf" nach="Bebra" />
-  <zug name="RE50 15549" von="Frankfurt (Main) Hbf" nach="Bebra" />
-  <zug name="RE50 15569" von="Frankfurt (Main) Hbf" nach="Bebra" />
-  <zug name="RE50 4500" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RE50 15545" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 15549" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 15569" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4500" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RE50 4501" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
   <zug name="RE50 4503" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE50 4504" von="Frankfurt (Main) Hbf" nach="Bebra" />
-  <zug name="RE50 4506" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RE50 4504" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4506" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RE50 4507" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
   <zug name="RE50 4509" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE50 4510" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
-  <zug name="RE50 4512" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
+  <zug name="RE50 4510" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE50 4512" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RE50 4541" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
@@ -3707,14 +5650,26 @@
   <zug name="RE50 4547" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE54 155" von="Frankfurt (Main) Hbf" nach="Bebra" />
+  <zug name="RE54 155" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf">
     <via name="Frankfurt (Main) Hbf" />
     <via name="Aschaffenburg Hbf" />
     <via name="Würzburg Hbf" />
   </zug>
-  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg" />
-  <zug name="RE54 4607" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf" />
+  <zug name="RE54 4605" von="Frankfurt (Main) Hbf" nach="Bamberg">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
+  <zug name="RE54 4607" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE54 4608" von="Bebra" nach="Bad Staffelstein">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -3730,7 +5685,11 @@
     <via name="Würzburg Hbf" />
     <via name="Nürnberg Hbf" />
   </zug>
-  <zug name="RE54 4613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen" />
+  <zug name="RE54 4613" von="Frankfurt (Main) Hbf" nach="Schöllkrippen">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE54 4616" von="Laufach" nach="Heigenbrücken">
     <via name="Hanau Hbf" />
     <via name="Würzburg Hbf" />
@@ -3739,7 +5698,11 @@
   <zug name="RE54 4636" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE54 4639" von="Frankfurt (Main) Hbf" nach="Laufach" />
+  <zug name="RE54 4639" von="Frankfurt (Main) Hbf" nach="Laufach">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE54 4644" von="Bebra" nach="Rüsselsheim Opelwerk">
     <via name="Frankfurt (Main) Hbf" />
     <via name="Aschaffenburg Hbf" />
@@ -3780,7 +5743,11 @@
     <via name="Frankfurt (Main) Hbf" />
     <via name="Aschaffenburg Hbf" />
   </zug>
-  <zug name="RE55 4611" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf" />
+  <zug name="RE55 4611" von="Frankfurt (Main) Hbf" nach="Würzburg Hbf">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Aschaffenburg Hbf" />
+  </zug>
   <zug name="RE55 4614" von="Laufach" nach="Heigenbrücken">
     <via name="Hanau Hbf" />
     <via name="Würzburg Hbf" />
@@ -3801,7 +5768,11 @@
     <via name="Hanau Hbf" />
     <via name="Aschaffenburg Hbf" />
   </zug>
-  <zug name="RE55 58405" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf" />
+  <zug name="RE55 58405" von="Frankfurt (Main) Süd" nach="Nürnberg Hbf">
+    <via name="Aschaffenburg Hbf" />
+    <via name="Würzburg Hbf" />
+    <via name="Hösbach" />
+  </zug>
   <zug name="RE59 28680" von="Laufach" nach="Rüsselsheim Opelwerk">
     <via name="Hanau Hbf" />
     <via name="Frankfurt (Main) Hbf" />
@@ -3852,42 +5823,174 @@
     <via name="Großkrotzenburg" />
     <via name="Großauheim (Kr Hanau)" />
   </zug>
-  <zug name="RE60 15300" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE60 15301" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE60 15303" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE60 15311" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf" />
-  <zug name="RE60 15313" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf" />
+  <zug name="RE60 15300" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 15301" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 15303" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 15311" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 15313" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Darmstadt Süd" />
+  </zug>
   <zug name="RE60 15340" von="Heidelberg Hbf" nach="Mannheim-Friedrichsfeld Süd">
     <via name="Ludwigshafen (Rhein) Mitte" />
   </zug>
-  <zug name="RE60 15343" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE60 25199" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE60 25473" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE60 387" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE60 38702" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE60 4650" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE60 4659" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf" />
-  <zug name="RE60 4661" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf" />
-  <zug name="RE68 153" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE68 15302" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE68 38075" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE68 385" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE68 38515" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf" />
-  <zug name="RE68 38522" von="Frankfurt (Main) Hbf" nach="Heddesheim/Hirschberg" />
-  <zug name="RE68 38526" von="Frankfurt (Main) Hbf" nach="Heddesheim/Hirschberg" />
-  <zug name="RE68 38531" von="Frankfurt (Main) Hbf" nach="Mannheim Hbf" />
-  <zug name="RE68 38535" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf" />
-  <zug name="RE70 13661" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RE70 13665" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RE70 15490" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38766" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38800" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38802" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 38817" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RE70 38821" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RE70 4550" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE70 4563" von="Frankfurt (Main) Hbf" nach="Lampertheim" />
-  <zug name="RE70 4588" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf" />
+  <zug name="RE60 15343" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 25199" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 25473" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 387" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 38702" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 4650" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE60 4659" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE60 4661" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE68 153" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 15302" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 38075" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 385" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 38515" von="Frankfurt (Main) Hbf" nach="Heidelberg Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Mannheim Hbf" />
+  </zug>
+  <zug name="RE68 38522" von="Frankfurt (Main) Hbf" nach="Heddesheim/Hirschberg">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Heidelberg Hbf" />
+  </zug>
+  <zug name="RE68 38526" von="Frankfurt (Main) Hbf" nach="Heddesheim/Hirschberg">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Heidelberg Hbf" />
+  </zug>
+  <zug name="RE68 38531" von="Frankfurt (Main) Hbf" nach="Mannheim Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Weinheim (Bergstr) Hbf" />
+    <via name="Langen (Hess)" />
+  </zug>
+  <zug name="RE68 38535" von="Frankfurt (Main) Hbf" nach="Weinheim (Bergstr) Hbf">
+    <via name="Darmstadt Hbf" />
+    <via name="Langen (Hess)" />
+    <via name="Darmstadt Süd" />
+  </zug>
+  <zug name="RE70 13661" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 13665" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 15490" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 38766" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 38800" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 38802" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 38817" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 38821" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 4550" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 4563" von="Frankfurt (Main) Hbf" nach="Lampertheim">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
+  <zug name="RE70 4588" von="Mannheim Hbf" nach="Frankfurt (Main) Hbf">
+    <via name="Frankfurt-Niederrad" />
+    <via name="Walldorf (Hess)" />
+    <via name="Mörfelden" />
+  </zug>
   <zug name="RE8 119" von="Würzburg Hbf" nach="Bietigheim-Bissingen">
     <via name="Bad Friedrichshall Hbf" />
     <via name="Heilbronn Hbf" />
@@ -3956,10 +6059,22 @@
   <zug name="RE85 25120" von="Bebra" nach="Frankfurt (Main) Hbf">
     <via name="Frankfurt (Main) Süd" />
   </zug>
-  <zug name="RE85 25123" von="Frankfurt (Main) Hbf" nach="Bebra" />
-  <zug name="RE85 25125" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
-  <zug name="RE85 25321" von="Frankfurt (Main) Hbf" nach="Bebra" />
-  <zug name="RE85 25325" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf" />
+  <zug name="RE85 25123" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE85 25125" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE85 25321" von="Frankfurt (Main) Hbf" nach="Bebra">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Hanau Hbf" />
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
+  <zug name="RE85 25325" von="Frankfurt (Main) Hbf" nach="Offenbach (Main) Hbf">
+    <via name="Frankfurt (Main) Süd" />
+  </zug>
   <zug name="RE87 23381" von="Aschaffenburg Hochschule" nach="Satteldorf">
     <via name="Kleinwallstadt" />
     <via name="Obernburg-Elsenfeld" />
@@ -4025,11 +6140,27 @@
     <via name="Obernburg-Elsenfeld" />
     <via name="Glanzstoffwerke" />
   </zug>
-  <zug name="RE98 24408" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RE98 24408" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
   <zug name="RE98 24425" von="Wölfersheim-Södel" nach="Frankfurt (Main) Hbf" />
-  <zug name="RE98 24438" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RE99 24508" von="Frankfurt (Main) Hbf" nach="Treysa" />
-  <zug name="RE99 24558" von="Frankfurt (Main) Hbf" nach="Treysa" />
+  <zug name="RE98 24438" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RE99 24508" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
+  <zug name="RE99 24558" von="Frankfurt (Main) Hbf" nach="Treysa">
+    <via name="Frankfurt (Main) West" />
+    <via name="Friedberg (Hess)" />
+    <via name="Bad Nauheim" />
+  </zug>
   <zug name="S1 35185" von="Wiesbaden Ost" nach="Rodgau-Rollwald">
     <via name="Frankfurt Hbf (tief)" />
     <via name="Flörsheim (Main)" />
@@ -4073,36 +6204,68 @@
     <via name="Niederhöchstadt Steinbacher Straße" />
     <via name="Niederhöchstadt" />
   </zug>
-  <zug name="S5 35584" von="Frankfurt (Main) Süd" nach="Friedrichsdorf (Taunus)" />
-  <zug name="S5 75796" von="Frankfurt (Main) Süd" nach="Friedrichsdorf (Taunus)" />
-  <zug name="S6 35684" von="Frankfurt (Main) Süd" nach="Bruchenbrücken" />
+  <zug name="S5 35584" von="Frankfurt (Main) Süd" nach="Friedrichsdorf (Taunus)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (M) Lokalbahnhof" />
+  </zug>
+  <zug name="S5 75796" von="Frankfurt (Main) Süd" nach="Friedrichsdorf (Taunus)">
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (M) Lokalbahnhof" />
+  </zug>
+  <zug name="S6 35684" von="Frankfurt (Main) Süd" nach="Bruchenbrücken">
+    <via name="Frankfurt (Main) Hbf Mannheimer Str." />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+  </zug>
   <zug name="S6 35685" von="Bruchenbrücken" nach="Frankfurt (Main) Süd">
     <via name="Frankfurt (Main) Hbf Mannheimer Str." />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Frankfurt Hbf (tief)" />
   </zug>
-  <zug name="S6 75804" von="Frankfurt (Main) Süd" nach="Bruchenbrücken" />
+  <zug name="S6 75804" von="Frankfurt (Main) Süd" nach="Bruchenbrücken">
+    <via name="Frankfurt (Main) Hbf Mannheimer Str." />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+  </zug>
   <zug name="S6 75805" von="Bruchenbrücken" nach="Frankfurt (Main) Süd">
     <via name="Frankfurt (Main) Hbf Mannheimer Str." />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Frankfurt Hbf (tief)" />
   </zug>
-  <zug name="S8 35884" von="Steinheim (Main)" nach="Wiesbaden Ost" />
+  <zug name="S8 35884" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="S8 35985" von="Wiesbaden Hbf" nach="Steinheim (Main)">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Frankfurt Hbf (tief)" />
   </zug>
-  <zug name="S8 75810" von="Steinheim (Main)" nach="Wiesbaden Ost" />
+  <zug name="S8 75810" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="S8 75829" von="Wiesbaden Hbf" nach="Steinheim (Main)">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />
     <via name="Frankfurt Hbf (tief)" />
   </zug>
-  <zug name="S8 9986" von="Steinheim (Main)" nach="Wiesbaden Ost" />
+  <zug name="S8 9986" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="S9 35880" von="Offenbach (Main) Hbf" nach="Frankfurt (Main) Hbf" />
   <zug name="S9 35980" von="Offenbach (Main) Hbf" nach="Frankfurt (Main) Hbf" />
-  <zug name="S9 35984" von="Steinheim (Main)" nach="Wiesbaden Ost" />
+  <zug name="S9 35984" von="Steinheim (Main)" nach="Wiesbaden Ost">
+    <via name="Offenbach (Main) Hbf" />
+    <via name="Frankfurt Hbf (tief)" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="S9 75827" von="Wiesbaden Hbf" nach="Steinheim (Main)">
     <via name="Mainz Hbf" />
     <via name="Frankfurt (Main) Hbf" />

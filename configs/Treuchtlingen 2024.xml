@@ -187,8 +187,16 @@
     <via name="Ellingen (Bay)" />
     <via name="Mühlstetten" />
   </zug>
-  <zug name="RB16 59085" von="Treuchtlingen" nach="München Hbf" />
-  <zug name="RB16 59087" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59085" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB16 59087" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RB16 59089" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="Augsburg Hbf ia" />
     <via name="Otting-Weilheim" />
@@ -204,7 +212,11 @@
     <via name="Ingolstadt Hbf" />
     <via name="Weißenburg (Bay)" />
   </zug>
-  <zug name="RB16 59093" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RB16 59093" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RB16 59094" von="Gersthofen" nach="Nürnberg Hbf ia">
     <via name="Weißenburg (Bay)" />
     <via name="Ellingen (Bay)" />
@@ -255,13 +267,21 @@
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RB16 59147" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RB16 59147" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RB16 59151" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RB16 59155" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59155" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RB16 59171" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
@@ -272,7 +292,11 @@
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RB16 59191" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RB16 59191" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RB16 59199" von="Schwabach" nach="Augsburg Hbf ia">
     <via name="Otting-Weilheim" />
     <via name="Donauwörth" />
@@ -328,16 +352,36 @@
     <via name="Ingolstadt Hbf" />
     <via name="Pappenheim" />
   </zug>
-  <zug name="RB17 84321" von="Treuchtlingen" nach="München Flughafen Terminal" />
+  <zug name="RB17 84321" von="Treuchtlingen" nach="München Flughafen Terminal">
+    <via name="München Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
   <zug name="RB17 84323" von="Nürnberg Hbf" nach="Gundelshausen">
     <via name="München Hbf" />
     <via name="Pappenheim" />
     <via name="Solnhofen" />
   </zug>
-  <zug name="RB17 84325" von="Treuchtlingen" nach="Gundelshausen" />
-  <zug name="RB17 84327" von="Treuchtlingen" nach="Gundelshausen" />
-  <zug name="RB17 84329" von="Treuchtlingen" nach="Gundelshausen" />
-  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord" />
+  <zug name="RB17 84325" von="Treuchtlingen" nach="Gundelshausen">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB17 84327" von="Treuchtlingen" nach="Gundelshausen">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB17 84329" von="Treuchtlingen" nach="Gundelshausen">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RB17 84351" von="Treuchtlingen" nach="Ingolstadt Nord">
+    <via name="München Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
   <zug name="RB80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
     <via name="Augsburg Hbf" />
     <via name="München Hbf" />
@@ -663,8 +707,16 @@
     <via name="Ellingen (Bay)" />
     <via name="Mühlstetten" />
   </zug>
-  <zug name="RE1 4001" von="Treuchtlingen" nach="München Hbf" />
-  <zug name="RE1 4003" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 4001" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RE1 4003" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE1 4005" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
@@ -675,8 +727,16 @@
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RE1 4009" von="Treuchtlingen" nach="München Hbf" />
-  <zug name="RE1 4011" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 4009" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RE1 4011" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE1 4013" von="Nürnberg Hbf" nach="München Hbf">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
@@ -687,27 +747,51 @@
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RE1 4017" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RE1 4017" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE1 4019" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RE1 4021" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
-  <zug name="RE1 4023" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RE1 4021" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RE1 4023" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE1 4697" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RE1 59065" von="Treuchtlingen" nach="München Hbf" />
-  <zug name="RE1 59071" von="Treuchtlingen" nach="München Hbf" />
+  <zug name="RE1 59065" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
+  <zug name="RE1 59071" von="Treuchtlingen" nach="München Hbf">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE1 59135" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
     <via name="Pappenheim" />
     <via name="Solnhofen" />
     <via name="Dollnstein" />
   </zug>
-  <zug name="RE1 59137" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RE1 59137" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE16 57178" von="Augsburg Hbf" nach="Nürnberg Hbf ia">
     <via name="Weißenburg (Bay)" />
     <via name="Ellingen (Bay)" />
@@ -868,7 +952,11 @@
     <via name="Ellingen (Bay)" />
     <via name="Mühlstetten" />
   </zug>
-  <zug name="RE60 59207" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RE60 59207" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Pappenheim" />
+    <via name="Solnhofen" />
+    <via name="Dollnstein" />
+  </zug>
   <zug name="RE60 59210" von="Augsburg Hbf" nach="Nürnberg Hbf ia">
     <via name="Weißenburg (Bay)" />
     <via name="Ellingen (Bay)" />

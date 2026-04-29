@@ -75,10 +75,26 @@
     <via name="Karstädt" />
     <via name="Grabow (Meckl)" />
   </zug>
-  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge" />
-  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge" />
-  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge" />
-  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge" />
+  <zug name="RE30 16300" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16302" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16304" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16306" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
   <zug name="RE30 16321" von="Magdeburg Hasselbachplatz" nach="Leipzig/Halle Flughafen">
     <via name="Schönebeck (Elbe)" />
     <via name="Sachsendorf (Calbe)" />
@@ -94,15 +110,51 @@
     <via name="Schönebeck (Elbe)" />
     <via name="Calbe (Saale) Ost" />
   </zug>
-  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge" />
-  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge" />
-  <zug name="RE30 2037" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
-  <zug name="RE30 2039" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
-  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge" />
-  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge" />
-  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge" />
-  <zug name="RE30 2441" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
-  <zug name="RE30 2443" von="Wittenberge" nach="Leipzig/Halle Flughafen" />
+  <zug name="RE30 16340" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 16344" von="Nienburg (Saale)" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 2037" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg-Buckau" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 2039" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg-Buckau" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 2042" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 2044" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 2434" von="Leipzig/Halle Flughafen" nach="Wittenberge">
+    <via name="Stendal Hbf" />
+    <via name="Magdeburg Hbf" />
+    <via name="Halle (Saale) Hbf" />
+  </zug>
+  <zug name="RE30 2441" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg-Buckau" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
+  <zug name="RE30 2443" von="Wittenberge" nach="Leipzig/Halle Flughafen">
+    <via name="Magdeburg Hasselbachplatz" />
+    <via name="Magdeburg-Buckau" />
+    <via name="Magdeburg SKET Industriepark" />
+  </zug>
   <zug name="RE4 13190" von="Rostock Hbf" nach="Wismar">
     <via name="Karstädt" />
     <via name="Grabow (Meckl)" />

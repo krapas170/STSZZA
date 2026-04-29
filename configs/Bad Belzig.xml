@@ -36,28 +36,48 @@
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RB37 62208" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RB37 62208" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RB37 62209" von="Jeber-Bergfrieden" nach="Berlin Ostbahnhof">
     <via name="Berlin Hbf" />
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RB37 62210" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RB37 62210" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RB37 62211" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RB37 62212" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RB37 62212" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RB37 62213" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RB37 62214" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RB37 62214" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RB37 62215" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RB37 62216" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RB37 62216" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RB37 62217" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
@@ -138,17 +158,29 @@
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 18783" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RE7 18783" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 18784" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 18785" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RE7 18785" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 18786" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 18787" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RE7 18787" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 3701" von="Sedlitz Ost" nach="Jeber-Bergfrieden">
     <via name="Wiesenburg (Mark)" />
     <via name="Medewitz (Mark)" />
@@ -220,7 +252,11 @@
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 3717" von="Sedlitz Ost" nach="Bad Belzig" />
+  <zug name="RE7 3717" von="Sedlitz Ost" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 3718" von="Nauen" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
@@ -234,17 +270,29 @@
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 3721" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RE7 3721" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 3722" von="Nauen" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 3723" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RE7 3723" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 3724" von="Jeber-Bergfrieden" nach="Borkheide">
     <via name="Baitz" />
     <via name="Brück (Mark)" />
   </zug>
-  <zug name="RE7 3747" von="Berlin Ostbahnhof" nach="Bad Belzig" />
+  <zug name="RE7 3747" von="Berlin Ostbahnhof" nach="Bad Belzig">
+    <via name="Berlin Hbf" />
+    <via name="Brück (Mark)" />
+    <via name="Borkheide" />
+  </zug>
   <zug name="RE7 3749" von="Sedlitz Ost" nach="Berlin-Spandau">
     <via name="Wiesenburg (Mark)" />
     <via name="Medewitz (Mark)" />

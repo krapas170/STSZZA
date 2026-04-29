@@ -30,50 +30,170 @@
     <via name="Ulm Hbf" />
     <via name="Leipheim" />
   </zug>
-  <zug name="RB78 57680" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57684" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57685" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57686" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57688" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57690" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57691" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57702" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57704" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57706" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57708" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57710" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57712" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57714" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57715" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57716" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57718" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57719" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57720" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57721" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57722" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57723" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57724" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57725" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57726" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57727" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57728" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57729" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57730" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57732" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57734" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57735" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57736" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57737" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57738" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57739" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57741" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57742" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57743" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57744" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57745" von="Günzburg" nach="Memmingen" />
-  <zug name="RB78 57746" von="Memmingen" nach="Günzburg" />
-  <zug name="RB78 57748" von="München Hbf" nach="Günzburg" />
-  <zug name="RB78 57749" von="Günzburg" nach="Memmingen" />
+  <zug name="RB78 57680" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57684" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57685" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57686" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57688" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57690" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57691" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57702" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57704" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57706" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57708" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57710" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57712" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57714" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57715" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57716" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57718" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57719" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57720" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57721" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57722" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57723" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57724" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57725" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57726" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57727" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57728" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57729" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57730" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57732" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57734" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57735" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57736" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57737" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57738" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57739" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57741" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57742" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57743" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57744" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57745" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57746" von="Memmingen" nach="Günzburg">
+    <via name="Mindelheim" />
+  </zug>
+  <zug name="RB78 57748" von="München Hbf" nach="Günzburg">
+    <via name="Ichenhausen" />
+    <via name="Krumbach (Schwab)" />
+    <via name="Krumbach (Schwab) Schule" />
+  </zug>
+  <zug name="RB78 57749" von="Günzburg" nach="Memmingen">
+    <via name="Mindelheim" />
+  </zug>
   <zug name="RB86 1204" von="München Hbf" nach="Stuttgart Hbf">
     <via name="Ulm Hbf ia" />
     <via name="Ulm Hbf" />

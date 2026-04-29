@@ -116,7 +116,11 @@
     <via name="München Hbf" />
     <via name="Allersberg (Rothsee)" />
   </zug>
-  <zug name="RB16 59108" von="Roth" nach="Nürnberg Hbf ia" />
+  <zug name="RB16 59108" von="Roth" nach="Nürnberg Hbf ia">
+    <via name="Nürnberg Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Gersthofen" />
+  </zug>
   <zug name="RB16 59140" von="München Hbf" nach="Pappenheim">
     <via name="Nürnberg Hbf" />
     <via name="Augsburg Hbf" />
@@ -191,8 +195,16 @@
     <via name="Roth" />
     <via name="Ingolstadt Audi" />
   </zug>
-  <zug name="RB20 10904" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 10905" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 10904" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RB20 10905" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
   <zug name="RB20 20000" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -228,8 +240,16 @@
     <via name="Eilendorf" />
     <via name="Stolberg-Schneidmühle" />
   </zug>
-  <zug name="RB20 20010" von="Düren" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 20012" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 20010" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 20012" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 20050" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -265,8 +285,16 @@
     <via name="Eilendorf" />
     <via name="Stolberg-Schneidmühle" />
   </zug>
-  <zug name="RB20 20060" von="Düren" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 20062" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 20060" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 20062" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30002" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -292,8 +320,16 @@
     <via name="Aachen Schanz" />
     <via name="Aachen West" />
   </zug>
-  <zug name="RB20 30014" von="Düren" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 30016" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30014" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30016" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30054" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -314,9 +350,21 @@
     <via name="Aachen Schanz" />
     <via name="Aachen West" />
   </zug>
-  <zug name="RB20 30062" von="Düren" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 30064" von="Düren" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 30066" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30062" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30064" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 30066" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30500" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -362,13 +410,21 @@
     <via name="Eilendorf" />
     <via name="Stolberg-Schneidmühle" />
   </zug>
-  <zug name="RB20 30544" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30544" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30545" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
     <via name="Stolberg (Rheinl) Hbf" />
     <via name="Eilendorf" />
     <via name="Stolberg-Schneidmühle" />
   </zug>
-  <zug name="RB20 30546" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30546" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30550" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -399,13 +455,21 @@
     <via name="Eilendorf" />
     <via name="Stolberg-Schneidmühle" />
   </zug>
-  <zug name="RB20 30560" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30560" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30561" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
     <via name="Stolberg (Rheinl) Hbf" />
     <via name="Eilendorf" />
     <via name="Stolberg-Schneidmühle" />
   </zug>
-  <zug name="RB20 30562" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 30562" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 30563" von="Eschweiler-St.Jöris" nach="Eschweiler-Weisweiler">
     <via name="Stolberg (Rheinl) Hbf" />
     <via name="Eilendorf" />
@@ -416,15 +480,31 @@
     <via name="Aachen Schanz" />
     <via name="Aachen West" />
   </zug>
-  <zug name="RB20 31002" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
-  <zug name="RB20 31004" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
-  <zug name="RB20 32057" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 31002" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RB20 31004" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RB20 32057" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
   <zug name="RB20 32800" von="Köln Messe/Deutz" nach="Eschweiler-St.Jöris">
     <via name="Stolberg (Rheinl) Hbf" />
     <via name="Aachen Hbf" />
     <via name="Eschweiler-Weisweiler" />
   </zug>
-  <zug name="RB20 32801" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 32801" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
   <zug name="RB20 32802" von="Köln Messe/Deutz" nach="Eschweiler-St.Jöris">
     <via name="Stolberg (Rheinl) Hbf" />
     <via name="Aachen Hbf" />
@@ -435,7 +515,11 @@
     <via name="Aachen Hbf" />
     <via name="Eschweiler-Weisweiler" />
   </zug>
-  <zug name="RB20 32805" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
+  <zug name="RB20 32805" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
   <zug name="RB20 32806" von="Düren" nach="Eschweiler-St.Jöris">
     <via name="Aachen Hbf" />
     <via name="Aachen Schanz" />
@@ -446,8 +530,16 @@
     <via name="Eschweiler-Weisweiler" />
     <via name="Eschweiler-Nothberg" />
   </zug>
-  <zug name="RB20 32810" von="Düren" nach="Aachen-Rothe Erde" />
-  <zug name="RB20 32812" von="Düren" nach="Aachen-Rothe Erde" />
+  <zug name="RB20 32810" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
+  <zug name="RB20 32812" von="Düren" nach="Aachen-Rothe Erde">
+    <via name="Stolberg (Rheinl) Hbf" />
+    <via name="Eilendorf" />
+    <via name="Stolberg-Schneidmühle" />
+  </zug>
   <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
@@ -877,108 +969,196 @@
     <via name="Michelau (Oberfr)" />
     <via name="Lichtenfels" />
   </zug>
-  <zug name="RB28 80796" von="Rudolstadt-Schwarza" nach="Rothenstein (Saale)" />
-  <zug name="RB28 80798" von="Rudolstadt-Schwarza" nach="Rothenstein (Saale)" />
-  <zug name="RB28 80800" von="Saalfeld (Saale)" nach="Rothenstein (Saale)" />
-  <zug name="RB28 80801" von="Rothenstein (Saale)" nach="Saalfeld (Saale)" />
+  <zug name="RB28 80796" von="Rudolstadt-Schwarza" nach="Rothenstein (Saale)">
+    <via name="Kahla (Thür)" />
+    <via name="Pößneck unt Bf" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB28 80798" von="Rudolstadt-Schwarza" nach="Rothenstein (Saale)">
+    <via name="Kahla (Thür)" />
+    <via name="Pößneck unt Bf" />
+    <via name="Uhlstädt" />
+  </zug>
+  <zug name="RB28 80800" von="Saalfeld (Saale)" nach="Rothenstein (Saale)">
+    <via name="Kahla (Thür)" />
+    <via name="Pößneck unt Bf" />
+    <via name="Zeutsch" />
+  </zug>
+  <zug name="RB28 80801" von="Rothenstein (Saale)" nach="Saalfeld (Saale)">
+    <via name="Kahla (Thür)" />
+    <via name="Orlamünde" />
+    <via name="Pößneck unt Bf" />
+  </zug>
   <zug name="RB28 80802" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80803" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80803" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Kahla (Thür)" />
+  </zug>
   <zug name="RB28 80804" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80805" von="Rothenstein (Saale)" nach="Saalfeld (Saale)" />
+  <zug name="RB28 80805" von="Rothenstein (Saale)" nach="Saalfeld (Saale)">
+    <via name="Kahla (Thür)" />
+    <via name="Orlamünde" />
+    <via name="Pößneck unt Bf" />
+  </zug>
   <zug name="RB28 80806" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80807" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80807" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Kahla (Thür)" />
+  </zug>
   <zug name="RB28 80808" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80809" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80809" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Kahla (Thür)" />
+  </zug>
   <zug name="RB28 80810" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80811" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80811" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80812" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80813" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80813" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80814" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80815" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80815" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80816" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Zeutsch" />
   </zug>
-  <zug name="RB28 80817" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80817" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80818" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80819" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80819" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80820" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80821" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80821" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80822" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80823" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80823" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80824" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80825" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80825" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 80826" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 80827" von="Rothenstein (Saale)" nach="Rudolstadt-Schwarza" />
+  <zug name="RB28 80827" von="Rothenstein (Saale)" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Orlamünde" />
+    <via name="Pößneck unt Bf" />
+  </zug>
   <zug name="RB28 80828" von="Rudolstadt-Schwarza" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Zeutsch" />
   </zug>
-  <zug name="RB28 80829" von="Rothenstein (Saale)" nach="Rudolstadt-Schwarza" />
-  <zug name="RB28 81061" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 80829" von="Rothenstein (Saale)" nach="Rudolstadt-Schwarza">
+    <via name="Kahla (Thür)" />
+    <via name="Orlamünde" />
+    <via name="Pößneck unt Bf" />
+  </zug>
+  <zug name="RB28 81061" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Leipzig Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Kahla (Thür)" />
+  </zug>
   <zug name="RB28 81062" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 81063" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 81063" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB28 81064" von="Saalfeld (Saale)" nach="Leipzig Hbf">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
     <via name="Jena-Göschwitz" />
   </zug>
-  <zug name="RB28 81065" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
-  <zug name="RB28 81067" von="Rothenstein (Saale)" nach="Jena-Göschwitz" />
+  <zug name="RB28 81065" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
+  <zug name="RB28 81067" von="Rothenstein (Saale)" nach="Jena-Göschwitz">
+    <via name="Halle (Saale) Hbf" />
+    <via name="Naumburg (Saale) Hbf" />
+    <via name="Leipzig Hbf" />
+  </zug>
   <zug name="RB30 2270" von="Muldenhütten" nach="Freiberg (Sachs) ia">
     <via name="Chemnitz Hbf" />
     <via name="Mosel" />
@@ -1342,29 +1522,65 @@
   <zug name="RB54 12489" von="Bad Bergzabern" nach="Landau (Pfalz) Hbf">
     <via name="Winden (Pfalz)" />
   </zug>
-  <zug name="RB61 58923" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58923" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58924" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58925" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58925" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58926" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58927" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58927" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58928" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58929" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58929" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58930" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58931" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58931" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58932" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58933" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58933" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58934" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58935" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58935" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58936" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58937" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58937" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58938" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58939" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58939" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58940" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58941" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58941" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58942" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58943" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58943" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58944" von="Hilpoltstein" nach="Roth" />
-  <zug name="RB61 58945" von="Roth" nach="Hilpoltstein" />
+  <zug name="RB61 58945" von="Roth" nach="Hilpoltstein">
+    <via name="Lohgarten-Roth" />
+    <via name="Eckersmühlen" />
+  </zug>
   <zug name="RB61 58948" von="Hilpoltstein" nach="Roth" />
   <zug name="RB68 62701" von="Füssen" nach="München Hbf">
     <via name="Kempten (Allgäu) Hbf" />
@@ -1531,67 +1747,119 @@
     <via name="München Hbf" />
     <via name="Burgbernheim-Wildbad" />
   </zug>
-  <zug name="RB81 58651" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58651" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58652" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58653" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58653" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58654" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58657" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58657" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58658" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58659" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58659" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58660" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58661" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58661" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58662" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58663" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58663" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58664" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58665" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58665" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58666" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58667" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58667" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58668" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58669" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58669" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58670" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58671" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58671" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58672" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58673" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58673" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58674" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58675" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58675" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58676" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB81 58677" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof" />
+  <zug name="RB81 58677" von="Steinach (b Rothenburg ob der Tauber)" nach="Neustadt (Aisch) Bahnhof">
+    <via name="Würzburg Hbf" />
+    <via name="Ansbach" />
+    <via name="Burgbernheim" />
+  </zug>
   <zug name="RB81 58678" von="Neustadt (Aisch) Bahnhof" nach="Rothenburg ob der Tauber">
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
@@ -1608,37 +1876,161 @@
     <via name="Würzburg Hbf" />
     <via name="Ansbach" />
   </zug>
-  <zug name="RB82 58881" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58882" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58883" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58884" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58886" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58887" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58888" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58889" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58890" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58891" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58892" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58893" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58894" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58895" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58896" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58897" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58898" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58899" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58900" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58901" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58902" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58903" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58904" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58905" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58906" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58907" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58908" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58909" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58910" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
-  <zug name="RB82 58911" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber" />
-  <zug name="RB82 58912" von="Rothenburg ob der Tauber" nach="Bad Windsheim" />
+  <zug name="RB82 58881" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58882" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58883" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58884" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58886" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58887" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58888" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58889" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58890" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58891" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58892" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58893" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58894" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58895" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58896" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58897" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58898" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58899" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58900" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58901" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58902" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58903" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58904" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58905" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58906" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58907" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58908" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58909" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58910" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
+  <zug name="RB82 58911" von="Steinach (b Rothenburg ob der Tauber)" nach="Rothenburg ob der Tauber">
+    <via name="Bad Windsheim" />
+    <via name="Hartershofen" />
+    <via name="Schweinsdorf" />
+  </zug>
+  <zug name="RB82 58912" von="Rothenburg ob der Tauber" nach="Bad Windsheim">
+    <via name="Schweinsdorf" />
+    <via name="Hartershofen" />
+    <via name="Steinach (b Rothenburg ob der Tauber)" />
+  </zug>
   <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
     <via name="Frickhofen" />
     <via name="Niederzeuzheim" />
@@ -2125,8 +2517,16 @@
     <via name="Niederzeuzheim" />
     <via name="Hadamar" />
   </zug>
-  <zug name="RB96 79669" von="Rothenbürg" nach="Plzen hl.n." />
-  <zug name="RB96 79673" von="Rothenbürg" nach="Plzen hl.n." />
+  <zug name="RB96 79669" von="Rothenbürg" nach="Plzen hl.n.">
+    <via name="Marktredwitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Selb-Plößberg" />
+  </zug>
+  <zug name="RB96 79673" von="Rothenbürg" nach="Plzen hl.n.">
+    <via name="Marktredwitz" />
+    <via name="Plauen (Vogtl) ob Bf" />
+    <via name="Selb-Plößberg" />
+  </zug>
   <zug name="RB96 79675" von="Rothenbürg" nach="Marktredwitz" />
   <zug name="RB96 79876" von="Marktredwitz" nach="Rothenbürg" />
   <zug name="RB96 79878" von="Marktredwitz" nach="Rothenbürg" />
@@ -4162,7 +4562,11 @@
     <via name="Marktbreit" />
     <via name="Ochsenfurt" />
   </zug>
-  <zug name="RE9 10900" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 10900" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
   <zug name="RE9 10901" von="Betzdorf (Sieg)" nach="Köln Messe/Deutz">
     <via name="Eschweiler Hbf" />
     <via name="Köln Hbf" />
@@ -4183,7 +4587,11 @@
     <via name="Berzhahn" />
     <via name="Willmenrod" />
   </zug>
-  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Siegen Hbf" />
+  </zug>
   <zug name="RE9 10907" von="Betzdorf (Sieg)" nach="Eitorf">
     <via name="Berzhahn" />
     <via name="Willmenrod" />
@@ -4255,10 +4663,26 @@
     <via name="Niederzeuzheim" />
     <via name="Hadamar" />
   </zug>
-  <zug name="RE9 32061" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
-  <zug name="RE9 32064" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
-  <zug name="RE9 32803" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
-  <zug name="RE9 32806" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde" />
+  <zug name="RE9 32061" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RE9 32064" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RE9 32803" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
+  <zug name="RE9 32806" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
+    <via name="Eschweiler Hbf" />
+    <via name="Köln Hbf" />
+    <via name="Langerwehe" />
+  </zug>
   <zug name="RE9 61559" von="Siegen Hbf" nach="Elz (Limburg/Lahn)">
     <via name="Frickhofen" />
     <via name="Niederzeuzheim" />

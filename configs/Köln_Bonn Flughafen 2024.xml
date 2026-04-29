@@ -70,7 +70,11 @@
     <via name="Troisdorf" />
     <via name="Friedrich Wilhelmshütte" />
   </zug>
-  <zug name="RB10 25032" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RB10 25032" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e">
+    <via name="Rheydt Hbf" />
+    <via name="Mönchengladbach Hbf" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
   <zug name="RB10 25050" von="Wiesbaden Hbf" nach="Mönchengladbach Hbf">
     <via name="Köln Hbf" />
     <via name="Rheydt Hbf" />
@@ -171,8 +175,16 @@
     <via name="Troisdorf" />
     <via name="Friedrich Wilhelmshütte" />
   </zug>
-  <zug name="RB27 10638" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
-  <zug name="RB27 10640" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RB27 10638" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e">
+    <via name="Rheydt Hbf" />
+    <via name="Mönchengladbach Hbf" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
+  <zug name="RB27 10640" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e">
+    <via name="Rheydt Hbf" />
+    <via name="Mönchengladbach Hbf" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
   <zug name="RB27 10642" von="Koblenz Hbf" nach="Mönchengladbach Hbf">
     <via name="Köln Hbf" />
     <via name="Rheydt Hbf" />
@@ -288,7 +300,11 @@
     <via name="Köln Messe/Deutz" />
     <via name="Köln-Ehrenfeld" />
   </zug>
-  <zug name="RE8 10842" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e" />
+  <zug name="RE8 10842" von="Köln/Bonn Flughafen" nach="W We e i i t t e e r r e e Z Z ü ü g ge e s si i e e h he e">
+    <via name="Rheydt Hbf" />
+    <via name="Mönchengladbach Hbf" />
+    <via name="Köln-Ehrenfeld" />
+  </zug>
   <zug name="RE8 10843" von="Rheydt Hbf" nach="Koblenz Stadtmitte">
     <via name="Porz (Rhein)" />
     <via name="Troisdorf" />

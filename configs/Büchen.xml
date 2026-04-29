@@ -307,8 +307,16 @@
   <zug name="RE4 4302" von="Schwaan" nach="Schwarzenbek">
     <via name="Müssen" />
   </zug>
-  <zug name="RE43 39572" von="Pommelsbrunn" nach="Büchenbach" />
-  <zug name="RE43 57852" von="Pommelsbrunn" nach="Büchenbach" />
+  <zug name="RE43 39572" von="Pommelsbrunn" nach="Büchenbach">
+    <via name="Nürnberg Hbf" />
+    <via name="Rednitzhembach" />
+    <via name="Schwabach" />
+  </zug>
+  <zug name="RE43 57852" von="Pommelsbrunn" nach="Büchenbach">
+    <via name="Nürnberg Hbf" />
+    <via name="Rednitzhembach" />
+    <via name="Schwabach" />
+  </zug>
   <zug name="RE9 1073" von="Bentwisch" nach="Greifswald">
     <via name="Velgast" />
     <via name="Martensdorf" />

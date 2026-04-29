@@ -6,11 +6,31 @@
   <zug name="RB42 81508" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
   <zug name="RB42 81510" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
   <zug name="RB42 81512" von="Bad Harzburg" nach="Halle (Saale) Hbf" />
-  <zug name="RB42 81561" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB42 81563" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB42 81565" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB42 81567" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB42 81569" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB42 81561" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB42 81563" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB42 81565" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB42 81567" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB42 81569" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
   <zug name="RB43 75650" von="Beyendorf" nach="Wernigerode Hbf">
     <via name="Halberstadt-Spiegelsberge" />
     <via name="Langenstein" />
@@ -46,31 +66,71 @@
     <via name="Langenstein" />
     <via name="Halberstadt-Spiegelsberge" />
   </zug>
-  <zug name="RB43 75660" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75660" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RB43 75661" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RB43 75662" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75662" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RB43 75663" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RB43 75664" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RB43 75664" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RB43 75665" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RB43 75666" von="Halberstadt" nach="Thale Musestieg" />
-  <zug name="RB43 75668" von="Halberstadt" nach="Thale Musestieg" />
-  <zug name="RB43 75710" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB43 75712" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB43 75754" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB43 75756" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RB43 80436" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RB43 75666" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RB43 75668" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
+  <zug name="RB43 75710" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB43 75712" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB43 75754" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB43 75756" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RB43 80436" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
   <zug name="RB43 80521" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
@@ -311,25 +371,41 @@
     <via name="Langenstein" />
     <via name="Halberstadt-Spiegelsberge" />
   </zug>
-  <zug name="RE11 80512" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80512" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE11 80513" von="Goslar" nach="Beyendorf">
     <via name="Blankenburg (Harz)" />
     <via name="Langenstein" />
     <via name="Halberstadt-Spiegelsberge" />
   </zug>
-  <zug name="RE11 80514" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80514" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE11 80515" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RE11 80516" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80516" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE11 80517" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RE11 80518" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE11 80518" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE11 80519" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
@@ -570,19 +646,31 @@
     <via name="Hildesheim Hbf" />
     <via name="Bernburg Hbf ia" />
   </zug>
-  <zug name="RE21 75758" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 75758" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hildesheim Hbf" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
   <zug name="RE21 75759" von="Goslar" nach="Leipzig Hbf (tief)">
     <via name="Hannover Hbf" />
     <via name="Hildesheim Hbf" />
     <via name="Bernburg Hbf ia" />
   </zug>
-  <zug name="RE21 75760" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 75760" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hildesheim Hbf" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
   <zug name="RE21 75761" von="Blankenburg (Harz)" nach="Wolfenbüttel">
     <via name="Leipzig Hbf (tief)" />
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
   </zug>
-  <zug name="RE21 75762" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 75762" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Leipzig Hbf (tief)" />
+    <via name="Hildesheim Hbf" />
+    <via name="Halberstadt-Spiegelsberge" />
+  </zug>
   <zug name="RE21 75763" von="Blankenburg (Harz)" nach="Wolfenbüttel">
     <via name="Leipzig Hbf (tief)" />
     <via name="Halberstadt" />
@@ -627,8 +715,16 @@
     <via name="Heudeber-Danstedt" />
     <via name="Wernigerode Elmowerk" />
   </zug>
-  <zug name="RE21 81513" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RE21 81517" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE21 81513" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RE21 81517" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
   <zug name="RE24 75638" von="Leipzig/Halle Flughafen" nach="Stapelburg">
     <via name="Wernigerode Hbf" />
     <via name="Heudeber-Danstedt" />
@@ -764,25 +860,41 @@
     <via name="Langenstein" />
     <via name="Halberstadt-Spiegelsberge" />
   </zug>
-  <zug name="RE31 75620" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75620" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE31 75621" von="Goslar" nach="Beyendorf">
     <via name="Blankenburg (Harz)" />
     <via name="Langenstein" />
     <via name="Halberstadt-Spiegelsberge" />
   </zug>
-  <zug name="RE31 75622" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75622" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE31 75623" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RE31 75624" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75624" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE31 75625" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
     <via name="Langenweddingen" />
   </zug>
-  <zug name="RE31 75626" von="Halberstadt" nach="Thale Musestieg" />
+  <zug name="RE31 75626" von="Halberstadt" nach="Thale Musestieg">
+    <via name="Halberstadt-Spiegelsberge" />
+    <via name="Langenstein" />
+    <via name="Blankenburg (Harz)" />
+  </zug>
   <zug name="RE31 75627" von="Blankenburg (Harz)" nach="Beyendorf">
     <via name="Halberstadt" />
     <via name="Hadmersleben" />
@@ -882,9 +994,21 @@
     <via name="Heudeber-Danstedt" />
     <via name="Wernigerode Elmowerk" />
   </zug>
-  <zug name="RE4 81511" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RE4 81515" von="Halberstadt" nach="Bad Harzburg ia" />
-  <zug name="RE4 81519" von="Halberstadt" nach="Bad Harzburg ia" />
+  <zug name="RE4 81511" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RE4 81515" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
+  <zug name="RE4 81519" von="Halberstadt" nach="Bad Harzburg ia">
+    <via name="Wolfenbüttel" />
+    <via name="Börßum" />
+    <via name="Schladen (Harz)" />
+  </zug>
   <zug name="RE7 18753" von="Sedlitz Ost" nach="Berlin-Spandau">
     <via name="Berlin Hbf" />
     <via name="Groß Köris" />

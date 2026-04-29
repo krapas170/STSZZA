@@ -43,11 +43,23 @@
   <zug name="MEX16 19114" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
   <zug name="MEX16 19116" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
   <zug name="MEX16 19118" von="Beimerstetten" nach="Stuttgart Hbf" />
-  <zug name="MEX16 19120" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
-  <zug name="MEX16 19122" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="MEX16 19120" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Stuttgart Hbf" />
+  </zug>
+  <zug name="MEX16 19122" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="MEX16 19124" von="Beimerstetten" nach="Stuttgart Hbf" />
   <zug name="MEX16 19126" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
-  <zug name="MEX16 19128" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="MEX16 19128" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="MEX16 19130" von="Beimerstetten" nach="Stuttgart Hbf" />
   <zug name="MEX16 19132" von="Beimerstetten" nach="Stuttgart Hbf" />
   <zug name="MEX16 19186" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
@@ -112,9 +124,17 @@
   <zug name="RB63 22858" von="Tübingen Hbf" nach="Stuttgart Hbf" />
   <zug name="RE5 4200" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
   <zug name="RE5 4202" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
-  <zug name="RE5 4204" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="RE5 4204" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="RE5 4206" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
-  <zug name="RE5 4208" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt" />
+  <zug name="RE5 4208" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
+    <via name="Reutlingen Hbf" />
+    <via name="Tübingen Hbf" />
+    <via name="Stuttgart Hbf" />
+  </zug>
   <zug name="RE5 4210" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
   <zug name="RE5 4236" von="Tübingen-Lustnau" nach="Stuttgart Hbf" />
 </zza>

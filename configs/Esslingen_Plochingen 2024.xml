@@ -107,28 +107,56 @@
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="MEX16 1011" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 119" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 1291" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 19101" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 1011" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 119" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 1291" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 19101" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX16 19102" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="MEX16 19103" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19103" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
   <zug name="MEX16 19104" von="Beimerstetten" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="MEX16 19105" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19105" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
   <zug name="MEX16 19106" von="Beimerstetten" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="MEX16 19107" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19107" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
   <zug name="MEX16 19108" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
@@ -183,7 +211,11 @@
   <zug name="MEX16 19120" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
     <via name="Esslingen (Neckar)" />
   </zug>
-  <zug name="MEX16 19121" von="Plochingen" nach="Tübingen-Lustnau" />
+  <zug name="MEX16 19121" von="Plochingen" nach="Tübingen-Lustnau">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
   <zug name="MEX16 19122" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
     <via name="Esslingen (Neckar)" />
   </zug>
@@ -208,19 +240,39 @@
   <zug name="MEX16 19128" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
     <via name="Esslingen (Neckar)" />
   </zug>
-  <zug name="MEX16 19129" von="Plochingen" nach="Reutlingen West" />
+  <zug name="MEX16 19129" von="Plochingen" nach="Reutlingen West">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
   <zug name="MEX16 19130" von="Beimerstetten" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="MEX16 19131" von="Plochingen" nach="Reutlingen West" />
+  <zug name="MEX16 19131" von="Plochingen" nach="Reutlingen West">
+    <via name="Stuttgart Hbf" />
+    <via name="Reutlingen Hbf" />
+    <via name="Reichenbach (Fils)" />
+  </zug>
   <zug name="MEX16 19132" von="Beimerstetten" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="MEX16 19133" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 19181" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 19183" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 19133" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 19181" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 19183" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX16 19186" von="Tübingen-Lustnau" nach="Stuttgart Hbf">
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Untertürkheim" />
@@ -251,41 +303,101 @@
     <via name="Ebersbach (Fils)" />
     <via name="Uhingen" />
   </zug>
-  <zug name="MEX16 2401" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 2409" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 4211" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 4213" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 4217" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 4227" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 4237" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 4239" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 2401" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 2409" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 4211" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 4213" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 4217" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 4227" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 4237" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 4239" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX16 4243" von="Wendlingen (Neckar)" nach="Beimerstetten">
     <via name="Reichenbach (Fils)" />
     <via name="Ebersbach (Fils)" />
     <via name="Uhingen" />
   </zug>
-  <zug name="MEX16 515" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 561" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 565" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 515" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 561" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 565" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX16 619" von="Wendlingen (Neckar)" nach="Beimerstetten">
     <via name="Reichenbach (Fils)" />
     <via name="Ebersbach (Fils)" />
     <via name="Uhingen" />
   </zug>
-  <zug name="MEX16 695" von="Plochingen" nach="Beimerstetten" />
-  <zug name="MEX16 699" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 695" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="MEX16 699" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX16 79489" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
     <via name="Reutlingen Hbf" />
     <via name="Plochingen" />
     <via name="Wendlingen (Neckar)" />
   </zug>
-  <zug name="MEX16 897" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 897" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX16 911" von="Tübingen Hbf" nach="Beimerstetten">
     <via name="Reichenbach (Fils)" />
     <via name="Ebersbach (Fils)" />
     <via name="Uhingen" />
   </zug>
-  <zug name="MEX16 991" von="Plochingen" nach="Beimerstetten" />
+  <zug name="MEX16 991" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="MEX18 19200" von="Tübingen-Lustnau" nach="Würzburg Hbf">
     <via name="Stuttgart Hbf" />
     <via name="Heilbronn Hbf" />
@@ -544,39 +656,171 @@
     <via name="Plochingen" />
     <via name="Wendlingen (Neckar)" />
   </zug>
-  <zug name="RB64 37950" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37951" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37952" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37953" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37954" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37955" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37956" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37957" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37958" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37959" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37960" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37961" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37962" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37963" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37964" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37965" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37966" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37967" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37968" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37969" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37970" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37971" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37972" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37973" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37974" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37975" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37976" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37977" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37978" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37979" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37980" von="Unterlenningen" nach="Esslingen (Neckar)" />
-  <zug name="RB64 37981" von="Esslingen (Neckar)" nach="Unterlenningen" />
-  <zug name="RB64 37982" von="Unterlenningen" nach="Esslingen (Neckar)" />
+  <zug name="RB64 37950" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37951" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37952" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37953" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37954" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37955" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37956" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37957" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37958" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37959" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37960" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37961" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37962" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37963" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37964" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37965" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37966" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37967" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37968" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37969" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37970" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37971" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37972" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37973" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37974" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37975" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37976" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37977" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37978" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37979" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37980" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
+  <zug name="RB64 37981" von="Esslingen (Neckar)" nach="Unterlenningen">
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+    <via name="Owen (Teck)" />
+  </zug>
+  <zug name="RB64 37982" von="Unterlenningen" nach="Esslingen (Neckar)">
+    <via name="Kirchheim (Teck)" />
+    <via name="Kirchheim (Teck) Süd" />
+    <via name="Dettingen (Teck)" />
+  </zug>
   <zug name="RE14a 17628" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
     <via name="Oberesslingen" />
     <via name="Esslingen-Zell" />
@@ -617,13 +861,41 @@
     <via name="Altbach" />
     <via name="Esslingen-Zell" />
   </zug>
-  <zug name="RE5 113" von="Plochingen" nach="Innsbruck Hbf" />
-  <zug name="RE5 19109" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 19113" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 19119" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 19139" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 19141" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 19161" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 113" von="Plochingen" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+  </zug>
+  <zug name="RE5 19109" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 19113" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 19119" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 19139" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 19141" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 19161" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="RE5 19303" von="Stuttgart Hbf" nach="Tübingen-Lustnau">
     <via name="Reutlingen Hbf" />
     <via name="Plochingen" />
@@ -649,7 +921,11 @@
     <via name="Esslingen (Neckar)" />
     <via name="Stuttgart-Bad Cannstatt" />
   </zug>
-  <zug name="RE5 4207" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 4207" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="RE5 4208" von="Merklingen - Schwäbische Alb" nach="Stuttgart-Bad Cannstatt">
     <via name="Esslingen (Neckar)" />
   </zug>
@@ -677,10 +953,26 @@
     <via name="Plochingen" />
     <via name="Wendlingen (Neckar)" />
   </zug>
-  <zug name="RE5 461" von="Plochingen" nach="Innsbruck Hbf" />
-  <zug name="RE5 513" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 599" von="Plochingen" nach="Beimerstetten" />
-  <zug name="RE5 913" von="Plochingen" nach="Beimerstetten" />
+  <zug name="RE5 461" von="Plochingen" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+  </zug>
+  <zug name="RE5 513" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 599" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
+  <zug name="RE5 913" von="Plochingen" nach="Beimerstetten">
+    <via name="Reichenbach (Fils)" />
+    <via name="Ebersbach (Fils)" />
+    <via name="Uhingen" />
+  </zug>
   <zug name="RE87 7102" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
     <via name="Oberesslingen" />
     <via name="Esslingen-Zell" />

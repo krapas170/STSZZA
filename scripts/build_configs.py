@@ -120,19 +120,35 @@ def via_for_train(
     nach: str,
     max_via: int = 3,
 ) -> List[str]:
-    """Wählt bis zu `max_via` Zwischenhalte zwischen Stellwerk und Endpunkten."""
-    candidates: List[str] = []
-    # Zwischen 0 und hit_idx → vor dem Stellwerk → fließen NICHT in via ein
-    # (das wäre Quelle-Richtung). Stattdessen: was hinter dem Stellwerk
-    # liegt, ist via Richtung „nach".
-    after = stations[hit_idx + 1:]
-    # Ohne Endpunkt
-    after = [s for s in after if s != nach]
-    # Bevorzugt große Stationen
-    big = [s for s in after if is_big_station(s)]
-    rest = [s for s in after if s not in big]
-    candidates = big + rest
-    return candidates[:max_via]
+    """Wählt bis zu `max_via` Zwischenhalte für die Anzeige.
+
+    Drei Fälle:
+      1) Stellwerk = letzter Halt → via = ankommende Strecke (von → uns),
+         d. h. Halte zwischen Start und Stellwerk.
+      2) Stellwerk = erster Halt → via = abfahrende Strecke (uns → nach),
+         d. h. Halte zwischen Stellwerk und Endpunkt.
+      3) Stellwerk mittendrin → via = abfahrende Strecke (uns → nach).
+
+    In allen Fällen werden große Bahnhöfe (Hbf) bevorzugt; die ersten
+    `max_via` Treffer kommen ins via.
+    """
+    last_idx = len(stations) - 1
+    if hit_idx >= last_idx:
+        # Endpunkt — via = was vor dem Stellwerk lag (Fahrtrichtung
+        # einfach umgekehrt, damit Reisende sehen, woher er kommt).
+        between = stations[1:hit_idx]
+        # Reihenfolge umkehren, damit die Anzeige in Richtung „kommt aus …"
+        # die nächstgelegene Station zuerst nennt — wirkt natürlicher.
+        between = list(reversed(between))
+    else:
+        # Stellwerk in der Mitte ODER Stellwerk = erster Halt
+        between = stations[hit_idx + 1:last_idx]
+
+    between = [s for s in between if s and s != von and s != nach]
+
+    big = [s for s in between if is_big_station(s)]
+    rest = [s for s in between if s not in big]
+    return (big + rest)[:max_via]
 
 
 # ── Main ─────────────────────────────────────────────────────────────────────
@@ -232,13 +248,7 @@ def main() -> int:
                 continue
             von = stations[0]
             nach = stations[-1]
-            # Wenn Stellwerk = Endpunkt, klammern wir den Eintrag aus —
-            # für „endet hier"-Züge genügt das Live-Plugin.
-            if hit_idx == 0 or hit_idx == len(stations) - 1:
-                # Trotzdem aufnehmen, aber via leer
-                via: List[str] = []
-            else:
-                via = via_for_train(stations, hit_idx, von, nach)
+            via = via_for_train(stations, hit_idx, von, nach)
             entries.append({
                 "name": tr["name"],
                 "von": normalize_station_name(von),

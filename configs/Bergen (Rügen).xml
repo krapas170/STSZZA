@@ -697,43 +697,131 @@
     <via name="Niedersachswerfen" />
     <via name="Woffleben" />
   </zug>
-  <zug name="RB81 14150" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14151" von="Höxter-Ottbergen" nach="Göttingen" />
-  <zug name="RB81 14152" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14153" von="Höxter-Ottbergen" nach="Göttingen" />
-  <zug name="RB81 14154" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14155" von="Höxter-Ottbergen" nach="Göttingen" />
-  <zug name="RB81 14157" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
-  <zug name="RB81 14159" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
-  <zug name="RB81 14160" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14161" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
-  <zug name="RB81 14163" von="Höxter-Ottbergen" nach="Göttingen" />
-  <zug name="RB81 14164" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14165" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14150" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14151" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14152" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14153" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14154" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14155" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14157" von="Höxter-Ottbergen" nach="Nordhausen-Salza">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14159" von="Höxter-Ottbergen" nach="Nordhausen-Salza">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14160" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14161" von="Höxter-Ottbergen" nach="Nordhausen-Salza">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14163" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14164" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14165" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
   <zug name="RB81 14166" von="Göttingen" nach="Nörten-Hardenberg">
     <via name="Nordhausen-Salza" />
     <via name="Niedersachswerfen" />
     <via name="Woffleben" />
   </zug>
-  <zug name="RB81 14167" von="Höxter-Ottbergen" nach="Nordhausen-Salza" />
-  <zug name="RB81 14168" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14169" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14167" von="Höxter-Ottbergen" nach="Nordhausen-Salza">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14168" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14169" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
   <zug name="RB81 14170" von="Göttingen" nach="Nörten-Hardenberg">
     <via name="Nordhausen-Salza" />
     <via name="Niedersachswerfen" />
     <via name="Woffleben" />
   </zug>
-  <zug name="RB81 14171" von="Höxter-Ottbergen" nach="Göttingen" />
-  <zug name="RB81 14172" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14173" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14171" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14172" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14173" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
   <zug name="RB81 14174" von="Göttingen" nach="Nörten-Hardenberg">
     <via name="Nordhausen-Salza" />
     <via name="Niedersachswerfen" />
     <via name="Woffleben" />
   </zug>
-  <zug name="RB81 14175" von="Höxter-Ottbergen" nach="Göttingen" />
-  <zug name="RB81 14176" von="Göttingen" nach="Höxter-Ottbergen" />
-  <zug name="RB81 14177" von="Höxter-Ottbergen" nach="Göttingen" />
+  <zug name="RB81 14175" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14176" von="Göttingen" nach="Höxter-Ottbergen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
+  <zug name="RB81 14177" von="Höxter-Ottbergen" nach="Göttingen">
+    <via name="Bodenfelde" />
+    <via name="Uslar" />
+    <via name="Volpriehausen" />
+  </zug>
   <zug name="RE1 3650" von="Meerane qj" nach="Eichenberg">
     <via name="Gotha" />
     <via name="Gotha Ost" />

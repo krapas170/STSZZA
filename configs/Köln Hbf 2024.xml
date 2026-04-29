@@ -161,11 +161,31 @@
     <via name="Köln Süd" />
     <via name="Hürth-Kalscheuren" />
   </zug>
-  <zug name="RB23 12604" von="Köln Hbf" nach="Friedrichssegen" />
-  <zug name="RB23 12606" von="Köln Hbf" nach="Friedrichssegen" />
-  <zug name="RB23 12608" von="Köln Hbf" nach="Friedrichssegen" />
-  <zug name="RB23 12610" von="Köln Hbf" nach="Friedrichssegen" />
-  <zug name="RB23 12612" von="Köln Hbf" nach="Friedrichssegen" />
+  <zug name="RB23 12604" von="Köln Hbf" nach="Friedrichssegen">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB23 12606" von="Köln Hbf" nach="Friedrichssegen">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB23 12608" von="Köln Hbf" nach="Friedrichssegen">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB23 12610" von="Köln Hbf" nach="Friedrichssegen">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB23 12612" von="Köln Hbf" nach="Friedrichssegen">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
   <zug name="RB24 10000" von="Gerolstein" nach="Köln Messe/Deutz" />
   <zug name="RB24 10006" von="Trier Hbf" nach="Köln Messe/Deutz" />
   <zug name="RB24 10023" von="Köln Messe/Deutz" nach="kehr auf dem Streckenabschnitt Kall">
@@ -437,31 +457,131 @@
   </zug>
   <zug name="RB38 10291" von="Bedburg (Erft)" nach="Köln Messe/Deutz" />
   <zug name="RB38 10298" von="Bedburg (Erft)" nach="Köln Messe/Deutz" />
-  <zug name="RB38 12650" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12652" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12654" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12656" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12658" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12660" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12662" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12686" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12688" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12996" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB38 12998" von="Köln Hbf" nach="Urmersbach" />
-  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf" />
-  <zug name="RB90 31037" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB90 61559" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf" />
-  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf" />
-  <zug name="RB93 10968" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB93 32219" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB93 32221" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB93 32239" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB93 61715" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf" />
-  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf" />
-  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf" />
-  <zug name="RB96 32071" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
+  <zug name="RB38 12650" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12652" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12654" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12656" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12658" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12660" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12662" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12686" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12688" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12996" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB38 12998" von="Köln Hbf" nach="Urmersbach">
+    <via name="Koblenz Hbf" />
+    <via name="Andernach" />
+    <via name="Koblenz Stadtmitte" />
+  </zug>
+  <zug name="RB90 10954" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB90 31037" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB90 61559" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB90 61563" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB90 61749" von="Lützel" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB93 10968" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB93 32219" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB93 32221" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB93 32239" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB93 61715" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RB93 61807" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB93 61841" von="Lützel" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB93 61843" von="Bad Berleburg" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RB96 32071" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
   <zug name="RE12 10004" von="Trier Hbf" nach="Köln Messe/Deutz" />
   <zug name="RE12 10475" von="Köln Messe/Deutz" nach="kehr auf dem Streckenabschnitt Kall">
     <via name="Köln West" />
@@ -645,33 +765,81 @@
     <via name="Düren" />
     <via name="Langerwehe" />
   </zug>
-  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf" />
-  <zug name="RE9 10904" von="Lützel" nach="Köln Hbf" />
-  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf" />
+  <zug name="RE9 10903" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Eschweiler Hbf" />
+    <via name="Siegen Hbf" />
+    <via name="Düren" />
+  </zug>
+  <zug name="RE9 10904" von="Lützel" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE9 10905" von="Betzdorf (Sieg)" nach="Köln Hbf">
+    <via name="Eschweiler Hbf" />
+    <via name="Siegen Hbf" />
+    <via name="Düren" />
+  </zug>
   <zug name="RE9 10906" von="Bad Berleburg" nach="Aachen-Rothe Erde">
     <via name="Eschweiler Hbf" />
     <via name="Düren" />
     <via name="Langerwehe" />
   </zug>
-  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf" />
-  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf" />
-  <zug name="RE9 31011" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RE9 31029" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
+  <zug name="RE9 10948" von="Lützel" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE9 10954" von="Lützel" nach="Köln Hbf">
+    <via name="Siegen Hbf" />
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+  </zug>
+  <zug name="RE9 31011" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RE9 31029" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
   <zug name="RE9 32061" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
     <via name="Eschweiler Hbf" />
     <via name="Düren" />
     <via name="Langerwehe" />
   </zug>
   <zug name="RE9 32064" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
-  <zug name="RE9 32075" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RE9 32201" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
+  <zug name="RE9 32075" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RE9 32201" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
   <zug name="RE9 32803" von="Aachen-Rothe Erde" nach="Köln Messe/Deutz" />
   <zug name="RE9 32806" von="Köln Messe/Deutz" nach="Aachen-Rothe Erde">
     <via name="Eschweiler Hbf" />
     <via name="Düren" />
     <via name="Langerwehe" />
   </zug>
-  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf" />
-  <zug name="RE9 61807" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
-  <zug name="RE9 61847" von="Eiserfeld (Sieg)" nach="Köln Hbf" />
+  <zug name="RE9 61801" von="Siegen Hbf" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RE9 61807" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
+  <zug name="RE9 61847" von="Eiserfeld (Sieg)" nach="Köln Hbf">
+    <via name="Köln Messe/Deutz" />
+    <via name="Porz (Rhein)" />
+    <via name="Troisdorf" />
+  </zug>
 </zza>

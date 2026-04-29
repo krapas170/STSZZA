@@ -460,17 +460,49 @@
     <via name="Bruchsal Schlachthof" />
     <via name="Heidelsheim Nord" />
   </zug>
-  <zug name="RE4 38111" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE4 38171" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE4 38321" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE4 38333" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38111" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38171" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38321" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38333" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
   <zug name="RE4 38380" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum" />
   <zug name="RE4 38400" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum" />
-  <zug name="RE4 38417" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE4 38431" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
-  <zug name="RE4 38435" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38417" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38431" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
+  <zug name="RE4 38435" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
   <zug name="RE4 38436" von="Ludwigshafen (Rhein) Mitte" nach="Bruchsal Sportzentrum" />
-  <zug name="RE4 38437" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte" />
+  <zug name="RE4 38437" von="Bruchsal Sportzentrum" nach="Ludwigshafen (Rhein) Mitte">
+    <via name="Speyer Hbf" />
+    <via name="Ludwigshafen (Rh) Hbf" />
+    <via name="Bruchsal Am Mantel" />
+  </zug>
   <zug name="RE40 1571" von="Heidelberg-Kirchheim/Rohrbach" nach="Karlsruhe-Durlach">
     <via name="Bruchsal Bildungszentrum" />
     <via name="Untergrombach" />

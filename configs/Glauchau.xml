@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Glauchau">
-  <zug name="RB20 3905" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB20 3905" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
   <zug name="RB20 74605" von="Vieselbach" nach="Wandersleben">
     <via name="Naumburg (Saale) Hbf" />
     <via name="Halle (Saale) Hbf" />
@@ -21,23 +25,91 @@
     <via name="Halle (Saale) Hbf" />
     <via name="Leipzig Hbf" />
   </zug>
-  <zug name="RB20 80887" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 3657" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 74613" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80799" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80879" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80881" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80883" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80884" von="Glauchau (Sachs) qk" nach="Vieselbach" />
-  <zug name="RB21 80886" von="Glauchau (Sachs) qk" nach="Vieselbach" />
-  <zug name="RB21 80888" von="Glauchau (Sachs) qk" nach="Vieselbach" />
-  <zug name="RB21 80890" von="Glauchau (Sachs) qk" nach="Vieselbach" />
-  <zug name="RB21 80892" von="Glauchau (Sachs) qk" nach="Vieselbach" />
-  <zug name="RB21 80915" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80917" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80919" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80921" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RB21 80925" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RB20 80887" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 3657" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 74613" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80799" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80879" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80881" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80883" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80884" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+  </zug>
+  <zug name="RB21 80886" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+  </zug>
+  <zug name="RB21 80888" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+  </zug>
+  <zug name="RB21 80890" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+  </zug>
+  <zug name="RB21 80892" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+  </zug>
+  <zug name="RB21 80915" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80917" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80919" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80921" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RB21 80925" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
   <zug name="RB30 2270" von="Muldenhütten" nach="Freiberg (Sachs) ia">
     <via name="Chemnitz Hbf" />
     <via name="Hohenstein-Ernstthal" />
@@ -323,31 +395,111 @@
     <via name="Hohenstein-Ernstthal" />
     <via name="Wüstenbrand" />
   </zug>
-  <zug name="RB37 3655" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 3657" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 3660" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 3666" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 37503" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 37511" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 37520" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 37521" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 37532" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 37551" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 37599" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RB37 3902" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
-  <zug name="RB37 3908" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 3914" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 55654" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
-  <zug name="RB37 55658" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RB37 55663" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 3653" von="Eichenberg" nach="Glauchau (Sachs)" />
-  <zug name="RE1 3654" von="Glauchau-Schönbörnchen" nach="Ronshausen" />
+  <zug name="RB37 3655" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 3657" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 3660" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 3666" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RB37 37503" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 37511" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 37520" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 37521" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RB37 37532" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RB37 37551" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 37599" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 3902" von="Glauchau-Schönbörnchen" nach="Gera Hbf">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 3908" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 3914" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RB37 55654" von="Glauchau-Schönbörnchen" nach="Gera Hbf">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 55658" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RB37 55663" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3653" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RE1 3654" von="Glauchau-Schönbörnchen" nach="Ronshausen">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Arnstadt Hbf" />
+  </zug>
   <zug name="RE1 3655" von="Eichenberg" nach="Wandersleben">
     <via name="Arnstadt Hbf" />
     <via name="Plaue (Thür)" />
     <via name="Arnstadt Süd" />
   </zug>
-  <zug name="RE1 3658" von="Glauchau-Schönbörnchen" nach="Bebra" />
+  <zug name="RE1 3658" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Kassel Hbf" />
+  </zug>
   <zug name="RE1 3659" von="Göttingen" nach="Wandersleben">
     <via name="Arnstadt Hbf" />
     <via name="Kassel Hbf ia" />
@@ -358,7 +510,11 @@
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
   </zug>
-  <zug name="RE1 3664" von="Glauchau-Schönbörnchen" nach="Bebra" />
+  <zug name="RE1 3664" von="Glauchau-Schönbörnchen" nach="Bebra">
+    <via name="Erfurt Hbf" />
+    <via name="Kassel Hbf" />
+    <via name="Crimmitschau" />
+  </zug>
   <zug name="RE1 3665" von="Göttingen" nach="Erfurt-Bischleben">
     <via name="Kassel Hbf ia" />
     <via name="Vieselbach" />
@@ -374,33 +530,121 @@
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
   </zug>
-  <zug name="RE1 3679" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE1 37504" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
-  <zug name="RE1 37506" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
-  <zug name="RE1 37509" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 37513" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 37516" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE1 37518" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE1 37528" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE1 37530" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE1 37573" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 3909" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 3911" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 3916" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE1 3917" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE1 3918" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE1 3919" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE1 3931" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE1 3939" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3679" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Altenburg" />
+  </zug>
+  <zug name="RE1 37504" von="Glauchau-Schönbörnchen" nach="Gera Hbf">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 37506" von="Glauchau-Schönbörnchen" nach="Gera Hbf">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 37509" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 37513" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 37516" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 37518" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 37528" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 37530" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 37573" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3909" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3911" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE1 3916" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE1 3917" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Altenburg" />
+  </zug>
+  <zug name="RE1 3918" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE1 3919" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Altenburg" />
+  </zug>
+  <zug name="RE1 3931" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE1 3939" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Altenburg" />
+  </zug>
   <zug name="RE1 3951" von="Göttingen" nach="Erfurt Nord">
     <via name="Kassel Hbf ia" />
     <via name="Kassel-Wilhelmshöhe" />
     <via name="Leinefelde q" />
   </zug>
-  <zug name="RE1 3964" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE1 55653" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 55657" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE1 80885" von="Vieselbach" nach="Glauchau (Sachs)" />
+  <zug name="RE1 3964" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE1 55653" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 55657" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE1 80885" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
   <zug name="RE17 2271" von="Dresden-Plauen" nach="Bayreuth Hbf">
     <via name="Mosel" />
     <via name="Oberrothenbach" />
@@ -421,38 +665,126 @@
     <via name="Hohenstein-Ernstthal" />
     <via name="Wüstenbrand" />
   </zug>
-  <zug name="RE3 3661" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 3663" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE3 3666" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE3 3668" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE3 3669" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE3 3670" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE3 3675" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RE3 37501" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 37514" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE3 37519" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 37523" von="Altenburg" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 37526" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE3 37552" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
-  <zug name="RE3 37553" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 37556" von="Glauchau-Schönbörnchen" nach="Gera Hbf" />
-  <zug name="RE3 37561" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 37590" von="Glauchau-Schönbörnchen" nach="Lehndorf (Altenburg)" />
-  <zug name="RE3 3900" von="Glauchau-Schönbörnchen" nach="Eichenberg" />
+  <zug name="RE3 3661" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3663" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3666" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3668" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3669" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Altenburg" />
+  </zug>
+  <zug name="RE3 3670" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3675" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RE3 37501" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 37514" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 37519" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 37523" von="Altenburg" nach="Glauchau-Schönbörnchen">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 37526" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 37552" von="Glauchau-Schönbörnchen" nach="Gera Hbf">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 37553" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 37556" von="Glauchau-Schönbörnchen" nach="Gera Hbf">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 37561" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 37590" von="Glauchau-Schönbörnchen" nach="Lehndorf (Altenburg)">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 3900" von="Glauchau-Schönbörnchen" nach="Eichenberg">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Meerane" />
+  </zug>
   <zug name="RE3 3901" von="Eichenberg" nach="Glauchau (Sachs)">
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
     <via name="Weimar" />
   </zug>
-  <zug name="RE3 3903" von="Eichenberg" nach="Glauchau (Sachs)" />
-  <zug name="RE3 3904" von="Glauchau-Schönbörnchen" nach="Vieselbach" />
-  <zug name="RE3 3905" von="Eichenberg" nach="Glauchau-Schönbörnchen" />
+  <zug name="RE3 3903" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RE3 3904" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Meerane" />
+  </zug>
+  <zug name="RE3 3905" von="Eichenberg" nach="Glauchau-Schönbörnchen">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Crimmitschau" />
+  </zug>
   <zug name="RE3 3906" von="Meerane" nach="Vieselbach">
     <via name="Gera Süd" />
     <via name="Großschwabhausen" />
     <via name="Mellingen (Thür)" />
   </zug>
-  <zug name="RE3 3907" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3907" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
   <zug name="RE3 3908" von="Meerane" nach="Vieselbach">
     <via name="Gera Süd" />
     <via name="Großschwabhausen" />
@@ -463,22 +795,46 @@
     <via name="Hopfgarten (Weimar)" />
     <via name="Oberweimar" />
   </zug>
-  <zug name="RE3 3910" von="Glauchau-Schönbörnchen" nach="Vieselbach" />
-  <zug name="RE3 3911" von="Göttingen" nach="Glauchau (Sachs)" />
-  <zug name="RE3 3912" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3910" von="Glauchau-Schönbörnchen" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Meerane" />
+  </zug>
+  <zug name="RE3 3911" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3912" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
   <zug name="RE3 3913" von="Göttingen" nach="Altenburg">
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
     <via name="Oberweimar" />
   </zug>
-  <zug name="RE3 3914" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3914" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
   <zug name="RE3 3915" von="Göttingen" nach="Gera Süd">
     <via name="Crimmitschau" />
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
   </zug>
-  <zug name="RE3 3916" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE3 3923" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3916" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 3923" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Gera Hbf" />
+    <via name="Erfurt Hbf" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
   <zug name="RE3 3924" von="Cheb qf" nach="Vieselbach">
     <via name="Großschwabhausen" />
     <via name="Mellingen (Thür)" />
@@ -499,17 +855,41 @@
     <via name="Gera Süd" />
     <via name="Wünschendorf Nord" />
   </zug>
-  <zug name="RE3 3934" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3934" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
   <zug name="RE3 3935" von="Göttingen" nach="Gera Süd">
     <via name="Greiz" />
     <via name="Greiz-Dölau" />
     <via name="Elsterberg" />
   </zug>
-  <zug name="RE3 3936" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE3 3938" von="Glauchau (Sachs)" nach="Göttingen" />
-  <zug name="RE3 3949" von="Eichenberg" nach="Glauchau (Sachs)" />
-  <zug name="RE3 3954" von="Glauchau (Sachs) qk" nach="Vieselbach" />
-  <zug name="RE3 3955" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 3936" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3938" von="Glauchau (Sachs)" nach="Göttingen">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 3949" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RE3 3954" von="Glauchau (Sachs) qk" nach="Vieselbach">
+    <via name="Gera Hbf" />
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+  </zug>
+  <zug name="RE3 3955" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
   <zug name="RE3 3956" von="Meerane" nach="Vieselbach">
     <via name="Gera Süd" />
     <via name="Großschwabhausen" />
@@ -530,7 +910,11 @@
     <via name="Hopfgarten (Weimar)" />
     <via name="Oberweimar" />
   </zug>
-  <zug name="RE3 3962" von="Glauchau (Sachs)" nach="Vieselbach" />
+  <zug name="RE3 3962" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
   <zug name="RE3 3963" von="Göttingen" nach="Altenburg">
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
@@ -541,18 +925,46 @@
     <via name="Hopfgarten (Weimar)" />
     <via name="Weimar" />
   </zug>
-  <zug name="RE3 52150" von="Glauchau (Sachs)" nach="Vieselbach" />
-  <zug name="RE3 52151" von="Eichenberg" nach="Glauchau (Sachs)" />
-  <zug name="RE3 52155" von="Göttingen" nach="Glauchau (Sachs)" />
+  <zug name="RE3 52150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE3 52151" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RE3 52155" von="Göttingen" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
   <zug name="RE3 52157" von="Göttingen" nach="Gera Süd">
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />
     <via name="Weimar" />
   </zug>
-  <zug name="RE3 55651" von="Gera Hbf" nach="Glauchau-Schönbörnchen" />
-  <zug name="RE3 55660" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE3 55666" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
-  <zug name="RE3 55668" von="Glauchau-Schönbörnchen" nach="Nöbdenitz" />
+  <zug name="RE3 55651" von="Gera Hbf" nach="Glauchau-Schönbörnchen">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 55660" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Meerane" />
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+  </zug>
+  <zug name="RE3 55666" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
+  <zug name="RE3 55668" von="Glauchau-Schönbörnchen" nach="Nöbdenitz">
+    <via name="Crimmitschau" />
+    <via name="Gößnitz" />
+    <via name="Lehndorf (Altenburg)" />
+  </zug>
   <zug name="RE3 62271" von="Dresden-Plauen" nach="Bayreuth Hbf">
     <via name="Mosel" />
     <via name="Oberrothenbach" />
@@ -743,9 +1155,21 @@
     <via name="Hohenstein-Ernstthal" />
     <via name="Wüstenbrand" />
   </zug>
-  <zug name="RE3 74615" von="Vieselbach" nach="Glauchau (Sachs)" />
-  <zug name="RE51 2150" von="Glauchau (Sachs)" nach="Vieselbach" />
-  <zug name="RE51 2151" von="Eichenberg" nach="Glauchau (Sachs)" />
+  <zug name="RE3 74615" von="Vieselbach" nach="Glauchau (Sachs)">
+    <via name="Altenburg" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
+  <zug name="RE51 2150" von="Glauchau (Sachs)" nach="Vieselbach">
+    <via name="Erfurt Hbf" />
+    <via name="Gößnitz" />
+    <via name="Neumühle (Elster)" />
+  </zug>
+  <zug name="RE51 2151" von="Eichenberg" nach="Glauchau (Sachs)">
+    <via name="Erfurt Hbf" />
+    <via name="Gera Süd" />
+    <via name="Hermsdorf-Klosterlausnitz" />
+  </zug>
   <zug name="RE51 2155" von="Göttingen" nach="Altenburg">
     <via name="Vieselbach" />
     <via name="Hopfgarten (Weimar)" />

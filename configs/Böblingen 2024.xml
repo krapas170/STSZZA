@@ -22,7 +22,11 @@
     <via name="Böblingen" />
     <via name="Goldberg (Württ)" />
   </zug>
-  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen" />
+  <zug name="RE14a 39911" von="Wendlingen (Neckar)" nach="Böblingen">
+    <via name="Stuttgart Hbf" />
+    <via name="S-Vaihingen" />
+    <via name="S-Österfeld" />
+  </zug>
   <zug name="RE14a 7100" von="Nufringen" nach="Kirchheim (Teck) -Ötlingen">
     <via name="Hulb" />
     <via name="Böblingen" />

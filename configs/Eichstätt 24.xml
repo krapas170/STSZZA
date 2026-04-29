@@ -1,96 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Eichstätt 24">
-  <zug name="RB14 84035" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84035" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84036" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84037" von="Eichstätt Stadt" nach="Ingolstadt Audi" />
+  <zug name="RB14 84037" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RB14 84038" von="Ingolstadt Hbf" nach="Pappenheim">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84039" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84039" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84040" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84041" von="Eichstätt Stadt" nach="Ingolstadt Audi" />
+  <zug name="RB14 84041" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RB14 84042" von="Ingolstadt Hbf" nach="Pappenheim">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84043" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84043" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84044" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84045" von="Eichstätt Stadt" nach="Ingolstadt Audi" />
+  <zug name="RB14 84045" von="Eichstätt Stadt" nach="Ingolstadt Audi">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RB14 84046" von="Ingolstadt Hbf" nach="Pappenheim">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84047" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84047" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84048" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84049" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84049" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84050" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84051" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84051" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84052" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84053" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84053" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84054" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84055" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84055" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84056" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84057" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84057" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84058" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84059" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84059" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84060" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84061" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84061" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84062" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84063" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84063" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84064" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
     <via name="Wasserzell (b Eichstätt)" />
   </zug>
-  <zug name="RB14 84065" von="Eichstätt Stadt" nach="München Hbf" />
+  <zug name="RB14 84065" von="Eichstätt Stadt" nach="München Hbf">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Hbf" />
+    <via name="Rebdorf-Hofmühle" />
+  </zug>
   <zug name="RB14 84066" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
     <via name="Nürnberg Hbf" />
     <via name="Treuchtlingen" />
@@ -135,9 +199,21 @@
     <via name="Solnhofen" />
     <via name="Pappenheim" />
   </zug>
-  <zug name="RB16 59093" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
-  <zug name="RB16 59095" von="Schwabach" nach="Eichstätt Bahnhof" />
-  <zug name="RB16 59139" von="Schwabach" nach="Eichstätt Bahnhof" />
+  <zug name="RB16 59093" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RB16 59095" von="Schwabach" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RB16 59139" von="Schwabach" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
   <zug name="RB16 59140" von="München Hbf" nach="Pappenheim">
     <via name="Dollnstein" />
     <via name="Solnhofen" />
@@ -170,13 +246,21 @@
     <via name="Solnhofen" />
     <via name="Pappenheim" />
   </zug>
-  <zug name="RB16 59147" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RB16 59147" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
   <zug name="RB16 59148" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
     <via name="Dollnstein" />
     <via name="Solnhofen" />
     <via name="Pappenheim" />
   </zug>
-  <zug name="RB16 59151" von="Nürnberg Hbf" nach="Eichstätt Bahnhof" />
+  <zug name="RB16 59151" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
   <zug name="RB16 59155" von="Treuchtlingen" nach="München Hbf">
     <via name="Adelschlag" />
     <via name="Tauberfeld" />
@@ -353,10 +437,26 @@
     <via name="Tauberfeld" />
     <via name="Eitensheim" />
   </zug>
-  <zug name="RE1 4017" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
-  <zug name="RE1 4019" von="Nürnberg Hbf" nach="Eichstätt Bahnhof" />
-  <zug name="RE1 4021" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
-  <zug name="RE1 4023" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RE1 4017" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 4019" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 4021" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 4023" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
   <zug name="RE1 4696" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
     <via name="Dollnstein" />
     <via name="Solnhofen" />
@@ -390,7 +490,19 @@
     <via name="Tauberfeld" />
     <via name="Eitensheim" />
   </zug>
-  <zug name="RE1 59135" von="Nürnberg Hbf" nach="Eichstätt Bahnhof" />
-  <zug name="RE1 59137" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
-  <zug name="RE60 59207" von="Treuchtlingen" nach="Eichstätt Bahnhof" />
+  <zug name="RE1 59135" von="Nürnberg Hbf" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE1 59137" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
+  <zug name="RE60 59207" von="Treuchtlingen" nach="Eichstätt Bahnhof">
+    <via name="Dollnstein" />
+    <via name="Solnhofen" />
+    <via name="Pappenheim" />
+  </zug>
 </zza>

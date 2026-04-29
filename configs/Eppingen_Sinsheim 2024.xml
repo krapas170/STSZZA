@@ -215,7 +215,11 @@
     <via name="Steinsfurt" />
     <via name="Reihen" />
   </zug>
-  <zug name="RE10b 38510" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE10b 38510" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
   <zug name="RE10b 38515" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
     <via name="Sinsheim Museum/Arena" />
     <via name="Steinsfurt" />
@@ -226,17 +230,41 @@
     <via name="Steinsfurt" />
     <via name="Reihen" />
   </zug>
-  <zug name="RE10b 38578" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
-  <zug name="RE10b 38586" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
-  <zug name="RE5 38018" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE10b 38578" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE10b 38586" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE5 38018" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
   <zug name="RE5 38027" von="Heidelberg-Weststadt/Südstadt" nach="Richen (b Eppingen)">
     <via name="Sinsheim Museum/Arena" />
     <via name="Steinsfurt" />
     <via name="Reihen" />
   </zug>
-  <zug name="RE5 38508" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
-  <zug name="RE5 38520" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
-  <zug name="RE5 38586" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt" />
+  <zug name="RE5 38508" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE5 38520" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
+  <zug name="RE5 38586" von="Richen (b Eppingen)" nach="Heidelberg-Weststadt/Südstadt">
+    <via name="Sinsheim (Elsenz) Hbf" />
+    <via name="Ittlingen" />
+    <via name="Reihen" />
+  </zug>
   <zug name="RE55 12003" von="Neustadt (Weinstr) Süd" nach="Karlsruhe Hbf">
     <via name="Rohrbach (Pfalz)" />
     <via name="Steinweiler" />

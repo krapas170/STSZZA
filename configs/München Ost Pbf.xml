@@ -1,193 +1,687 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="München Ost Pbf">
-  <zug name="RB52 1299" von="München Ost ia" nach="Salzburg Hbf is" />
-  <zug name="RB54 110" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 113" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 114" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 117" von="München Ost" nach="Salzburg Hbf is" />
-  <zug name="RB54 1201" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 217" von="München Ost ia" nach="Bernau" />
-  <zug name="RB54 219" von="München Ost" nach="Freilassing is" />
+  <zug name="RB52 1299" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 110" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB54 113" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 114" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 117" von="München Ost" nach="Salzburg Hbf is">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RB54 1201" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 217" von="München Ost ia" nach="Bernau">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 219" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RB54 236" von="Freilassing" nach="München Hbf is" />
-  <zug name="RB54 265" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 286" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 60406" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 79005" von="München Ost" nach="Salzburg Hbf is" />
-  <zug name="RB54 79007" von="München Ost ia" nach="Salzburg Hbf is" />
-  <zug name="RB54 79009" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 79013" von="München Ost" nach="Innsbruck Hbf" />
+  <zug name="RB54 265" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 286" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 60406" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 79005" von="München Ost" nach="Salzburg Hbf is">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RB54 79007" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79009" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 79013" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
   <zug name="RB54 79014" von="Innsbruck Hbf" nach="München Hbf is" />
-  <zug name="RB54 79024" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 79029" von="München Ost" nach="Freilassing is" />
-  <zug name="RB54 79031" von="München Ost" nach="Freilassing is" />
-  <zug name="RB54 79033" von="München Ost" nach="Freilassing is" />
-  <zug name="RB54 79039" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 79042" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 79051" von="München Ost ia" nach="Salzburg Hbf is" />
+  <zug name="RB54 79024" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79029" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79031" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79033" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79039" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 79042" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB54 79051" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RB54 79052" von="Freilassing" nach="München Hbf is" />
-  <zug name="RB54 79053" von="München Ost" nach="Innsbruck Hbf" />
+  <zug name="RB54 79053" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
   <zug name="RB54 79054" von="Freilassing" nach="München Hbf is" />
   <zug name="RB54 79056" von="Freilassing" nach="München Hbf is" />
-  <zug name="RB54 79057" von="München Ost ia" nach="Salzburg Hbf is" />
+  <zug name="RB54 79057" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RB54 79058" von="Freilassing" nach="München Hbf is" />
-  <zug name="RB54 79059" von="München Ost" nach="Innsbruck Hbf" />
+  <zug name="RB54 79059" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
   <zug name="RB54 79060" von="Freilassing" nach="München Hbf is" />
-  <zug name="RB54 79061" von="München Ost" nach="Bernau" />
-  <zug name="RB54 79063" von="München Ost ia" nach="Bernau" />
-  <zug name="RB54 79069" von="München Ost" nach="Bernau" />
-  <zug name="RB54 79072" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 79085" von="München Ost" nach="Salzburg Hbf is" />
-  <zug name="RB54 79087" von="München Ost ia" nach="Salzburg Hbf is" />
-  <zug name="RB54 79088" von="Kufstein" nach="München Ost" />
-  <zug name="RB54 79089" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 79237" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 79401" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 79497" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RB54 982" von="Kufstein" nach="München Ost" />
+  <zug name="RB54 79061" von="München Ost" nach="Bernau">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RB54 79063" von="München Ost ia" nach="Bernau">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79069" von="München Ost" nach="Bernau">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RB54 79072" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79085" von="München Ost" nach="Salzburg Hbf is">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RB54 79087" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RB54 79088" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RB54 79089" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 79237" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 79401" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 79497" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RB54 982" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
   <zug name="RB58 79500" von="Rosenheim" nach="München Hbf">
     <via name="Otterfing" />
     <via name="Deisenhofen" />
     <via name="München-Solln ia" />
   </zug>
-  <zug name="RB58 79501" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79502" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79503" von="München Ost" nach="Rosenheim Aicherpark" />
+  <zug name="RB58 79501" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79502" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79503" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
   <zug name="RB58 79504" von="Rosenheim" nach="München Hbf">
     <via name="Otterfing" />
     <via name="Deisenhofen" />
     <via name="München-Solln ia" />
   </zug>
-  <zug name="RB58 79507" von="München Ost" nach="Rosenheim Aicherpark" />
+  <zug name="RB58 79507" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
   <zug name="RB58 79508" von="Rosenheim" nach="München Hbf">
     <via name="Otterfing" />
     <via name="Deisenhofen" />
     <via name="München-Solln ia" />
   </zug>
-  <zug name="RB58 79509" von="München Ost" nach="Otterfing" />
-  <zug name="RB58 79510" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79511" von="München Ost" nach="Rosenheim Aicherpark" />
+  <zug name="RB58 79509" von="München Ost" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79510" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79511" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
   <zug name="RB58 79512" von="Rosenheim" nach="München Hbf">
     <via name="Otterfing" />
     <via name="Deisenhofen" />
     <via name="München-Solln ia" />
   </zug>
-  <zug name="RB58 79513" von="München Ost" nach="Otterfing" />
-  <zug name="RB58 79514" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79515" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79516" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79517" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79518" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79519" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79520" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79521" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79522" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79523" von="München Ost" nach="Rosenheim Aicherpark" />
+  <zug name="RB58 79513" von="München Ost" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79514" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79515" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79516" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79517" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79518" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79519" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79520" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79521" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79522" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79523" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
   <zug name="RB58 79524" von="Rosenheim" nach="München Hbf">
     <via name="Otterfing" />
     <via name="Deisenhofen" />
     <via name="München-Solln ia" />
   </zug>
-  <zug name="RB58 79525" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79526" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79527" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79528" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79529" von="München Ost" nach="Otterfing" />
+  <zug name="RB58 79525" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79526" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79527" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79528" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79529" von="München Ost" nach="Otterfing">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
   <zug name="RB58 79530" von="Rosenheim" nach="München Heimeranplatz">
     <via name="Otterfing" />
     <via name="München Siemenswerke" />
     <via name="München-Mittersendling" />
   </zug>
-  <zug name="RB58 79531" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79558" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79560" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79561" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79562" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79563" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79564" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79565" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79566" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79567" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79570" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79571" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79572" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79573" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79574" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79575" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79576" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79577" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79578" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79579" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79580" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79581" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79582" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79583" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79584" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79585" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79586" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79587" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79589" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RB58 79592" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79595" von="München Ost" nach="Otterfing" />
-  <zug name="RB58 79596" von="Rosenheim" nach="München Ost" />
-  <zug name="RB58 79597" von="München Ost" nach="Rosenheim Aicherpark" />
-  <zug name="RE5 111" von="München Ost" nach="Salzburg Mülln-Altstadt i" />
+  <zug name="RB58 79531" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79558" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79560" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79561" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79562" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79563" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79564" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79565" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79566" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79567" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79570" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79571" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79572" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79573" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79574" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79575" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79576" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79577" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79578" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79579" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79580" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79581" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79582" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79583" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79584" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79585" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79586" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79587" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79589" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RB58 79592" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79595" von="München Ost" nach="Otterfing">
+    <via name="München Hbf" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79596" von="Rosenheim" nach="München Ost">
+    <via name="Kreuzstraße" />
+    <via name="Westerham" />
+    <via name="Feldolling" />
+  </zug>
+  <zug name="RB58 79597" von="München Ost" nach="Rosenheim Aicherpark">
+    <via name="Westerham" />
+    <via name="Feldolling" />
+    <via name="Bruckmühl" />
+  </zug>
+  <zug name="RE5 111" von="München Ost" nach="Salzburg Mülln-Altstadt i">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
   <zug name="RE5 113" von="Plochingen" nach="Innsbruck Hbf">
     <via name="Wörgl Hbf" />
     <via name="Aßling (Oberbay)" />
     <via name="Ostermünchen" />
   </zug>
-  <zug name="RE5 1201" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RE5 1202" von="Kufstein" nach="München Ost" />
-  <zug name="RE5 1214" von="Kufstein" nach="München Ost" />
-  <zug name="RE5 1285" von="München Ost" nach="Innsbruck Hbf" />
+  <zug name="RE5 1201" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RE5 1202" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RE5 1214" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 1285" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
   <zug name="RE5 1296" von="Innsbruck Hbf" nach="München Hbf is" />
   <zug name="RE5 1298" von="Innsbruck Hbf" nach="München Hbf is" />
-  <zug name="RE5 1299" von="München Ost" nach="Salzburg Hbf is" />
-  <zug name="RE5 217" von="München Ost" nach="Bernau" />
-  <zug name="RE5 219" von="München Ost" nach="Freilassing is" />
+  <zug name="RE5 1299" von="München Ost" nach="Salzburg Hbf is">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RE5 217" von="München Ost" nach="Bernau">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RE5 219" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RE5 236" von="Beimerstetten" nach="München Hbf is" />
-  <zug name="RE5 265" von="München Ost ia" nach="Salzburg Hbf is" />
-  <zug name="RE5 286" von="Kufstein" nach="München Ost" />
+  <zug name="RE5 265" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 286" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RE5 288" von="Freilassing" nach="München Hbf is" />
-  <zug name="RE5 289" von="München Ost" nach="Innsbruck Hbf" />
+  <zug name="RE5 289" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
   <zug name="RE5 40235" von="Freilassing" nach="München Hbf is" />
   <zug name="RE5 461" von="Plochingen" nach="Innsbruck Hbf">
     <via name="Wörgl Hbf" />
     <via name="Aßling (Oberbay)" />
     <via name="Ostermünchen" />
   </zug>
-  <zug name="RE5 60406" von="München Ost ia" nach="Salzburg Hbf is" />
+  <zug name="RE5 60406" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RE5 79000" von="Salzburg Mülln-Altstadt i" nach="München Hbf is" />
-  <zug name="RE5 79001" von="München Ost ia" nach="Salzburg Hbf is" />
+  <zug name="RE5 79001" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RE5 79002" von="Freilassing" nach="München Hbf is" />
   <zug name="RE5 79004" von="Freilassing" nach="München Hbf is" />
   <zug name="RE5 79006" von="Freilassing" nach="München Hbf is" />
-  <zug name="RE5 79011" von="München Ost" nach="Bernau" />
+  <zug name="RE5 79011" von="München Ost" nach="Bernau">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
   <zug name="RE5 79012" von="Freilassing" nach="München Hbf is" />
-  <zug name="RE5 79013" von="München Ost ia" nach="Bernau" />
-  <zug name="RE5 79021" von="München Ost" nach="Bernau" />
-  <zug name="RE5 79022" von="Kufstein" nach="München Ost" />
-  <zug name="RE5 79027" von="München Ost" nach="Kufstein" />
-  <zug name="RE5 79039" von="München Ost ia" nach="Salzburg Hbf is" />
+  <zug name="RE5 79013" von="München Ost ia" nach="Bernau">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79021" von="München Ost" nach="Bernau">
+    <via name="Wörgl Hbf" />
+    <via name="Innsbruck Hbf" />
+    <via name="Aßling (Oberbay)" />
+  </zug>
+  <zug name="RE5 79022" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79027" von="München Ost" nach="Kufstein">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79039" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RE5 79044" von="Kufstein" nach="Aßling (Oberbay)">
     <via name="Bernau" />
     <via name="Großkarolinenfeld" />
     <via name="Ostermünchen" />
   </zug>
-  <zug name="RE5 79051" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RE5 79055" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RE5 79063" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RE5 79074" von="Kufstein" nach="München Ost" />
-  <zug name="RE5 79075" von="München Ost" nach="Kufstein" />
-  <zug name="RE5 79077" von="München Ost" nach="Freilassing is" />
-  <zug name="RE5 79079" von="München Ost" nach="Freilassing is" />
-  <zug name="RE5 79081" von="München Ost" nach="Freilassing is" />
-  <zug name="RE5 79087" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RE5 79090" von="Kufstein" nach="München Ost" />
-  <zug name="RE5 79092" von="Kufstein" nach="München Ost" />
-  <zug name="RE5 79099" von="München Ost ia" nach="Salzburg Hbf is" />
+  <zug name="RE5 79051" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RE5 79055" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RE5 79063" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RE5 79074" von="Kufstein" nach="München Ost">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79075" von="München Ost" nach="Kufstein">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79077" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79079" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79081" von="München Ost" nach="Freilassing is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 79087" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RE5 79090" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RE5 79092" von="Kufstein" nach="München Ost">
+    <via name="Rosenheim" />
+  </zug>
+  <zug name="RE5 79099" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
   <zug name="RE5 79400" von="Salzburg Mülln-Altstadt i" nach="München Hbf is" />
-  <zug name="RE5 79401" von="München Ost ia" nach="Salzburg Hbf is" />
-  <zug name="RE5 959" von="München Ost" nach="Innsbruck Hbf" />
-  <zug name="RE5 963" von="München Ost ia" nach="Bernau" />
+  <zug name="RE5 79401" von="München Ost ia" nach="Salzburg Hbf is">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
+  <zug name="RE5 959" von="München Ost" nach="Innsbruck Hbf">
+    <via name="Wörgl Hbf" />
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+  </zug>
+  <zug name="RE5 963" von="München Ost ia" nach="Bernau">
+    <via name="Aßling (Oberbay)" />
+    <via name="Ostermünchen" />
+    <via name="Großkarolinenfeld" />
+  </zug>
 </zza>

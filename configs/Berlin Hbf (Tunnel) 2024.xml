@@ -874,32 +874,56 @@
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
   </zug>
-  <zug name="RE3 3192" von="Berlin Hbf" nach="Herzberg (Elster)" />
-  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3192" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE3 3301" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+  </zug>
   <zug name="RE3 3302" von="Schönefeld (bei Berlin)" nach="Melchow">
     <via name="Berlin Gesundbrunnen" />
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
   </zug>
-  <zug name="RE3 3303" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3303" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+  </zug>
   <zug name="RE3 3304" von="Herzberg (Elster)" nach="Melchow">
     <via name="Berlin Gesundbrunnen" />
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
   </zug>
-  <zug name="RE3 3305" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3305" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+  </zug>
   <zug name="RE3 3306" von="Halle (Saale) Hbf" nach="Melchow">
     <via name="Berlin Gesundbrunnen" />
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
   </zug>
-  <zug name="RE3 3309" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE3 3309" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE3 3321" von="Prenzlau" nach="Schönefeld (bei Berlin)">
     <via name="Oranienburg" />
     <via name="Berlin-Lichtenberg" />
     <via name="Berlin Ostkreuz" />
   </zug>
-  <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
+  <zug name="RE3 3331" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+  </zug>
   <zug name="RE3 3335" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
     <via name="Oranienburg" />
     <via name="Berlin-Lichtenberg" />
@@ -920,35 +944,71 @@
     <via name="Rüdnitz" />
     <via name="Biesenthal" />
   </zug>
-  <zug name="RE3 3343" von="Berlin Hbf" nach="Schönefeld (bei Berlin)" />
-  <zug name="RE3 3345" von="Berlin Hbf" nach="Zörnigall" />
-  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf" />
-  <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf" />
+  <zug name="RE3 3343" von="Berlin Hbf" nach="Schönefeld (bei Berlin)">
+    <via name="Eberswalde Hbf" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+  </zug>
+  <zug name="RE3 3345" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE3 3347" von="Berlin Hbf" nach="Eberswalde Hbf">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf">
+    <via name="Dessau Hbf" />
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+  </zug>
   <zug name="RE3 3364" von="Berlin Gesundbrunnen" nach="Melchow">
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
     <via name="Biesenthal" />
   </zug>
-  <zug name="RE3 3365" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE3 3366" von="Ludwigsfelde" nach="Melchow">
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
     <via name="Biesenthal" />
   </zug>
-  <zug name="RE3 3367" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE3 3367" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE3 3369" von="Wüstenfelde" nach="Schönefeld (bei Berlin)">
     <via name="Oranienburg" />
     <via name="Berlin-Lichtenberg" />
     <via name="Berlin Ostkreuz" />
   </zug>
-  <zug name="RE3 3373" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 3373" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE3 3534" von="Schönefeld (bei Berlin)" nach="Melchow">
     <via name="Berlin Gesundbrunnen" />
     <via name="Bernau (b Berlin)" />
     <via name="Rüdnitz" />
   </zug>
-  <zug name="RE3 37215" von="Berlin Hbf" nach="Herzberg (Elster)" />
-  <zug name="RE3 37803" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE3 37215" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE3 37803" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE3 974" von="Schönefeld (bei Berlin)" nach="Melchow">
     <via name="Berlin Gesundbrunnen" />
     <via name="Bernau (b Berlin)" />
@@ -992,7 +1052,11 @@
     <via name="Berlin Südkreuz" />
     <via name="Berlin-Lichterfelde Ost" />
   </zug>
-  <zug name="RE4 3152" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE4 3152" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE4 3164" von="Stendal Hbf" nach="Berlin Südkreuz">
     <via name="Berlin Potsdamer Platz" />
   </zug>
@@ -1021,17 +1085,41 @@
     <via name="Berlin-Spandau" />
     <via name="Berlin-Staaken" />
   </zug>
-  <zug name="RE4 3170" von="Berlin Hbf" nach="Zörnigall" />
+  <zug name="RE4 3170" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE4 3171" von="Berlin Südkreuz" nach="Stendal Hbf">
     <via name="Berlin Jungfernheide" />
     <via name="Berlin-Spandau" />
     <via name="Berlin-Staaken" />
   </zug>
-  <zug name="RE4 3172" von="Berlin Hbf" nach="Zörnigall" />
-  <zug name="RE4 3190" von="Berlin Hbf" nach="Herzberg (Elster)" />
-  <zug name="RE4 3365" von="Berlin Hbf" nach="Herzberg (Elster)" />
-  <zug name="RE4 3369" von="Berlin Hbf" nach="Herzberg (Elster)" />
-  <zug name="RE4 37817" von="Berlin Hbf" nach="Herzberg (Elster)" />
+  <zug name="RE4 3172" von="Berlin Hbf" nach="Zörnigall">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3190" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 3369" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
+  <zug name="RE4 37817" von="Berlin Hbf" nach="Herzberg (Elster)">
+    <via name="Berlin Potsdamer Platz" />
+    <via name="Berlin Südkreuz" />
+    <via name="Berlin-Lichterfelde Ost" />
+  </zug>
   <zug name="RE6 3601" von="Weisen" nach="Berlin Ostbahnhof">
     <via name="Berlin Potsdamer Platz" />
     <via name="Berlin Südkreuz" />

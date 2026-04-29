@@ -20,11 +20,17 @@
   <zug name="RB42 27175" von="Dorfen Bahnhof" nach="Mühldorf (Oberbay) o" />
   <zug name="RB42 27177" von="Dorfen Bahnhof" nach="Mühldorf (Oberbay) o" />
   <zug name="RB42 27179" von="Dorfen Bahnhof" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB45 27108" von="Salzburg Mülln-Altstadt" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB45 27108" von="Salzburg Mülln-Altstadt" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+    <via name="Garching (Alz) o" />
+    <via name="Kirchweidach" />
+  </zug>
   <zug name="RB45 27983" von="München Hbf" nach="Salzburg Aiglhof i">
     <via name="Salzburg Liefering" />
   </zug>
-  <zug name="RB45 27987" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB45 27987" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
   <zug name="RB46 27201" von="Dorfen Bahnhof" nach="Mühldorf (Oberbay) o" />
   <zug name="RB46 27203" von="Dorfen Bahnhof" nach="Mühldorf (Oberbay) o" />
   <zug name="RB46 27205" von="Dorfen Bahnhof" nach="Mühldorf (Oberbay) o" />
@@ -50,34 +56,84 @@
     <via name="Landshut (Bay) Hbf o" />
     <via name="Landshut (Bay) Süd" />
   </zug>
-  <zug name="RB47 27403" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27405" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27407" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27409" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27411" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27415" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27417" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27419" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27421" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27423" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27425" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27427" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB47 27429" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27441" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27443" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27447" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB47 27403" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27405" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27407" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27409" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27411" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27415" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27417" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27419" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27421" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27423" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27425" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27427" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB47 27429" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27441" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27443" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27447" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
   <zug name="RB49 27450" von="München Hbf" nach="Garching (Alz) o">
     <via name="Salzburg Hbf" />
     <via name="Freilassing" />
     <via name="Traunstein o" />
   </zug>
-  <zug name="RB49 27451" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27453" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27457" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27459" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27461" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27465" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27467" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27475" von="München Hbf" nach="Mühldorf (Oberbay) o" />
-  <zug name="RB49 27477" von="München Hbf" nach="Mühldorf (Oberbay) o" />
+  <zug name="RB49 27451" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27453" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27457" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27459" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27461" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27465" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27467" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27475" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
+  <zug name="RB49 27477" von="München Hbf" nach="Mühldorf (Oberbay) o">
+    <via name="Dorfen Bahnhof" />
+  </zug>
 </zza>

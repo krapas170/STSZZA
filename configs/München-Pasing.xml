@@ -10,7 +10,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RB53 17860" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RB53 17860" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RB53 17877" von="Sigmaringendorf" nach="Bregenz">
     <via name="Geltendorf" />
     <via name="Buchloe" />
@@ -423,7 +427,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RB74 7886" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RB74 7886" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RB74 78905" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Geltendorf" />
     <via name="Buchloe" />
@@ -609,7 +617,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RB92 7884" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RB92 7884" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RB92 78901" von="München Hbf" nach="Friedrichshafen Stadt">
     <via name="Geltendorf" />
     <via name="Buchloe" />
@@ -645,7 +657,11 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE17 3381" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE17 3381" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE17 3382" von="München Hbf" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
@@ -700,26 +716,42 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE7 3281" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE7 3281" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE7 3282" von="München Hbf" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE7 3283" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE7 3283" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE7 3284" von="München Hbf" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE7 3285" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE7 3285" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE7 3286" von="München Hbf" nach="Augsburg Hbf">
     <via name="Geltendorf" />
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
   <zug name="RE7 3287" von="Lindau-Insel" nach="München Hbf ia" />
-  <zug name="RE7 3290" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE7 3290" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE7 3895" von="Lindau-Insel" nach="München Hbf ia" />
   <zug name="RE7 3897" von="Lindau-Insel" nach="München Hbf ia rs" />
   <zug name="RE7 5550" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
@@ -793,7 +825,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RE70 5579" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE70 5579" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE70 57505" von="Friedrichshafen Stadt" nach="München Hbf ia" />
   <zug name="RE70 57521" von="Lindau-Insel" nach="München Hbf ia rs" />
   <zug name="RE70 57644" von="München Hbf" nach="Sonthofen">
@@ -815,7 +851,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RE71 3884" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE71 3884" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE71 5569" von="München Hbf" nach="Lindau-Insel">
     <via name="Geltendorf" />
     <via name="Buchloe" />
@@ -856,7 +896,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RE72 5581" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE72 5581" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE72 5594" von="Lindau-Insel" nach="München Hbf ia" />
   <zug name="RE72 57526" von="München Hbf" nach="Lindau-Insel">
     <via name="Geltendorf" />
@@ -868,7 +912,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RE72 57530" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE72 57530" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE72 58117" von="Bregenz" nach="München Hbf ia" />
   <zug name="RE72 78900" von="Sontheim (Schwab)" nach="Fürstenfeldbruck">
     <via name="München Hbf ia" />
@@ -890,7 +938,11 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
   </zug>
-  <zug name="RE72 78906" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE72 78906" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE72 78910" von="Sigmaringendorf" nach="München Hbf ia" />
   <zug name="RE72 78911" von="München Hbf qs" nach="Friedrichshafen Stadt">
     <via name="Geltendorf" />
@@ -932,7 +984,11 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Augsburg Hbf" />
   </zug>
-  <zug name="RE72 78972" von="Wangen (Allgäu)" nach="München-Pasing" />
+  <zug name="RE72 78972" von="Wangen (Allgäu)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE72 78979" von="München Hbf" nach="Lindau-Insel">
     <via name="Geltendorf" />
     <via name="Buchloe" />
@@ -1009,7 +1065,11 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE76 192" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE76 192" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE76 194" von="München Hbf" nach="Bregenz">
     <via name="Geltendorf" />
     <via name="Buchloe" />
@@ -1063,7 +1123,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RE76 78935" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE76 78935" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE76 78964" von="Lindau-Insel" nach="München Hbf ia rs" />
   <zug name="RE76 78982" von="Friedrichshafen Stadt qg" nach="München Hbf ia" />
   <zug name="RE79 194" von="München Hbf" nach="Augsburg Hbf">
@@ -1085,21 +1149,37 @@
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE79 57401" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE79 57401" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE79 57402" von="München Hbf" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
-  <zug name="RE79 57403" von="Sontheim (Schwab)" nach="München-Pasing" />
-  <zug name="RE79 57405" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE79 57403" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
+  <zug name="RE79 57405" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE79 57406" von="München Hbf" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
     <via name="Kempten (Allgäu) Hbf" />
     <via name="Fürstenfeldbruck" />
   </zug>
   <zug name="RE79 57407" von="Oberstdorf" nach="München Hbf" />
-  <zug name="RE79 57409" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE79 57409" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE79 57410" von="München Hbf" nach="Augsburg Hbf">
     <via name="Geltendorf" />
     <via name="Kaufering" />
@@ -1138,7 +1218,11 @@
     <via name="Buchloe" />
     <via name="Türkheim (Bay) Bf" />
   </zug>
-  <zug name="RE96 78910" von="Sontheim (Schwab)" nach="München-Pasing" />
+  <zug name="RE96 78910" von="Sontheim (Schwab)" nach="München-Pasing">
+    <via name="Augsburg Hbf" />
+    <via name="Kempten (Allgäu) Hbf" />
+    <via name="München Hbf" />
+  </zug>
   <zug name="RE96 78914" von="Sigmaringendorf" nach="München Hbf" />
   <zug name="RE96 78919" von="Wangen (Allgäu)" nach="Oberstdorf">
     <via name="Augsburg Hbf" />
@@ -1149,7 +1233,11 @@
     <via name="Geltendorf" />
     <via name="Kaufering" />
   </zug>
-  <zug name="RE96 78937" von="München-Pasing" nach="Lindau-Insel" />
+  <zug name="RE96 78937" von="München-Pasing" nach="Lindau-Insel">
+    <via name="Geltendorf" />
+    <via name="Türkheim (Bay) Bf" />
+    <via name="Rammingen (Bay)" />
+  </zug>
   <zug name="RE96 78955" von="München Hbf" nach="Lindau-Insel">
     <via name="Geltendorf" />
     <via name="Buchloe" />

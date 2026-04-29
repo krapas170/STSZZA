@@ -1,49 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Ingolstadt Hbf">
   <zug name="RB14 84035" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84036" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84036" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84037" von="Eichstätt Stadt" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Pappenheim" />
     <via name="Solnhofen" />
   </zug>
-  <zug name="RB14 84038" von="Ingolstadt Hbf" nach="Pappenheim" />
+  <zug name="RB14 84038" von="Ingolstadt Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84039" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84040" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84040" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84041" von="Eichstätt Stadt" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Pappenheim" />
     <via name="Solnhofen" />
   </zug>
-  <zug name="RB14 84042" von="Ingolstadt Hbf" nach="Pappenheim" />
+  <zug name="RB14 84042" von="Ingolstadt Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84043" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84044" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84044" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84045" von="Eichstätt Stadt" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Pappenheim" />
     <via name="Solnhofen" />
   </zug>
-  <zug name="RB14 84046" von="Ingolstadt Hbf" nach="Pappenheim" />
+  <zug name="RB14 84046" von="Ingolstadt Hbf" nach="Pappenheim">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84047" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84048" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84048" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84049" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84050" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84050" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84051" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84052" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84052" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84053" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84054" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84054" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84055" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84056" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84056" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84057" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84058" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84058" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84059" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84060" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84060" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84061" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84062" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84062" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84063" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84064" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84064" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB14 84065" von="Eichstätt Stadt" nach="München Hbf" />
-  <zug name="RB14 84066" von="Ingolstadt Hbf" nach="Eichstätt Stadt" />
+  <zug name="RB14 84066" von="Ingolstadt Hbf" nach="Eichstätt Stadt">
+    <via name="Nürnberg Hbf" />
+    <via name="Ingolstadt Nord" />
+    <via name="Eichstätt Bahnhof" />
+  </zug>
   <zug name="RB15 79691" von="Ulm Hbf" nach="München Flughafen Terminal">
     <via name="Regensburg Hbf" />
     <via name="Landshut (Bay) Hbf" />
@@ -164,7 +228,11 @@
     <via name="Weichering" />
     <via name="Rohrenfeld" />
   </zug>
-  <zug name="RB15 84267" von="Ingolstadt Hbf" nach="München Flughafen Terminal" />
+  <zug name="RB15 84267" von="Ingolstadt Hbf" nach="München Flughafen Terminal">
+    <via name="Nürnberg Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+  </zug>
   <zug name="RB15 84268" von="Regensburg Hbf" nach="Nersingen">
     <via name="Ingolstadt Nord" />
     <via name="Weichering" />
@@ -305,7 +373,11 @@
     <via name="Augsburg Hbf ia" />
     <via name="Baar-Ebenhausen" />
   </zug>
-  <zug name="RB16 59090" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 59090" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
   <zug name="RB16 59091" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Baar-Ebenhausen" />
@@ -341,8 +413,16 @@
     <via name="Baar-Ebenhausen" />
     <via name="Rohrbach (Ilm)" />
   </zug>
-  <zug name="RB16 59146" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
-  <zug name="RB16 59148" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
+  <zug name="RB16 59146" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
+  <zug name="RB16 59148" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
   <zug name="RB16 59171" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Baar-Ebenhausen" />
@@ -458,7 +538,11 @@
     <via name="Landshut (Bay) Hbf" />
     <via name="Ernsgaden" />
   </zug>
-  <zug name="RB17 84310" von="Ingolstadt Hbf" nach="Nersingen" />
+  <zug name="RB17 84310" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Nürnberg Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Ingolstadt Audi" />
+  </zug>
   <zug name="RB17 84311" von="Nersingen" nach="München Flughafen Terminal">
     <via name="Regensburg Hbf" />
     <via name="Landshut (Bay) Hbf" />
@@ -484,7 +568,11 @@
     <via name="Vohburg" />
     <via name="Münchsmünster" />
   </zug>
-  <zug name="RB17 84316" von="Ingolstadt Hbf" nach="Nersingen" />
+  <zug name="RB17 84316" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Nürnberg Hbf" />
+    <via name="Regensburg Hbf" />
+    <via name="Ingolstadt Audi" />
+  </zug>
   <zug name="RB17 84317" von="Nürnberg Hbf" nach="Landshut (Bay) Hbf">
     <via name="Ernsgaden" />
     <via name="Vohburg" />
@@ -500,7 +588,11 @@
     <via name="Vohburg" />
     <via name="Münchsmünster" />
   </zug>
-  <zug name="RB17 84320" von="Ingolstadt Hbf" nach="Nersingen" />
+  <zug name="RB17 84320" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Nürnberg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
   <zug name="RB17 84321" von="Treuchtlingen" nach="München Flughafen Terminal">
     <via name="Regensburg Hbf" />
     <via name="Landshut (Bay) Hbf" />
@@ -511,7 +603,11 @@
     <via name="Landshut (Bay) Hbf" />
     <via name="Regensburg Hbf" />
   </zug>
-  <zug name="RB17 84324" von="Ingolstadt Hbf" nach="Nersingen" />
+  <zug name="RB17 84324" von="Ingolstadt Hbf" nach="Nersingen">
+    <via name="Nürnberg Hbf" />
+    <via name="Landshut (Bay) Hbf" />
+    <via name="Regensburg Hbf" />
+  </zug>
   <zug name="RB17 84326" von="München Flughafen Terminal" nach="Nersingen">
     <via name="Ingolstadt Nord" />
     <via name="Weichering" />
@@ -542,28 +638,56 @@
     <via name="Landshut (Bay) Hbf" />
     <via name="Ernsgaden" />
   </zug>
-  <zug name="RB80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RB80 57026" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RB80 57161" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RB80 57221" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 57161" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
+  <zug name="RB80 57221" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
   <zug name="RB80 57224" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RB80 58153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 58153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RB80 58158" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RB80 58163" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RB80 70171" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RB80 70229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RB80 58163" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RB80 70171" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
+  <zug name="RB80 70229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE1 39505" von="Nürnberg Hbf" nach="München Hbf">
     <via name="Baar-Ebenhausen" />
     <via name="Rohrbach (Ilm)" />
@@ -579,7 +703,11 @@
     <via name="Kinding (Altmühltal)" />
     <via name="Allersberg (Rothsee)" />
   </zug>
-  <zug name="RE1 4002" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 4002" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
   <zug name="RE1 4004" von="München Hbf" nach="Pappenheim">
     <via name="Nürnberg Hbf" />
     <via name="Kinding (Altmühltal)" />
@@ -590,7 +718,11 @@
     <via name="Baar-Ebenhausen" />
     <via name="Rohrbach (Ilm)" />
   </zug>
-  <zug name="RE1 4006" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 4006" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
   <zug name="RE1 4007" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Baar-Ebenhausen" />
@@ -606,8 +738,16 @@
     <via name="Kinding (Altmühltal)" />
     <via name="Allersberg (Rothsee)" />
   </zug>
-  <zug name="RE1 4012" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
-  <zug name="RE1 4696" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 4012" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
+  <zug name="RE1 4696" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
   <zug name="RE1 4697" von="Nürnberg Hbf" nach="Ingolstadt Audi">
     <via name="München Hbf" />
     <via name="Baar-Ebenhausen" />
@@ -618,7 +758,11 @@
     <via name="Rohrbach (Ilm)" />
     <via name="Pfaffenhofen (Ilm)" />
   </zug>
-  <zug name="RE1 57872" von="Ingolstadt Hbf" nach="Nürnberg Hbf" />
+  <zug name="RE1 57872" von="Ingolstadt Hbf" nach="Nürnberg Hbf">
+    <via name="Ingolstadt Audi" />
+    <via name="Gaimersheim" />
+    <via name="Eitensheim" />
+  </zug>
   <zug name="RE1 57874" von="München Hbf" nach="Pappenheim">
     <via name="Nürnberg Hbf" />
     <via name="Kinding (Altmühltal)" />
@@ -689,20 +833,36 @@
     <via name="Hof Hbf" />
     <via name="Regensburg Hbf" />
   </zug>
-  <zug name="RE80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 1285" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 1205" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 1285" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
   <zug name="RE80 1586" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RE80 1595" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 1595" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 2082" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RE80 2083" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 2083" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
   <zug name="RE80 2084" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
@@ -718,7 +878,11 @@
     <via name="Gunzenhausen" />
     <via name="Muhr" />
   </zug>
-  <zug name="RE80 57115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 57118" von="München Hbf eg" nach="Stuttgart Hbf">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
@@ -739,7 +903,11 @@
     <via name="Diedorf (Schwab)" />
     <via name="Westheim (Schwab)" />
   </zug>
-  <zug name="RE80 57145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 57153" von="Schwabach" nach="Augsburg-Hochzoll">
     <via name="Augsburg Hbf" />
     <via name="Augsburg Haunstetterstraße" />
@@ -749,11 +917,31 @@
     <via name="Gessertshausen" />
     <via name="Diedorf (Schwab)" />
   </zug>
-  <zug name="RE80 57185" von="Schwabach" nach="Ingolstadt Hbf" />
-  <zug name="RE80 57207" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 57209" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 57211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 57219" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57185" von="Schwabach" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Augsburg Hbf ia" />
+  </zug>
+  <zug name="RE80 57207" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 57209" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 57211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 57219" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
   <zug name="RE80 57220" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
@@ -764,9 +952,21 @@
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RE80 57223" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 57225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 57229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 57223" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 57225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 57229" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 57234" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen" />
@@ -777,14 +977,26 @@
     <via name="Treuchtlingen" />
     <via name="Donauwörth" />
   </zug>
-  <zug name="RE80 58155" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 58155" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
   <zug name="RE80 58156" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RE80 58159" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 58165" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 58159" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
+  <zug name="RE80 58165" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 70026" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
@@ -800,26 +1012,66 @@
     <via name="Treuchtlingen" />
     <via name="Donauwörth" />
   </zug>
-  <zug name="RE80 70115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70115" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 70118" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RE80 70127" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70137" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70179" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70185" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
-  <zug name="RE80 70221" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70127" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 70137" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 70145" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 70153" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
+  <zug name="RE80 70179" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 70185" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 70211" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf qk" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
+  <zug name="RE80 70221" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="Gunzenhausen" />
+    <via name="Muhr" />
+    <via name="Triesdorf" />
+  </zug>
   <zug name="RE80 70222" von="München Hbf eg" nach="Würzburg-Heidingsfeld Ost">
     <via name="München Hbf" />
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen eg" />
   </zug>
-  <zug name="RE80 70225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf" />
+  <zug name="RE80 70225" von="Würzburg-Heidingsfeld Ost" nach="Ingolstadt Hbf">
+    <via name="München Hbf" />
+    <via name="Augsburg Hbf" />
+    <via name="Donauwörth" />
+  </zug>
   <zug name="RE80 70236" von="München Hbf" nach="Würzburg-Heidingsfeld Ost">
     <via name="Augsburg Hbf" />
     <via name="Treuchtlingen" />

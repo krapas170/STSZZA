@@ -8,7 +8,11 @@
     <via name="Nürnberg Hbf" />
     <via name="Schweinfurt Hbf" />
   </zug>
-  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RB58 28622" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="RB58 28630" von="Laufach" nach="Frankfurt (Main) Hbf" />
   <zug name="RB61 38515" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
     <via name="Langen (Hess)" />
@@ -95,13 +99,41 @@
     <via name="Mannheim Hbf" />
     <via name="Darmstadt Süd" />
   </zug>
-  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf" />
-  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf" />
-  <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf" />
-  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf" />
-  <zug name="RE55 4606" von="Schöllkrippen" nach="Darmstadt Hbf" />
-  <zug name="RE55 4640" von="Bebra" nach="Darmstadt Hbf" />
-  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf" />
+  <zug name="RE54 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4600" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4602" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4604" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4606" von="Schöllkrippen" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
+  <zug name="RE55 4640" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+    <via name="Hanau Hbf" />
+  </zug>
+  <zug name="RE55 4642" von="Bebra" nach="Darmstadt Hbf">
+    <via name="Würzburg Hbf" />
+    <via name="Aschaffenburg Hbf" />
+    <via name="Frankfurt (Main) Hbf" />
+  </zug>
   <zug name="RE60 15300" von="Heidelberg Hbf" nach="Frankfurt (Main) Hbf">
     <via name="Langen (Hess)" />
   </zug>

@@ -175,38 +175,166 @@
     <via name="Rosendahl-Holtwick" />
     <via name="Legden" />
   </zug>
-  <zug name="RB63 14700" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14701" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14702" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14703" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14704" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14705" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14707" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14708" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14709" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14710" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14711" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14712" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14713" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14714" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14715" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14716" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14717" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14718" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14719" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14720" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14721" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14743" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14744" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14746" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14880" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14881" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14882" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14883" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14884" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14885" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
-  <zug name="RB63 14886" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum" />
-  <zug name="RB63 14887" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord" />
+  <zug name="RB63 14700" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14701" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14702" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14703" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14704" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14705" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14707" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14708" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14709" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14710" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14711" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14712" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14713" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14714" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14715" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14716" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14717" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14718" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14719" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14720" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14721" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14743" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14744" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14746" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14880" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14881" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14882" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14883" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14884" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14885" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14886" von="Münster (W) Zentrum Nord" nach="Coesfeld Schulzentrum">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
+  <zug name="RB63 14887" von="Coesfeld Schulzentrum" nach="Münster (W) Zentrum Nord">
+    <via name="Münster (Westf) Hbf" />
+    <via name="Lutum" />
+    <via name="Billerbeck" />
+  </zug>
   <zug name="RB64 20200" von="Münster (Westf) Hbf" nach="Epe (Westf)">
     <via name="Coesfeld (Westf)" />
     <via name="Rosendahl-Holtwick" />
@@ -288,49 +416,229 @@
     <via name="Lette (Kr Coesfeld)" />
     <via name="Dülmen" />
   </zug>
-  <zug name="RE14 89494" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89495" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89496" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89497" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89498" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89499" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89500" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89501" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89502" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89503" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89504" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89505" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89506" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89507" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89508" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89509" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89510" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89511" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89512" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89513" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89514" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89515" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89516" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89517" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89519" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89521" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89523" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89525" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89527" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89529" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89531" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89533" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89535" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89537" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89539" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89541" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89543" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89545" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89547" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89549" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89592" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89594" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89595" von="Coesfeld (Westf)" nach="Essen Hbf" />
-  <zug name="RE14 89596" von="Essen Hbf" nach="Coesfeld (Westf)" />
-  <zug name="RE14 89598" von="Essen Hbf" nach="Coesfeld (Westf)" />
+  <zug name="RE14 89494" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89495" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89496" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89497" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89498" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89499" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89500" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89501" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89502" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89503" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89504" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89505" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89506" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89507" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89508" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89509" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89510" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89511" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89512" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89513" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89514" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89515" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89516" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89517" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89519" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89521" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89523" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89525" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89527" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89529" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89531" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89533" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89535" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89537" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89539" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89541" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89543" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89545" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89547" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89549" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89592" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89594" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89595" von="Coesfeld (Westf)" nach="Essen Hbf">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89596" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
+  <zug name="RE14 89598" von="Essen Hbf" nach="Coesfeld (Westf)">
+    <via name="Bottrop Hbf" />
+    <via name="Reken-Maria Veen" />
+    <via name="Reken" />
+  </zug>
 </zza>

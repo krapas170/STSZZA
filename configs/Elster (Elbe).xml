@@ -10,13 +10,21 @@
     <via name="Vojtanov" />
     <via name="Frantiskovy Lazne" />
   </zug>
-  <zug name="RB13 81015" von="Zeitz" nach="Bad Elster" />
+  <zug name="RB13 81015" von="Zeitz" nach="Bad Elster">
+    <via name="Gera Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
   <zug name="RB13 81016" von="Hof Hbf qg" nach="Zwickau Stadthalle">
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
     <via name="Weischlitz" />
   </zug>
-  <zug name="RB13 81017" von="Zeitz" nach="Bad Elster" />
+  <zug name="RB13 81017" von="Zeitz" nach="Bad Elster">
+    <via name="Gera Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
   <zug name="RB13 81018" von="Hof Hbf qg" nach="Zwickau Stadthalle">
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
@@ -118,7 +126,11 @@
     <via name="Weischlitz" />
   </zug>
   <zug name="RB2 51209" von="Zwickau Stadthalle" nach="Bad Brambach" />
-  <zug name="RB2 51219" von="Zwickau Stadthalle" nach="Bad Elster" />
+  <zug name="RB2 51219" von="Zwickau Stadthalle" nach="Bad Elster">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Mehltheuer" />
+  </zug>
   <zug name="RB2 51230" von="Cheb" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
@@ -149,7 +161,11 @@
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RB2 51985" von="Zwickau Stadthalle" nach="Bad Elster" />
+  <zug name="RB2 51985" von="Zwickau Stadthalle" nach="Bad Elster">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Mehltheuer" />
+  </zug>
   <zug name="RB2 51986" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
@@ -238,7 +254,11 @@
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RB2 80221" von="Zwickau Stadthalle" nach="Bad Elster" />
+  <zug name="RB2 80221" von="Zwickau Stadthalle" nach="Bad Elster">
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+    <via name="Mehltheuer" />
+  </zug>
   <zug name="RB2 80222" von="Frantiskovy Lazne" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
@@ -654,7 +674,11 @@
     <via name="Elsterwerda-Biehla" />
     <via name="Plessa" />
   </zug>
-  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RB49 18420" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RB49 18421" von="Hoyerswerda" nach="Dresden-Neustadt">
     <via name="Cottbus Hbf" />
     <via name="Bad Liebenwerda" />
@@ -680,13 +704,21 @@
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RB49 18426" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RB49 18427" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RB49 18428" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RB49 18430" von="Dresden-Neustadt" nach="Sedlitz Ost">
     <via name="Lampertswalde" />
     <via name="Ortrand" />
@@ -732,7 +764,11 @@
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RB5 20816" von="Kraslice" nach="Bad Elster" />
+  <zug name="RB5 20816" von="Kraslice" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
   <zug name="RB5 20817" von="Mehltheuer" nach="Werdau">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
@@ -785,7 +821,11 @@
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RB5 80188" von="Kraslice" nach="Bad Elster" />
+  <zug name="RB5 80188" von="Kraslice" nach="Bad Elster">
+    <via name="Zwickau (Sachs) Hbf" />
+    <via name="Oelsnitz (Vogtl)" />
+    <via name="Weischlitz" />
+  </zug>
   <zug name="RB5 80189" von="Jocketa" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
@@ -1387,13 +1427,21 @@
     <via name="Frankfurt (Oder)" />
     <via name="Kraftwerk Finkenheerd" />
   </zug>
-  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE11 18182" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE11 18183" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Frankfurt (Oder)" />
     <via name="Kraftwerk Finkenheerd" />
   </zug>
-  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE11 18184" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE11 18185" von="Hoyerswerda" nach="Dresden-Neustadt">
     <via name="Cottbus Hbf" />
     <via name="Bad Liebenwerda" />
@@ -1494,33 +1542,57 @@
     <via name="Hoyerswerda" />
     <via name="Ruhland" />
   </zug>
-  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18050" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE13 18051" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18052" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE13 18053" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18054" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE13 18055" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE13 18056" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE13 18057" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE13 18058" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE13 18059" von="Cottbus Hbf" nach="Bad Liebenwerda" />
-  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand" />
+  <zug name="RE13 18060" von="Falkenberg (Elster)" nach="Ortrand">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE13 18062" von="Dresden-Neustadt" nach="Sedlitz Ost">
     <via name="Lampertswalde" />
     <via name="Ortrand" />
@@ -1627,21 +1699,41 @@
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE18 18404" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE18 18405" von="Cottbus Hbf" nach="Dresden-Neustadt">
     <via name="Bad Liebenwerda" />
     <via name="Hoyerswerda" />
     <via name="Schwarzkollm" />
   </zug>
-  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda" />
+  <zug name="RE18 18406" von="Falkenberg (Elster)" nach="Hoyerswerda">
+    <via name="Bad Liebenwerda" />
+    <via name="Elsterwerda" />
+    <via name="Plessa" />
+  </zug>
   <zug name="RE18 18408" von="Dresden-Neustadt" nach="Sedlitz Ost">
     <via name="Lampertswalde" />
     <via name="Ortrand" />
     <via name="Ruhland" />
   </zug>
-  <zug name="RE3 3149" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
-  <zug name="RE3 3169" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
-  <zug name="RE3 3171" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 3149" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3169" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3171" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
   <zug name="RE3 3192" von="Berlin Hbf" nach="Herzberg (Elster)">
     <via name="Holzdorf (Elster)" />
   </zug>
@@ -1650,17 +1742,61 @@
     <via name="Holzdorf (Elster)" />
     <via name="Herzberg (Elster)" />
   </zug>
-  <zug name="RE3 3304" von="Herzberg (Elster)" nach="Melchow" />
-  <zug name="RE3 3308" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3310" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3312" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3314" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3330" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3340" von="Herzberg (Elster)" nach="Melchow" />
-  <zug name="RE3 3346" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3348" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3350" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE3 3362" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 3304" von="Herzberg (Elster)" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+  </zug>
+  <zug name="RE3 3308" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3310" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3312" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3314" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3330" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3340" von="Herzberg (Elster)" nach="Melchow">
+    <via name="Berlin Hbf" />
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+  </zug>
+  <zug name="RE3 3346" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3348" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3350" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE3 3362" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
   <zug name="RE3 3363" von="Berlin Hbf" nach="Halle (Saale) Hbf">
     <via name="Dessau Hbf" />
     <via name="Holzdorf (Elster)" />
@@ -1711,7 +1847,11 @@
     <via name="Berga (Elster)" />
     <via name="Wünschendorf" />
   </zug>
-  <zug name="RE3 37208" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE3 37208" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
   <zug name="RE3 37215" von="Berlin Hbf" nach="Herzberg (Elster)">
     <via name="Holzdorf (Elster)" />
   </zug>
@@ -2022,19 +2162,31 @@
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster" />
+  <zug name="RE3 74012" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Hbf" />
+  </zug>
   <zug name="RE3 74013" von="Marktredwitz" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster" />
+  <zug name="RE3 74014" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Hbf" />
+  </zug>
   <zug name="RE3 74015" von="Marktredwitz" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
     <via name="Oelsnitz (Vogtl)" />
   </zug>
-  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster" />
+  <zug name="RE3 74016" von="Dresden-Plauen" nach="Bad Elster">
+    <via name="Bayreuth Hbf" />
+    <via name="Zwickau (Sachs) Hbf ia" />
+    <via name="Chemnitz Hbf" />
+  </zug>
   <zug name="RE3 74017" von="Muldenhütten" nach="Zwickau Stadthalle">
     <via name="Hof Hbf" />
     <via name="Adorf (Vogtl)" />
@@ -2113,24 +2265,84 @@
   <zug name="RE4 3144" von="Stendal Hbf" nach="Herzberg (Elster)">
     <via name="Holzdorf (Elster)" />
   </zug>
-  <zug name="RE4 3147" von="Herzberg (Elster)" nach="Stendal Hbf" />
-  <zug name="RE4 3151" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3153" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3155" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3157" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3167" von="Herzberg (Elster)" nach="Stendal Hbf" />
-  <zug name="RE4 3173" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3175" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3177" von="Herzberg (Elster)" nach="Birkengrund" />
-  <zug name="RE4 3187" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
-  <zug name="RE4 3189" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3147" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Berlin Hbf" />
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+  </zug>
+  <zug name="RE4 3151" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3153" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3155" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3157" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3167" von="Herzberg (Elster)" nach="Stendal Hbf">
+    <via name="Berlin Hbf" />
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+  </zug>
+  <zug name="RE4 3173" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3175" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3177" von="Herzberg (Elster)" nach="Birkengrund">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3187" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3189" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
   <zug name="RE4 3190" von="Berlin Hbf" nach="Herzberg (Elster)">
     <via name="Holzdorf (Elster)" />
   </zug>
-  <zug name="RE4 3191" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
-  <zug name="RE4 3306" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
-  <zug name="RE4 3342" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
-  <zug name="RE4 3344" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz" />
+  <zug name="RE4 3191" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3306" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3342" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
+  <zug name="RE4 3344" von="Herzberg (Elster)" nach="Berlin Potsdamer Platz">
+    <via name="Holzdorf (Elster)" />
+    <via name="Linda (Elster)" />
+    <via name="Zellendorf" />
+  </zug>
   <zug name="RE4 3365" von="Berlin Hbf" nach="Herzberg (Elster)">
     <via name="Holzdorf (Elster)" />
   </zug>

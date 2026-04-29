@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zza station="Warnemünde">
-  <zug name="RB50 33401" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RB50 33403" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RB50 33405" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RB50 4833" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RE5 33583" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RE5 4353" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RE5 4355" von="Warnemünde" nach="Lüssow (Meckl)" />
-  <zug name="RE5 4831" von="Warnemünde" nach="Lüssow (Meckl)" />
+  <zug name="RB50 33401" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RB50 33403" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RB50 33405" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RB50 4833" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RE5 33583" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RE5 4353" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RE5 4355" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
+  <zug name="RE5 4831" von="Warnemünde" nach="Lüssow (Meckl)">
+    <via name="Rostock Hbf" />
+    <via name="Papendorf" />
+    <via name="Pölchow" />
+  </zug>
 </zza>
