@@ -1,0 +1,19 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "description": "Sicherheits-Scan: osvVulnerabilityAlerts prüft alle Abhängigkeiten gegen die OSV-Datenbank – funktioniert auch ohne eingeschaltete Dependabot-Alerts. vulnerabilityAlerts nutzt zusätzlich die GitHub-Advisories, sobald Dependabot-Alerts im Repo an sind. Sicherheits-PRs kommen sofort (schedule: at any time), nicht im Wochenrhythmus. Bewusst keine Gruppierung und keine PR-Limits: ein PR pro Update.",
+  "osvVulnerabilityAlerts": true,
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "schedule": [
+      "at any time"
+    ],
+    "labels": [
+      "security"
+    ]
+  },
+  "prConcurrentLimit": 0,
+  "prHourlyLimit": 0
+}
